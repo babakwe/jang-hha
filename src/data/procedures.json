@@ -1,0 +1,2005 @@
+[
+ {
+  "id": "p01",
+  "number": "XII-1",
+  "required": true,
+  "title": {
+   "en": "Proper Handwashing",
+   "fr": "Lavage correct des mains"
+  },
+  "module": "XII",
+  "icon": "hands",
+  "steps": [
+   {
+    "en": "Gather equipment: soap and paper towels (a clean towel if no paper towels).",
+    "fr": "Préparez le matériel : savon et serviettes en papier (une serviette propre s'il n'y en a pas)."
+   },
+   {
+    "en": "Roll up sleeves and remove watch and jewelry.",
+    "fr": "Retroussez vos manches et retirez montre et bijoux."
+   },
+   {
+    "en": "Wet hands under warm, running water.",
+    "fr": "Mouillez vos mains sous l'eau courante tiède."
+   },
+   {
+    "en": "Apply a generous amount of soap and lather hands well.",
+    "fr": "Mettez une bonne quantité de savon et faites bien mousser."
+   },
+   {
+    "en": "Wash the entire surface of the hands: between the fingers, around and under the fingernails, up to above the wrist (current CDC guidelines).",
+    "fr": "Lavez toute la surface des mains : entre les doigts, autour et sous les ongles, jusqu'au-dessus du poignet (recommandations CDC en vigueur)."
+   },
+   {
+    "en": "Rinse thoroughly under warm running water, keeping hands LOWER than the wrists.",
+    "fr": "Rincez bien sous l'eau courante tiède, les mains PLUS BASSES que les poignets."
+   },
+   {
+    "en": "Dry hands with a clean cloth or paper towel.",
+    "fr": "Séchez vos mains avec une serviette propre ou en papier."
+   },
+   {
+    "en": "Turn off the tap with the paper towel.",
+    "fr": "Fermez le robinet avec la serviette en papier."
+   }
+  ],
+  "alt": {
+   "title": {
+    "en": "Alcohol-based hand cleaner (no running water, hands not visibly soiled)",
+    "fr": "Solution hydro-alcoolique (pas d'eau courante, mains non visiblement sales)"
+   },
+   "steps": [
+    {
+     "en": "Apply the product to one hand (amount per product instructions).",
+     "fr": "Appliquez le produit dans une main (quantité selon la notice)."
+    },
+    {
+     "en": "Rub hands together, covering all surfaces of hands and fingers, until dry.",
+     "fr": "Frottez les mains ensemble, sur toutes les surfaces des mains et des doigts, jusqu'à ce qu'elles soient sèches."
+    }
+   ]
+  }
+ },
+ {
+  "id": "p02",
+  "number": "XII-2",
+  "required": false,
+  "title": {
+   "en": "Proper Body Mechanics",
+   "fr": "Bonne mécanique corporelle"
+  },
+  "module": "XII",
+  "icon": "back",
+  "steps": [
+   {
+    "en": "Use a firm, wide base of support.",
+    "fr": "Prenez une base d'appui ferme et large."
+   },
+   {
+    "en": "Keep your back straight.",
+    "fr": "Gardez le dos droit."
+   },
+   {
+    "en": "Face the direction of movement.",
+    "fr": "Faites face à la direction du mouvement."
+   },
+   {
+    "en": "Place one foot ahead of the other.",
+    "fr": "Placez un pied devant l'autre."
+   },
+   {
+    "en": "Keep the object being lifted close to your body.",
+    "fr": "Gardez la charge soulevée près de votre corps."
+   },
+   {
+    "en": "Use the weight of your body when pushing or pulling.",
+    "fr": "Utilisez le poids de votre corps pour pousser ou tirer."
+   },
+   {
+    "en": "Bend at the knees and hips, not the waist.",
+    "fr": "Pliez les genoux et les hanches, pas la taille."
+   },
+   {
+    "en": "Turn with your feet; do not twist at the waist.",
+    "fr": "Tournez avec les pieds ; ne faites pas de torsion de la taille."
+   }
+  ]
+ },
+ {
+  "id": "p03",
+  "number": "XII-3",
+  "required": false,
+  "title": {
+   "en": "Tub or Shower Bath",
+   "fr": "Bain ou douche"
+  },
+  "module": "XII",
+  "icon": "shower",
+  "steps": [
+   {
+    "en": "Explain the procedure to the client.",
+    "fr": "Expliquez la procédure au client."
+   },
+   {
+    "en": "Wash your hands and assemble equipment.",
+    "fr": "Lavez-vous les mains et préparez le matériel."
+   },
+   {
+    "en": "Make sure the bathroom is warm.",
+    "fr": "Assurez-vous que la salle de bain est chaude."
+   },
+   {
+    "en": "Remove loose rugs from the floor if necessary.",
+    "fr": "Enlevez les tapis mobiles du sol si nécessaire."
+   },
+   {
+    "en": "Check for safety devices; place rubber mats and chairs appropriately.",
+    "fr": "Vérifiez les dispositifs de sécurité ; placez tapis antidérapants et chaises."
+   },
+   {
+    "en": "Test the water temperature.",
+    "fr": "Testez la température de l'eau."
+   },
+   {
+    "en": "Wash hands again and put on gloves as necessary.",
+    "fr": "Relavez-vous les mains et mettez des gants si nécessaire."
+   },
+   {
+    "en": "Help the client into the tub or shower safely.",
+    "fr": "Aidez le client à entrer dans la baignoire ou la douche en sécurité."
+   },
+   {
+    "en": "Help the client wash and shampoo hair if necessary.",
+    "fr": "Aidez le client à se laver et faites le shampoing si nécessaire."
+   },
+   {
+    "en": "Help with drying, then help the client out of the tub or shower.",
+    "fr": "Aidez à sécher, puis aidez le client à sortir."
+   },
+   {
+    "en": "Drain and clean the tub or shower area.",
+    "fr": "Videz et nettoyez la baignoire ou la douche."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report any changes in condition or behavior.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez tout changement d'état ou de comportement."
+   }
+  ]
+ },
+ {
+  "id": "p04",
+  "number": "XII-4",
+  "required": false,
+  "title": {
+   "en": "Turning the Client in Bed",
+   "fr": "Tourner le client dans le lit"
+  },
+  "module": "XII",
+  "icon": "bed",
+  "steps": [
+   {
+    "en": "Explain the procedure to the client. Wash your hands; gloves as necessary.",
+    "fr": "Expliquez la procédure au client. Lavez-vous les mains ; gants si nécessaire."
+   },
+   {
+    "en": "Move the client to the appropriate side of the bed.",
+    "fr": "Déplacez le client du bon côté du lit."
+   },
+   {
+    "en": "Place the client's arms correctly (across the chest).",
+    "fr": "Placez correctement les bras du client (croisés sur la poitrine)."
+   },
+   {
+    "en": "Place and support the legs correctly (far leg crossed over the near one).",
+    "fr": "Placez et soutenez correctement les jambes (jambe éloignée croisée sur l'autre)."
+   },
+   {
+    "en": "Roll the client toward you from the opposite side of the bed, keeping the client safe.",
+    "fr": "Faites rouler le client vers vous depuis le côté opposé du lit, en assurant sa sécurité."
+   },
+   {
+    "en": "Adjust the pillow under the head.",
+    "fr": "Ajustez l'oreiller sous la tête."
+   },
+   {
+    "en": "Make sure the client is comfortable.",
+    "fr": "Assurez-vous que le client est confortable."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p05",
+  "number": "XII-5",
+  "required": true,
+  "title": {
+   "en": "Bed Bath",
+   "fr": "Toilette au lit"
+  },
+  "module": "XII",
+  "icon": "bath",
+  "steps": [
+   {
+    "en": "Explain the procedure to the client. Wash your hands and assemble equipment.",
+    "fr": "Expliquez la procédure au client. Lavez-vous les mains et préparez le matériel."
+   },
+   {
+    "en": "Provide privacy and warmth. Put on gloves as necessary.",
+    "fr": "Assurez l'intimité et la chaleur. Mettez des gants si nécessaire."
+   },
+   {
+    "en": "Prepare the bedding, protecting the bed with towels.",
+    "fr": "Préparez la literie en protégeant le lit avec des serviettes."
+   },
+   {
+    "en": "Test the water temperature.",
+    "fr": "Testez la température de l'eau."
+   },
+   {
+    "en": "Form a mitt with the washcloth.",
+    "fr": "Formez un gant avec le gant de toilette."
+   },
+   {
+    "en": "Wash and dry from head to toe, cleanest to least clean, one part at a time.",
+    "fr": "Lavez et séchez de la tête aux pieds, du plus propre au moins propre, une partie à la fois."
+   },
+   {
+    "en": "Keep exposure to a minimum.",
+    "fr": "Découvrez le moins possible le client."
+   },
+   {
+    "en": "Soak and dry hands and feet.",
+    "fr": "Trempez et séchez les mains et les pieds."
+   },
+   {
+    "en": "Let the client participate as much as possible. Change the water when needed.",
+    "fr": "Laissez le client participer autant que possible. Changez l'eau si besoin."
+   },
+   {
+    "en": "Wash the genitals and buttocks LAST.",
+    "fr": "Lavez les parties génitales et les fesses EN DERNIER."
+   },
+   {
+    "en": "Apply lotion if ordered. Help with dressing and let the client rest.",
+    "fr": "Appliquez une lotion si prescrit. Aidez à l'habillage et laissez le client se reposer."
+   },
+   {
+    "en": "Clean the area and equipment. Wash your hands. Observe, record and report.",
+    "fr": "Nettoyez la zone et le matériel. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p06",
+  "number": "XII-6",
+  "required": false,
+  "title": {
+   "en": "Shampoo in Bed",
+   "fr": "Shampoing au lit"
+  },
+  "module": "XII",
+  "icon": "hair",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment and ask the client which products to use (to prevent allergies or reactions).",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel et demandez au client quels produits utiliser (pour éviter allergies ou réactions)."
+   },
+   {
+    "en": "Make a trough (a hollowed-out channel) so water can flow and the bed stays dry.",
+    "fr": "Faites une gouttière (un creux) pour que l'eau s'écoule et que le lit reste sec."
+   },
+   {
+    "en": "Check the room temperature. Place a towel and the trough appropriately.",
+    "fr": "Vérifiez la température de la pièce. Placez une serviette et la gouttière."
+   },
+   {
+    "en": "Put on gloves.",
+    "fr": "Mettez des gants."
+   },
+   {
+    "en": "Wet the hair and work up a good lather from front to back. Protect the eyes and ears.",
+    "fr": "Mouillez les cheveux et faites bien mousser d'avant en arrière. Protégez les yeux et les oreilles."
+   },
+   {
+    "en": "Rinse thoroughly and dry the hair.",
+    "fr": "Rincez bien et séchez les cheveux."
+   },
+   {
+    "en": "Clean the area and equipment. Wash your hands. Observe, record and report.",
+    "fr": "Nettoyez la zone et le matériel. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p07",
+  "number": "XII-7",
+  "required": false,
+  "title": {
+   "en": "Back Rub",
+   "fr": "Massage du dos"
+  },
+  "module": "XII",
+  "icon": "back",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel."
+   },
+   {
+    "en": "Remove the client's clothing from the back and position the client on the stomach or side.",
+    "fr": "Dégagez le dos du client et installez-le sur le ventre ou sur le côté."
+   },
+   {
+    "en": "Position yourself with good body mechanics.",
+    "fr": "Placez-vous avec une bonne mécanique corporelle."
+   },
+   {
+    "en": "Warm the lotion before applying it; lubricate your hands.",
+    "fr": "Réchauffez la lotion avant de l'appliquer ; lubrifiez vos mains."
+   },
+   {
+    "en": "Rub the back with appropriate pressure, rhythmically and in the correct direction (long strokes up the spine, circles down the sides).",
+    "fr": "Massez le dos avec une pression adaptée, en rythme et dans le bon sens (longs mouvements vers le haut le long de la colonne, cercles en redescendant sur les côtés)."
+   },
+   {
+    "en": "Observe and massage around bony or reddened areas. Report reddened or open areas.",
+    "fr": "Observez et massez autour des zones osseuses ou rouges. Signalez toute zone rouge ou ouverte."
+   },
+   {
+    "en": "Time the back rub according to the client's wishes. Remove excess lotion.",
+    "fr": "Adaptez la durée aux souhaits du client. Essuyez l'excès de lotion."
+   },
+   {
+    "en": "Help the client dress. Return equipment. Wash your hands. Observe, record and report.",
+    "fr": "Aidez le client à se rhabiller. Rangez le matériel. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p08",
+  "number": "XII-8",
+  "required": false,
+  "title": {
+   "en": "Nail Care (hands and feet)",
+   "fr": "Soins des ongles (mains et pieds)"
+  },
+  "module": "XII",
+  "icon": "hand",
+  "warning": {
+   "en": "Do NOT cut or trim nails. Nails may only be filed. Discuss the care plan with the RN.",
+   "fr": "NE coupez PAS et ne taillez pas les ongles. On peut seulement les limer. Discutez du plan de soins avec l'infirmière."
+  },
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "FINGERNAILS: soak the client's hands in tepid water, then dry carefully.",
+    "fr": "ONGLES DES MAINS : trempez les mains du client dans de l'eau tiède, puis séchez soigneusement."
+   },
+   {
+    "en": "Push the cuticles back and clean under the nails.",
+    "fr": "Repoussez les cuticules et nettoyez sous les ongles."
+   },
+   {
+    "en": "File the nails if necessary. Massage the hands with lotion. Observe for irritation.",
+    "fr": "Limez les ongles si nécessaire. Massez les mains avec une lotion. Observez toute irritation."
+   },
+   {
+    "en": "TOENAILS: observe the client's feet. Soak the feet first if only foot care is being given (check the care plan).",
+    "fr": "ONGLES DES PIEDS : observez les pieds du client. Trempez d'abord les pieds si seuls les soins des pieds sont donnés (vérifiez le plan de soins)."
+   },
+   {
+    "en": "Clean under the nails and smooth them with an emery board.",
+    "fr": "Nettoyez sous les ongles et lissez-les avec une lime en carton."
+   },
+   {
+    "en": "Wash your hands. Report pain, redness, open areas, dry scaly skin or cracked nails.",
+    "fr": "Lavez-vous les mains. Signalez douleur, rougeur, plaies, peau sèche et squameuse ou ongles fendus."
+   }
+  ]
+ },
+ {
+  "id": "p09",
+  "number": "XII-9",
+  "required": false,
+  "title": {
+   "en": "Shaving the Client",
+   "fr": "Raser le client"
+  },
+  "module": "XII",
+  "icon": "razor",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants."
+   },
+   {
+    "en": "Place a towel under the client's chin.",
+    "fr": "Placez une serviette sous le menton du client."
+   },
+   {
+    "en": "Wash the client's face and leave it wet. Rub shaving cream into the beard.",
+    "fr": "Lavez le visage du client et laissez-le humide. Appliquez la mousse à raser sur la barbe."
+   },
+   {
+    "en": "Pull the skin tight in the area to be shaved.",
+    "fr": "Tendez la peau de la zone à raser."
+   },
+   {
+    "en": "Shave with gentle, short strokes in the same direction. Rinse the razor often.",
+    "fr": "Rasez par petits gestes doux dans le même sens. Rincez souvent le rasoir."
+   },
+   {
+    "en": "Rinse the face and pat dry. Apply after-shave lotion if the client wishes.",
+    "fr": "Rincez le visage et séchez en tapotant. Appliquez de l'après-rasage si le client le souhaite."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report skin irritation, redness or scaling.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez irritation, rougeur ou desquamation."
+   }
+  ],
+  "alt": {
+   "title": {
+    "en": "Electric razor",
+    "fr": "Rasoir électrique"
+   },
+   "steps": [
+    {
+     "en": "Explain, wash hands, assemble equipment, gloves as necessary.",
+     "fr": "Expliquez, lavez-vous les mains, préparez le matériel, gants si nécessaire."
+    },
+    {
+     "en": "Wash the face with soap and water and dry it.",
+     "fr": "Lavez le visage à l'eau et au savon et séchez-le."
+    },
+    {
+     "en": "Shave with the electric razor. Apply after-shave if desired.",
+     "fr": "Rasez avec le rasoir électrique. Après-rasage si souhaité."
+    },
+    {
+     "en": "Wash hands. Report any irritation, redness or scaling.",
+     "fr": "Lavez-vous les mains. Signalez irritation, rougeur ou desquamation."
+    }
+   ]
+  }
+ },
+ {
+  "id": "p10",
+  "number": "XII-10",
+  "required": true,
+  "title": {
+   "en": "Mouth Hygiene and Care",
+   "fr": "Hygiène et soins de la bouche"
+  },
+  "module": "XII",
+  "icon": "tooth",
+  "steps": [
+   {
+    "en": "CLIENT WHO CAN BRUSH: explain, wash hands, assemble equipment, gloves as necessary.",
+    "fr": "CLIENT QUI PEUT SE BROSSER LES DENTS : expliquez, lavez-vous les mains, préparez le matériel, gants si nécessaire."
+   },
+   {
+    "en": "Provide rinse water and a tissue or towel for wiping; watch to ensure proper tooth care.",
+    "fr": "Donnez de l'eau pour rincer et un mouchoir ou une serviette ; vérifiez que le brossage est correct."
+   },
+   {
+    "en": "CLIENT WHO CANNOT BRUSH: place the client upright or on the side; towel under the head; basin at the side of the head.",
+    "fr": "CLIENT QUI NE PEUT PAS SE BROSSER LES DENTS : installez-le assis ou sur le côté ; serviette sous la tête ; cuvette à côté de la tête."
+   },
+   {
+    "en": "Brush the teeth gently with up-and-down circular strokes.",
+    "fr": "Brossez doucement les dents avec des mouvements circulaires de haut en bas."
+   },
+   {
+    "en": "Help the client rinse the mouth; make sure mouth and neck are dry.",
+    "fr": "Aidez le client à se rincer la bouche ; séchez la bouche et le cou."
+   },
+   {
+    "en": "Make the client comfortable. Clean and store supplies. Wash hands. Observe, record and report (sores, bleeding gums, loose teeth, white patches).",
+    "fr": "Installez le client confortablement. Nettoyez et rangez le matériel. Lavez-vous les mains. Observez, notez et signalez (plaies, gencives qui saignent, dents qui bougent, taches blanches)."
+   }
+  ],
+  "alt": {
+   "title": {
+    "en": "Denture care",
+    "fr": "Soins du dentier"
+   },
+   "steps": [
+    {
+     "en": "Receive the dentures from the client in a tissue, or break the suction and remove them with a tissue.",
+     "fr": "Recevez le dentier dans un mouchoir, ou rompez l'aspiration et retirez-le avec un mouchoir."
+    },
+    {
+     "en": "Place the dentures in a water-filled container and carry them to the sink.",
+     "fr": "Mettez le dentier dans un récipient rempli d'eau et portez-le au lavabo."
+    },
+    {
+     "en": "Cushion the sink with a washcloth and add water (so dentures won't break if dropped).",
+     "fr": "Tapissez le lavabo d'un gant de toilette et ajoutez de l'eau (pour que le dentier ne casse pas s'il tombe)."
+    },
+    {
+     "en": "Clean the dentures with toothbrush and toothpaste, then denture cleaner.",
+     "fr": "Nettoyez le dentier avec brosse et dentifrice, puis nettoyant pour dentier."
+    },
+    {
+     "en": "Help the client rinse the mouth. Apply denture cream or adhesive if needed.",
+     "fr": "Aidez le client à se rincer la bouche. Appliquez de la crème ou de l'adhésif si besoin."
+    },
+    {
+     "en": "Insert the dentures (top first) or store them in water without adhesive. Wipe the client's mouth. Wash hands. Observe, record and report.",
+     "fr": "Remettez le dentier (le haut d'abord) ou conservez-le dans l'eau sans adhésif. Essuyez la bouche du client. Lavez-vous les mains. Observez, notez et signalez."
+    }
+   ]
+  }
+ },
+ {
+  "id": "p11",
+  "number": "XII-11",
+  "required": false,
+  "title": {
+   "en": "Assisting with Eating",
+   "fr": "Aide au repas"
+  },
+  "module": "XII",
+  "icon": "meal",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Sit the client upright. Arrange food attractively on the plate.",
+    "fr": "Installez le client bien assis. Présentez joliment les aliments dans l'assiette."
+   },
+   {
+    "en": "Let the client choose which foods to eat.",
+    "fr": "Laissez le client choisir ce qu'il mange."
+   },
+   {
+    "en": "Encourage the client to do as much as they can; assist only when necessary.",
+    "fr": "Encouragez le client à faire le maximum ; aidez seulement si nécessaire."
+   },
+   {
+    "en": "Cut food into small pieces if the client cannot. Use forks and spoons gently.",
+    "fr": "Coupez les aliments en petits morceaux si le client ne peut pas. Utilisez fourchette et cuillère avec douceur."
+   },
+   {
+    "en": "Wipe the client's mouth as needed. Use straws or a training cup for liquids.",
+    "fr": "Essuyez la bouche du client si besoin. Utilisez une paille ou un gobelet adapté pour les liquides."
+   },
+   {
+    "en": "For a visually impaired client, explain where food is on the plate (clock method) and what is on the utensil.",
+    "fr": "Pour un client malvoyant, expliquez où sont les aliments dans l'assiette (méthode de l'horloge) et ce qu'il y a sur le couvert."
+   },
+   {
+    "en": "Feed to the STRONG side if there is facial weakness or one-sided paralysis.",
+    "fr": "Donnez à manger du côté FORT en cas de faiblesse du visage ou de paralysie d'un côté."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report (intake, choking, changes in appetite).",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez (quantité mangée, étouffement, changement d'appétit)."
+   }
+  ]
+ },
+ {
+  "id": "p12",
+  "number": "XII-12",
+  "required": false,
+  "title": {
+   "en": "Assisting with Dressing",
+   "fr": "Aide à l'habillage"
+  },
+  "module": "XII",
+  "icon": "shirt",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble clothes in the order they will be put on. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez les vêtements dans l'ordre où ils seront enfilés. Gants si nécessaire."
+   },
+   {
+    "en": "Let the client choose the clothing and do as much self-dressing as possible.",
+    "fr": "Laissez le client choisir ses vêtements et s'habiller seul autant que possible."
+   },
+   {
+    "en": "Assist when the client asks or shows fatigue, frustration or inability.",
+    "fr": "Aidez quand le client le demande ou montre de la fatigue, de la frustration ou une incapacité."
+   },
+   {
+    "en": "WEAK, PARALYZED OR FRAIL CLIENT: move the client to the center of the bed; remove night clothing; cover with a sheet.",
+    "fr": "CLIENT FAIBLE, PARALYSÉ OU FRAGILE : centrez le client dans le lit ; retirez les vêtements de nuit ; couvrez d'un drap."
+   },
+   {
+    "en": "Uncover the upper body first and assist with the shirt: WEAK side in first.",
+    "fr": "Découvrez d'abord le haut du corps et aidez pour la chemise : côté FAIBLE en premier."
+   },
+   {
+    "en": "Uncover the lower body; assist with underwear and remaining clothes, then socks and shoes.",
+    "fr": "Découvrez le bas du corps ; aidez pour les sous-vêtements et le reste, puis chaussettes et chaussures."
+   },
+   {
+    "en": "To undress, remove from the STRONG side first.",
+    "fr": "Pour déshabiller, retirez d'abord du côté FORT."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p13",
+  "number": "XII-13",
+  "required": false,
+  "title": {
+   "en": "Elastic Support Stockings",
+   "fr": "Bas de contention"
+  },
+  "module": "XII",
+  "icon": "leg",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "If the client has been up and around, have them lie down with legs elevated for 15 minutes first.",
+    "fr": "Si le client s'est levé, faites-le d'abord allonger jambes surélevées pendant 15 minutes."
+   },
+   {
+    "en": "Make sure the legs are clean and dry (light powder, or lotion if the skin is dry).",
+    "fr": "Assurez-vous que les jambes sont propres et sèches (un peu de talc, ou de la lotion si la peau est sèche)."
+   },
+   {
+    "en": "Put the stockings on as the care plan directs: smoothly, with no wrinkles.",
+    "fr": "Enfilez les bas comme l'indique le plan de soins : lisses, sans plis."
+   },
+   {
+    "en": "Make sure the heel of the foot is in the heel of the stocking. If there is no toe opening, pull the tip to relieve pressure.",
+    "fr": "Le talon du pied doit être dans le talon du bas. S'il n'y a pas d'ouverture aux orteils, tirez le bout pour soulager la pression."
+   },
+   {
+    "en": "Remove at least once a day or as the care plan directs; bathe and dry the skin, then reapply.",
+    "fr": "Retirez au moins une fois par jour ou selon le plan de soins ; lavez et séchez la peau, puis remettez."
+   },
+   {
+    "en": "Wash your hands. Record use and observe and report changes in skin color or temperature, swelling, sores or complaints.",
+    "fr": "Lavez-vous les mains. Notez l'utilisation et observez et signalez changements de couleur ou de température de la peau, gonflement, plaies ou plaintes."
+   }
+  ]
+ },
+ {
+  "id": "p14",
+  "number": "XII-14",
+  "required": true,
+  "title": {
+   "en": "Helping the Client to Walk",
+   "fr": "Aider le client à marcher"
+  },
+  "module": "XII",
+  "icon": "walk",
+  "steps": [
+   {
+    "en": "Explain the procedure and reassure the client.",
+    "fr": "Expliquez la procédure et rassurez le client."
+   },
+   {
+    "en": "Advise the client on which shoes to wear (closed, non-slip).",
+    "fr": "Conseillez le client sur les chaussures à porter (fermées, antidérapantes)."
+   },
+   {
+    "en": "Help the client practice standing and shifting weight.",
+    "fr": "Aidez le client à s'entraîner à se tenir debout et à déplacer son poids."
+   },
+   {
+    "en": "Walk slowly, taking small steps.",
+    "fr": "Marchez lentement, à petits pas."
+   },
+   {
+    "en": "Walk on the client's WEAK side using correct positioning (gait belt if in the care plan).",
+    "fr": "Marchez du côté FAIBLE du client avec le bon positionnement (ceinture de marche si prévue au plan de soins)."
+   },
+   {
+    "en": "Walk short distances.",
+    "fr": "Marchez sur de courtes distances."
+   },
+   {
+    "en": "Observe, record and report any changes in condition or behavior (dizziness, pain, fatigue).",
+    "fr": "Observez, notez et signalez tout changement d'état ou de comportement (vertiges, douleur, fatigue)."
+   }
+  ]
+ },
+ {
+  "id": "p15",
+  "number": "XII-15",
+  "required": false,
+  "title": {
+   "en": "Making an Unoccupied Bed",
+   "fr": "Faire un lit inoccupé"
+  },
+  "module": "XII",
+  "icon": "bed",
+  "steps": [
+   {
+    "en": "Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Remove and fold bedding to be re-used. Smooth the mattress pad.",
+    "fr": "Retirez et pliez le linge à réutiliser. Lissez l'alèse."
+   },
+   {
+    "en": "Place the bottom sheet in position; tuck in the top, miter the corner, tuck in the side.",
+    "fr": "Placez le drap de dessous ; bordez le haut, faites le coin en portefeuille, bordez le côté."
+   },
+   {
+    "en": "Position the top covers; tuck in at the bottom and miter the corner.",
+    "fr": "Placez les couvertures ; bordez le bas et faites le coin."
+   },
+   {
+    "en": "Go to the opposite side and repeat, pulling and smoothing the sheets.",
+    "fr": "Passez de l'autre côté et répétez en tirant et en lissant les draps."
+   },
+   {
+    "en": "Add the spread and tuck it in at the bottom.",
+    "fr": "Ajoutez le couvre-lit et bordez-le en bas."
+   },
+   {
+    "en": "Turn the soiled pillowcase inside out to remove it.",
+    "fr": "Retournez la taie sale pour l'enlever."
+   },
+   {
+    "en": "Open the clean pillowcase; grasp it at the center of the bottom seam and fold it over your hand; grasp the pillow end through the case and pull the case over the pillow.",
+    "fr": "Ouvrez la taie propre ; saisissez-la au centre de la couture du fond et retournez-la sur votre main ; saisissez le bout de l'oreiller à travers la taie et tirez la taie par-dessus l'oreiller."
+   },
+   {
+    "en": "Remove soiled linen. Wash your hands.",
+    "fr": "Retirez le linge sale. Lavez-vous les mains."
+   }
+  ]
+ },
+ {
+  "id": "p16",
+  "number": "XII-16",
+  "required": true,
+  "title": {
+   "en": "Making an Occupied Bed",
+   "fr": "Faire un lit occupé"
+  },
+  "module": "XII",
+  "icon": "bed",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Remove and fold the bedspread. Loosen bedding on one side and the top sheet at the foot.",
+    "fr": "Retirez et pliez le couvre-lit. Détachez le linge d'un côté et le drap de dessus au pied."
+   },
+   {
+    "en": "Slide the top sheet out from under the blanket, leaving the blanket on the client.",
+    "fr": "Retirez le drap de dessus de sous la couverture, en laissant la couverture sur le client."
+   },
+   {
+    "en": "Remove all pillows except one under the client's head. Turn the client onto the side.",
+    "fr": "Retirez tous les oreillers sauf un sous la tête. Tournez le client sur le côté."
+   },
+   {
+    "en": "Fold or roll the soiled bottom sheet up to and under the client's head, back and legs. Smooth the mattress.",
+    "fr": "Pliez ou roulez le drap de dessous sale jusque sous la tête, le dos et les jambes du client. Lissez le matelas."
+   },
+   {
+    "en": "Position the clean bottom sheet; fold it next to and under the soiled sheet. Tuck in at the head, miter the corner, tuck along the side.",
+    "fr": "Placez le drap propre ; pliez-le contre et sous le drap sale. Bordez à la tête, faites le coin, bordez le côté."
+   },
+   {
+    "en": "Position the draw sheet, fold it under the soiled sheet and tuck in along the side.",
+    "fr": "Placez l'alèse de glissement, pliez-la sous le drap sale et bordez le côté."
+   },
+   {
+    "en": "Turn the client to the clean side. Go to the opposite side; loosen and remove the soiled bedding and place it appropriately.",
+    "fr": "Tournez le client du côté propre. Passez de l'autre côté ; détachez et retirez le linge sale et placez-le au bon endroit."
+   },
+   {
+    "en": "Smooth the mattress pad; pull the clean linen through and straighten; tuck in at head, corner and sides.",
+    "fr": "Lissez l'alèse ; tirez le linge propre et tendez-le ; bordez à la tête, au coin et sur les côtés."
+   },
+   {
+    "en": "Change the pillowcases. Remove soiled linen. Wash your hands. Observe, record and report.",
+    "fr": "Changez les taies. Retirez le linge sale. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p17",
+  "number": "XII-17",
+  "required": true,
+  "title": {
+   "en": "Use of a Bedpan",
+   "fr": "Utilisation du bassin de lit"
+  },
+  "module": "XII",
+  "icon": "toilet",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Warm and powder the bedpan. Place a protector pad near the client's hips.",
+    "fr": "Réchauffez et talquez le bassin. Placez une alèse près des hanches du client."
+   },
+   {
+    "en": "Place the bedpan on the bed near the hips. Maintain privacy.",
+    "fr": "Posez le bassin sur le lit près des hanches. Préservez l'intimité."
+   },
+   {
+    "en": "Help the client lift the hips, or roll the client if they cannot lift. Place the bedpan under the hips.",
+    "fr": "Aidez le client à soulever les hanches, ou tournez-le s'il ne peut pas. Placez le bassin sous les hanches."
+   },
+   {
+    "en": "Help the client sit up if possible. Provide toilet paper and the call signal.",
+    "fr": "Aidez le client à s'asseoir si possible. Donnez du papier toilette et la sonnette."
+   },
+   {
+    "en": "Help with wiping (verbally or manually) if necessary.",
+    "fr": "Aidez à s'essuyer (en expliquant ou en le faisant) si nécessaire."
+   },
+   {
+    "en": "Help the client raise the hips; remove the bedpan carefully. Help the client wash hands. Adjust the covers.",
+    "fr": "Aidez le client à soulever les hanches ; retirez le bassin avec précaution. Aidez le client à se laver les mains. Remettez les couvertures."
+   },
+   {
+    "en": "Take the bedpan to the bathroom. Observe, measure (if indicated) and dispose of the contents. Clean the bedpan.",
+    "fr": "Portez le bassin aux toilettes. Observez, mesurez (si demandé) et jetez le contenu. Nettoyez le bassin."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p18",
+  "number": "XII-18",
+  "required": false,
+  "title": {
+   "en": "Use of a Urinal",
+   "fr": "Utilisation de l'urinal"
+  },
+  "module": "XII",
+  "icon": "toilet",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary. Maintain privacy.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire. Préservez l'intimité."
+   },
+   {
+    "en": "Place a bed protector under the client's hips.",
+    "fr": "Placez une alèse sous les hanches du client."
+   },
+   {
+    "en": "Give the client the urinal, or place it to collect the urine.",
+    "fr": "Donnez l'urinal au client, ou placez-le pour recueillir l'urine."
+   },
+   {
+    "en": "Provide toilet paper and the signal bell. Help with handwashing as necessary.",
+    "fr": "Donnez du papier toilette et la sonnette. Aidez au lavage des mains si nécessaire."
+   },
+   {
+    "en": "Empty and clean the urinal.",
+    "fr": "Videz et nettoyez l'urinal."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p19",
+  "number": "XII-19",
+  "required": false,
+  "title": {
+   "en": "Assisting with the Condom Catheter",
+   "fr": "Aide à la pose de l'étui pénien"
+  },
+  "module": "XII",
+  "icon": "catheter",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves. Maintain privacy.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants. Préservez l'intimité."
+   },
+   {
+    "en": "Expose only the genital area.",
+    "fr": "Découvrez seulement la zone génitale."
+   },
+   {
+    "en": "Wash and dry the penis carefully. Observe the skin for sores.",
+    "fr": "Lavez et séchez soigneusement le pénis. Observez la peau (plaies)."
+   },
+   {
+    "en": "Attach the condom to the tubing if necessary.",
+    "fr": "Raccordez l'étui à la tubulure si nécessaire."
+   },
+   {
+    "en": "Roll the condom catheter onto the penis as directed by the care plan or the supervising nurse.",
+    "fr": "Déroulez l'étui pénien sur le pénis comme indiqué par le plan de soins ou l'infirmière superviseure."
+   },
+   {
+    "en": "Check that the tubing is 1 to 2 inches (2.5 to 5 cm) below the tip of the penis and that the tip of the condom is not twisted.",
+    "fr": "Vérifiez que la tubulure est à 2,5 à 5 cm sous l'extrémité du pénis et que le bout de l'étui n'est pas tordu."
+   },
+   {
+    "en": "Wash your hands. Record the application; report any sores or raw areas.",
+    "fr": "Lavez-vous les mains. Notez la pose ; signalez toute plaie ou zone à vif."
+   }
+  ]
+ },
+ {
+  "id": "p20",
+  "number": "XII-20",
+  "required": false,
+  "title": {
+   "en": "Cleaning the Skin and Catheter Tubing",
+   "fr": "Nettoyage de la peau et de la tubulure de sonde"
+  },
+  "module": "XII",
+  "icon": "catheter",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves. Maintain privacy.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants. Préservez l'intimité."
+   },
+   {
+    "en": "Place the client on the back so the catheter and urinary opening are exposed. Put a towel or bed protector under the client.",
+    "fr": "Installez le client sur le dos pour exposer la sonde et le méat urinaire. Placez une serviette ou une alèse sous le client."
+   },
+   {
+    "en": "Wash the genital area gently with soap and water. Do NOT pull on the catheter: hold it with one hand while wiping with the other. Push back the foreskin of an uncircumcised male before cleaning.",
+    "fr": "Lavez doucement la zone génitale à l'eau et au savon. NE tirez PAS sur la sonde : tenez-la d'une main en essuyant de l'autre. Décalottez un homme non circoncis avant de nettoyer."
+   },
+   {
+    "en": "Observe around the catheter for sores, crusting, leakage or bleeding. Dry the area.",
+    "fr": "Observez autour de la sonde : plaies, croûtes, fuites ou saignement. Séchez la zone."
+   },
+   {
+    "en": "Clean the catheter tubing as the care plan directs, starting with the part nearest the client.",
+    "fr": "Nettoyez la tubulure selon le plan de soins, en partant du côté le plus proche du client."
+   },
+   {
+    "en": "Position the client so the catheter and tubing do not pull and have no kinks. Tape the tubing as directed in the care plan.",
+    "fr": "Installez le client de façon que la sonde et la tubulure ne tirent pas et ne soient pas pliées. Fixez la tubulure comme indiqué dans le plan de soins."
+   },
+   {
+    "en": "Dispose of dirty water in the toilet; discard disposables; remove the protector; clean and store re-usable equipment.",
+    "fr": "Jetez l'eau sale dans les toilettes ; jetez le jetable ; retirez l'alèse ; nettoyez et rangez le matériel réutilisable."
+   },
+   {
+    "en": "Wash your hands. Record the time catheter care was done. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Notez l'heure des soins de sonde. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p21",
+  "number": "XII-21",
+  "required": false,
+  "title": {
+   "en": "Emptying the Urinary Drainage Bag",
+   "fr": "Vidange du sac collecteur d'urine"
+  },
+  "module": "XII",
+  "icon": "catheter",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants."
+   },
+   {
+    "en": "Put the measuring pitcher below the drainage bag. Check whether the tubing is clear or has particles.",
+    "fr": "Placez le pichet gradué sous le sac. Vérifiez si la tubulure est claire ou contient des particules."
+   },
+   {
+    "en": "Take the drainage tube out of its holder; unclamp and open it WITHOUT touching the end of the tube.",
+    "fr": "Sortez le tube de vidange de son support ; déclampez et ouvrez-le SANS toucher son extrémité."
+   },
+   {
+    "en": "Drain the urine into the container. Clean the end of the tube as the care plan directs.",
+    "fr": "Videz l'urine dans le récipient. Nettoyez l'extrémité du tube selon le plan de soins."
+   },
+   {
+    "en": "Clamp the tube and put it back in its holder without touching the end.",
+    "fr": "Clampez le tube et remettez-le dans son support sans toucher l'extrémité."
+   },
+   {
+    "en": "Measure the amount if the care plan directs. Observe color, odor, mucus or blood, and the condition of the bag.",
+    "fr": "Mesurez la quantité si le plan de soins le demande. Observez couleur, odeur, mucus ou sang, et l'état du sac."
+   },
+   {
+    "en": "Empty the urine into the toilet. Rinse the pitcher with cool water, clean with soap and brush, store it.",
+    "fr": "Jetez l'urine dans les toilettes. Rincez le pichet à l'eau froide, nettoyez au savon et à la brosse, rangez-le."
+   },
+   {
+    "en": "Wash your hands. Record the amount and observations. REPORT cloudy, strong-smelling or bloody urine, or little/no urine when the bag was due to be drained.",
+    "fr": "Lavez-vous les mains. Notez la quantité et les observations. SIGNALEZ une urine trouble, malodorante ou sanglante, ou très peu/pas d'urine au moment prévu."
+   }
+  ]
+ },
+ {
+  "id": "p22",
+  "number": "XII-22",
+  "required": false,
+  "title": {
+   "en": "Positioning the Client in Bed",
+   "fr": "Installer le client dans le lit"
+  },
+  "module": "XII",
+  "icon": "bed",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble pillows and folded towels. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez oreillers et serviettes pliées. Gants si nécessaire."
+   },
+   {
+    "en": "ON THE BACK (supine): center the client safely; turn onto the back; align the body.",
+    "fr": "SUR LE DOS : centrez le client en sécurité ; tournez-le sur le dos ; alignez le corps."
+   },
+   {
+    "en": "Place pillows or folded towels under the head, under the small of the back and alongside the hips. Position the arms; support and cover the feet.",
+    "fr": "Placez oreillers ou serviettes pliées sous la tête, sous le creux du dos et le long des hanches. Positionnez les bras ; soutenez et couvrez les pieds."
+   },
+   {
+    "en": "ON THE SIDE (lateral): center the client; turn onto the side; align the body.",
+    "fr": "SUR LE CÔTÉ : centrez le client ; tournez-le sur le côté ; alignez le corps."
+   },
+   {
+    "en": "Place pillows under the head and neck, at the back, under the top leg and foot, and under the top arm. Position hips, legs, shoulders and arms.",
+    "fr": "Placez des oreillers sous la tête et le cou, dans le dos, sous la jambe et le pied du dessus, et sous le bras du dessus. Positionnez hanches, jambes, épaules et bras."
+   },
+   {
+    "en": "ON THE ABDOMEN (prone): move the client to the side of the bed; turn onto the abdomen; turn the head to the side on a pillow; place the arms; support the lower legs and feet.",
+    "fr": "SUR LE VENTRE : amenez le client au bord du lit ; tournez-le sur le ventre ; tournez la tête sur le côté sur un oreiller ; placez les bras ; soutenez les jambes et les pieds."
+   },
+   {
+    "en": "Cover the client, make them comfortable and safe. Wash your hands. Observe, record and report.",
+    "fr": "Couvrez le client, installez-le confortablement et en sécurité. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p23",
+  "number": "XII-23",
+  "required": false,
+  "title": {
+   "en": "Transfer to the Sitting Position in Bed",
+   "fr": "Passage à la position assise dans le lit"
+  },
+  "module": "XII",
+  "icon": "sit",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+   },
+   {
+    "en": "Face the head of the bed with your outer foot forward.",
+    "fr": "Faites face à la tête du lit, pied extérieur en avant."
+   },
+   {
+    "en": "Raise the head of the bed, or lock arms with the client.",
+    "fr": "Relevez la tête du lit, ou croisez les bras avec le client."
+   },
+   {
+    "en": "Have the client bend the knees.",
+    "fr": "Faites plier les genoux au client."
+   },
+   {
+    "en": "Pull the client to a sitting position by rocking your weight back.",
+    "fr": "Amenez le client en position assise en basculant votre poids vers l'arrière."
+   },
+   {
+    "en": "Place pillows behind the head.",
+    "fr": "Placez des oreillers derrière la tête."
+   },
+   {
+    "en": "Check the client for dizziness or weakness before continuing.",
+    "fr": "Vérifiez si le client a des vertiges ou se sent faible avant de continuer."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p24",
+  "number": "XII-24",
+  "required": false,
+  "title": {
+   "en": "Helping the Client Sit at the Side of the Bed",
+   "fr": "Aider le client à s'asseoir au bord du lit"
+  },
+  "module": "XII",
+  "icon": "sit",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+   },
+   {
+    "en": "Roll the client onto the side facing you. Bend the client's knees.",
+    "fr": "Tournez le client sur le côté, face à vous. Pliez ses genoux."
+   },
+   {
+    "en": "Reach one arm over to hold behind the knees; place the other arm under the neck and shoulders.",
+    "fr": "Passez un bras pour tenir derrière les genoux ; placez l'autre bras sous le cou et les épaules."
+   },
+   {
+    "en": "Position your feet with a wide base of support.",
+    "fr": "Placez vos pieds avec une base d'appui large."
+   },
+   {
+    "en": "On the count of three, shift your weight to your back leg while swinging the client's legs over the edge of the bed and pulling the shoulders up to sitting.",
+    "fr": "À « trois », basculez votre poids sur la jambe arrière en faisant pivoter les jambes du client hors du lit et en relevant ses épaules en position assise."
+   },
+   {
+    "en": "Stay in front of the client with both hands on them until you are sure they can sit safely alone.",
+    "fr": "Restez devant le client, les deux mains sur lui, jusqu'à être sûr qu'il peut rester assis seul en sécurité."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p25",
+  "number": "XII-25",
+  "required": false,
+  "title": {
+   "en": "Helping a Client to Stand",
+   "fr": "Aider le client à se lever"
+  },
+  "module": "XII",
+  "icon": "stand",
+  "steps": [
+   {
+    "en": "Explain the procedure (the client is sitting at the edge of the bed). Put the bed in the lowest position if necessary.",
+    "fr": "Expliquez la procédure (le client est assis au bord du lit). Mettez le lit en position basse si nécessaire."
+   },
+   {
+    "en": "Wash your hands. Gloves as necessary.",
+    "fr": "Lavez-vous les mains. Gants si nécessaire."
+   },
+   {
+    "en": "Place one foot forward between the client's feet. If the client has a weak knee, brace it against yours.",
+    "fr": "Placez un pied en avant entre les pieds du client. S'il a un genou faible, calez-le contre le vôtre."
+   },
+   {
+    "en": "Tell the client to put the strongest foot under themselves.",
+    "fr": "Dites au client de placer son pied le plus fort sous lui."
+   },
+   {
+    "en": "Bend your knee and lean onto your forward foot. Place both arms around the client's waist and hold closely.",
+    "fr": "Pliez le genou et appuyez-vous sur votre pied avant. Passez les deux bras autour de la taille du client et tenez-le près de vous."
+   },
+   {
+    "en": "Tell the client to push down on the bed with the arms and lean forward. On 'one, two, three', help the client stand by rocking your weight to your back foot and lifting on three.",
+    "fr": "Dites au client de pousser sur le lit avec les bras et de se pencher en avant. À « un, deux, trois », aidez-le à se lever en basculant votre poids sur le pied arrière et en soulevant à trois."
+   },
+   {
+    "en": "Support the client until you are sure they can stand safely alone.",
+    "fr": "Soutenez le client jusqu'à être sûr qu'il tient debout seul en sécurité."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p26",
+  "number": "XII-26",
+  "required": true,
+  "title": {
+   "en": "Transfer to Wheelchair, Chair or Commode",
+   "fr": "Transfert au fauteuil roulant, à la chaise ou à la chaise percée"
+  },
+  "module": "XII",
+  "icon": "wheelchair",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+   },
+   {
+    "en": "Angle the wheelchair next to the bed and LOCK the brakes.",
+    "fr": "Placez le fauteuil en angle contre le lit et BLOQUEZ les freins."
+   },
+   {
+    "en": "Put a safety (gait) belt on the client if needed.",
+    "fr": "Mettez une ceinture de sécurité (de marche) au client si besoin."
+   },
+   {
+    "en": "Dangle the client's legs over the side of the bed, then stand the client up.",
+    "fr": "Faites pendre les jambes du client au bord du lit, puis levez-le."
+   },
+   {
+    "en": "Rotate the client until their back faces the wheelchair; back them up until they feel the chair with the back of their legs.",
+    "fr": "Faites pivoter le client dos au fauteuil ; reculez-le jusqu'à ce qu'il sente le fauteuil derrière ses jambes."
+   },
+   {
+    "en": "Keep good body mechanics and lower the client into the wheelchair.",
+    "fr": "Gardez une bonne mécanique corporelle et asseyez le client dans le fauteuil."
+   },
+   {
+    "en": "Adjust the footrests. Release the brakes. Cover the client as needed.",
+    "fr": "Réglez les repose-pieds. Desserrez les freins. Couvrez le client si besoin."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p27",
+  "number": "XII-27",
+  "required": false,
+  "title": {
+   "en": "Positioning the Client in a Chair or Wheelchair",
+   "fr": "Installer le client dans une chaise ou un fauteuil roulant"
+  },
+  "module": "XII",
+  "icon": "wheelchair",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Place the client's hips well back in the chair.",
+    "fr": "Placez les hanches du client bien au fond du siège."
+   },
+   {
+    "en": "Place the feet appropriately (flat on the floor or footrests).",
+    "fr": "Placez les pieds correctement (à plat au sol ou sur les repose-pieds)."
+   },
+   {
+    "en": "Check the position of male genitals.",
+    "fr": "Vérifiez la position des parties génitales chez l'homme."
+   },
+   {
+    "en": "Place pillows appropriately and support the arms.",
+    "fr": "Placez les oreillers et soutenez les bras."
+   },
+   {
+    "en": "Make the client comfortable and safe. Wash your hands. Observe, record and report.",
+    "fr": "Installez le client confortablement et en sécurité. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p28",
+  "number": "XII-28",
+  "required": false,
+  "title": {
+   "en": "Transfer from Wheelchair to Toilet",
+   "fr": "Transfert du fauteuil roulant aux toilettes"
+  },
+  "module": "XII",
+  "icon": "toilet",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+   },
+   {
+    "en": "Check the bathroom for supports and grab bars.",
+    "fr": "Vérifiez les appuis et barres de maintien de la salle de bain."
+   },
+   {
+    "en": "Place the wheelchair facing the toilet. Lock the wheels. Raise the footrests.",
+    "fr": "Placez le fauteuil face aux toilettes. Bloquez les roues. Relevez les repose-pieds."
+   },
+   {
+    "en": "Help the client stand and rotate until their back is toward the toilet.",
+    "fr": "Aidez le client à se lever et à pivoter dos aux toilettes."
+   },
+   {
+    "en": "Arrange the clothing and help the client sit on the toilet. Allow privacy.",
+    "fr": "Arrangez les vêtements et aidez le client à s'asseoir. Laissez-lui de l'intimité."
+   },
+   {
+    "en": "Help clean the client after toileting. Wash your hands.",
+    "fr": "Aidez à nettoyer le client après. Lavez-vous les mains."
+   },
+   {
+    "en": "Reverse the steps to return to the wheelchair. Help the client wash hands.",
+    "fr": "Refaites les étapes à l'envers pour revenir au fauteuil. Aidez le client à se laver les mains."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p29",
+  "number": "XII-29",
+  "required": false,
+  "title": {
+   "en": "Transfer from Wheelchair to Shower and Assisting with Shower",
+   "fr": "Transfert du fauteuil roulant à la douche et aide à la douche"
+  },
+  "module": "XII",
+  "icon": "shower",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Position the wheelchair at an angle to the shower. Place a towel on the shower chair or stool.",
+    "fr": "Placez le fauteuil en angle par rapport à la douche. Mettez une serviette sur la chaise ou le tabouret de douche."
+   },
+   {
+    "en": "Lock the wheels and raise the footrests.",
+    "fr": "Bloquez les roues et relevez les repose-pieds."
+   },
+   {
+    "en": "Stand the client up, pivot so their back is toward the shower chair, and help them sit.",
+    "fr": "Levez le client, faites-le pivoter dos à la chaise de douche et aidez-le à s'asseoir."
+   },
+   {
+    "en": "Place toilet articles within reach. Allow privacy.",
+    "fr": "Mettez les articles de toilette à portée de main. Laissez de l'intimité."
+   },
+   {
+    "en": "Make sure all soap is rinsed off. Help dry the client. Get clean clothing ready.",
+    "fr": "Vérifiez que tout le savon est rincé. Aidez à sécher le client. Préparez des vêtements propres."
+   },
+   {
+    "en": "Reverse the transfer steps. Cover the client to avoid chilling.",
+    "fr": "Refaites le transfert à l'envers. Couvrez le client pour éviter qu'il ait froid."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p30",
+  "number": "XII-30",
+  "required": false,
+  "title": {
+   "en": "Transfer from Wheelchair to Stool or Chair in Tub",
+   "fr": "Transfert du fauteuil roulant au tabouret ou à la chaise dans la baignoire"
+  },
+  "module": "XII",
+  "icon": "bath",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Place a non-slip mat in the tub and a covered chair or stool in the tub. Fill the tub with water (test the temperature).",
+    "fr": "Placez un tapis antidérapant et une chaise ou un tabouret couvert dans la baignoire. Remplissez d'eau (testez la température)."
+   },
+   {
+    "en": "Position the wheelchair parallel to the tub. Provide privacy. Help remove clothing.",
+    "fr": "Placez le fauteuil parallèle à la baignoire. Assurez l'intimité. Aidez à se déshabiller."
+   },
+   {
+    "en": "Help the client slide to the edge of the tub; push the wheelchair out of the way; help the client onto the chair in the tub.",
+    "fr": "Aidez le client à glisser jusqu'au bord de la baignoire ; écartez le fauteuil ; aidez le client à s'asseoir sur la chaise dans la baignoire."
+   },
+   {
+    "en": "Help with bathing and drying the upper body.",
+    "fr": "Aidez à laver et sécher le haut du corps."
+   },
+   {
+    "en": "Reverse the transfer steps; dry the lower body; help with dressing and grooming.",
+    "fr": "Refaites le transfert à l'envers ; séchez le bas du corps ; aidez à l'habillage et aux soins d'apparence."
+   },
+   {
+    "en": "Make the client comfortable and safe. Clean the area. Wash your hands. Observe, record and report.",
+    "fr": "Installez le client confortablement et en sécurité. Nettoyez. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p31",
+  "number": "XII-31",
+  "required": false,
+  "title": {
+   "en": "Weighing a Client",
+   "fr": "Peser un client"
+  },
+  "module": "XII",
+  "icon": "scale",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Check that the needle of the scale is at zero; adjust if not.",
+    "fr": "Vérifiez que l'aiguille de la balance est à zéro ; réglez si besoin."
+   },
+   {
+    "en": "Help the client onto the scale and provide support while they steady themselves.",
+    "fr": "Aidez le client à monter sur la balance et soutenez-le pendant qu'il se stabilise."
+   },
+   {
+    "en": "Note the weight after the dial stops moving.",
+    "fr": "Notez le poids quand l'aiguille s'arrête."
+   },
+   {
+    "en": "Observe for any problems, such as inability to stand on the scale. Help the client off.",
+    "fr": "Observez tout problème, par exemple l'incapacité à tenir debout sur la balance. Aidez le client à descendre."
+   },
+   {
+    "en": "Record the weight. Report a gain or loss of more than 5 pounds (about 2 kg) or client concerns about weight.",
+    "fr": "Notez le poids. Signalez un gain ou une perte de plus de 5 livres (environ 2 kg) ou les inquiétudes du client."
+   },
+   {
+    "en": "Store the equipment in a safe place.",
+    "fr": "Rangez le matériel en lieu sûr."
+   }
+  ]
+ },
+ {
+  "id": "p32",
+  "number": "XII-32",
+  "required": false,
+  "title": {
+   "en": "Measuring Intake",
+   "fr": "Mesurer les apports en liquide"
+  },
+  "module": "XII",
+  "icon": "cup",
+  "steps": [
+   {
+    "en": "Explain why intake must be tracked. Ask the client to tell you when they drink and how much.",
+    "fr": "Expliquez pourquoi il faut suivre les apports. Demandez au client de vous dire quand il boit et combien."
+   },
+   {
+    "en": "Wash your hands. Assemble a measuring cup, the bowls, cups and glasses the client uses, paper and pencil.",
+    "fr": "Lavez-vous les mains. Préparez un verre doseur, les bols, tasses et verres du client, papier et crayon."
+   },
+   {
+    "en": "Measure each serving container ahead of time: fill it with water, pour into the measuring cup, write down the amount, discard the water. Keep this list.",
+    "fr": "Mesurez chaque récipient à l'avance : remplissez-le d'eau, versez dans le verre doseur, notez la quantité, jetez l'eau. Gardez cette liste."
+   },
+   {
+    "en": "Serve liquids in the measured containers. Write down the types and amounts served.",
+    "fr": "Servez les liquides dans les récipients mesurés. Notez types et quantités servis."
+   },
+   {
+    "en": "When the client is finished, measure each type of liquid left over.",
+    "fr": "Quand le client a fini, mesurez ce qui reste de chaque liquide."
+   },
+   {
+    "en": "Subtract the leftover amount from the amount served; add all the totals together and write it down.",
+    "fr": "Soustrayez le reste de la quantité servie ; additionnez tous les totaux et notez-les."
+   },
+   {
+    "en": "Clean and store the equipment. Wash your hands. Record the total intake for the period. Observe, record and report.",
+    "fr": "Nettoyez et rangez le matériel. Lavez-vous les mains. Notez l'apport total de la période. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p33",
+  "number": "XII-33",
+  "required": false,
+  "title": {
+   "en": "Measuring Urinary Output",
+   "fr": "Mesurer la diurèse (urine éliminée)"
+  },
+  "module": "XII",
+  "icon": "cup",
+  "steps": [
+   {
+    "en": "Explain why output must be measured. Ask the client to use the bedpan, urinal or commode and to tell you when they need to pass urine (not needed with a drainage bag).",
+    "fr": "Expliquez pourquoi il faut mesurer l'urine. Demandez au client d'utiliser le bassin, l'urinal ou la chaise percée et de vous prévenir quand il doit uriner (inutile avec un sac collecteur)."
+   },
+   {
+    "en": "Wash your hands. Assemble equipment. Gloves as needed.",
+    "fr": "Lavez-vous les mains. Préparez le matériel. Gants si besoin."
+   },
+   {
+    "en": "Pour or drain the urine into a measuring pitcher placed on a flat surface.",
+    "fr": "Versez ou videz l'urine dans un pichet gradué posé sur une surface plane."
+   },
+   {
+    "en": "Record the amount.",
+    "fr": "Notez la quantité."
+   },
+   {
+    "en": "Discard the urine unless a specimen is needed.",
+    "fr": "Jetez l'urine sauf si un échantillon est demandé."
+   },
+   {
+    "en": "Clean and store re-usable equipment. Wash your hands.",
+    "fr": "Nettoyez et rangez le matériel réutilisable. Lavez-vous les mains."
+   },
+   {
+    "en": "Observe, record and report: strong-smelling or cloudy urine, blood, a very small amount, or pain or difficulty passing urine.",
+    "fr": "Observez, notez et signalez : urine malodorante ou trouble, sang, très petite quantité, douleur ou difficulté à uriner."
+   }
+  ]
+ },
+ {
+  "id": "p34",
+  "number": "XII-34",
+  "required": false,
+  "title": {
+   "en": "Assisting with Changing a Clean Dressing",
+   "fr": "Aide au changement d'un pansement propre"
+  },
+  "module": "XII",
+  "icon": "bandage",
+  "warning": {
+   "en": "Clean dressing only, using Standard Precautions, as directed in the care plan. Sterile wound care is the nurse's job.",
+   "fr": "Pansement propre seulement, avec les précautions standard, selon le plan de soins. Les soins de plaie stériles relèvent de l'infirmière."
+  },
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Provide privacy.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Assurez l'intimité."
+   },
+   {
+    "en": "Help the client into a comfortable position. Provide good lighting. Remove clothing over the dressing if necessary.",
+    "fr": "Installez le client confortablement. Assurez un bon éclairage. Dégagez le pansement si nécessaire."
+   },
+   {
+    "en": "Place a waste bag near the client. Put on gloves.",
+    "fr": "Placez un sac à déchets près du client. Mettez des gants."
+   },
+   {
+    "en": "Remove the wrapping from the new dressing and cut the tape.",
+    "fr": "Déballez le nouveau pansement et coupez le sparadrap."
+   },
+   {
+    "en": "Remove and discard the old dressing AND your gloves.",
+    "fr": "Retirez et jetez l'ancien pansement ET vos gants."
+   },
+   {
+    "en": "Wash your hands. Put on NEW gloves.",
+    "fr": "Lavez-vous les mains. Mettez de NOUVEAUX gants."
+   },
+   {
+    "en": "Clean the skin around the wound as directed in the care plan. Hand requested items to the client.",
+    "fr": "Nettoyez la peau autour de la plaie selon le plan de soins. Passez au client ce qu'il demande."
+   },
+   {
+    "en": "Apply the new dressing and tape it in place.",
+    "fr": "Appliquez le nouveau pansement et fixez-le."
+   },
+   {
+    "en": "Remove and discard the waste bag. Wash your hands. Store unused supplies.",
+    "fr": "Retirez et jetez le sac à déchets. Lavez-vous les mains. Rangez le matériel non utilisé."
+   },
+   {
+    "en": "Observe, record and report any change in the appearance of the wound.",
+    "fr": "Observez, notez et signalez tout changement d'aspect de la plaie."
+   }
+  ]
+ },
+ {
+  "id": "p35",
+  "number": "XII-35",
+  "required": false,
+  "title": {
+   "en": "Handling the Infant",
+   "fr": "Manipuler le nourrisson"
+  },
+  "module": "XII",
+  "icon": "baby",
+  "steps": [
+   {
+    "en": "Wash your hands. Gloves as needed.",
+    "fr": "Lavez-vous les mains. Gants si besoin."
+   },
+   {
+    "en": "PICKING UP: put one hand under the buttocks.",
+    "fr": "POUR PRENDRE LE BÉBÉ : mettez une main sous les fesses."
+   },
+   {
+    "en": "Put the other hand under the head, neck and shoulders.",
+    "fr": "Mettez l'autre main sous la tête, le cou et les épaules."
+   },
+   {
+    "en": "Raise the baby smoothly, supporting the head at all times.",
+    "fr": "Soulevez le bébé doucement en soutenant toujours la tête."
+   },
+   {
+    "en": "FOOTBALL HOLD: support the baby's head, neck and buttocks; swing the baby to your side so they rest on your hip while your hand and arm cradle and support them.",
+    "fr": "PRISE « BALLON DE FOOTBALL » : soutenez la tête, le cou et les fesses ; amenez le bébé sur votre côté, posé sur votre hanche, votre main et votre bras le berçant et le soutenant."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p36",
+  "number": "XII-36",
+  "required": false,
+  "title": {
+   "en": "Infant Bath",
+   "fr": "Bain du nourrisson"
+  },
+  "module": "XII",
+  "icon": "baby",
+  "steps": [
+   {
+    "en": "Wash your hands. Assemble equipment. Make sure the room is warm. Prepare the changing area.",
+    "fr": "Lavez-vous les mains. Préparez le matériel. Vérifiez que la pièce est chaude. Préparez la table à langer."
+   },
+   {
+    "en": "Prepare the bath water at the correct temperature (test it). Gloves as needed.",
+    "fr": "Préparez l'eau du bain à la bonne température (testez-la). Gants si besoin."
+   },
+   {
+    "en": "Bring the baby to the bath area. Undress and cover the baby.",
+    "fr": "Amenez le bébé près du bain. Déshabillez-le et couvrez-le."
+   },
+   {
+    "en": "Lower the baby into the water, supporting the head.",
+    "fr": "Mettez le bébé dans l'eau en soutenant la tête."
+   },
+   {
+    "en": "Shampoo, rinse and dry the head first.",
+    "fr": "Lavez, rincez et séchez d'abord la tête."
+   },
+   {
+    "en": "Wash the body from head to foot. Wash the genitals correctly (front to back for a girl).",
+    "fr": "Lavez le corps de la tête aux pieds. Lavez correctement les parties génitales (d'avant en arrière pour une fille)."
+   },
+   {
+    "en": "Dry the baby. Apply lotion as directed in the care plan.",
+    "fr": "Séchez le bébé. Appliquez une lotion selon le plan de soins."
+   },
+   {
+    "en": "Diaper and dress the baby. Give nail care if needed.",
+    "fr": "Mettez la couche et habillez le bébé. Soins des ongles si besoin."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p37",
+  "number": "XII-37",
+  "required": false,
+  "title": {
+   "en": "Assisting with the Hydraulic (Hoyer) Lift",
+   "fr": "Aide à l'utilisation du lève-personne hydraulique"
+  },
+  "module": "XII",
+  "icon": "lift",
+  "warning": {
+   "en": "Never use a lift you have not been shown how to use. Ask the supervisor, nurse or therapist for a demonstration.",
+   "fr": "N'utilisez jamais un lève-personne sans avoir reçu une démonstration. Demandez au superviseur, à l'infirmière ou au thérapeute."
+  },
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as needed.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si besoin."
+   },
+   {
+    "en": "Check that the valves on the lift work. Clear the floor around the work area.",
+    "fr": "Vérifiez que les valves du lève-personne fonctionnent. Dégagez le sol autour de la zone de travail."
+   },
+   {
+    "en": "Open the legs of the lift stand to the widest position.",
+    "fr": "Ouvrez les pieds du lève-personne au maximum."
+   },
+   {
+    "en": "Bring the wheelchair or chair close to the bed. Lock the wheels of the wheelchair and of the bed (if hospital bed). Adjust bed height if possible; raise the far side rail if available.",
+    "fr": "Approchez le fauteuil roulant ou la chaise du lit. Bloquez les roues du fauteuil et du lit (si lit médicalisé). Réglez la hauteur du lit si possible ; relevez la barrière du côté opposé si elle existe."
+   },
+   {
+    "en": "Roll one edge of the sling up to half its width. Place the sling on the bed on the far side of the client, midway between head and thigh.",
+    "fr": "Roulez un bord de la sangle jusqu'à la moitié de sa largeur. Placez la sangle sur le lit du côté opposé au client, entre la tête et les cuisses."
+   },
+   {
+    "en": "Roll the client toward you and move the sling so it covers half of the client's back. Roll the client back onto the sling and over to the other side (over the roll). Unroll the sling flat and unwrinkled.",
+    "fr": "Tournez le client vers vous et placez la sangle pour qu'elle couvre la moitié de son dos. Retournez le client sur la sangle puis de l'autre côté (par-dessus le rouleau). Déroulez la sangle à plat, sans plis."
+   },
+   {
+    "en": "Roll the client onto the back and adjust the sling midway between head and thigh.",
+    "fr": "Remettez le client sur le dos et ajustez la sangle entre la tête et les cuisses."
+   },
+   {
+    "en": "Raise the lift (close the valve and pump the arm). Steady the swinging bar over the client.",
+    "fr": "Montez le lève-personne (fermez la valve et pompez le bras). Stabilisez la barre au-dessus du client."
+   },
+   {
+    "en": "Lower the arm and attach the chains or hangers: LONGER chain to the thigh part, SHORTER chain to the head part, hooks facing away from the client's body.",
+    "fr": "Descendez le bras et accrochez les chaînes : chaîne LONGUE aux cuisses, chaîne COURTE à la tête, crochets tournés vers l'extérieur du corps."
+   },
+   {
+    "en": "Tell the client when you start pumping. Lift a few inches, then CHECK ALL CONNECTIONS before moving.",
+    "fr": "Prévenez le client avant de pomper. Soulevez de quelques centimètres, puis VÉRIFIEZ TOUTES LES ATTACHES avant de déplacer."
+   },
+   {
+    "en": "Pump until the client is half-sitting. Lift the client's feet off the bed. Move to the steering handles.",
+    "fr": "Pompez jusqu'à ce que le client soit demi-assis. Soulevez ses pieds hors du lit. Prenez les poignées de direction."
+   },
+   {
+    "en": "Slowly move the base out from under the bed and turn toward the chair. Position the client over the chair.",
+    "fr": "Sortez lentement la base de sous le lit et tournez vers la chaise. Positionnez le client au-dessus de la chaise."
+   },
+   {
+    "en": "Lower the client by slowly opening the valve until just above the seat. Hold the sling near the head, put your knees against the client's knees, support the upper body, and release the valve so the client sits.",
+    "fr": "Descendez le client en ouvrant lentement la valve jusqu'au-dessus du siège. Tenez la sangle près de la tête, placez vos genoux contre ceux du client, soutenez le haut du corps et ouvrez la valve pour l'asseoir."
+   },
+   {
+    "en": "Remove the S-hooks while holding the bar. Close the valve, pump the lift up out of the way, and move it away.",
+    "fr": "Décrochez les crochets en S en tenant la barre. Fermez la valve, remontez le lève-personne et écartez-le."
+   },
+   {
+    "en": "Wash your hands. Observe, record and report any changes or equipment problems.",
+    "fr": "Lavez-vous les mains. Observez, notez et signalez tout changement ou problème de matériel."
+   }
+  ]
+ },
+ {
+  "id": "p38",
+  "number": "XII-38",
+  "required": false,
+  "title": {
+   "en": "Slide Board Transfer",
+   "fr": "Transfert avec planche de glissement"
+  },
+  "module": "XII",
+  "icon": "wheelchair",
+  "steps": [
+   {
+    "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+   },
+   {
+    "en": "Place the wheelchair or chair at a 45-degree angle to the bed (or other chair). Lock the brakes and remove the armrest if possible.",
+    "fr": "Placez le fauteuil ou la chaise à 45 degrés du lit (ou de l'autre chaise). Bloquez les freins et retirez l'accoudoir si possible."
+   },
+   {
+    "en": "If the client is unclothed, cover the board with a pillowcase.",
+    "fr": "Si le client est dévêtu, couvrez la planche d'une taie d'oreiller."
+   },
+   {
+    "en": "Place the board like a bridge between bed and chair. Have the client lean away; slide the board under the buttocks, transferring toward the STRONG side if possible.",
+    "fr": "Placez la planche comme un pont entre le lit et la chaise. Faites pencher le client du côté opposé ; glissez la planche sous les fesses, en transférant vers le côté FORT si possible."
+   },
+   {
+    "en": "Make sure the board is securely placed before the client begins.",
+    "fr": "Vérifiez que la planche est bien en place avant que le client commence."
+   },
+   {
+    "en": "Have the client place both hands on the board beside the thighs and move across in a series of small push-ups. Assist as necessary; use a gait belt if needed.",
+    "fr": "Faites poser les deux mains du client sur la planche à côté des cuisses et avancer par petites poussées sur les bras. Aidez si nécessaire ; ceinture de marche si besoin."
+   },
+   {
+    "en": "Clean and store the board. Wash your hands. Observe, record and report.",
+    "fr": "Nettoyez et rangez la planche. Lavez-vous les mains. Observez, notez et signalez."
+   }
+  ]
+ },
+ {
+  "id": "p39",
+  "number": "XII-39",
+  "required": true,
+  "title": {
+   "en": "Checking the Right Person",
+   "fr": "Vérifier la bonne personne"
+  },
+  "module": "XII",
+  "icon": "pill",
+  "steps": [
+   {
+    "en": "Wash your hands.",
+    "fr": "Lavez-vous les mains."
+   },
+   {
+    "en": "Read the container label.",
+    "fr": "Lisez l'étiquette du flacon."
+   },
+   {
+    "en": "Check that the name on the label is the same as the client's name.",
+    "fr": "Vérifiez que le nom sur l'étiquette est bien celui du client."
+   },
+   {
+    "en": "Check the name on the label against the name on the care plan.",
+    "fr": "Comparez le nom de l'étiquette avec celui du plan de soins."
+   },
+   {
+    "en": "If they match, give the container to the client and/or assist with self-administration as the care plan orders.",
+    "fr": "S'ils correspondent, donnez le flacon au client et/ou aidez-le à prendre son médicament comme le prévoit le plan de soins."
+   },
+   {
+    "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
+    "fr": "S'ils ne correspondent PAS, contactez le superviseur pour des instructions et expliquez au client pourquoi."
+   },
+   {
+    "en": "Record and report any problem with the medication.",
+    "fr": "Notez et signalez tout problème concernant le médicament."
+   }
+  ]
+ },
+ {
+  "id": "p40",
+  "number": "XII-40",
+  "required": true,
+  "title": {
+   "en": "Checking the Right Medication",
+   "fr": "Vérifier le bon médicament"
+  },
+  "module": "XII",
+  "icon": "pill",
+  "steps": [
+   {
+    "en": "Wash your hands.",
+    "fr": "Lavez-vous les mains."
+   },
+   {
+    "en": "Read the container label.",
+    "fr": "Lisez l'étiquette du flacon."
+   },
+   {
+    "en": "Check the EXPIRATION DATE.",
+    "fr": "Vérifiez la DATE DE PÉREMPTION."
+   },
+   {
+    "en": "Check that the medication name on the label is the same as the medication name on the care plan.",
+    "fr": "Vérifiez que le nom du médicament sur l'étiquette est le même que dans le plan de soins."
+   },
+   {
+    "en": "If they match, give the container to the client and/or assist as the care plan orders.",
+    "fr": "S'ils correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins."
+   },
+   {
+    "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
+    "fr": "S'ils ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi."
+   },
+   {
+    "en": "Record and report any problem with the medication.",
+    "fr": "Notez et signalez tout problème concernant le médicament."
+   }
+  ]
+ },
+ {
+  "id": "p41",
+  "number": "XII-41",
+  "required": true,
+  "title": {
+   "en": "Checking the Right Dose",
+   "fr": "Vérifier la bonne dose"
+  },
+  "module": "XII",
+  "icon": "pill",
+  "steps": [
+   {
+    "en": "Wash your hands.",
+    "fr": "Lavez-vous les mains."
+   },
+   {
+    "en": "Read the container label.",
+    "fr": "Lisez l'étiquette du flacon."
+   },
+   {
+    "en": "Check the dose on the label against the dose for that medication on the care plan.",
+    "fr": "Comparez la dose de l'étiquette avec la dose prévue pour ce médicament dans le plan de soins."
+   },
+   {
+    "en": "If they match, give the container to the client and/or assist as the care plan orders.",
+    "fr": "Si elles correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins."
+   },
+   {
+    "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
+    "fr": "Si elles ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi."
+   },
+   {
+    "en": "Record and report any problem with the medication.",
+    "fr": "Notez et signalez tout problème concernant le médicament."
+   }
+  ]
+ },
+ {
+  "id": "p42",
+  "number": "XII-42",
+  "required": true,
+  "title": {
+   "en": "Checking the Right Time",
+   "fr": "Vérifier le bon moment"
+  },
+  "module": "XII",
+  "icon": "pill",
+  "steps": [
+   {
+    "en": "Wash your hands.",
+    "fr": "Lavez-vous les mains."
+   },
+   {
+    "en": "Read the container label.",
+    "fr": "Lisez l'étiquette du flacon."
+   },
+   {
+    "en": "Check the time for taking the medication against the time specified in the care plan.",
+    "fr": "Comparez l'heure de prise du médicament avec l'heure indiquée dans le plan de soins."
+   },
+   {
+    "en": "If they match, give the container to the client and/or assist as the care plan orders.",
+    "fr": "Si elles correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins."
+   },
+   {
+    "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
+    "fr": "Si elles ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi."
+   },
+   {
+    "en": "Record and report any problem with the medication.",
+    "fr": "Notez et signalez tout problème concernant le médicament."
+   }
+  ],
+  "note": {
+   "en": "The 2007 NYS checklist text for this step is garbled (it repeats 'give the container' for a mismatch). The rule applied here follows the other four Rights: a mismatch means contact the supervisor.",
+   "fr": "Le texte de la liste NYS 2007 pour cette étape est confus (il répète « donnez le flacon » en cas de non-concordance). La règle appliquée ici suit les quatre autres « bons » : en cas de non-concordance, contactez le superviseur."
+  }
+ },
+ {
+  "id": "p43",
+  "number": "XII-43",
+  "required": true,
+  "title": {
+   "en": "Checking the Right Route",
+   "fr": "Vérifier la bonne voie d'administration"
+  },
+  "module": "XII",
+  "icon": "pill",
+  "steps": [
+   {
+    "en": "Wash your hands.",
+    "fr": "Lavez-vous les mains."
+   },
+   {
+    "en": "Read the container label to see whether it lists the route (by mouth, on the skin, in the eye, etc.).",
+    "fr": "Lisez l'étiquette pour voir si elle indique la voie (par la bouche, sur la peau, dans l'œil, etc.)."
+   },
+   {
+    "en": "Check the care plan for the route specified for the medication.",
+    "fr": "Vérifiez la voie indiquée pour ce médicament dans le plan de soins."
+   },
+   {
+    "en": "If available, make sure the route on the label matches the route on the care plan.",
+    "fr": "Si possible, vérifiez que la voie de l'étiquette correspond à celle du plan de soins."
+   },
+   {
+    "en": "Give the container to the client and/or assist as ordered if the route is specified in the care plan, or the label and care plan match.",
+    "fr": "Donnez le flacon au client et/ou aidez-le comme prescrit si la voie est indiquée dans le plan de soins, ou si l'étiquette et le plan de soins correspondent."
+   },
+   {
+    "en": "If they do NOT match or there is no information, contact the supervisor for instructions and explain to the client why.",
+    "fr": "S'ils ne correspondent PAS ou s'il n'y a pas d'information, contactez le superviseur et expliquez au client pourquoi."
+   },
+   {
+    "en": "Record and report any problem with the medication.",
+    "fr": "Notez et signalez tout problème concernant le médicament."
+   }
+  ]
+ }
+]
