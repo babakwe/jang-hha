@@ -1,0 +1,702 @@
+[
+ {
+  "id": "hv_001",
+  "term": "Home Health Aide (HHA)",
+  "term_fr": "Aide à domicile",
+  "definition_en": "A trained worker who gives personal care and supportive services to clients in their own homes, under the supervision of a registered nurse.",
+  "definition_fr": "Travailleur formé qui donne des soins personnels et des services de soutien aux clients à leur domicile, sous la supervision d'une infirmière diplômée.",
+  "example": "The HHA helped Mr. Ba bathe and dress, then wrote her observations in the log.",
+  "module": "I",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_002",
+  "term": "Care plan",
+  "term_fr": "Plan de soins",
+  "definition_en": "The written plan developed by the care team and coordinated by the case manager. It lists the worker's duties, the goals, and special observations. A copy stays in the client's home.",
+  "definition_fr": "Plan écrit élaboré par l'équipe de soins et coordonné par le gestionnaire de cas. Il liste les tâches de l'aide, les objectifs et les observations particulières. Une copie reste chez le client.",
+  "example": "Always check the care plan before starting a new task.",
+  "module": "I",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_003",
+  "term": "Case manager",
+  "term_fr": "Gestionnaire de cas",
+  "definition_en": "The team member who coordinates the client's care plan and services.",
+  "definition_fr": "Membre de l'équipe qui coordonne le plan de soins et les services du client.",
+  "example": "The case manager added meal preparation to the care plan.",
+  "module": "I",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_004",
+  "term": "RN supervisor",
+  "term_fr": "Infirmière superviseure",
+  "definition_en": "The registered nurse who visits the home, explains the care plan, teaches procedures, solves problems and evaluates the worker.",
+  "definition_fr": "Infirmière diplômée qui visite le domicile, explique le plan de soins, enseigne les procédures, résout les problèmes et évalue l'aide.",
+  "example": "Call the RN supervisor whenever the client's condition changes.",
+  "module": "I",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_005",
+  "term": "Observe, record and report",
+  "term_fr": "Observer, noter et signaler",
+  "definition_en": "The worker's duty to notice changes using sight, smell, hearing and touch, write only facts (what you see, hear and do, dated and signed), and tell the supervisor.",
+  "definition_fr": "Devoir de l'aide : remarquer les changements avec la vue, l'odorat, l'ouïe et le toucher, écrire seulement des faits (ce qu'on voit, entend et fait, daté et signé), et prévenir le superviseur.",
+  "example": "She observed a red area on his heel, recorded it, and reported it the same day.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_006",
+  "term": "Confidentiality",
+  "term_fr": "Confidentialité",
+  "definition_en": "Keeping the client's personal and medical information private, in conversations, observations and reports. Protected by HIPAA.",
+  "definition_fr": "Garder privées les informations personnelles et médicales du client, dans les conversations, les observations et les rapports. Protégée par la loi HIPAA.",
+  "example": "Do not discuss a client with your friends, even without saying the name.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_007",
+  "term": "HIPAA",
+  "term_fr": "HIPAA (loi fédérale sur la confidentialité des données de santé)",
+  "definition_en": "The U.S. federal law that protects a person's health information.",
+  "definition_fr": "Loi fédérale américaine qui protège les informations de santé d'une personne.",
+  "example": "Sharing a diagnosis with a neighbor violates HIPAA.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_008",
+  "term": "Basic human needs",
+  "term_fr": "Besoins humains fondamentaux",
+  "definition_en": "Physical needs, safety and security, belonging, self-worth and self-fulfillment. Physical and safety needs come first.",
+  "definition_fr": "Besoins physiques, de sécurité, d'appartenance, d'estime de soi et d'accomplissement. Les besoins physiques et de sécurité viennent en premier.",
+  "example": "A client who refuses to eat may have an unmet need for belonging.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_009",
+  "term": "Therapeutic relationship",
+  "term_fr": "Relation thérapeutique",
+  "definition_en": "A planned, purposeful relationship built on trust that respects the client's autonomy and fosters independence.",
+  "definition_fr": "Relation planifiée, intentionnelle et fondée sur la confiance, qui respecte l'autonomie du client et favorise son indépendance.",
+  "example": "Letting the client choose her clothes is part of a therapeutic relationship.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_010",
+  "term": "Autonomy",
+  "term_fr": "Autonomie",
+  "definition_en": "The client's right to make their own decisions about their life and care.",
+  "definition_fr": "Droit du client de prendre ses propres décisions sur sa vie et ses soins.",
+  "example": "Respect the client's autonomy even when you disagree with a choice.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_011",
+  "term": "Active listening",
+  "term_fr": "Écoute active",
+  "definition_en": "Giving full attention, letting the person finish, and showing you understood (feedback).",
+  "definition_fr": "Donner toute son attention, laisser la personne finir, et montrer qu'on a compris (retour).",
+  "example": "Active listening helped her notice the client was worried about money.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_012",
+  "term": "Aphasia",
+  "term_fr": "Aphasie",
+  "definition_en": "Difficulty speaking or understanding language, often after a stroke. It is not a hearing problem.",
+  "definition_fr": "Difficulté à parler ou à comprendre le langage, souvent après un AVC. Ce n'est pas un problème d'audition.",
+  "example": "Use short sentences and give time to answer when a client has aphasia.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_013",
+  "term": "Cognitive impairment",
+  "term_fr": "Trouble cognitif",
+  "definition_en": "Problems with memory, thinking or understanding.",
+  "definition_fr": "Problèmes de mémoire, de pensée ou de compréhension.",
+  "example": "Give one instruction at a time to a client with cognitive impairment.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_014",
+  "term": "Developmental disability",
+  "term_fr": "Handicap du développement",
+  "definition_en": "A permanent disability that begins before age 22 (e.g., cerebral palsy, autism, intellectual disability).",
+  "definition_fr": "Handicap permanent qui apparaît avant 22 ans (ex. : paralysie cérébrale, autisme, déficience intellectuelle).",
+  "example": "A developmental disability is not an illness, but it may increase care needs.",
+  "module": "VI",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_015",
+  "term": "Activities of daily living (ADLs)",
+  "term_fr": "Activités de la vie quotidienne (AVQ)",
+  "definition_en": "Everyday self-care tasks: bathing, dressing, eating, toileting, moving and transferring.",
+  "definition_fr": "Tâches quotidiennes de soins personnels : toilette, habillage, repas, aller aux toilettes, se déplacer et se transférer.",
+  "example": "The care plan lists which ADLs the client needs help with.",
+  "module": "VII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_016",
+  "term": "Nutrients",
+  "term_fr": "Nutriments",
+  "definition_en": "The elements in food the body needs: proteins, carbohydrates, fats, vitamins, minerals and water.",
+  "definition_fr": "Éléments des aliments dont le corps a besoin : protéines, glucides, graisses, vitamines, minéraux et eau.",
+  "example": "Protein builds and repairs tissues; carbohydrates give energy.",
+  "module": "VIII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_017",
+  "term": "Modified diet",
+  "term_fr": "Régime modifié",
+  "definition_en": "A diet ordered by the doctor that changes one nutrient, the calories, or the texture of food.",
+  "definition_fr": "Régime prescrit par le médecin qui change un nutriment, les calories ou la texture des aliments.",
+  "example": "A low-sodium diet is a modified diet: no salt added.",
+  "module": "VIII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_018",
+  "term": "Low-sodium diet",
+  "term_fr": "Régime pauvre en sel",
+  "definition_en": "A diet that limits salt: read labels, avoid processed foods, add no salt in cooking or serving.",
+  "definition_fr": "Régime qui limite le sel : lire les étiquettes, éviter les plats industriels, ne pas ajouter de sel en cuisinant ni en servant.",
+  "example": "Clients with heart problems are often on a low-sodium diet.",
+  "module": "VIII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_019",
+  "term": "Bland diet",
+  "term_fr": "Régime sans irritants",
+  "definition_en": "A diet without foods that irritate the stomach: pepper, spices, alcohol, caffeine.",
+  "definition_fr": "Régime sans aliments qui irritent l'estomac : poivre, épices, alcool, caféine.",
+  "example": "No coffee for a client on a bland diet.",
+  "module": "VIII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_020",
+  "term": "Pureed / mechanically altered",
+  "term_fr": "Mixé / texture modifiée",
+  "definition_en": "Food chopped, ground or blended for clients who have trouble chewing or swallowing. Puree each food separately.",
+  "definition_fr": "Aliments hachés, moulus ou mixés pour les clients qui ont du mal à mâcher ou avaler. Mixer chaque aliment séparément.",
+  "example": "She pureed the chicken and the carrots separately and named each one.",
+  "module": "VIII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_021",
+  "term": "Dysphagia",
+  "term_fr": "Dysphagie",
+  "definition_en": "Difficulty swallowing. Requires modified textures and thickened liquids to prevent aspiration.",
+  "definition_fr": "Difficulté à avaler. Nécessite des textures modifiées et des liquides épaissis pour éviter la fausse route.",
+  "example": "Never give thin water to a client with dysphagia unless the care plan allows it.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_022",
+  "term": "Aspiration",
+  "term_fr": "Fausse route (aspiration)",
+  "definition_en": "Food or liquid going into the lungs instead of the stomach. Can cause pneumonia.",
+  "definition_fr": "Passage d'aliments ou de liquide dans les poumons au lieu de l'estomac. Peut causer une pneumonie.",
+  "example": "Sitting upright during meals helps prevent aspiration.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_023",
+  "term": "Body mechanics",
+  "term_fr": "Mécanique corporelle",
+  "definition_en": "Using the body correctly to avoid injury: wide base of support, bend knees and hips, keep the load close, turn with the feet, never twist.",
+  "definition_fr": "Utiliser correctement son corps pour éviter les blessures : base d'appui large, plier genoux et hanches, garder la charge près du corps, tourner avec les pieds, jamais de torsion.",
+  "example": "Good body mechanics protect your back during transfers.",
+  "module": "X",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_024",
+  "term": "Infection control",
+  "term_fr": "Contrôle des infections",
+  "definition_en": "All practices that stop the spread of germs: handwashing, gloves, clean vs. dirty, safe waste disposal.",
+  "definition_fr": "Toutes les pratiques qui empêchent la propagation des microbes : lavage des mains, gants, séparation propre/sale, élimination sûre des déchets.",
+  "example": "Handwashing is the most important infection control measure.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_025",
+  "term": "Chain of infection",
+  "term_fr": "Chaîne de l'infection",
+  "definition_en": "The steps by which an infection spreads from a source to a new person. Breaking any link stops the infection.",
+  "definition_fr": "Étapes par lesquelles une infection passe d'une source à une nouvelle personne. Rompre un maillon arrête l'infection.",
+  "example": "Washing your hands breaks the chain of infection.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_026",
+  "term": "Standard precautions",
+  "term_fr": "Précautions standard",
+  "definition_en": "Infection-control practices used with every client: handwashing, gloves and other PPE, safe handling of sharps and body fluids.",
+  "definition_fr": "Pratiques de contrôle des infections utilisées avec chaque client : lavage des mains, gants et autres EPI, manipulation sûre des objets tranchants et des liquides corporels.",
+  "example": "Standard precautions apply even if the client looks healthy.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_027",
+  "term": "Personal protective equipment (PPE)",
+  "term_fr": "Équipement de protection individuelle (EPI)",
+  "definition_en": "Gloves, gown, mask and eye protection worn to protect against infection.",
+  "definition_fr": "Gants, blouse, masque et protection des yeux portés pour se protéger des infections.",
+  "example": "Put on gloves before touching soiled linen.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_028",
+  "term": "Bloodborne pathogens",
+  "term_fr": "Agents pathogènes transmis par le sang",
+  "definition_en": "Germs carried in blood: hepatitis B, hepatitis C and HIV.",
+  "definition_fr": "Microbes transportés par le sang : hépatite B, hépatite C et VIH.",
+  "example": "Handle sharps carefully to avoid bloodborne pathogens.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_029",
+  "term": "Exposure incident",
+  "term_fr": "Incident d'exposition",
+  "definition_en": "Contact of skin, eyes, mouth or a cut with a client's blood or body fluids. Wash, report immediately, follow agency procedure.",
+  "definition_fr": "Contact de la peau, des yeux, de la bouche ou d'une coupure avec le sang ou les liquides corporels d'un client. Laver, signaler immédiatement, suivre la procédure de l'agence.",
+  "example": "A needle stick is an exposure incident.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_030",
+  "term": "Pressure ulcer (bedsore)",
+  "term_fr": "Escarre",
+  "definition_en": "Skin damage caused by pressure, especially on the coccyx, heels, sacrum, hips, elbows and back of the head. Early signs: redness, warmth, rash, itching.",
+  "definition_fr": "Lésion de la peau causée par la pression, surtout sur le coccyx, les talons, le sacrum, les hanches, les coudes et l'arrière de la tête. Signes précoces : rougeur, chaleur, éruption, démangeaison.",
+  "example": "Change position often to prevent pressure ulcers.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_031",
+  "term": "Pressure points",
+  "term_fr": "Points de pression",
+  "definition_en": "Bony areas where the skin breaks down first: coccyx, heels, sacrum, ischial tuberosities, back of skull, elbows.",
+  "definition_fr": "Zones osseuses où la peau s'abîme en premier : coccyx, talons, sacrum, ischions, arrière du crâne, coudes.",
+  "example": "Check the pressure points every time you bathe the client.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_032",
+  "term": "Fowler's position",
+  "term_fr": "Position de Fowler",
+  "definition_en": "Sitting up in bed with the head of the bed raised. Helps breathing and eating.",
+  "definition_fr": "Assis dans le lit, tête de lit relevée. Aide à respirer et à manger.",
+  "example": "Put the client in Fowler's position before the meal.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_033",
+  "term": "Supine / prone / lateral",
+  "term_fr": "Décubitus dorsal / ventral / latéral",
+  "definition_en": "Lying on the back / on the stomach / on the side.",
+  "definition_fr": "Allongé sur le dos / sur le ventre / sur le côté.",
+  "example": "Turn the client from supine to lateral every two hours.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_034",
+  "term": "Transfer",
+  "term_fr": "Transfert",
+  "definition_en": "Moving a client from one place to another, e.g., bed to wheelchair. Lock the brakes first.",
+  "definition_fr": "Déplacer un client d'un endroit à un autre, par exemple du lit au fauteuil roulant. Bloquer d'abord les freins.",
+  "example": "Use a gait belt for a safe transfer.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_035",
+  "term": "Ambulation",
+  "term_fr": "Marche (déambulation)",
+  "definition_en": "Walking. Walk on the client's weak side, slowly, short distances.",
+  "definition_fr": "Le fait de marcher. Se placer du côté faible du client, lentement, sur de courtes distances.",
+  "example": "Ambulation prevents contractures and improves circulation.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_036",
+  "term": "Range of motion (ROM)",
+  "term_fr": "Amplitude articulaire",
+  "definition_en": "Moving each joint through its full movement. Active: the client does it; passive: the worker moves the limb.",
+  "definition_fr": "Mobiliser chaque articulation sur toute son amplitude. Active : le client le fait ; passive : l'aide mobilise le membre.",
+  "example": "ROM exercises prevent stiffness and atrophy.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_037",
+  "term": "Contracture",
+  "term_fr": "Contracture (rétraction)",
+  "definition_en": "Permanent shortening of a muscle or joint from lack of movement.",
+  "definition_fr": "Raccourcissement permanent d'un muscle ou d'une articulation dû au manque de mouvement.",
+  "example": "Daily ROM exercises help prevent contractures.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_038",
+  "term": "Atrophy",
+  "term_fr": "Atrophie",
+  "definition_en": "Wasting away of muscle from disuse.",
+  "definition_fr": "Fonte du muscle due au manque d'utilisation.",
+  "example": "Bedridden clients are at risk of muscle atrophy.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_039",
+  "term": "Bedpan / urinal / fracture pan",
+  "term_fr": "Bassin de lit / urinal / bassin plat",
+  "definition_en": "Equipment for toileting in bed. Warm the bedpan, protect privacy, provide toilet paper and a call signal.",
+  "definition_fr": "Matériel pour aller aux toilettes au lit. Réchauffer le bassin, préserver l'intimité, donner du papier et un moyen d'appel.",
+  "example": "A fracture pan is flatter, for clients who cannot lift their hips.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_040",
+  "term": "Commode",
+  "term_fr": "Chaise percée",
+  "definition_en": "A portable toilet chair placed near the bed.",
+  "definition_fr": "Chaise-toilette portable placée près du lit.",
+  "example": "Rinse the commode bucket after each use.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_041",
+  "term": "Incontinence",
+  "term_fr": "Incontinence",
+  "definition_en": "Loss of control of the bladder or bowel. Protect dignity, change briefs promptly, give skin care.",
+  "definition_fr": "Perte du contrôle de la vessie ou des intestins. Protéger la dignité, changer les protections rapidement, soigner la peau.",
+  "example": "Incontinence can cause embarrassment; never scold the client.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_042",
+  "term": "Catheter (indwelling / straight / condom)",
+  "term_fr": "Sonde urinaire (à demeure / droite / étui pénien)",
+  "definition_en": "A tube that drains urine from the bladder. An indwelling catheter stays in place; a condom catheter fits over the penis.",
+  "definition_fr": "Tube qui évacue l'urine de la vessie. La sonde à demeure reste en place ; l'étui pénien se place sur le pénis.",
+  "example": "Never pull on the catheter when cleaning.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_043",
+  "term": "Urinary drainage bag",
+  "term_fr": "Sac collecteur d'urine",
+  "definition_en": "The bag that collects urine from a catheter. Keep it below the bladder; report cloudy, bloody or very little urine.",
+  "definition_fr": "Sac qui recueille l'urine d'une sonde. Le garder sous le niveau de la vessie ; signaler une urine trouble, sanglante ou très peu abondante.",
+  "example": "Empty the drainage bag without touching the end of the tube.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_044",
+  "term": "Intake and output (I&O)",
+  "term_fr": "Apports et éliminations",
+  "definition_en": "Measuring all fluids the client drinks and all urine passed.",
+  "definition_fr": "Mesurer tous les liquides bus par le client et toute l'urine éliminée.",
+  "example": "Measure each cup before serving to record intake accurately.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_045",
+  "term": "Edentulous",
+  "term_fr": "Édenté",
+  "definition_en": "Having no teeth. Clean the mouth and gums with a moistened swab.",
+  "definition_fr": "Sans dents. Nettoyer la bouche et les gencives avec un bâtonnet humidifié.",
+  "example": "Even an edentulous client needs mouth care.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_046",
+  "term": "Dentures",
+  "term_fr": "Dentier (prothèse dentaire)",
+  "definition_en": "Removable false teeth. Clean over a sink lined with a washcloth; store in water.",
+  "definition_fr": "Fausses dents amovibles. Nettoyer au-dessus d'un lavabo protégé par un gant de toilette ; conserver dans l'eau.",
+  "example": "Insert the top dentures first.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_047",
+  "term": "Elastic support stockings",
+  "term_fr": "Bas de contention",
+  "definition_en": "Tight stockings that help blood flow in the legs. Apply after legs are elevated, smooth with no wrinkles.",
+  "definition_fr": "Bas serrés qui aident la circulation dans les jambes. Enfiler après avoir surélevé les jambes, sans plis.",
+  "example": "Report swelling or color changes under the stockings.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_048",
+  "term": "Hydraulic lift (Hoyer lift)",
+  "term_fr": "Lève-personne hydraulique",
+  "definition_en": "A machine with a sling used to lift a client who cannot stand. Check all connections before moving.",
+  "definition_fr": "Appareil avec une sangle pour soulever un client qui ne peut pas se tenir debout. Vérifier toutes les attaches avant de déplacer.",
+  "example": "Never use the lift if you have not been shown how.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_049",
+  "term": "Slide board",
+  "term_fr": "Planche de transfert",
+  "definition_en": "A smooth board that bridges the bed and chair so the client can slide across. Place the chair at 45 degrees.",
+  "definition_fr": "Planche lisse qui fait un pont entre le lit et le fauteuil pour que le client glisse. Fauteuil à 45 degrés.",
+  "example": "Transfer toward the client's strong side with the slide board.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_050",
+  "term": "Gait belt (safety belt)",
+  "term_fr": "Ceinture de marche",
+  "definition_en": "A wide belt around the client's waist that gives the worker a safe grip during transfers and walking.",
+  "definition_fr": "Large ceinture autour de la taille du client qui donne à l'aide une prise sûre lors des transferts et de la marche.",
+  "example": "Hold the gait belt, not the client's arm.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_051",
+  "term": "Prosthesis",
+  "term_fr": "Prothèse",
+  "definition_en": "An artificial body part or device: artificial limb, eye, breast, hearing aid, glasses, dentures.",
+  "definition_fr": "Partie du corps ou dispositif artificiel : membre, œil, sein artificiel, appareil auditif, lunettes, dentier.",
+  "example": "Check that the prosthesis is clean and in good working order.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_052",
+  "term": "Five Medication Rights",
+  "term_fr": "Les cinq « bons » du médicament",
+  "definition_en": "Right person, right medication, right dose, right time, right route. Check each against the label and the care plan.",
+  "definition_fr": "Bonne personne, bon médicament, bonne dose, bon moment, bonne voie. Vérifier chacun sur l'étiquette et dans le plan de soins.",
+  "example": "If any of the Five Rights does not match, call the supervisor.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_053",
+  "term": "Assisting with self-administration",
+  "term_fr": "Aide à la prise autonome des médicaments",
+  "definition_en": "Reminding, bringing the medication, reading the label, opening the container and giving water so the client takes the medication alone. The worker never administers.",
+  "definition_fr": "Rappeler, apporter le médicament, lire l'étiquette, ouvrir le flacon et donner de l'eau pour que le client prenne lui-même son médicament. L'aide n'administre jamais.",
+  "example": "Do not crush pills or mix them in food.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_054",
+  "term": "Route",
+  "term_fr": "Voie d'administration",
+  "definition_en": "How a medication is taken: by mouth, on the skin, in the eye, etc.",
+  "definition_fr": "Façon dont un médicament est pris : par la bouche, sur la peau, dans l'œil, etc.",
+  "example": "Check the route on the label against the care plan.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_055",
+  "term": "Expiration date",
+  "term_fr": "Date de péremption",
+  "definition_en": "The date after which a medication or food should not be used.",
+  "definition_fr": "Date après laquelle un médicament ou un aliment ne doit plus être utilisé.",
+  "example": "Always check the expiration date on the bottle.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_056",
+  "term": "Abuse",
+  "term_fr": "Maltraitance",
+  "definition_en": "Intentional harm: physical, emotional, sexual or financial. Must be reported.",
+  "definition_fr": "Préjudice intentionnel : physique, émotionnel, sexuel ou financier. Doit être signalé.",
+  "example": "Taking a client's money without consent is financial abuse.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_057",
+  "term": "Neglect",
+  "term_fr": "Négligence",
+  "definition_en": "Failure to provide needed care: food, fluids, hygiene, safety or medical needs. Also reportable.",
+  "definition_fr": "Manquement aux soins nécessaires : nourriture, boisson, hygiène, sécurité ou soins médicaux. Également à signaler.",
+  "example": "Leaving a client in soiled briefs all day is neglect.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_058",
+  "term": "Mandatory reporter",
+  "term_fr": "Personne tenue de signaler",
+  "definition_en": "A worker legally required to report suspected abuse or neglect.",
+  "definition_fr": "Travailleur légalement obligé de signaler tout soupçon de maltraitance ou de négligence.",
+  "example": "Home care workers are mandatory reporters.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_059",
+  "term": "Advance directive",
+  "term_fr": "Directives anticipées",
+  "definition_en": "A legal document stating a person's health care wishes if they cannot speak for themselves (living will, health care proxy).",
+  "definition_fr": "Document légal exprimant les volontés de santé d'une personne si elle ne peut plus s'exprimer (testament de vie, mandataire de santé).",
+  "example": "Report the client's end-of-life wishes so an advance directive can be documented.",
+  "module": "II",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_060",
+  "term": "DNR (Do Not Resuscitate)",
+  "term_fr": "Ordre de non-réanimation (DNR)",
+  "definition_en": "A doctor's order not to perform CPR if the heart or breathing stops.",
+  "definition_fr": "Prescription médicale de ne pas pratiquer la réanimation si le cœur ou la respiration s'arrête.",
+  "example": "Without a DNR, call 911 and start CPR.",
+  "module": "XI",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_061",
+  "term": "RACE (fire)",
+  "term_fr": "RACE (incendie)",
+  "definition_en": "Rescue, Alarm, Confine, Extinguish/Evacuate: the order of actions in a fire.",
+  "definition_fr": "Rescue (secourir), Alarm (alerter le 911), Confine (confiner), Extinguish/Evacuate (éteindre ou évacuer) : l'ordre des actions en cas d'incendie.",
+  "example": "RACE: get the client out first, then call 911.",
+  "module": "XI",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_062",
+  "term": "ABCs of first aid",
+  "term_fr": "L'ABC des premiers secours",
+  "definition_en": "Airway, Breathing, Circulation: what to check first in an emergency.",
+  "definition_fr": "Airway (voies respiratoires), Breathing (respiration), Circulation : ce qu'il faut vérifier en premier en urgence.",
+  "example": "Remember the ABCs after calling 911.",
+  "module": "XI",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_063",
+  "term": "Hypoglycemia",
+  "term_fr": "Hypoglycémie",
+  "definition_en": "Low blood sugar: sweating, shaking, confusion, dizziness. Give fast sugar if the client is conscious, then report.",
+  "definition_fr": "Taux de sucre bas : sueurs, tremblements, confusion, vertiges. Donner du sucre rapide si le client est conscient, puis signaler.",
+  "example": "A diabetic client who is sweating and confused may have hypoglycemia.",
+  "module": "XI",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_064",
+  "term": "Dementia",
+  "term_fr": "Démence",
+  "definition_en": "Loss of memory, thinking and social abilities severe enough to affect daily life. Alzheimer's disease is the most common cause.",
+  "definition_fr": "Perte de mémoire, de capacités de pensée et sociales assez grave pour gêner la vie quotidienne. La maladie d'Alzheimer en est la cause la plus fréquente.",
+  "example": "With dementia, acknowledge feelings and redirect instead of arguing.",
+  "module": "III",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_065",
+  "term": "Scope of practice",
+  "term_fr": "Champ de pratique",
+  "definition_en": "The tasks a worker is legally allowed to do. HHAs do not give medications, do sterile procedures or make medical decisions.",
+  "definition_fr": "Les tâches qu'un travailleur est légalement autorisé à faire. L'aide à domicile ne donne pas de médicaments, ne fait pas d'actes stériles et ne prend pas de décisions médicales.",
+  "example": "Changing a sterile dressing is outside the HHA scope of practice.",
+  "module": "I",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_066",
+  "term": "Vital signs",
+  "term_fr": "Signes vitaux",
+  "definition_en": "Temperature, pulse, respiration and blood pressure.",
+  "definition_fr": "Température, pouls, respiration et tension artérielle.",
+  "example": "Record vital signs with the exact time they were taken.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_067",
+  "term": "Perineal care",
+  "term_fr": "Toilette intime",
+  "definition_en": "Washing the genital and anal area. Done last in a bed bath, front to back.",
+  "definition_fr": "Lavage de la zone génitale et anale. Fait en dernier lors de la toilette au lit, d'avant en arrière.",
+  "example": "Wear gloves and provide privacy for perineal care.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_068",
+  "term": "Occupied bed",
+  "term_fr": "Lit occupé",
+  "definition_en": "Changing sheets while the client stays in bed, rolling the soiled sheet under the client.",
+  "definition_fr": "Changer les draps pendant que le client reste au lit, en roulant le drap sale sous le client.",
+  "example": "Make an occupied bed for a client who cannot get up.",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_069",
+  "term": "Clock method",
+  "term_fr": "Méthode de l'horloge",
+  "definition_en": "Describing food positions on the plate like a clock face for a visually impaired client.",
+  "definition_fr": "Décrire la place des aliments sur l'assiette comme les heures d'une horloge pour un client malvoyant.",
+  "example": "\"Your rice is at 3 o'clock.\"",
+  "module": "XII",
+  "category": "vocabulary"
+ },
+ {
+  "id": "hv_070",
+  "term": "Agency policy",
+  "term_fr": "Politique de l'agence",
+  "definition_en": "The rules of the home care agency that the worker must follow, including incidents, money, absences and reporting.",
+  "definition_fr": "Règles de l'agence de soins à domicile que l'aide doit suivre : incidents, argent, absences et signalements.",
+  "example": "Non-compliance with agency policy is a reason for dismissal.",
+  "module": "I",
+  "category": "vocabulary"
+ }
+]
