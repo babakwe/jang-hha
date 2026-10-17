@@ -25,6 +25,16 @@
     "Décider d'arrêter un médicament prescrit"
    ],
    "exp": "Le champ de pratique de l'aide à domicile se limite aux soins personnels et au soutien : toilette, habillage, soins d'apparence, aide aux toilettes, marche, ménage léger, repas et compagnie. Les décisions médicales et les actes stériles reviennent à l'infirmière."
+  },
+  "wo": {
+   "q": "Ban liggéey moo BOKK ci li aide à domicile (HHA) sañ a def ?",
+   "choices": [
+    "Soppi dose bu insuline bu kiliyaan bi ci kaw sukaram",
+    "Dimbali kiliyaan bi mu sangu, sol te taaral boppam",
+    "Soppi pansement stérile moom rekk",
+    "Dogal ñu taxawal garab bu doktor santaane"
+   ],
+   "exp": "Li aide sañ a def : soins personnels ak ndimbal rekk : sangu, sol, taaral, wanag, dox, setal lu néew, ñam ak àndandoo. Dogal ci faju ak lu stérile, infirmiyeer bi moo ko yor."
   }
  },
  {
@@ -53,6 +63,16 @@
     "Rassurer le client et le noter dans ses notes personnelles"
    ],
    "exp": "Tout changement d'état est un événement à signaler sans attendre. L'infirmière superviseure doit être informée rapidement."
+  },
+  "wo": {
+   "q": "Aide bi gis na lu soppiku lu rëy ci kiliyaan bi : jaxasoo na lu ëpp lu mu miin. Aide bi war na :",
+   "choices": [
+    "Xaar ba bés bu ñëw bi ngir wax ko",
+    "Seet lu ko waral ci garab yi kiliyaan bi di jël",
+    "Wax ko infirmiyeer bi lay saytu ci saa si",
+    "Dal kiliyaan bi te bind ko ci kayitam bu bopp"
+   ],
+   "exp": "Lu soppiku ci yaram lu ñu war a wax la, bul xaar. Infirmiyeer bi lay saytu war na ko xam bu gaaw."
   }
  },
  {
@@ -81,6 +101,16 @@
     "Le faire juste cette fois pour garder de bonnes relations"
    ],
    "exp": "L'aide suit le plan de soins. Les tâches hors plan doivent être demandées à l'agence ou à l'infirmière superviseure."
+  },
+  "wo": {
+   "q": "Mbokk mu kiliyaan bi laaj na aide bi mu def liggéey bu nekkul ci palaŋu topptoo bi, ni yóbbu kiliyaan bi ci doktor. Aide bi war na :",
+   "choices": [
+    "Def ko : soxlay njaboot gi bokk na ci liggéey bi",
+    "Bañ ak teggin te leeral ne liggéey yi war nañu nekk ci palaŋu topptoo bi",
+    "Laaj njaboot gi xaalis bu dolli",
+    "Def ko benn yoon bii rekk ngir jëflante bu baax"
+   ],
+   "exp": "Aide bi palaŋu topptoo bi lay topp. Liggéey yu nekkul ci palaŋ bi, war nañu ko laaj agence bi walla infirmiyeer bi."
   }
  },
  {
@@ -109,6 +139,16 @@
     "Une fois en arrivant et une fois en partant"
    ],
    "exp": "Le lavage des mains est la mesure de contrôle des infections la plus importante. Il se fait avant et après chaque contact, après tout contact avec des liquides corporels, et avant de quitter le domicile."
+  },
+  "wo": {
+   "q": "Kañ la aide à domicile war a raxas loxoom ci kër kiliyaan bi ?",
+   "choices": [
+    "Laata ñuy togg rekk",
+    "Laata ak ginnaaw laal bu nekk ak kiliyaan bi, ginnaaw laal ndoxum yaram, ak laata ngay dem",
+    "Bu loxo yi tilimee rekk",
+    "Benn yoon bu nga ñëwee ak benn yoon bu ngay dem"
+   ],
+   "exp": "Raxas loxo mooy li gën a am solo ci aar ci jàngoro. Laata ak ginnaaw laal bu nekk, ginnaaw laal ndoxum yaram, ak laata ngay génn kër gi."
   }
  },
  {
@@ -137,6 +177,16 @@
     "Demander au client de porter un masque pendant la visite"
    ],
    "exp": "Précautions standard : gants, hygiène des mains rigoureuse, et masque si contact rapproché avec des sécrétions respiratoires."
+  },
+  "wo": {
+   "q": "Aide bi mu ngi topptoo kiliyaan bu sëqët te bakkanam di wal. Ngir aar boppam, aide bi war na :",
+   "choices": [
+    "Bàyyi visite bi te delloo ko beneen ayu-bés",
+    "Sol gant, raxas loxoom bu baax, te xalaat ci mask bu jegee lool",
+    "Sol gant rekk : yeneen aar soxlawul ci sëqët",
+    "Laaj kiliyaan bi mu sol mask bu aide bi nekkee fa"
+   ],
+   "exp": "Précautions standard : gant, raxas loxo bu baax, ak mask bu nga jegee lu génn ci bakkan ak gémmiñ."
   }
  },
  {
@@ -165,6 +215,16 @@
     "Laisser le linge souillé par terre jusqu'à la fin de la visite"
    ],
    "exp": "Secouer le linge disperse les microbes dans l'air. Tenez-le loin de vous et mettez-le directement dans le sac à linge."
+  },
+  "wo": {
+   "q": "Bu ngay yor dara yu tilim ci kër kiliyaan bi, aide bi war na :",
+   "choices": [
+    "Yëngal dara yi ngir dindi lu ci nekk laata ngay fóot",
+    "Jàpp dara yi ci sa yaram ngir yor leen bu baax",
+    "Jàpp dara yi fu sore ci sa yaram, bul leen yëngal, te def leen ci saaku fóot ci saa si",
+    "Bàyyi dara yu tilim yi ci suuf ba visite bi jeex"
+   ],
+   "exp": "Yëngal dara yi dafay tasaare mikrob yi ci ngelaw. Jàpp leen fu sore ci yaw te def leen ci saaku fóot bi."
   }
  },
  {
@@ -193,6 +253,16 @@
     "Habiller le client de la tête aux pieds sans s'arrêter"
    ],
    "exp": "Règle : habiller le côté faible en premier, déshabiller le côté fort en premier. Cela évite de forcer sur le membre atteint."
+  },
+  "wo": {
+   "q": "Ngir dimbali kiliyaan bu am wet gu néew doole (hémiplégie) mu sol, aide bi war na :",
+   "choices": [
+    "Sol wet gu wóor gi bu jëkk ngir mu am kóolute",
+    "Sol wet gu néew doole gi bu jëkk",
+    "Bàyyi kiliyaan bi mu sol moom rekk te dimbaliwul ko",
+    "Sol kiliyaan bi bopp ba tànk te taxawul"
+   ],
+   "exp": "Ndigël : sol wet gu néew doole bu jëkk, summi wet gu wóor bu jëkk. Dafay bañ ñu xécc cér bu néew doole bi."
   }
  },
  {
@@ -221,6 +291,16 @@
     "Appliquer un produit anti-cors acheté en pharmacie"
    ],
    "exp": "Les aides ne coupent jamais les ongles ; chez un diabétique, les soins des pieds relèvent de l'infirmière ou du podologue. Signalez."
+  },
+  "wo": {
+   "q": "Kiliyaan bu am diabète am na we yu tànk yu dëgër te dugg ci dér bi. Aide bi war na :",
+   "choices": [
+    "Dagg we yi bu baax ak coupe-ongles",
+    "Tooyal tànk yi te limal we yi",
+    "Wax ko infirmiyeer bi : topptoo tànki ku am diabète liggéey bu ñu tànn la",
+    "Def produit bu cors bu ñu jënd ci farmasi"
+   ],
+   "exp": "Aide yi duñu dagg we mukk ; ci ku am diabète, topptoo tànk yi infirmiyeer walla podologue lay yor. Wax ko."
   }
  },
  {
@@ -249,6 +329,16 @@
     "Après que le client est entré dans la douche"
    ],
    "exp": "L'aide teste toujours l'eau avant que le client y entre, puis demande au client si la température lui convient."
+  },
+  "wo": {
+   "q": "Bu ngay dimbali ci duus, tàngooru ndox mi war nañu ko seet :",
+   "choices": [
+    "Kiliyaan bi rekk : moo xam li ko neex",
+    "Aide bi, ak thermomètre walla biir poñam, ba pare laaj kiliyaan bi",
+    "Bu kiliyaan bi amee diabète walla jafe-jafe ci dereet rekk",
+    "Ginnaaw bu kiliyaan bi duggee ci duus bi"
+   ],
+   "exp": "Aide bi dafay seet ndox mi saa su nekk laata kiliyaan bi di dugg, ba pare laaj ko ndax tàngoor bi neex na ko."
   }
  },
  {
@@ -277,6 +367,16 @@
     "Fermer le gaz à la vanne principale sous la cuisinière"
    ],
    "exp": "Une fuite de gaz peut exploser. Aucune étincelle (interrupteur, allumette). Sortez avec le client et appelez le 911 de l'extérieur."
+  },
+  "wo": {
+   "q": "Aide bi ñëw na ci kër kiliyaan bi te xeeñ gaz bu bari ci appartement bépp. Li mu war a def BU JËKK mooy :",
+   "choices": [
+    "Seet cuisinière bi te ubbi palanteer yi laata ngay woo kenn",
+    "Taal lampe yi ngir gis bu baax",
+    "Génne kiliyaan bi ci saa si te woo 911 ci biti",
+    "Tëj gaz bi ci vanne bu mag bi ci suufu cuisinière bi"
+   ],
+   "exp": "Gaz mën na fëtt. Benn étincelle du am (interrupteur, allumette). Génnal ak kiliyaan bi te woo 911 ci biti."
   }
  },
  {
@@ -305,6 +405,16 @@
     "Demander au client d'appeler à l'aide chaque fois qu'il veut bouger"
    ],
    "exp": "Les tapis mobiles, le mauvais éclairage et l'encombrement sont les principales causes de chute à la maison."
+  },
+  "wo": {
+   "q": "Ngir wàññi lu tax kiliyaan bi daanu ci kër, aide bi war na :",
+   "choices": [
+    "Bàyyi meubles yépp fu ñu nekkoon ngir kiliyaan bi fàttaliku fu ñu nekk",
+    "Dindi tapi yu dul jàpp, leeral bu baax te dindi lu nekk ci yoon yi",
+    "Téye kiliyaan bi ci benn néeg ngir mu dox lu néew",
+    "Laaj kiliyaan bi mu woo ndimbal bu nekk bu bëggee yëngu"
+   ],
+   "exp": "Tapi yu dul jàpp, leer bu néew ak lu dajaloo ñooy lu gën a tax ñuy daanu ci kër."
   }
  },
  {
@@ -333,6 +443,16 @@
     "Dire au client de la prendre lui-même pour ne pas être responsable"
    ],
    "exp": "L'aide n'ajuste jamais une dose. L'augmentation de la douleur est un changement d'état à signaler à l'infirmière."
+  },
+  "wo": {
+   "q": "Kiliyaan bi laaj na aide bi mu dimbali ko mu jël dose bu dolli ci garabu metit ndax dafa gën a metti tey. Aide bi war na :",
+   "choices": [
+    "Jox ko dose bu dolli bi : wàññi metit soxla bu mag la",
+    "Bañ dose bu dolli bi te wax infirmiyeer bi ne metit wi yokku na",
+    "Jox ko genn-wàll ngir ñu juboo",
+    "Wax kiliyaan bi mu jël ko moom ngir aide bi bañ a am wareef"
+   ],
+   "exp": "Aide bi du soppi dose mukk. Metit bu yokku lu soppiku la te war nañu ko wax infirmiyeer bi."
   }
  },
  {
@@ -361,6 +481,16 @@
     "Remplacer le sel par un substitut sans en parler à l'infirmière"
    ],
    "exp": "Le régime prescrit fait partie du plan de soins. Pas de sel ajouté ; les substituts de sel nécessitent l'accord de l'infirmière."
+  },
+  "wo": {
+   "q": "Kiliyaan bi am na régime bu néew xorom bu doktor santaane. Bu ngay togg añ bi, aide bi war na :",
+   "choices": [
+    "Dolli tuuti xorom ndax régime bi « néew » xorom la, du « amul » xorom",
+    "Topp régime bi te bul dolli xorom walla ñam bu bari xorom",
+    "Laaj kiliyaan bi ndax bëgg na xorom : këram la te moo tànn",
+    "Wuutu xorom bi ak substitut te waxul infirmiyeer bi"
+   ],
+   "exp": "Régime bi bokk na ci palaŋu topptoo bi. Amul xorom bu ñu dolli ; substitut yi dañuy soxla ndigëlu infirmiyeer bi."
   }
  },
  {
@@ -389,6 +519,16 @@
     "Suivre la pratique de conservation préférée du client"
    ],
    "exp": "Les bactéries se multiplient à température ambiante. Réfrigérez rapidement, couvrez et datez ; jetez après 2 heures hors du froid."
+  },
+  "wo": {
+   "q": "Ngir denc ñam bu des ci kër kiliyaan bi, aide bi war na :",
+   "choices": [
+    "Bàyyi ko ci kaw tabal te muur ko ak sarbet : sedd dafay soppi cafkaam",
+    "Bind ko te def ko ci frigo bu gaaw ; sànni lu des ci biti lu ëpp 2 waxtu",
+    "Def yàpp rekk ci frigo : yeneen ñam mën nañu des ci biti",
+    "Topp ni kiliyaan bi bëgge denc ñamam"
+   ],
+   "exp": "Mikrob yi dañuy law ci tàngooru néeg. Def ko ci frigo bu gaaw, muur ko te bind bés bi ; sànni lu ëpp 2 waxtu ci biti."
   }
  },
  {
@@ -417,6 +557,16 @@
     "Un problème seulement si le client tousse visiblement"
    ],
    "exp": "Les liquides fins passent facilement dans les poumons chez une personne qui a du mal à avaler. Respectez la consistance prescrite."
+  },
+  "wo": {
+   "q": "Kiliyaan bu am dysphagie war na naan ndox yu ñu baxal (nectar). Aide bi jox na ko kaas bu ndox mu ñu baxalul. Loolu :",
+   "choices": [
+    "Baax na : ndox du lor mukk",
+    "Du topp palaŋ bi te mën na indi pnemoni ci kiliyaan bi (ñam wi dem ci pumoŋ yi)",
+    "Baax na bu kiliyaan bi ko laajee moom",
+    "Jafe-jafe la bu kiliyaan bi sëqëtee rekk"
+   ],
+   "exp": "Ndox mu sew dafay yomb a dem ci pumoŋ ci ku am jafe-jafe ci wann. Topp texture bi ñu santaane."
   }
  },
  {
@@ -445,6 +595,16 @@
     "Accepter, mais noter l'information dans ses notes personnelles pour la partager plus tard"
    ],
    "exp": "La confidentialité est un droit du client. Les informations de santé ne vont qu'aux personnes autorisées par le client ou par la loi."
+  },
+  "wo": {
+   "q": "Kiliyaan bi wax na aide bi : « Bëgguma nga wax sama doom yi sama wérgi-yaram, sama mbir la. » Aide bi war na :",
+   "choices": [
+    "Wax ko njaboot gi quand même : war nañu ko xam ngir kaaraange bi",
+    "Weg suturaa kiliyaan bi ; wax xibaar yi ñi ñu may rekk",
+    "Laaj infirmiyeer bi mu wax ko njaboot gi",
+    "Nangu, waaye bind ko ci kayitam bu bopp ngir wax ko ëllëg"
+   ],
+   "exp": "Sutura sañ-sañu kiliyaan bi la. Xibaari wérgi-yaram, ñi kiliyaan bi walla yoon wi may rekk."
   }
  },
  {
@@ -473,6 +633,16 @@
     "D'une pratique acceptable car la famille a autorité sur les finances"
    ],
    "exp": "Prendre l'argent d'un client à son insu est de l'exploitation financière, une forme de maltraitance. Signalez à votre superviseur."
+  },
+  "wo": {
+   "q": "Aide bi gis na doomu kiliyaan bi di jël xaalis ci portefeuille-am te xamul ko. Lii TRÈS PROBABLEMENT :",
+   "choices": [
+    "Saytu xaalis bu njaboot bu baax la, amul lu war a jaaxal",
+    "Toroxal ci xaalis la : war nañu ko wax",
+    "Jafe-jafe la bu kiliyaan bi ñaxtoo rekk",
+    "Baax na ndax njaboot gi am na sañ-sañ ci xaalis bi"
+   ],
+   "exp": "Jël xaalisu kiliyaan te xamul ko toroxal ci xaalis la, xeetu toroxal. Wax ko sa superviseur."
   }
  },
  {
@@ -501,6 +671,16 @@
     "Décider selon les circonstances le moment venu"
    ],
    "exp": "Les souhaits de fin de vie doivent être documentés officiellement (directives anticipées, DNR). L'aide signale, elle ne décide pas."
+  },
+  "wo": {
+   "q": "Kiliyaan bi wax na aide bi : « Bëgg naa dee ci sama kër, bëgguma lopitaal walla réanimation. » Aide bi war na :",
+   "choices": [
+    "Bàyyi wax ji : kiliyaan bi xelam amul mbaa",
+    "Nangu li kiliyaan bi bëgg te wax ko infirmiyeer bi ngir ñu bind ko bu baax (directives anticipées, DNR)",
+    "Woo 911 bu kiliyaan bi feebaree lu metti, lu mu bëgg bëgg",
+    "Dogal ci jamono ji bu waxtu wi jotee"
+   ],
+   "exp": "Li nit bëgg ci jeexitalu dundam war nañu ko bind bu baax (directives anticipées, DNR). Aide bi dafay wax, du dogal."
   }
  },
  {
@@ -529,6 +709,16 @@
     "Appeler d'abord l'agence pour des instructions"
    ],
    "exp": "Après le 911, vérifiez la respiration et le pouls et commencez la RCP si vous êtes formé. Le répartiteur du 911 peut vous guider."
+  },
+  "wo": {
+   "q": "Bu ngay togg añ bi, kiliyaan bi daanu na te tontuwul. Ginnaaw bu nga woo 911, aide bi war na :",
+   "choices": [
+    "Xaar ci wetu kiliyaan bi te laalul ko ba secours yi ñëw",
+    "Seet ndax am na pouls te noyyi na ; tàmbali RCP bu amul pouls te noyyiwul bu baax",
+    "Tëddal kiliyaan bi ci wet te xaar 911",
+    "Woo agence bi bu jëkk ngir ndigël"
+   ],
+   "exp": "Ginnaaw 911, seet noyyi ak pouls te tàmbali RCP bu nga jàngee. Ki tontu ci 911 mën na la jàppale."
   }
  },
  {
@@ -557,6 +747,16 @@
     "Une crise de panique : faire respirer le client dans un sac en papier"
    ],
    "exp": "Sueurs, tremblements, confusion et vertiges chez un diabétique évoquent une hypoglycémie. Si le client est conscient et peut avaler, donnez du sucre rapide, puis signalez."
+  },
+  "wo": {
+   "q": "Kiliyaan bu am diabète mu ngi ñaq, lox, jaxasoo te wax ne boppam dafay wër. Amul natt bu sukar. Aide bi war na xalaat :",
+   "choices": [
+    "AVC : woo 911 te defuloo dara",
+    "Hypoglycémie (sukar bu wàcc) : jox ko 15 g sukar bu gaaw bu xamee boppam",
+    "Hyperglycémie (sukar bu yokku) : bul ko jox dara te woo infirmiyeer bi",
+    "Tiit : noyyil ko ci saaku kayit"
+   ],
+   "exp": "Ñaq, lox, jaxasoo ak bopp buy wër ci ku am diabète dafay wone hypoglycémie. Bu xamee boppam te mën a wann, jox ko sukar bu gaaw, ba pare wax ko."
   }
  },
  {
@@ -585,6 +785,16 @@
     "Mettre de la glace et attendre 30 minutes avant d'appeler"
    ],
    "exp": "Une douleur de hanche après une chute peut signifier une fracture. Ne déplacez pas le client ; gardez-le immobile et au chaud et appelez à l'aide."
+  },
+  "wo": {
+   "q": "Aide bi gis na kiliyaan bi ci suuf. Kiliyaan bi xam na boppam te wax ne juram dafay metti lool. Aide bi war na :",
+   "choices": [
+    "Dimbali ko mu jóg ndank te toog ngir seet lu am",
+    "Bàyyi kiliyaan bi ci suuf, mu bañ a yëngu te tàng, te woo ndimbal ci saa si",
+    "Wax ko mu jéem a dox ngir xam ndax jur bi mën na yenu",
+    "Def glace te xaar 30 simili laata ngay woo"
+   ],
+   "exp": "Metitu jur ginnaaw daanu mën na tekki damm. Bul yëngal kiliyaan bi ; mu bañ a yëngu te tàng, te woo ndimbal."
   }
  },
  {
@@ -613,6 +823,16 @@
     "Seulement ce que l'infirmière lui demande de noter"
    ],
    "exp": "Le registre informe toute l'équipe. Notez tous les soins, l'état du client, apports et éliminations, et vos observations factuelles."
+  },
+  "wo": {
+   "q": "Bu ngay bind ci kayitu bés bu kiliyaan bi, aide bi war na bind :",
+   "choices": [
+    "Jafe-jafe ak urgence rekk : topptoo bu bés bu nekk soxlawul bind",
+    "Topptoo yépp, ni kiliyaan bi mel, li mu naan ak li mu saw, ak li nga gis yépp",
+    "Lu gàtt rekk ne visite bi am na te dara amul",
+    "Li infirmiyeer bi laaj rekk"
+   ],
+   "exp": "Kayit bi ekib bépp lay jariñ. Bind topptoo yépp, ni kiliyaan bi mel, li mu naan ak li mu saw, ak li nga gis."
   }
  },
  {
@@ -641,6 +861,16 @@
     "Arracher la page et recommencer"
    ],
    "exp": "Un seul trait, la correction, et vos initiales : l'erreur reste lisible, ce qui prouve qu'il n'y a pas eu falsification."
+  },
+  "wo": {
+   "q": "Aide bi juum na ci kayit bi : bind na waxtu wu dul wu jub ci jël garab. Jubbanti bu jub mooy :",
+   "choices": [
+    "Def correcteur bu weex te bind ci kaw",
+    "Ñuulal njuumte bi ba kenn du mën a jàng",
+    "Rëdd benn rëdd ci njuumte bi, bind lu jub li te xaatim",
+    "Xotti xët wi te tàmbaliwaat"
+   ],
+   "exp": "Benn rëdd, jubbanti bi ak sa initiales : njuumte bi des na lu ñu mën a jàng, loolu wone na ne amul ñu ko fuñu."
   }
  },
  {
@@ -669,6 +899,16 @@
     "Choisir la méthode qu'il préfère"
    ],
    "exp": "Déambulateur : on l'avance d'abord, puis on fait un pas à l'intérieur, en gardant les quatre pieds au sol pour la stabilité."
+  },
+  "wo": {
+   "q": "Aide bi mu ngi dimbali kiliyaan bi mu jëfandikoo déambulateur. Kiliyaan bi war na :",
+   "choices": [
+    "Yékkati ko bépp jéego bu nekk ngir dem kanam",
+    "Gliss ko ci suuf ngir mu des laal suuf",
+    "Jëkk yóbbu déambulateur bi ci kanam, ba pare dox ci biir, benn wet bu nekk",
+    "Tànn ni mu bëgge"
+   ],
+   "exp": "Déambulateur : yóbbu ko ci kanam bu jëkk, ba pare dox ci biir, ñeenti tànk yi ci suuf ngir dëgër."
   }
  },
  {
@@ -697,6 +937,16 @@
     "Le client a un magazine à lire"
    ],
    "exp": "Sécurité d'abord : moyen d'appel à portée de main, position stable, et tout ce dont il a besoin accessible."
+  },
+  "wo": {
+   "q": "Ginnaaw topptoo bu suba, aide bi bàyyi na kiliyaan bi toog ci siis. Laata ngay génn néeg bi, aide bi war na xool ndax :",
+   "choices": [
+    "Télé bi taal na ngir kiliyaan bi bañ a soof",
+    "Kiliyaan bi am na telefonam walla sonet bi ci loxoom te toog na bu wóor",
+    "Rideau yi ubbeeku nañu ngir leer",
+    "Kiliyaan bi am na magazine bu muy jàng"
+   ],
+   "exp": "Kaaraange bu jëkk : lu muy woo ci loxoom, toogaay bu dëgër, te li mu soxla yépp ci wetam."
   }
  },
  {
@@ -725,6 +975,16 @@
     "Lui dire qu'elle ne peut pas partir avant la fin du service"
    ],
    "exp": "Avec la démence, on ne contredit pas : on reconnaît le sentiment et on redirige vers une activité apaisante."
+  },
+  "wo": {
+   "q": "Kiliyaan bu am démence dafa mer te di laaj saa su nekk mu dellu këram, te mu ngi ci këram. Tontu bu GËN bu aide bi mooy :",
+   "choices": [
+    "« Yaa ngi ci sa kër, bàyyil wax ji. »",
+    "Nangu xolam te wëlbati ko ndank : « Dangaa jaaxle ; nañu naan attaaya ñoom ñaar. »",
+    "Won ko nataali njabootam ngir firndeel ne ci këram la",
+    "Wax ko ne mënul génn ba liggéey bi jeex"
+   ],
+   "exp": "Ak démence, duñu weddi : dañuy nangu xol bi te wëlbati ko ci lu dal."
   }
  },
  {
@@ -753,6 +1013,16 @@
     "Suggérer au client d'appeler sa famille quand il se sentira prêt"
    ],
    "exp": "Toute parole suicidaire est une urgence. Ne pas banaliser, ne pas promettre le secret : rester présent et signaler tout de suite."
+  },
+  "wo": {
+   "q": "Kiliyaan bi wax na aide bi : « Dama xalaat jeexal sama dund. Gisatuma lu ko war. » Aide bi war na :",
+   "choices": [
+    "Wax ko ne dina gën te soppi waxtaan bi",
+    "Dig ko ne du ko wax kenn ngir mu wéy di ko wóolu",
+    "Jël wax ji ci lu am solo, des ak kiliyaan bi, te wax ko infirmiyeer bi ci saa si",
+    "Wax ko mu woo njabootam bu ko bëggee"
+   ],
+   "exp": "Wax ci bëgg a dee urgence la. Bul ko woyofal, bul dig kumpa : des fa te wax ko ci saa si."
   }
  },
  {
@@ -781,6 +1051,16 @@
     "Seule l'infirmière superviseure peut accepter des cadeaux"
    ],
    "exp": "Accepter des cadeaux ou de l'argent compromet la relation professionnelle et peut être considéré comme de l'exploitation. Suivez la politique de l'agence."
+  },
+  "wo": {
+   "q": "Aide bi war na bañ a nangu may walla xaalis ci kiliyaan yi ndax :",
+   "choices": [
+    "Dafay indi conflit d'intérêts te mën na jàdd ndigëlu agence bi ak jikkoy liggéey bi",
+    "May yi jafe-jafe lañu bu ñu ëppee 50 dollar rekk",
+    "May yu ndaw ni ñam walla tóor-tóor baax nañu",
+    "Infirmiyeer bi rekk moo sañ a nangu may"
+   ],
+   "exp": "Nangu may walla xaalis dafay yàq jëflante bu liggéey bi te mën nañu ko jàppe ni toroxal. Topp ndigëlu agence bi."
   }
  },
  {
@@ -809,6 +1089,16 @@
     "Demander à un ami ou à un membre de sa famille de le remplacer"
    ],
    "exp": "Seule l'agence peut organiser un remplacement qualifié. Prévenez le plus tôt possible."
+  },
+  "wo": {
+   "q": "Aide bu war a ñàkk visite bu ñu tëral war na :",
+   "choices": [
+    "Laaj dëkkandoo mu dem seet kiliyaan bi",
+    "Bàyyi visite bi te fey waxtu wi ëllëg",
+    "Wax agence bi bu gaaw ngir ñu wuutal ko",
+    "Laaj xarit walla mbokk mu wuutu ko"
+   ],
+   "exp": "Agence bi rekk moo mën a wuutal ak ku xam liggéey bi. Wax leen bu gaaw."
   }
  },
  {
@@ -837,6 +1127,16 @@
     "Passer à autre chose immédiatement : les soignants sont formés à ne rien ressentir"
    ],
    "exp": "Le deuil des soignants est normal. Reconnaissez-le et appuyez-vous sur votre agence."
+  },
+  "wo": {
+   "q": "Aide bi topptoo na kiliyaan bu nekk ci jeexitalu dundam juróom-benni weer te bëgg na ko lool. Kiliyaan bi dee na. Tontu bu GËN ci liggéey bi mooy :",
+   "choices": [
+    "Bañ a laal njaboot gi ginnaaw dee gi : du liggéeyam",
+    "Dem ci rob bi bu njaboot gi ko woo rekk",
+    "Nangu naqaram, sàkku ndimbal ci agence bi, te bàyyi boppam mu jooy",
+    "Jàll ci saa si : soignants dañu leen jàngal ñu bañ a yég dara"
+   ],
+   "exp": "Naqaru soignants lu baax la. Nangu ko te sukkandiku ci sa agence."
   }
  },
  {
@@ -865,6 +1165,16 @@
     "High-risk Health Agency"
    ],
    "exp": "HHA = Home Health Aide, l'aide à domicile. Il donne des soins personnels et des services de santé de base au domicile du client, sous la supervision d'une infirmière ou d'un thérapeute."
+  },
+  "wo": {
+   "q": "Lu « HHA » di tekki ?",
+   "choices": [
+    "Hospital Health Assistant",
+    "Home Health Aide (aide à domicile)",
+    "Healthcare Hygiene Associate",
+    "High-risk Health Agency"
+   ],
+   "exp": "HHA = Home Health Aide, aide à domicile. Dafay jox soins personnels ak topptoo bu bopp ci kër kiliyaan bi, ci kaw kilifteefu infirmiyeer walla thérapeute."
   }
  },
  {
@@ -893,6 +1203,16 @@
     "Le nombre de clients qu'il peut avoir"
    ],
    "exp": "Le champ de pratique est la limite légale de ce que vous êtes formé et autorisé à faire. L'aide donne des soins personnels mais n'administre pas de médicaments, ne fait pas d'actes stériles et ne pose pas de diagnostic."
+  },
+  "wo": {
+   "q": "Lu « champ de pratique » di tekki ngir aide à domicile ?",
+   "choices": [
+    "Rëyaayu kër gi mu mën a liggéey",
+    "Liggéey yi yoon wi may aide bi mu def",
+    "Gox bi mu mën a liggéey",
+    "Ñaata kiliyaan la mën a am"
+   ],
+   "exp": "Champ de pratique mooy li yoon wi may la ngir sa njàng. Aide bi dafay def soins personnels waaye du jox garab, du def lu stérile, du diagnostic."
   }
  },
  {
@@ -921,6 +1241,16 @@
     "La compagnie d'assurance"
    ],
    "exp": "Le plan de soins est créé par l'infirmière ou le thérapeute superviseur. L'aide le suit exactement et signale les changements nécessaires, sans jamais le modifier lui-même."
+  },
+  "wo": {
+   "q": "Kan moo sos te soppi palaŋu topptoo bu kiliyaan bu aide à domicile ?",
+   "choices": [
+    "Aide bi, ci li mu gis bés bu nekk",
+    "Njabootu kiliyaan bi",
+    "Infirmiyeer walla thérapeute bi lay saytu",
+    "Compagnie bu assurance bi"
+   ],
+   "exp": "Infirmiyeer walla thérapeute bi moo sos palaŋ bi. Aide bi dafay topp ko ni mu bind te wax lu war a soppiku, du ko soppi moom mukk."
   }
  },
  {
@@ -949,6 +1279,16 @@
     "Vérifier le réfrigérateur pour les aliments périmés"
    ],
    "exp": "La sécurité d'abord : savoir comment sortir et appeler à l'aide avant de donner des soins."
+  },
+  "wo": {
+   "q": "Lu aide bi war a def BU JËKK bu ñëwee ci kër kiliyaan bu bees ?",
+   "choices": [
+    "Tàmbali setal ci saa si",
+    "Xool fu bunt yu urgence ak telefon bi nekk",
+    "Laaj kiliyaan bi lu mu bëgg ci añ",
+    "Seet frigo bi ngir ñam bu jàll"
+   ],
+   "exp": "Kaaraange bu jëkk : xam ni ngay génne ak ni ngay woo ndimbal laata ngay topptoo."
   }
  },
  {
@@ -977,6 +1317,16 @@
     "Acceptable si la plaie est petite"
    ],
    "exp": "Les soins de plaie stériles relèvent de l'infirmière. L'aide ne fait pas d'actes stériles et doit prévenir l'infirmière superviseure. (L'aide peut assister au changement d'un pansement propre selon le plan de soins.)"
+  },
+  "wo": {
+   "q": "Aide bi mu ngi soppi pansement bu gaañu bu kiliyaan bi ci kër. Liggéey bii :",
+   "choices": [
+    "Bokk na ci li aide bi sañ a def bu jàngee ko",
+    "Bokkul ci li aide bi sañ : soins de plaie stérile infirmiyeer lay def",
+    "Baax na bu kiliyaan bi walla njaboot gi laajee ko",
+    "Baax na bu gaañu gi ndawee"
+   ],
+   "exp": "Soins de plaie stérile infirmiyeer lay yor. Aide bi du def lu stérile te war na wax infirmiyeer bi. (Mën na dimbali ci pansement bu set ni palaŋ bi ko waxe.)"
   }
  },
  {
@@ -1005,6 +1355,16 @@
     "Allumer la hotte"
    ],
    "exp": "Le gaz est explosif. Aucune étincelle (interrupteur, allumette, ventilateur). Sortez immédiatement, laissez les portes ouvertes, appelez le 911 de l'extérieur."
+  },
+  "wo": {
+   "q": "Aide bi dugg na ci waañu kiliyaan bi te xeeñ gaz. Li mu war a def BU JËKK mooy :",
+   "choices": [
+    "Taal cuisinière bi ngir seet ndax moo ko waral",
+    "Ubbi bunt ak palanteer yi te woo 911 ci biti",
+    "Taal allumette ngir seet ndax am na fuite",
+    "Taal ventilateur bi"
+   ],
+   "exp": "Gaz dafay fëtt. Benn étincelle du am (interrupteur, allumette, ventilateur). Génn ci saa si, bàyyi bunt yi ubbeeku, woo 911 ci biti."
   }
  },
  {
@@ -1033,6 +1393,16 @@
     "Appeler le médecin pour avoir la permission avant de cuisiner"
    ],
    "exp": "L'aide suit les prescriptions alimentaires du plan de soins. Expliquez gentiment, utilisez des alternatives approuvées, et signalez la demande à l'infirmière."
+  },
+  "wo": {
+   "q": "Kiliyaan bu am régime bu néew xorom laaj na aide bi mu dolli xorom ci ñamam. Aide bi war na :",
+   "choices": [
+    "Dolli xorom bi : kiliyaan bi am na sañ-sañ lekk li mu bëgg",
+    "Topp santaaney régime bi te leeral lu tax xorom bi néew ngir wérgi-yaramam",
+    "Dolli tuuti ngir kiliyaan bi bég",
+    "Woo doktor bi ngir ndigël laata ngay togg"
+   ],
+   "exp": "Aide bi dafay topp santaaney ñam yi ci palaŋ bi. Leeral ko ak teggin, jëfandikoo lu ñu nangu, te wax laaj bi infirmiyeer bi."
   }
  },
  {
@@ -1061,6 +1431,16 @@
     "Attendre de voir si ça s'améliore demain"
    ],
    "exp": "Un changement d'état (confusion nouvelle, refus de manger) doit être signalé sans attendre à l'infirmière superviseure."
+  },
+  "wo": {
+   "q": "Aide bi gis na kiliyaan bi dafa gën a jaxasoo lu mu miin te du lekk. Li GËN mooy :",
+   "choices": [
+    "Bind ko te wax ko ci visite bu ñëw bi",
+    "Woo infirmiyeer bi ngir wax ko lu soppiku bi",
+    "Jéem ñam yu wuute ba kiliyaan bi lekk",
+    "Xaar ndax dina gën ëllëg"
+   ],
+   "exp": "Lu soppiku (jaxasoo bu bees, bañ a lekk) war nañu ko wax infirmiyeer bi ci saa si."
   }
  },
  {
@@ -1089,6 +1469,16 @@
     "Dire à la famille de forcer le client à se laver"
    ],
    "exp": "Le client a le droit de refuser des soins. L'aide ne force jamais. Proposez des alternatives, respectez le droit, notez et signalez à l'infirmière."
+  },
+  "wo": {
+   "q": "Kiliyaan bi bañ na sangu. Aide bi war na :",
+   "choices": [
+    "Sangal ko ci doole ndax set bokk na ci palaŋ bi",
+    "Weg bañ gi, jéem a nand lu tax, jox ko yeneen (sangu bu néew, añs.), bind te wax",
+    "Bàyyi te bul jéemaat soins personnels mukk",
+    "Wax njaboot gi mu sangal ko ci doole"
+   ],
+   "exp": "Kiliyaan bi am na sañ-sañ bañ topptoo. Aide bi du def dara ci doole mukk. Jox yeneen, weg sañ-sañ bi, bind te wax infirmiyeer bi."
   }
  },
  {
@@ -1117,6 +1507,16 @@
     "Renvoyer le voisin vers le client directement et ne rien dire"
    ],
    "exp": "HIPAA s'applique à domicile. L'aide ne partage les informations de santé avec personne (voisins, parents éloignés, amis) sans autorisation en bonne et due forme."
+  },
+  "wo": {
+   "q": "Dëkkandoo bu kiliyaan bi woo na ngir laaj ci wérgi-yaramam. Aide bi war na :",
+   "choices": [
+    "Wax ko lu tuuti ndax dëkkandoo bi baax na",
+    "Bañ a wax dara : yoonu HIPAA dafay aar suturaa kiliyaan bi",
+    "Laaj kiliyaan bi ndax mën na ko wax",
+    "Wax dëkkandoo bi mu laaj kiliyaan bi moom te waxul dara"
+   ],
+   "exp": "HIPAA dafay jëfe ci kër. Aide bi du wax kenn xibaari wérgi-yaram (dëkkandoo, mbokk yu sore, xarit) te amul ndigël."
   }
  },
  {
@@ -1145,6 +1545,16 @@
     "« Vous devriez en parler à votre famille, pas à moi. »"
    ],
    "exp": "Toute parole sur le désir de mourir est prise au sérieux. Ne minimisez pas, ne détournez pas, n'attendez pas : signalez immédiatement à l'infirmière superviseure."
+  },
+  "wo": {
+   "q": "Kiliyaan bu aide bi wax na ko : « Bëggatuma dund. Dama yég ne dama tegu ci ñépp. » Tontu bu GËN mooy :",
+   "choices": [
+    "« Bul wax loolu ! Dina gën. »",
+    "« Nand naa ne dangaa naqarlu lool. Bëgg naa wóor ne yaa ngi ci kaaraange : maa ngi woo sa infirmiyeer léegi. »",
+    "« Ma soppi sa xel : nañu seetaan télé ñoom ñaar. »",
+    "« Waxal ko sa njaboot, du man. »"
+   ],
+   "exp": "Wax ci bëgg a dee war nañu ko jël ci lu am solo. Bul ko woyofal, bul ko wëlbati, bul xaar : wax ko infirmiyeer bi ci saa si."
   }
  },
  {
@@ -1173,6 +1583,16 @@
     "Refuser les soins sans prévenir"
    ],
    "exp": "La varicelle exige des précautions « air ». Un aide non immunisé court un vrai risque. L'infirmière superviseure décide de la conduite à tenir."
+  },
+  "wo": {
+   "q": "Aide bi xam na ne kiliyaan bi am na varicelle, te moom amul ko mukk te vaccinéwul. Aide bi war na :",
+   "choices": [
+    "Wéy topptoo ak mask bu ñuy sol ci lopitaal",
+    "Woo infirmiyeer bi walla agence bi laata ngay wéy : mën na am jàngoro ci ngelaw",
+    "Sol gant ak blus te wéy ni ko miin",
+    "Bañ topptoo te waxul kenn"
+   ],
+   "exp": "Varicelle dafay soxla précautions « air ». Aide bu amul aar mën na ko am dëgg. Infirmiyeer bi moo war a dogal lu ñu def."
   }
  },
  {
@@ -1201,6 +1621,16 @@
     "Demander à la cliente si elle veut le comprimé"
    ],
    "exp": "Administrer un médicament est hors du champ de pratique de l'aide, quel que soit le demandeur. L'infirmière décide comment gérer une dose oubliée."
+  },
+  "wo": {
+   "q": "Doomu kiliyaan bi laaj na aide bi mu jox ndeyam garab bu tension bu dolli « benn yoon bii rekk » ndax fàtte na dose bu suba. Aide bi war na :",
+   "choices": [
+    "Jox ko garab bi : benn dose la te doom ja la",
+    "Bañ te woo infirmiyeer bi ngir wax dose bu fàtte bi te laaj ndigël",
+    "Jox ko garab bi waaye bind ko",
+    "Laaj kiliyaan bi ndax bëgg na garab bu dolli bi"
+   ],
+   "exp": "Jox garab bokkul ci li aide bi sañ, ku ko laaj laaj. Infirmiyeer bi moo xam lu ñu def ak dose bu fàtte."
   }
  },
  {
@@ -1229,6 +1659,16 @@
     "Contacter seul les services de protection des adultes sans prévenir le superviseur"
    ],
    "exp": "Des bleus à différents stades évoquent une maltraitance. Les aides ont l'obligation de signaler. Le superviseur engage les démarches appropriées."
+  },
+  "wo": {
+   "q": "Aide bi gis na ci kiliyaan bi bleu yu bari ci loxo yi, yu wuute waxtu. Kiliyaan bi mel ni ku tiit te wax « daanu naa ». Li GËN mooy :",
+   "choices": [
+    "Nangu wax ji te bind « kiliyaan bi nee na daanu na »",
+    "Wax ci saa si infirmiyeer bi ne mën na am toroxal : aide yi yoon wi sant na leen ñu wax",
+    "Laaj kiliyaan bi : « Ndax am na ku lay dóor ? »",
+    "Woo services de protection yi moom rekk te waxul superviseur bi"
+   ],
+   "exp": "Bleu yu wuute waxtu dafay wone toroxal. Aide yi war nañu wax. Superviseur bi mooy jaarale ko fu mu war."
   }
  },
  {
@@ -1257,6 +1697,16 @@
     "Demander au client de confirmer les chiffres de mémoire"
    ],
    "exp": "Une note tardive clairement identifiée est acceptable et légale. Ne jamais falsifier, modifier ou inventer une note."
+  },
+  "wo": {
+   "q": "Ci jeexitalu visite bi, aide bi fàttaliku na ne bindul signes vitaux yi mu natt bu jëkk. War na :",
+   "choices": [
+    "Dolli leen ci kayitu démb : jege na",
+    "Bind leen léegi ak waxtu wi mu leen natt dëgg ak karmat « note tardive »",
+    "Sos limu yu jege",
+    "Laaj kiliyaan bi mu fàttaliku limu yi"
+   ],
+   "exp": "Note tardive bu ñu leeral baax na ci yoon. Bul fuñu, bul soppi, bul sos mukk."
   }
  },
  {
@@ -1285,6 +1735,16 @@
     "Demander au client d'attendre la fin de la relation de soins"
    ],
    "exp": "Accepter argent, cadeaux ou héritage d'un client est une exploitation financière : une forme de maltraitance, motif de renvoi et de poursuites."
+  },
+  "wo": {
+   "q": "Kiliyaan bi laaj na aide bi mu nekk ci testament-am. Aide bi war na :",
+   "choices": [
+    "Nangu : kiliyaan bi moo tànn ku mu bëgg",
+    "Bañ te wax ko infirmiyeer bi : nangu may walla héritage ci kiliyaan toroxal ci xaalis la",
+    "Nangu bu xaalis bi ndawee rekk",
+    "Laaj kiliyaan bi mu xaar ba topptoo bi jeex"
+   ],
+   "exp": "Nangu xaalis, may walla héritage ci kiliyaan toroxal ci xaalis la : xeetu toroxal, lu ñuy dàqe te mën a indi yoon."
   }
  },
  {
@@ -1313,6 +1773,16 @@
     "Consulter le plan de soins avant d'agir"
    ],
    "exp": "Sans DNR, la réanimation est indiquée. Appelez le 911 d'abord (le répartiteur peut guider la RCP), puis commencez la RCP si vous êtes formé."
+  },
+  "wo": {
+   "q": "Aide bi ñëw na ci kër kiliyaan bi te gis ko ci suuf, xamul boppam te noyyiwul. Amul DNR. Aide bi war na :",
+   "choices": [
+    "Woo infirmiyeer bi te xaar ndigëlam",
+    "Woo 911 ci saa si te tàmbali RCP bu jàngee ko",
+    "Dem seet telefon ndax réseau bi baaxul",
+    "Seet palaŋ bi laata ngay def dara"
+   ],
+   "exp": "Amul DNR = RCP war na am. Woo 911 bu jëkk (dinañu la jàppale), ba pare tàmbali RCP bu nga jàngee."
   }
  },
  {
@@ -1341,6 +1811,16 @@
     "Signaler ces choix de vie à l'infirmière comme un risque pour la santé"
    ],
    "exp": "L'autonomie du client est son droit de décider de sa propre vie. L'aide soigne sans juger, quelles que soient ses convictions personnelles."
+  },
+  "wo": {
+   "q": "Aide bi nanguwul dundinu kiliyaan bi (ñam, tabak, diine). Li GËN mooy :",
+   "choices": [
+    "Jàngal kiliyaan bi tànneef yu gën ci visite bu nekk",
+    "Bañ topptoo lu aju ci jikko yi mu nanguwul",
+    "Weg sañ-sañ ak tànneefu kiliyaan bi te topptoo ko bu baax te àttewul",
+    "Wax infirmiyeer bi dundin bi ni lu lor wérgi-yaram"
+   ],
+   "exp": "Sañ-sañu kiliyaan bi mooy dogal ci dundam. Aide bi dafay topptoo te du àtte, lu mu gëm gëm."
   }
  },
  {
@@ -1369,6 +1849,16 @@
     "L'obligation légale pour les soignants de signaler aux autorités tout soupçon de maltraitance, de négligence ou d'exploitation d'adultes vulnérables ou d'enfants."
    ],
    "exp": "Champ de pratique : les tâches précises qu'un aide à domicile ou un aide-soignant est légalement autorisé à accomplir. Pas d'administration de médicaments, pas d'actes stériles, pas d'ordres par téléphone."
+  },
+  "wo": {
+   "q": "Lu « champ de pratique » di tekki ?",
+   "choices": [
+    "Ceinture bu yaatu ñu takk ci ndiggu kiliyaan bi ngir jàpp bu wóor ci transfert ak dox.",
+    "Dér bi di weex tuuti bu ñu ko puusee ak baaraam, firndey dereet bu dox bu baax. Xonq bu dul weex firndey escarre la.",
+    "Liggéey yi yoon wi may aide walla aide-soignant mu def. Duñu jox garab, duñu def lu stérile, duñu jël ndigël ci telefon.",
+    "Wareef ci yoon ngir soignants ñu wax bépp toroxal, bàyyi walla exploitation bu mag walla xale bu ñu xam."
+   ],
+   "exp": "Champ de pratique : liggéey yi yoon wi may aide walla aide-soignant mu def. Amul jox garab, amul lu stérile, amul ndigël ci telefon."
   }
  },
  {
@@ -1397,6 +1887,16 @@
     "Les tâches précises qu'un aide à domicile ou un aide-soignant est légalement autorisé à accomplir. Ils n'administrent PAS de médicaments, ne font pas d'actes stériles et ne prennent pas d'ordres par téléphone."
    ],
    "exp": "Champ de pratique : les tâches précises qu'un aide à domicile ou un aide-soignant est légalement autorisé à accomplir. Pas d'administration de médicaments, pas d'actes stériles, pas d'ordres par téléphone."
+  },
+  "wo": {
+   "q": "Lu « champ de pratique » di tekki ?",
+   "choices": [
+    "Yëngu bépp bu cér mën a def. Exercice yi dañuy aar cér yi ñu bañ a dëgër.",
+    "Tiyo bu noy ñu dugal ci biir ngir génne saw. Sonde bu dëkk (Foley) dafay des ci biir ; soxla na topptoo ngir bañ jàngoro.",
+    "Tension bu wàcc bu nit jógee bu gaaw, di indi bopp buy wër walla daanu. Ñu koy wax hypotension orthostatique.",
+    "Liggéey yi yoon wi may aide walla aide-soignant mu def. Duñu jox garab, duñu def lu stérile, duñu jël ndigël ci telefon."
+   ],
+   "exp": "Champ de pratique : liggéey yi yoon wi may aide walla aide-soignant mu def. Amul jox garab, amul lu stérile, amul ndigël ci telefon."
   }
  },
  {
@@ -1425,6 +1925,16 @@
     "Une tension artérielle anormalement basse, généralement sous 90/60 mmHg. Peut provoquer vertiges, évanouissement ou état de choc."
    ],
    "exp": "Champ de pratique : les tâches précises qu'un aide à domicile ou un aide-soignant est légalement autorisé à accomplir. Pas d'administration de médicaments, pas d'actes stériles, pas d'ordres par téléphone."
+  },
+  "wo": {
+   "q": "Lu « champ de pratique » di tekki ?",
+   "choices": [
+    "Bañ a jox nit li mu soxla ci topptoo : ñam, ndox, set, kaaraange walla faju. War nañu ko wax itam.",
+    "Liggéey yi yoon wi may aide walla aide-soignant mu def. Duñu jox garab, duñu def lu stérile, duñu jël ndigël ci telefon.",
+    "Yere walla jumtukaay yu soignants di sol ngir aar seen bopp ci jàngoro : gant, blus, mask, aar bët.",
+    "Tension bu wàcc lu ëpp, ci suufu 90/60 mmHg. Mën na indi bopp buy wër, daanu walla choc."
+   ],
+   "exp": "Champ de pratique : liggéey yi yoon wi may aide walla aide-soignant mu def. Amul jox garab, amul lu stérile, amul ndigël ci telefon."
   }
  },
  {
@@ -1453,6 +1963,16 @@
     "Un tube souple inséré dans la vessie pour évacuer l'urine. Une sonde à demeure (Foley) reste en place et demande des soins réguliers contre l'infection."
    ],
    "exp": "Plan de soins : document écrit créé par l'équipe de soins décrivant les besoins, objectifs et interventions propres au client. L'aide le suit ; il ne le crée pas et ne le modifie pas."
+  },
+  "wo": {
+   "q": "Lu « palaŋu topptoo » (plan de soins) di tekki ?",
+   "choices": [
+    "Jëfandikoo yaram bu baax ngir bañ a gaañu bu ngay yékkati walla yëngal nit : tànk yu xàjj, lemal óom, yor charge bi ci sa yaram.",
+    "Kayit bu ekib bi bind, di wone soxla, li ñu bëgg a àgg ak li ñuy def ngir kiliyaan bi. Aide bi dafay topp ko ; du ko sos, du ko soppi.",
+    "Nit kuy jàpp putam ak ñaari loxo : firndey lu jàpp ci put (étouffement).",
+    "Tiyo bu noy ñu dugal ci biir ngir génne saw. Sonde bu dëkk (Foley) dafay des ci biir ; soxla na topptoo ngir bañ jàngoro."
+   ],
+   "exp": "Palaŋu topptoo : kayit bu ekib bi bind, di wone soxla, li ñu bëgg a àgg ak li ñuy def ngir kiliyaan bi. Aide bi dafay topp ko ; du ko sos, du ko soppi."
   }
  },
  {
@@ -1481,6 +2001,16 @@
     "Une infection d'une partie du système urinaire (vessie, urètre, reins). Signes : brûlure en urinant, urine trouble ou malodorante, envies fréquentes, fièvre."
    ],
    "exp": "Plan de soins : document écrit créé par l'équipe de soins décrivant les besoins, objectifs et interventions propres au client. L'aide le suit ; il ne le crée pas et ne le modifie pas."
+  },
+  "wo": {
+   "q": "Lu « palaŋu topptoo » (plan de soins) di tekki ?",
+   "choices": [
+    "Sañ-sañ yi yoonu OBRA 1987 may résidents yépp ci maison de retraite : sutura, teggin, dogal sa bopp, xibaar, aar ci toroxal.",
+    "Kayit bu ekib bi bind, di wone soxla, li ñu bëgg a àgg ak li ñuy def ngir kiliyaan bi. Aide bi dafay topp ko ; du ko sos, du ko soppi.",
+    "Tiyo bu noy ñu dugal ci biir ngir génne saw. Sonde bu dëkk (Foley) dafay des ci biir ; soxla na topptoo ngir bañ jàngoro.",
+    "Jàngoro ci benn cér bu saw (vessie, urètre, reins). Firnde : lakk bu ngay saw, saw bu tilim walla xeeñ, saw bu bari, tàngoor."
+   ],
+   "exp": "Palaŋu topptoo : kayit bu ekib bi bind, di wone soxla, li ñu bëgg a àgg ak li ñuy def ngir kiliyaan bi. Aide bi dafay topp ko ; du ko sos, du ko soppi."
   }
  },
  {
@@ -1509,6 +2039,16 @@
     "Un document écrit créé par l'équipe de soins décrivant les besoins, objectifs et interventions propres au client. L'aide suit le plan de soins ; il ne le crée pas et ne le modifie pas."
    ],
    "exp": "Plan de soins : document écrit créé par l'équipe de soins décrivant les besoins, objectifs et interventions propres au client. L'aide le suit ; il ne le crée pas et ne le modifie pas."
+  },
+  "wo": {
+   "q": "Lu « palaŋu topptoo » (plan de soins) di tekki ?",
+   "choices": [
+    "Yere walla jumtukaay yu soignants di sol ngir aar seen bopp ci jàngoro : gant, blus, mask, aar bët.",
+    "Ubbite ci yaram bu ñu def ci opération ngir génne mbalit. Colostomie : saw bu dëgër ; urostomie : saw. Soxla na poos ci biir.",
+    "Wareef ci yoon ngir soignants ñu wax bépp toroxal, bàyyi walla exploitation bu mag walla xale bu ñu xam.",
+    "Kayit bu ekib bi bind, di wone soxla, li ñu bëgg a àgg ak li ñuy def ngir kiliyaan bi. Aide bi dafay topp ko ; du ko sos, du ko soppi."
+   ],
+   "exp": "Palaŋu topptoo : kayit bu ekib bi bind, di wone soxla, li ñu bëgg a àgg ak li ñuy def ngir kiliyaan bi. Aide bi dafay topp ko ; du ko sos, du ko soppi."
   }
  },
  {
@@ -1537,6 +2077,16 @@
     "État où le corps perd plus de liquide qu'il n'en reçoit. Signes : bouche sèche, urine foncée, pli cutané, confusion, vertiges."
    ],
    "exp": "Dysphagie : difficulté à avaler. Nécessite des textures modifiées et des liquides épaissis pour éviter l'aspiration."
+  },
+  "wo": {
+   "q": "Lu « dysphagie » di tekki ?",
+   "choices": [
+    "Ñam, ndox, saliva walla lu ñu waccu di dem ci pumoŋ yi, du ci biir ; mën na indi pnemoni.",
+    "Jafe-jafe ci wann. Soxla na ñam yu ñu soppi ak ndox yu ñu baxal ngir bañ fausse route.",
+    "Nil per os (latin) : dara du dugg ci gémmiñ. Nit ki du lekk du naan, ci lu ëpp laata opération walla examen.",
+    "Yaram wi di ñàkk ndox lu ëpp li mu jël. Firnde : gémmiñ bu wow, saw bu ñuul, dér bu dul dellu, jaxasoo, bopp buy wër."
+   ],
+   "exp": "Dysphagie : jafe-jafe ci wann. Soxla na ñam yu ñu soppi ak ndox yu ñu baxal ngir bañ fausse route."
   }
  },
  {
@@ -1565,6 +2115,16 @@
     "Apports et éliminations (I&O)"
    ],
    "exp": "Dysphagie : difficulté à avaler. Nécessite des textures modifiées et des liquides épaissis pour éviter l'aspiration."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Jafe-jafe ci wann. Soxla na ñam yu ñu soppi ak ndox yu ñu baxal ngir bañ fausse route » ?",
+   "choices": [
+    "NPO (dara ci gémmiñ)",
+    "Dysphagie",
+    "Fausse route (aspiration)",
+    "Li mu naan ak li mu saw (I&O)"
+   ],
+   "exp": "Dysphagie : jafe-jafe ci wann. Soxla na ñam yu ñu soppi ak ndox yu ñu baxal ngir bañ fausse route."
   }
  },
  {
@@ -1593,6 +2153,16 @@
     "Le passage d'aliments, de liquide, de salive ou de vomi dans les poumons au lieu de l'estomac ; peut causer une pneumonie d'aspiration."
    ],
    "exp": "Aspiration (fausse route) : passage d'aliments, de liquide, de salive ou de vomi dans les poumons au lieu de l'estomac ; peut causer une pneumonie d'aspiration."
+  },
+  "wo": {
+   "q": "Lu « fausse route » (aspiration) di tekki ?",
+   "choices": [
+    "Jafe-jafe ci wann. Soxla na ñam yu ñu soppi ak ndox yu ñu baxal ngir bañ fausse route.",
+    "Natt te bind ndox mépp mu dugg (naan, perfusion, sonde) ak mépp mu génn (saw, waccu, drainage). Ngir gis ñàkk ndox walla ndox mu ëpp.",
+    "Ndox yu ñu baxal ba ci texture bu leer (nectar walla miel) ngir wàññi fausse route ci ñi am dysphagie.",
+    "Ñam, ndox, saliva walla lu ñu waccu di dem ci pumoŋ yi, du ci biir ; mën na indi pnemoni."
+   ],
+   "exp": "Fausse route : ñam, ndox, saliva walla lu ñu waccu di dem ci pumoŋ yi, du ci biir ; mën na indi pnemoni."
   }
  },
  {
@@ -1621,6 +2191,16 @@
     "Apports et éliminations (I&O)"
    ],
    "exp": "Aspiration (fausse route) : passage d'aliments, de liquide, de salive ou de vomi dans les poumons au lieu de l'estomac ; peut causer une pneumonie d'aspiration."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Ñam, ndox, saliva walla lu ñu waccu di dem ci pumoŋ yi, du ci biir ; mën na indi pnemoni » ?",
+   "choices": [
+    "NPO (dara ci gémmiñ)",
+    "Fausse route (aspiration)",
+    "Ñàkk ndox (déshydratation)",
+    "Li mu naan ak li mu saw (I&O)"
+   ],
+   "exp": "Fausse route : ñam, ndox, saliva walla lu ñu waccu di dem ci pumoŋ yi, du ci biir ; mën na indi pnemoni."
   }
  },
  {
@@ -1649,6 +2229,16 @@
     "Un document légal exprimant les volontés de santé d'un patient s'il devient incapable de communiquer : testament de vie et mandataire de santé."
    ],
    "exp": "Maltraitance : préjudice ou mauvais traitement intentionnel envers une personne soignée, physique, émotionnel, sexuel ou financier. Les soignants ont l'obligation de signaler tout soupçon immédiatement."
+  },
+  "wo": {
+   "q": "Lu « toroxal » (maltraitance) di tekki ?",
+   "choices": [
+    "Sañ-sañ yi yoonu OBRA 1987 may résidents yépp ci maison de retraite : sutura, teggin, dogal sa bopp, xibaar, aar ci toroxal.",
+    "Nangu bu nit ci faju walla doxalin GINNAAW bu ñu ko leeralee bu baax : lu muy def, lu mu mën a lor ak yeneen yoon.",
+    "Lor nit ci teyé : ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi WAR NAÑU WAX bépp lu ñu xam ci saa si.",
+    "Kayitu yoon bu wone li nit bëgg ci faju bu mënatul wax : testament de vie ak ku ñu dénk."
+   ],
+   "exp": "Toroxal : lor nit ci teyé, ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi war nañu wax bépp lu ñu xam ci saa si."
   }
  },
  {
@@ -1677,6 +2267,16 @@
     "Maltraitance"
    ],
    "exp": "Maltraitance : préjudice ou mauvais traitement intentionnel envers une personne soignée, physique, émotionnel, sexuel ou financier. Les soignants ont l'obligation de signaler tout soupçon immédiatement."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Lor nit ci teyé : ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi WAR NAÑU WAX… » ?",
+   "choices": [
+    "DNR (bu ñu ko dundal)",
+    "Sañ-sañu résidents",
+    "Nangu bu ñu leeral (consentement éclairé)",
+    "Toroxal"
+   ],
+   "exp": "Toroxal : lor nit ci teyé, ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi war nañu wax bépp lu ñu xam ci saa si."
   }
  },
  {
@@ -1705,6 +2305,16 @@
     "Un document légal exprimant les volontés de santé d'un patient s'il devient incapable de communiquer : testament de vie et mandataire de santé."
    ],
    "exp": "Maltraitance : préjudice ou mauvais traitement intentionnel envers une personne soignée, physique, émotionnel, sexuel ou financier. Les soignants ont l'obligation de signaler tout soupçon immédiatement."
+  },
+  "wo": {
+   "q": "Lu « toroxal » (maltraitance) di tekki ?",
+   "choices": [
+    "Santaaneb doktor ñu bañ a def RCP bu xol bi walla noyyi bi taxawee. Ekib bépp war na ko topp, aide yi itam.",
+    "Lor nit ci teyé : ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi WAR NAÑU WAX bépp lu ñu xam ci saa si.",
+    "Bañ a jox nit li mu soxla ci topptoo : ñam, ndox, set, kaaraange walla faju. War nañu ko wax itam.",
+    "Kayitu yoon bu wone li nit bëgg ci faju bu mënatul wax : testament de vie ak ku ñu dénk."
+   ],
+   "exp": "Toroxal : lor nit ci teyé, ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi war nañu wax bépp lu ñu xam ci saa si."
   }
  },
  {
@@ -1733,6 +2343,16 @@
     "Maltraitance"
    ],
    "exp": "Maltraitance : préjudice ou mauvais traitement intentionnel envers une personne soignée, physique, émotionnel, sexuel ou financier. Les soignants ont l'obligation de signaler tout soupçon immédiatement."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Lor nit ci teyé : ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi WAR NAÑU WAX… » ?",
+   "choices": [
+    "Bàyyi nit (négligence)",
+    "Nangu bu ñu leeral",
+    "Directives anticipées",
+    "Toroxal"
+   ],
+   "exp": "Toroxal : lor nit ci teyé, ci yaram, ci xol, ci sëy walla ci xaalis. Soignants yi war nañu wax bépp lu ñu xam ci saa si."
   }
  },
  {
@@ -1761,6 +2381,16 @@
     "L'accord volontaire d'un patient à un traitement ou un acte APRÈS avoir reçu une information suffisante sur l'acte, ses risques et les alternatives."
    ],
    "exp": "Directives anticipées : document légal exprimant les volontés de santé d'un patient s'il devient incapable de communiquer, comprenant le testament de vie et le mandataire de santé."
+  },
+  "wo": {
+   "q": "Lu « directives anticipées » di tekki ?",
+   "choices": [
+    "Kayitu yoon bu wone li nit bëgg ci faju bu mënatul wax : testament de vie ak ku ñu dénk.",
+    "Sañ-sañ yi yoonu OBRA 1987 may résidents yépp ci maison de retraite : sutura, teggin, dogal sa bopp, xibaar, aar ci toroxal.",
+    "Santaaneb doktor ñu bañ a def RCP bu xol bi walla noyyi bi taxawee. Ekib bépp war na ko topp, aide yi itam.",
+    "Nangu bu nit ci faju walla doxalin GINNAAW bu ñu ko leeralee bu baax : lu muy def, lu mu mën a lor ak yeneen yoon."
+   ],
+   "exp": "Directives anticipées : kayitu yoon bu wone li nit bëgg ci faju bu mënatul wax, ak testament de vie ak ku ñu dénk."
   }
  },
  {
@@ -1789,6 +2419,16 @@
     "Droits des résidents"
    ],
    "exp": "Directives anticipées : document légal exprimant les volontés de santé d'un patient s'il devient incapable de communiquer, comprenant le testament de vie et le mandataire de santé."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Kayitu yoon bu wone li nit bëgg ci faju bu mënatul wax : testament de vie ak… » ?",
+   "choices": [
+    "Directives anticipées",
+    "Toroxal",
+    "DNR (bu ñu ko dundal)",
+    "Sañ-sañu résidents"
+   ],
+   "exp": "Directives anticipées : kayitu yoon bu wone li nit bëgg ci faju bu mënatul wax, ak testament de vie ak ku ñu dénk."
   }
  },
  {
@@ -1817,6 +2457,16 @@
     "Augmentation de la confusion, de l'agitation et des troubles du comportement chez les personnes démentes, qui s'aggrave en fin d'après-midi et le soir."
    ],
    "exp": "Démence : ensemble de symptômes touchant la mémoire, la pensée et les capacités sociales, assez graves pour gêner la vie quotidienne. La maladie d'Alzheimer en est la cause la plus fréquente."
+  },
+  "wo": {
+   "q": "Lu « démence » di tekki ?",
+   "choices": [
+    "Doxalin buy fàttali ndank nit ku jaxasoo waxtu wi, béréb bi ak li xew ngir wàññi jaxasoo bi.",
+    "Anam bu waxtaan ak ñi am démence buy nangu te weg seen xol, du jubbanti seen jaxasoo.",
+    "Firnde yu bari ci fàttaliku, xalaat ak jëflante yu metti ba yàq dund bu bés bu nekk. Alzheimer mooy gën a bari.",
+    "Jaxasoo, coow ak jikko yu soppiku ci ñi am démence yuy yokku ci ngoon ak ci guddi."
+   ],
+   "exp": "Démence : firnde yu bari ci fàttaliku, xalaat ak jëflante yu metti ba yàq dund bu bés bu nekk. Alzheimer mooy gën a bari."
   }
  },
  {
@@ -1845,6 +2495,16 @@
     "Syndrome crépusculaire (sundowning)"
    ],
    "exp": "Démence : ensemble de symptômes touchant la mémoire, la pensée et les capacités sociales, assez graves pour gêner la vie quotidienne. La maladie d'Alzheimer en est la cause la plus fréquente."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Firnde yu bari ci fàttaliku, xalaat ak jëflante yu metti ba yàq dund bu bés bu nekk… » ?",
+   "choices": [
+    "Orientation à la réalité",
+    "Thérapie de validation",
+    "Démence",
+    "Sundowning (ngoon)"
+   ],
+   "exp": "Démence : firnde yu bari ci fàttaliku, xalaat ak jëflante yu metti ba yàq dund bu bés bu nekk. Alzheimer mooy gën a bari."
   }
  },
  {
@@ -1873,6 +2533,16 @@
     "Vêtements ou équipements spécialisés portés par les soignants pour se protéger des infections : gants, blouse, masque, lunettes, écran facial."
    ],
    "exp": "Précautions air : pour les infections transmises par de fines particules en suspension (tuberculose, rougeole, varicelle). Exigent un masque N95 et une chambre à pression négative."
+  },
+  "wo": {
+   "q": "Lu « précautions air » di tekki ?",
+   "choices": [
+    "Ngir jàngoro yuy jaar ci ngelaw ci lu sew lool (tuberculose, rougeole, varicelle). Soxla na mask N95 ak néeg bu pression négative.",
+    "SARM : bactérie bu bon buy dàq antibiotique yi. Soxla na précautions contact (blus + gant).",
+    "Jàngoro bu ñu am ci lopitaal : jàngoro bu nit am bu ñu koy topptoo te amul ko bu ñëwee.",
+    "Yere walla jumtukaay yu soignants di sol ngir aar seen bopp ci jàngoro : gant, blus, mask, aar bët."
+   ],
+   "exp": "Précautions air : ngir jàngoro yuy jaar ci ngelaw (tuberculose, rougeole, varicelle). Soxla na mask N95 ak néeg bu pression négative."
   }
  },
  {
@@ -1901,6 +2571,16 @@
     "Infection nosocomiale"
    ],
    "exp": "Précautions air : pour les infections transmises par de fines particules en suspension (tuberculose, rougeole, varicelle). Exigent un masque N95 et une chambre à pression négative."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Ngir jàngoro yuy jaar ci ngelaw ci lu sew lool (tuberculose, rougeole, varicelle). Soxla na mask N95… » ?",
+   "choices": [
+    "Précautions contact",
+    "Précautions air",
+    "SARM",
+    "Jàngoro bu lopitaal"
+   ],
+   "exp": "Précautions air : ngir jàngoro yuy jaar ci ngelaw (tuberculose, rougeole, varicelle). Soxla na mask N95 ak néeg bu pression négative."
   }
  },
  {
@@ -1929,6 +2609,16 @@
     "Une tension anormalement basse, généralement sous 90/60 mmHg. Peut provoquer vertiges, évanouissement ou choc."
    ],
    "exp": "Signes vitaux : les quatre mesures principales des fonctions du corps : température, pouls, respiration, tension artérielle. La SpO₂ est souvent appelée le 5e signe vital."
+  },
+  "wo": {
+   "q": "Lu « signes vitaux » di tekki ?",
+   "choices": [
+    "Tension bu wàcc bu nit jógee bu gaaw, di indi bopp buy wër walla daanu. Ñu koy wax hypotension orthostatique.",
+    "Ñeenti natt yu mag yu yaram : tàngoor (T), pouls (P), noyyi (R), tension (TA). SpO₂ ñu koy wax juróomeelu signe vital.",
+    "Tension bu kawe : 130/80 mmHg walla lu ëpp saa su nekk. Lu gën a tax ñuy am AVC ak feebaru xol.",
+    "Tension bu wàcc lu ëpp, ci suufu 90/60 mmHg. Mën na indi bopp buy wër, daanu walla choc."
+   ],
+   "exp": "Signes vitaux : ñeenti natt yu mag yu yaram : tàngoor, pouls, noyyi, tension. SpO₂ ñu koy wax juróomeelu signe vital."
   }
  },
  {
@@ -1957,6 +2647,16 @@
     "Tachycardie"
    ],
    "exp": "Signes vitaux : les quatre mesures principales des fonctions du corps : température, pouls, respiration, tension artérielle. La SpO₂ est souvent appelée le 5e signe vital."
+  },
+  "wo": {
+   "q": "Ban baat moo tekki : « Ñeenti natt yu mag yu yaram : tàngoor (T), pouls (P), noyyi (R), tension (TA)… » ?",
+   "choices": [
+    "Hypotension orthostatique",
+    "Signes vitaux",
+    "Pouls apical",
+    "Tachycardie"
+   ],
+   "exp": "Signes vitaux : ñeenti natt yu mag yu yaram : tàngoor, pouls, noyyi, tension. SpO₂ ñu koy wax juróomeelu signe vital."
   }
  },
  {
@@ -1985,6 +2685,16 @@
     "Soigner uniquement les enfants placés en famille d'accueil"
    ],
    "exp": "Les soins à domicile évitent l'hôpital, la maison de retraite ou l'institution, permettent aux familles de rester unies et favorisent l'indépendance, la dignité et le confort à la maison (Module I, Unité A)."
+  },
+  "wo": {
+   "q": "Ci programu NYS, lu mooy benn ci li soins à domicile di jëm ?",
+   "choices": [
+    "Wuutu lopitaal ci faju bu nekk",
+    "Tax ñi soxla ndimbal des ci seen kër, du ci institution, ngir njaboot gi des ci benn",
+    "Jox njaboot gi noppalu ci wareef yépp",
+    "Topptoo xale yu ñu teg ci placement rekk"
+   ],
+   "exp": "Soins à domicile dañuy tax nit ñi des ci kër, du lopitaal, maison de retraite walla institution ; njaboot gi des ci benn ; sañ-sañ, teggin ak jàmm ci kër (Modil I, Unité A)."
   }
  },
  {
@@ -2013,6 +2723,16 @@
     "Les années 2000"
    ],
    "exp": "La formation des aides ménagères a commencé dans les années 1930, mais le paiement par Medicaid/Medicare des soins à domicile coordonnés date des années 1960 (Module I, Unité A, histoire des soins à domicile)."
+  },
+  "wo": {
+   "q": "Ci ban at ya la Medicaid ak Medicare tàmbali fey soins à domicile yu ñu saytu ?",
+   "choices": [
+    "At yi 1930",
+    "At yi 1960",
+    "At yi 1980",
+    "At yi 2000"
+   ],
+   "exp": "Njàngum aide ménagère tàmbali na ci at yi 1930, waaye Medicaid/Medicare tàmbali fey soins à domicile ci at yi 1960 (Modil I, Unité A)."
   }
  },
  {
@@ -2041,6 +2761,16 @@
     "Les clients assurés et les clients non assurés"
    ],
    "exp": "Les deux catégories sont : la personne ayant une blessure ou une maladie précise, et les personnes ayant besoin d'aide à la maison. Les clients comprennent les personnes âgées fragiles, les malades aigus et chroniques, les personnes handicapées physiques ou mentales, et les adultes et enfants ayant besoin de protection (Module I, Unité A)."
+  },
+  "wo": {
+   "q": "Program bi wax na ñaari kurél yu kiliyaan. Ban ñaar ñoo jub ?",
+   "choices": [
+    "Kiliyaan yu am alal ak yu ñàkk",
+    "Ñi am gaañu walla feebar bu leer, ak ñi soxla ndimbal ci kër",
+    "Xale yi ak mag ñi",
+    "Kiliyaan yu am assurance ak yu amul"
+   ],
+   "exp": "Ñaari kurél yi : ku am gaañu walla feebar bu leer, ak ñi soxla ndimbal ci kër. Kiliyaan yi : mag ñu néew doole, ñi feebar lu gaaw walla lu yàgg, ñi am laago, ak mag ak xale yu soxla kaaraange (Modil I, Unité A)."
   }
  },
  {
@@ -2069,6 +2799,16 @@
     "Refuser de donner un médicament à un client"
    ],
    "exp": "Motifs de renvoi : manque de fiabilité, manque d'honnêteté, non-respect de la vie privée des autres, et non-respect des protocoles de l'agence (Module I, Unité B)."
+  },
+  "wo": {
+   "q": "Lan la program bi wax ni lu mën a tax ñu dàq aide à domicile ?",
+   "choices": [
+    "Laaj superviseur bi laaj yu bari",
+    "Bañ a weg suturaa ñeneen",
+    "Ñëw juróomi simili laata waxtu wi",
+    "Bañ a jox kiliyaan garab"
+   ],
+   "exp": "Lu tax ñuy dàq : ñàkk fiyaar, ñàkk dëggu, bañ a weg suturaa ñeneen, ak bañ a topp ndigëlu agence bi (Modil I, Unité B)."
   }
  },
  {
@@ -2097,6 +2837,16 @@
     "Faire exactement ce que dit la famille, même si ce n'est pas dans le plan de soins"
    ],
    "exp": "La réussite dépend de la capacité à travailler sans supervision constante, à bien s'entendre avec les clients, à organiser son temps pour accomplir toutes les tâches, et à être observateur et sensible aux besoins physiques, sociaux, spirituels et culturels du client (Module I, Unité B)."
+  },
+  "wo": {
+   "q": "Program bi wax na ne ndam ci liggéey aide à domicile dafa aju ci mën a :",
+   "choices": [
+    "Liggéey te kenn du la saytu saa su nekk, bokk bu baax ak kiliyaan yi, saytu sa waxtu, te gis soxlay kiliyaan bi",
+    "Pare liggéey yépp bu gaaw te dem bu teel",
+    "Dogal ci faju bu infirmiyeer bi fi nekkul",
+    "Def lépp lu njaboot gi wax, su nekkul ci palaŋ bi sax"
+   ],
+   "exp": "Ndam dafa aju ci liggéey te kenn du la saytu saa su nekk, bokk bu baax ak kiliyaan yi, saytu sa waxtu ngir pare lépp, te gis soxlay yaram, askan, diine ak aadaay kiliyaan bi (Modil I, Unité B)."
   }
  },
  {
@@ -2125,6 +2875,16 @@
     "Le pharmacien"
    ],
    "exp": "Le plan de soins est élaboré par l'équipe et coordonné par le gestionnaire de cas. Il liste les tâches, les objectifs et les observations particulières, et une copie reste au domicile du client (Module I, Unité C)."
+  },
+  "wo": {
+   "q": "Kan moo saytu defar palaŋu topptoo bu kiliyaan bi ?",
+   "choices": [
+    "Aide à domicile bi",
+    "Dëkkandoo bu kiliyaan bi",
+    "Ki yor dosye bi (case manager), ekib bi di ko defar",
+    "Farmasiyeŋ bi"
+   ],
+   "exp": "Palaŋ bi ekib bi moo koy defar, ki yor dosye bi di ko saytu. Dafay wone liggéey yi, li ñu jëm ak li ñu war a seetlu, te kopi bi des ci kër kiliyaan bi (Modil I, Unité C)."
   }
  },
  {
@@ -2153,6 +2913,16 @@
     "Décider avec quels clients l'aide peut partager des informations"
    ],
    "exp": "L'infirmière superviseure visite le domicile du client, s'assure que l'aide comprend le plan de soins, revoit les procédures, donne des instructions, résout les problèmes, fait le lien avec l'équipe et l'agence, et évalue le travail (Module I, Unité C)."
+  },
+  "wo": {
+   "q": "Lan ci yii mooy wareefu infirmiyeer bi lay saytu ci aide à domicile bi ?",
+   "choices": [
+    "Def liggéeyu setal bu aide bi bu yeexee",
+    "Ñëw ci kër kiliyaan bi ngir topp te seet doxalin yépp ak aide bi",
+    "Fey fatuuru kiliyaan bi",
+    "Dogal ban kiliyaan la aide bi mën a wax mbiram"
+   ],
+   "exp": "Infirmiyeer bi dafay ñëw ci kër gi, xool ndax aide bi nand na palaŋ bi, seet doxalin yi, jàngal ko, saafara jafe-jafe, lëkkale ko ak ekib bi te saytu liggéeyam (Modil I, Unité C)."
   }
  },
  {
@@ -2181,6 +2951,16 @@
     "Les besoins d'estime de soi"
    ],
    "exp": "Les besoins physiques, de sécurité et de protection viennent en premier ; les besoins supérieurs (appartenance, estime de soi, accomplissement) viennent ensuite. Les besoins non satisfaits créent du stress et changent le comportement (Module II, Unité A)."
+  },
+  "wo": {
+   "q": "Ci théorie bu soxlay nit bu program bi jàngale, ban soxla ñoo war a jëkk a am tontu ?",
+   "choices": [
+    "Soxlay àgg ci li nga bëgg",
+    "Soxlay bokk",
+    "Soxlay yaram, kaaraange ak aar",
+    "Soxlay teggin ci sa bopp"
+   ],
+   "exp": "Soxlay yaram ak kaaraange ñoo jëkk ; soxla yu kawe yi (bokk, teggin, àgg) ñoo topp. Soxla bu amul tontu dafay indi stress te soppi jikko (Modil II, Unité A)."
   }
  },
  {
@@ -2209,6 +2989,16 @@
     "Une affaire de famille qu'il faut ignorer"
    ],
    "exp": "Les besoins motivent le comportement et les sentiments. Un besoin non satisfait crée du stress et le client peut changer de comportement. L'aide doit reconnaître le besoin non satisfait, puis observer, noter et signaler (Module II, Unité A)."
+  },
+  "wo": {
+   "q": "Kiliyaan bu dal li mu miin dafa mer te bañ a lekk ginnaaw bu doomam taxawee ñëw. Ci program bi, jikko jii, nan la ñu ko GËN a nande ?",
+   "choices": [
+    "Firnde ne kiliyaan bi dafa jafe rekk",
+    "Tontu bu mën a am ci soxla bu amul tontu (bokk), lu indi stress",
+    "Firnde ne kiliyaan bi soxlawatul soins à domicile",
+    "Mbirum njaboot la, bàyyi ko"
+   ],
+   "exp": "Soxla yi ñooy jiite jikko ak xol. Soxla bu amul tontu dafay indi stress te kiliyaan bi mën na soppi jikkoom. Aide bi war na gis soxla bi te seetlu, bind, wax (Modil II, Unité A)."
   }
  },
  {
@@ -2237,6 +3027,16 @@
     "Préparer l'aliment quand même parce que la nutrition est plus importante"
    ],
    "exp": "La diversité (origine, religion, nationalité, âge, orientation) influence les soins à travers la communication verbale et non verbale, les croyances de santé, les choix alimentaires et le système familial. L'aide respecte l'individualité de chaque client (Module II, Unité B)."
+  },
+  "wo": {
+   "q": "Kiliyaan bu aada ju wuute bañ na benn ñam te bëgg ñu nuyu ko ci anam bu leer. Program bi jàngale na ne aide bi war na :",
+   "choices": [
+    "Jubbanti aadaay kiliyaan bi ngir mu mel ni Amerig",
+    "Weg wuute ci aada, diine, ñam ak waxtaan, ndax dañuy jëfe ci topptoo bi",
+    "Wax aadaay kiliyaan bi ni jafe-jafe ci kaaraange",
+    "Togg ñam wi quand même ndax nutrition moo gën a am solo"
+   ],
+   "exp": "Wuute (xeet, diine, réew, at, ni nga bëgge) dafay jëfe ci topptoo : waxtaan, ngëm ci wérgi-yaram, ñam, njaboot. Aide bi dafay weg kiliyaan bu nekk ni mu mel (Modil II, Unité B)."
   }
  },
  {
@@ -2265,6 +3065,16 @@
     "Lire le plan de soins au client"
    ],
    "exp": "La communication est verbale et non verbale. Le non verbal comprend l'expression du visage, les gestes, la posture, le ton et le toucher. Une communication efficace exige aussi un retour (feedback) et une écoute active (Module II, Unité C)."
+  },
+  "wo": {
+   "q": "Lan ci yii mooy misaal bu waxtaan bu DUL BAAT ?",
+   "choices": [
+    "Leeral doxalinu sangu ci baat bu kawe",
+    "Bind karmat ci kayit bi",
+    "Kanam, taxawaay ak laal",
+    "Jàng palaŋu topptoo bi kiliyaan bi"
+   ],
+   "exp": "Waxtaan am na baat ak lu dul baat. Lu dul baat : kanam, loxo, taxawaay, baat bi ak laal. Waxtaan bu baax soxla na itam tontu ak déglu bu baax (Modil II, Unité C)."
   }
  },
  {
@@ -2293,6 +3103,16 @@
     "Éviter de parler au client parce que cela le frustre"
    ],
    "exp": "Le programme exige des techniques de communication adaptées aux besoins particuliers : vision, audition, aphasie et troubles cognitifs. L'aphasie est un trouble du langage, pas de l'audition ; patience, langage simple, temps et supports visuels aident (Module II, Unité C)."
+  },
+  "wo": {
+   "q": "Kiliyaan bi am na aphasie ginnaaw AVC te jafe na ko gis baat yi. Anam bu GËN ci waxtaan mooy :",
+   "choices": [
+    "Pare kàddoom bu gaaw ngir topptoo bi bañ a yeex",
+    "Wax lu gën a kawe, ndax aphasie jafe-jafe ci dégg la",
+    "Muñ, jëfandikoo kàddu yu gàtt, may ko waxtu ngir tontu, te jëfandikoo loxo walla nataal",
+    "Bul wax ak kiliyaan bi ndax dafay ko naqari"
+   ],
+   "exp": "Program bi laaj na waxtaan bu dëppoo ak soxla yu bees : gis, dégg, aphasie, jafe-jafe ci xel. Aphasie jafe-jafe ci làkk la, du ci dégg ; muñ, kàddu yu yomb, waxtu ak nataal dañuy dimbali (Modil II, Unité C)."
   }
  },
  {
@@ -2321,6 +3141,16 @@
     "Où l'aide fait tout à la place du client"
    ],
    "exp": "Une relation thérapeutique est planifiée, intentionnelle et fondée sur la confiance. Elle respecte l'autonomie du client et favorise l'indépendance plutôt que la dépendance (Module II, Unité C, Leçon 4)."
+  },
+  "wo": {
+   "q": "Program bi wax na ne jëflante bu baax (thérapeutique) mooy jëflante bu :",
+   "choices": [
+    "Ñu waajal, am njariñ te sukkandiku ci kóolute",
+    "Yomb te sukkandiku ci xaritoo",
+    "Aide bi rekk moo koy saytu",
+    "Aide bi di def lépp ngir kiliyaan bi"
+   ],
+   "exp": "Jëflante bu baax : ñu waajal ko, am njariñ, sukkandiku ci kóolute. Dafay weg sañ-sañu kiliyaan bi te dooleel li mu mën a def boppam (Modil II, Unité C, Leçon 4)."
   }
  },
  {
@@ -2349,6 +3179,16 @@
     "Le droit de changer le plan de soins sans l'infirmière"
    ],
    "exp": "Les soignants doivent permettre aux personnes soignées d'exercer leurs droits à l'autonomie, à la vie privée, à la confidentialité, et à la protection contre la maltraitance, la négligence et les mauvais traitements (Module II, Unité C, Leçon 5)."
+  },
+  "wo": {
+   "q": "Ban sañ-sañ la program bi wax ne kiliyaan bu nekk am na ko ?",
+   "choices": [
+    "Kër, ñam ak transport bu dul fey",
+    "Sañ-sañ ci boppam, sutura, kumpa, ak aar ci toroxal, bàyyi ak mbaax",
+    "Sañ-sañ ci pey bu aide bi",
+    "Sañ-sañ soppi palaŋ bi te infirmiyeer bi xamul"
+   ],
+   "exp": "Soignants yi war nañu bàyyi kiliyaan yi ñu jëfandikoo seen sañ-sañ : dogal sa bopp, sutura, kumpa, aar ci toroxal, bàyyi ak mbaax (Modil II, Unité C, Leçon 5)."
   }
  },
  {
@@ -2377,6 +3217,16 @@
     "Seulement ce que le client vous dit"
    ],
    "exp": "L'observation professionnelle utilise la vue, l'odorat, l'ouïe et le toucher, et exige de connaître ce qui est normal pour le client afin de détecter les changements (Module II, Unité D)."
+  },
+  "wo": {
+   "q": "Seetlu bu baax, ban sens la jëfandikoo ci program bi ?",
+   "choices": [
+    "Gis rekk",
+    "Gis, xeeñ, dégg ak laal",
+    "Mos ak yég",
+    "Li kiliyaan bi wax rekk"
+   ],
+   "exp": "Seetlu bu baax dafay jëfandikoo gis, xeeñ, dégg ak laal, te soxla na nga xam lu baax ci kiliyaan bi ngir gis lu soppiku (Modil II, Unité D)."
   }
  },
  {
@@ -2405,6 +3255,16 @@
     "« Tout va bien aujourd'hui. »"
    ],
    "exp": "Notez les faits : ce que vous voyez, entendez et faites, avec la date et la signature. Évitez les opinions et les jugements. Des notes factuelles, datées et signées informent l'équipe sur l'état du client et protègent l'aide (Module II, Unité D)."
+  },
+  "wo": {
+   "q": "Ban karmat moo topp ndigëlu program bi ci bind (« bind rekk li nga gis, dégg ak def ; bind bés bi ; xaatim ») ?",
+   "choices": [
+    "« Kiliyaan bi dafa tayel te bëggul jóg. » (amul bés)",
+    "« 16/10 — Kiliyaan bi wax na « sama dënn dafay metti » ci 9h15 ; dér bi weex te tooy ; woo naa superviseur bi ci 9h17. — M. Diop »",
+    "« Xalaat naa ne kiliyaan bi dafa am dépression ndax doomam. »",
+    "« Lépp baax na tey. »"
+   ],
+   "exp": "Bind li am : li nga gis, dégg, def, ak bés ak xaatim. Bul bind sa xalaat walla sa àtte. Karmat yu wóor, am bés te xaatim dañuy jariñ ekib bi te aar aide bi (Modil II, Unité D)."
   }
  },
  {
@@ -2433,6 +3293,16 @@
     "Ses propres sentiments envers la famille"
    ],
    "exp": "L'aide observe et signale : les changements de l'état du client, les conditions et changements de l'environnement qui touchent le client, et les changements dans les relations de soutien avec la famille ou les amis (Module II, Unité D)."
+  },
+  "wo": {
+   "q": "Ci kaw lu soppiku ci kiliyaan bi, lan la program bi wax ne aide bi war na seetlu te wax ?",
+   "choices": [
+    "Signes vitaux yu kiliyaan bi rekk",
+    "Lu nekk ci kër gi te laal kiliyaan bi, ak lu soppiku ci jëflante ak njaboot gi walla xarit yi",
+    "Li dëkkandoo yi di def",
+    "Sa xalaat ci njaboot gi"
+   ],
+   "exp": "Aide bi dafay seetlu te wax : lu soppiku ci kiliyaan bi, lu nekk ci kër gi te laal ko, ak lu soppiku ci ndimbalu njaboot gi ak xarit yi (Modil II, Unité D)."
   }
  },
  {
@@ -2461,6 +3331,16 @@
     "DMV"
    ],
    "exp": "L'Unité E couvre l'étendue de la confidentialité (conversations, observations, rapports), le rôle de l'aide pour la préserver, et les règles HIPAA (Module II, Unité E)."
+  },
+  "wo": {
+   "q": "Ban yoonu réew mi aar xibaari wérgi-yaram la program bi tudd ci unité bu sutura ?",
+   "choices": [
+    "OSHA",
+    "HIPAA",
+    "FDA",
+    "DMV"
+   ],
+   "exp": "Unité E dafay wax ci sutura (waxtaan, seetlu, bind), wareefu aide bi ci aar ko, ak ndigëli HIPAA (Modil II, Unité E)."
   }
  },
  {
@@ -2489,6 +3369,16 @@
     "Un problème seulement si le client l'apprend"
    ],
    "exp": "La confidentialité couvre les conversations, les observations et les rapports. L'aide doit la préserver dans sa conduite personnelle, y compris dans ses conversations avec les collègues et les autres (Module II, Unité E)."
+  },
+  "wo": {
+   "q": "Ci bus bi, aide bi mu ngi nettali collègue bi lu réelu ci ni kiliyaan bi di def ci wanag, te waxul turam. Ci program bi, lii :",
+   "choices": [
+    "Baax na ndax waxul tur wi",
+    "Yàq sutura la : waxtaan ci kiliyaan yi, ak li nga seetlu, bokk na ci",
+    "Baax na ndax collègue yi bokk nañu ci ekib bi",
+    "Jafe-jafe la bu kiliyaan bi xamee rekk"
+   ],
+   "exp": "Sutura dafay ëmb waxtaan, seetlu ak bind. Aide bi war na ko aar ci jikkoom, ci waxtaan ak collègue yi ak ñeneen (Modil II, Unité E)."
   }
  },
  {
@@ -2517,6 +3407,16 @@
     "Une raison d'arrêter d'encourager l'indépendance"
    ],
    "exp": "Le vieillissement est un processus normal ; il existe des variations individuelles dans les changements physiques et mentaux, influencées par des facteurs sociaux comme la famille, les finances, la culture et la spiritualité (Module III, Unité A)."
+  },
+  "wo": {
+   "q": "Program bi wax na ne màgget :",
+   "choices": [
+    "Feebar la bu war a faju",
+    "Lu baax la te ku nekk am na ni muy màgget",
+    "Dafay am ci ñépp ni benn",
+    "Lu tax ñu bàyyi dooleel sañ-sañ"
+   ],
+   "exp": "Màgget lu baax la ; ku nekk am na ni muy màgget ci yaram ak ci xel, lu askan di def di ci jëfe : njaboot, xaalis, aada, diine (Modil III, Unité A)."
   }
  },
  {
@@ -2545,6 +3445,16 @@
     "Système immunitaire ; donner des vitamines"
    ],
    "exp": "Le Module III, Unité B couvre les effets du vieillissement sur chaque système du corps, dont le système sensoriel (baisse du goût et de l'odorat). Le rôle de l'aide est de connaître les problèmes courants, de soigner le client et de signaler les symptômes."
+  },
+  "wo": {
+   "q": "Kiliyaan bu mag bu daan lekk bu baax wax na léegi ne ñam amul cafka te lekk lu néew. Ban soppi ci yaram moo gën a dëppoo ak lii, te lan la aide bi war a def ?",
+   "choices": [
+    "Sidit ak yax ; xiirtal exercice",
+    "Sens yi (ñam ak xeeñ wàññiku) ; seetlu, bind te wax lekk bu néew bi",
+    "Cér yu juddu ; dara lu war a wax",
+    "Yaram bu aar ; jox witamin"
+   ],
+   "exp": "Modil III, Unité B dafay wax soppi yu màgget ci cér bu nekk, ak sens yi (ñam ak xeeñ wàññiku). Aide bi war na xam jafe-jafe yi, topptoo kiliyaan bi te wax firnde yi."
   }
  },
  {
@@ -2573,6 +3483,16 @@
     "D'un signe que la cliente doit aller immédiatement en maison de retraite"
    ],
    "exp": "Le programme distingue les changements temporaires des fonctions mentales (causes : infection, médicament, déshydratation) des changements permanents. Un changement soudain doit être observé, noté et signalé (Module III, Unité C)."
+  },
+  "wo": {
+   "q": "Kiliyaan bu mag jaxasoo na ci ñaari fan. Démb ba fi dafa dal. Ci program bi, lii TRÈS PROBABLEMENT :",
+   "choices": [
+    "Soppi bu dul wéy bu bokk ci màgget",
+    "Soppi bu dul yàgg ci xel bu am lu ko waral (feebar, garab, ñàkk ndox) te war nañu ko wax",
+    "Dara lu bees : mag ñépp dañuy jaxasoo",
+    "Firnde ne kiliyaan bi war na dem maison de retraite léegi"
+   ],
+   "exp": "Program bi dafay xàjjale soppi bu dul yàgg ci xel (jàngoro, garab, ñàkk ndox) ak soppi bu dul wéy. Soppi bu gaaw war nañu ko seetlu, bind te wax (Modil III, Unité C)."
   }
  },
  {
@@ -2601,6 +3521,16 @@
     "S'isoler de la famille et des amis"
    ],
    "exp": "Le Module III, Unité C couvre les causes et effets du stress (mentaux et physiques), les mécanismes d'adaptation et les techniques de réduction du stress, ainsi que le devoir d'observer, noter et signaler."
+  },
+  "wo": {
+   "q": "Lan ci yii mooy anam bu baax ngir wàññi stress bu aide bi mën a xiirtal, ci program bi ?",
+   "choices": [
+    "Denc sa soxla ci sa xol",
+    "Wax sa xol, noppalu te des di yëngu",
+    "Bàyyi lekk",
+    "Sore njaboot ak xarit"
+   ],
+   "exp": "Modil III, Unité C dafay wax lu tax stress ak jeexitalam (xel ak yaram), anam yu ñu koy saafara, ak wareefu seetlu, bind te wax."
   }
  },
  {
@@ -2629,6 +3559,16 @@
     "La famille veut un cuisinier"
    ],
    "exp": "Les situations comprennent : maladie chronique d'un enfant ou d'un parent, handicap, prématurité, traumatisme, parent inexpérimenté ou dépassé, décès ou abandon d'un parent, violence familiale, maltraitance, négligence ou dépendance (Module IV, Unité A)."
+  },
+  "wo": {
+   "q": "Lan ci yii mooy xew-xew ci njaboot bu mën a tax xale yi soxla aide à domicile, ci program bi ?",
+   "choices": [
+    "Waajur yi bëgg ku toppatoo xale yi ci week-end te feyul",
+    "Feebar bu yàgg ci xale walla waajur, juddu te matul, walla waajur bu dëppoowul",
+    "Xale bi soxla ndimbal ci ekool",
+    "Njaboot gi bëgg ku togg"
+   ],
+   "exp": "Xew-xew yi : feebar bu yàgg ci xale walla waajur, laago, juddu te matul, aksidaa, waajur bu xamul walla dëppoowul, waajur bu dee walla daw, dóor, toroxal, bàyyi, drog walla sangara (Modil IV, Unité A)."
   }
  },
  {
@@ -2657,6 +3597,16 @@
     "De 6 à 12 ans"
    ],
    "exp": "Nourrisson : naissance à 12 mois ; tout-petit : 1 à 3 ans ; préscolaire : 3 à 6 ans ; âge scolaire : 6 à 11 ou 12 ans ; adolescent : 11 à 19 ans (Module IV, Unité B)."
+  },
+  "wo": {
+   "q": "Ci juróomi jamono yu màgg yu program bi, « tout-petit » (toddler) am na :",
+   "choices": [
+    "Juddu ba 12 weer",
+    "1 ba 3 at",
+    "3 ba 6 at",
+    "6 ba 12 at"
+   ],
+   "exp": "Liir : juddu ba 12 weer ; tout-petit : 1 ba 3 at ; préscolaire : 3 ba 6 at ; ekool : 6 ba 11 walla 12 at ; ndaw : 11 ba 19 at (Modil IV, Unité B)."
   }
  },
  {
@@ -2685,6 +3635,16 @@
     "Signaler la famille aux autorités si sa culture est différente"
    ],
    "exp": "Points clés : comprendre les rôles et la dynamique familiale ; respecter les ressources, le mode de vie et la culture de la famille ; s'occuper des besoins du parent au début de chaque visite ; montrer l'exemple d'une parentalité positive ; observer et signaler (Module IV, Unité D)."
+  },
+  "wo": {
+   "q": "Bu ngay liggéey ak waajur ak njaboot, program bi digal na aide bi mu :",
+   "choices": [
+    "Jël yar xale yi ndax waajur bi dafa dëppoowul",
+    "Weg alal, dundin ak aadaay njaboot gi, faju soxlay waajur bi ci ndoorteelu visite bu nekk, te wone yar bu baax",
+    "Ñaawlu ni waajur bi di yare ngir mu gën",
+    "Wax autorités yi bu aadaam wuutee"
+   ],
+   "exp": "Lu am solo : nand palaasu ku nekk ci njaboot gi ; weg alal, dundin ak aada ; faju soxlay waajur bi ci ndoorteelu visite bu nekk ; wone yar bu baax ; seetlu te wax (Modil IV, Unité D)."
   }
  },
  {
@@ -2713,6 +3673,16 @@
     "Accuser les autres quand ça va mal"
    ],
    "exp": "Les personnes en bonne santé mentale savent s'adapter au changement, donner et recevoir de l'affection, bâtir de bonnes relations, contrôler leurs impulsions, assumer leurs responsabilités, accepter la déception, tolérer un peu d'anxiété et de frustration, et se respecter (Module V, Unité A)."
+  },
+  "wo": {
+   "q": "Ci program bi, lan ci yii mooy firndey wérgi-xel bu baax ?",
+   "choices": [
+    "Bañ a yég tiit walla naqar mukk",
+    "Mën a jubbanti sa bopp bu lu soppikoo, nangu ñàkk te téye sa bopp",
+    "Bañ bépp jëflante",
+    "Tuumaal ñeneen bu lu baaxul amee"
+   ],
+   "exp": "Ku am wérgi-xel mën na jubbanti boppam, jox ak jël mbëggeel, am xarit, téye boppam, nangu wareefam ak ñàkk, muñ tuuti tiit, te weg boppam (Modil V, Unité A)."
   }
  },
  {
@@ -2741,6 +3711,16 @@
     "Manger trop de sucre"
    ],
    "exp": "Causes : facteurs physiques (lésion cérébrale, déséquilibre chimique), facteurs environnementaux, hérédité et stress anormal. Les personnes atteintes peuvent guérir et mener une vie normale avec un traitement (Module V, Unité B)."
+  },
+  "wo": {
+   "q": "Lan ci yii la program bi wax ni lu tax feebaru xel ?",
+   "choices": [
+    "Tayel",
+    "Yaram (gaañu ci bopp, lu jaxasoo ci dereet), cosaan, ni ñuy dunde ak stress bu ëpp",
+    "Mbugal ci lu nit def bu jëkk",
+    "Lekk sukar lu ëpp"
+   ],
+   "exp": "Lu ko waral : yaram (gaañu ci bopp, lu jaxasoo ci dereet), ni ñuy dunde, cosaan ak stress bu ëpp. Ñi am feebaru xel mën nañu wér ak faju (Modil V, Unité B)."
   }
  },
  {
@@ -2769,6 +3749,16 @@
     "Discuter avec le client au sujet de son comportement"
    ],
    "exp": "Règles : décrire le comportement inhabituel (quand, fréquence, durée), noter s'il s'agit d'un changement de personnalité, s'il est extrême ou dangereux, et ne pas tirer de conclusions sur les causes (Module V, Unité C)."
+  },
+  "wo": {
+   "q": "Bu ngay seetlu jikko bu bees ci kiliyaan bu am feebaru xel, program bi wax na aide bi mu :",
+   "choices": [
+    "Dogal lu ko waral te bind diagnostic bi",
+    "Wax ni jikko ji mel, kañ, ñaata yoon ak ba kañ, te BUL wax lu ko waral",
+    "Bàyyi ko bu njaboot gi ñaxtuwul",
+    "Werante ak kiliyaan bi ci jikkoom"
+   ],
+   "exp": "Ndigël : wax ni jikko ji mel (kañ, ñaata yoon, ba kañ), ndax soppi na jikkoom, ndax dafa ëpp walla lor, te bul wax lu ko waral (Modil V, Unité C)."
   }
  },
  {
@@ -2797,6 +3787,16 @@
     "Attendre la prochaine visite prévue de l'infirmière"
    ],
    "exp": "Assurer la sécurité : ne pas laisser le client sans surveillance si le plan de soins exige une surveillance constante ; observer et signaler le non-respect du traitement ; appeler le 911 en cas de changement extrême de comportement (Module V, Unité C)."
+  },
+  "wo": {
+   "q": "Kiliyaan bu am feebaru xel bu metti dafa mer lool bu gaaw te wax ne dina lor boppam. Palaŋ bi laaj na saytu bu dul taxaw. Aide bi war na :",
+   "choices": [
+    "Dem laaj ndimbal ci dëkkandoo",
+    "Woo 911 ndax jikko ji soppiku na lu ëpp, aar sa bopp, te bul bàyyi kiliyaan bi moom rekk",
+    "Jox kiliyaan bi dose bu dolli ci garabam",
+    "Xaar ba visite bu infirmiyeer bi"
+   ],
+   "exp": "Kaaraange : bul bàyyi kiliyaan bi moom rekk bu palaŋ bi laajee saytu bu dul taxaw ; seetlu te wax bañ garab ; woo 911 bu jikko ji soppikoo lu ëpp (Modil V, Unité C)."
   }
  },
  {
@@ -2825,6 +3825,16 @@
     "Les handicaps du développement ne touchent que les enfants"
    ],
    "exp": "Les handicaps du développement sont permanents et apparaissent avant 22 ans (ex. : paralysie cérébrale, autisme, déficience intellectuelle). La maladie mentale peut être temporaire et survenir à tout moment de la vie (Module VI, Unité A)."
+  },
+  "wo": {
+   "q": "Nan la program bi xàjjalee laago bu jóge ci ndaw ak feebaru xel ?",
+   "choices": [
+    "Benn la",
+    "Laago bu jóge ci ndaw du wéy te tàmbali laata 22 at ; feebaru xel mën na dul yàgg te tàmbali at bu nekk",
+    "Feebaru xel du wéy ; laago bu jóge ci ndaw du yàgg",
+    "Laago bu jóge ci ndaw xale yi rekk lay laal"
+   ],
+   "exp": "Laago bu jóge ci ndaw du wéy te tàmbali laata 22 at (paralysie cérébrale, autisme, laago ci xel). Feebaru xel mën na dul yàgg te tàmbali at bu nekk (Modil VI, Unité A)."
   }
  },
  {
@@ -2853,6 +3863,16 @@
     "Manquer l'école"
    ],
    "exp": "Les causes congénitales comprennent les anomalies chromosomiques ou génétiques (trisomie 21). Les causes acquises : infections pendant la grossesse, lésion cérébrale à l'accouchement, alcool, drogue ou mauvaise nutrition pendant la grossesse, prématurité et intoxication au plomb (Module VI, Unité A)."
+  },
+  "wo": {
+   "q": "Lan ci yii la program bi wax ni lu waral laago bu jóge ci ndaw bu ÑU AM GINNAAW (acquis) ?",
+   "choices": [
+    "Trisomie 21",
+    "Poison bu plomb walla gaañu ci bopp bu ñuy juddu",
+    "Seetaan télé lu ëpp",
+    "Ñàkk dem ekool"
+   ],
+   "exp": "Lu juddoo ak nit : chromosome walla gène (trisomie 21). Lu ñu am ginnaaw : jàngoro ci biir, gaañu ci bopp bu ñuy juddu, sangara, drog walla ñam bu baaxul ci biir, juddu te matul, poison bu plomb (Modil VI, Unité A)."
   }
  },
  {
@@ -2881,6 +3901,16 @@
     "Tout faire à la place de la personne pour éviter les erreurs"
    ],
    "exp": "Normes : parler poliment ; inclure les personnes dans les conversations (parler avec elles, pas d'elles) ; communication positive ; expliquer clairement ; encourager la réflexion par des questions plutôt que des ordres ; encourager l'indépendance ; inclure dans les décisions et offrir des choix ; respecter les différences (Module VI, Unité B)."
+  },
+  "wo": {
+   "q": "Ban jikko moo topp ni program bi laaje ñu liggéey ak ku am laago bu jóge ci ndaw ?",
+   "choices": [
+    "Wax ci kaw nit ki ak njaboot gi te mu nekk ci néeg bi",
+    "Wax ak nit ki, dugal ko ci dogal yi, te xiirtal ko mu def li mu mën moom ci boppam",
+    "Santaane ngir liggéey bi gaaw",
+    "Def lépp ngir nit ki ngir bañ njuumte"
+   ],
+   "exp": "Ndigël : wax ak teggin ; dugal nit ñi ci waxtaan (wax ak ñoom, du ci kaw ñoom) ; waxtaan bu baax ; leeral ni ñu mën a nand ; laaj, bul santaane ; xiirtal sañ-sañ ; dugal ci dogal te jox tànneef ; weg wuute (Modil VI, Unité B)."
   }
  },
  {
@@ -2909,6 +3939,16 @@
     "Est toujours permanent"
    ],
    "exp": "Un handicap physique peut être de naissance, dû à une blessure ou à une maladie, temporaire ou permanent. Le diagnostic n'indique pas le niveau de fonctionnement ; ce qui compte, c'est l'impact sur les activités de la vie quotidienne (AVQ) et les activités instrumentales (Module VII, Unité A)."
+  },
+  "wo": {
+   "q": "Ci program bi, diagnostic bu laago yaram :",
+   "choices": [
+    "Dafay wax lépp lu nit ki mën ak lu mu mënul",
+    "Du wax tolluwaayu nit ki ; jeexital bi ci liggéey yu bés bu nekk dafay wuute",
+    "Dafay tekki ne nit ki mënul dund ci këram",
+    "Du wéy saa su nekk"
+   ],
+   "exp": "Laago yaram mën na juddoo ak nit, jóge ci gaañu walla feebar, dul yàgg walla dul wéy. Diagnostic du wax tolluwaay ; li am solo mooy jeexital bi ci liggéey yu bés bu nekk (Modil VII, Unité A)."
   }
  },
  {
@@ -2937,6 +3977,16 @@
     "Limiter les visites pour réduire le stress"
    ],
    "exp": "Objectifs : favoriser l'autonomie et l'indépendance, préserver la dignité et l'estime de soi, maintenir un mode de vie normal. L'aide suit le plan de soins, apporte un soutien émotionnel, encourage l'indépendance et aide à rendre l'environnement favorable (Module VII, Unité B)."
+  },
+  "wo": {
+   "q": "Lu soins à domicile di jëm ngir ñi am laago yaram, ci program bi ?",
+   "choices": [
+    "Dooleel topptoo sa bopp ak sañ-sañ, aar teggin ak solo, te aar dund bu baax",
+    "Téye nit ki ci lal ngir bañ gaañu",
+    "Def liggéey yépp ngir nit ki",
+    "Wàññi gan yi ngir wàññi stress"
+   ],
+   "exp": "Li ñu jëm : dooleel topptoo sa bopp ak sañ-sañ, aar teggin ak solo, aar dund bu baax. Aide bi dafay topp palaŋ bi, jàppale ci xol, xiirtal sañ-sañ te dëppale kër gi (Modil VII, Unité B)."
   }
  },
  {
@@ -2965,6 +4015,16 @@
     "Aider la glande thyroïde à fonctionner"
    ],
    "exp": "Les protéines construisent et réparent les tissus ; sources : viande, poisson, œufs, lait, soja et légumineuses. Les glucides fournissent l'énergie ; les graisses protègent les organes et isolent ; l'iode soutient la thyroïde (Module VIII, Unité A)."
+  },
+  "wo": {
+   "q": "Ci program bi, lu proteyin di def ci yaram ?",
+   "choices": [
+    "Jox carburant ngir tàngoor ak doole",
+    "Tabax te defaraat tissu yu yaram",
+    "Aar yaram ci sedd",
+    "Dimbali tiroyid bi"
+   ],
+   "exp": "Proteyin dafay tabax te defaraat tissu yi ; sources : yàpp, jën, nen, meew, soja, ñebbe. Glisid dañuy jox doole ; diw dafay aar cér yi ; iyod dafay dimbali tiroyid (Modil VIII, Unité A)."
   }
  },
  {
@@ -2993,6 +4053,16 @@
     "L'iode"
    ],
    "exp": "Calcium : os et dents solides, coagulation, contraction musculaire. Le fer fabrique l'hémoglobine ; le potassium aide le cœur ; le sodium équilibre l'eau ; l'iode sert à la thyroïde (Module VIII, Unité A)."
+  },
+  "wo": {
+   "q": "Ban mineero la program bi wax ne soxla nañu ko ngir yax ak bëñ yu dëgër, dereet bu dëgër ak sidit yi ?",
+   "choices": [
+    "Weñ",
+    "Kalsiyom",
+    "Sodiyom",
+    "Iyod"
+   ],
+   "exp": "Kalsiyom : yax ak bëñ yu dëgër, dereet bu dëgër, sidit. Weñ dafay defar hémoglobine ; potasiyom dafay dimbali xol ; sodiyom dafay saytu ndox ; iyod ngir tiroyid (Modil VIII, Unité A)."
   }
  },
  {
@@ -3021,6 +4091,16 @@
     "La vitamine D"
    ],
    "exp": "La vitamine C renforce les parois des vaisseaux et aide à la cicatrisation des plaies et des os. La vitamine A aide la peau et la croissance osseuse ; la B aide les systèmes nerveux et digestif ; la D construit os et dents ; la E est un antioxydant (Module VIII, Unité A)."
+  },
+  "wo": {
+   "q": "Ban witamin la program bi wax ne dafay dëgëral sidit dereet yi te dimbali gaañu yi wér ?",
+   "choices": [
+    "Witamin A",
+    "Witamin B",
+    "Witamin C",
+    "Witamin D"
+   ],
+   "exp": "Witamin C dafay dëgëral sidit dereet yi te dimbali gaañu ak yax wér. A ngir dér ak yax ; B ngir sidit ak biir ; D ngir yax ak bëñ ; E antioxydant (Modil VIII, Unité A)."
   }
  },
  {
@@ -3049,6 +4129,16 @@
     "De l'emploi du temps de l'aide"
    ],
    "exp": "La planification des repas doit tenir compte des préférences et habitudes alimentaires, qui dépendent de la culture ou de la religion, de l'expérience, de la disponibilité et du coût, et de la facilité de préparation, ainsi que des besoins en calories et en nutriments. Impliquez le client (Module VIII, Unité B)."
+  },
+  "wo": {
+   "q": "Ci kaw nutrition, lan la waajal ñam war a seet, ci program bi ?",
+   "choices": [
+    "Njëgu ñam rekk",
+    "Li kiliyaan bi bëgg ak aadaam : aada, diine, li mu miin, njëg ak yomb",
+    "Li aide bi bëgg a togg rekk",
+    "Waxtuwu aide bi"
+   ],
+   "exp": "Waajal ñam war na seet li kiliyaan bi bëgg ak aadaam : aada walla diine, li mu miin, njëg ak yomb, ak kalori ak soxla yu bees. Dugal kiliyaan bi (Modil VIII, Unité B)."
   }
  },
  {
@@ -3077,6 +4167,16 @@
     "Utiliser surtout des plats préparés"
    ],
    "exp": "Éviter la friture ; cuire les légumes à la vapeur ; cuire au four, au gril ou au micro-ondes ; éviter les plats préparés ; cuire juste jusqu'à tendreté pour protéger les nutriments ; demander au client comment il aime assaisonner (Module VIII, Unité C)."
+  },
+  "wo": {
+   "q": "Ban anam bu togg la program bi digle ngir aar nutriman yi ?",
+   "choices": [
+    "Sotti ci diw",
+    "Baxal lejum ci wal te togg ba mu noy rekk",
+    "Baxal lejum lu yàgg",
+    "Jëfandikoo ñam bu ñu pare ci lu ëpp"
+   ],
+   "exp": "Bul sotti ci diw ; baxal lejum ci wal ; four, gril walla micro-ondes ; bul jëfandikoo ñam bu ñu pare ; togg ba mu noy rekk ngir nutriman yi des ; laaj ni kiliyaan bi bëgge tàngal (Modil VIII, Unité C)."
   }
  },
  {
@@ -3105,6 +4205,16 @@
     "Que le client devrait sauter des repas"
    ],
    "exp": "Soyez attentif au manque d'appétit : il peut signaler une maladie ou une dépression, une insatisfaction vis-à-vis des repas, une mauvaise hygiène buccale, des problèmes de mastication ou des médicaments. Servez de petites portions appétissantes et proposez de se resservir (Module VIII, Unité C)."
+  },
+  "wo": {
+   "q": "Kiliyaan bi bëggatul lekk. Ci program bi, ñàkk bëgg a lekk mën na wone :",
+   "choices": [
+    "Ne kiliyaan bi dafa dëgër bopp",
+    "Feebar walla dépression, ñam bu neexul, gémmiñ bu set-ul, jafe-jafe ci ñàmm walla garab",
+    "Dara lu am solo",
+    "Ne kiliyaan bi war na bàyyi lekk"
+   ],
+   "exp": "Seetlu ñàkk bëgg a lekk : mën na wone feebar walla dépression, ñam bu neexul, gémmiñ bu set-ul, jafe-jafe ci ñàmm walla garab. Jox portion yu ndaw te rafet (Modil VIII, Unité C)."
   }
  },
  {
@@ -3133,6 +4243,16 @@
     "Température ambiante"
    ],
    "exp": "Réfrigérateur à 36–40 °F (2–4 °C) ; congélateur à 0 °F (−18 °C). Couvrir et dater les aliments réfrigérés ; consommer les surgelés dans les six mois ; ne jamais décongeler sur le plan de travail ; garder les plats chauds au-dessus de 140 °F (60 °C) et les plats froids en dessous de 40 °F (4 °C) (Module VIII, Unité D)."
+  },
+  "wo": {
+   "q": "Ci program bi, ci ban tàngoor la frigo bi war a nekk ?",
+   "choices": [
+    "0 °F (−18 °C)",
+    "36 ba 40 °F (2 ba 4 °C)",
+    "50 ba 55 °F (10 ba 13 °C)",
+    "Tàngooru néeg"
+   ],
+   "exp": "Frigo ci 36–40 °F (2–4 °C) ; congélateur ci 0 °F (−18 °C). Muur te bind bés bi ; surgelé ci juróom-benni weer ; bul yeeyal ci kaw tabal ; ñam bu tàng ci kaw 140 °F (60 °C), bu sedd ci suuf 40 °F (4 °C) (Modil VIII, Unité D)."
   }
  },
  {
@@ -3161,6 +4281,16 @@
     "Recongeler les aliments décongelés pour économiser"
    ],
    "exp": "Règles : se laver les mains avant de manipuler les aliments ; porter des gants en cas de coupure ; ne jamais goûter et remuer avec la même cuillère ; ne pas utiliser de boîtes bombées ; jamais d'œufs fêlés ou sous-cuits ; ne pas recongeler ; consommer les restes cuits en 3 à 4 jours (Module VIII, Unité D)."
+  },
+  "wo": {
+   "q": "Lan ci yii mooy ndigëlu kaaraange ñam ci program bi ?",
+   "choices": [
+    "Mos te jaxase ak benn kuddu",
+    "Jëfandikoo boyet bu fuur bu jàllul",
+    "Bul jëfandikoo nen bu dàgg mukk te bul sotti nen te matul",
+    "Dëgëralaat ñam bu yeey ngir yokk xaalis"
+   ],
+   "exp": "Ndigël : raxas loxo laata ngay togg ; gant bu nga gaañoo ; bul mos te jaxase ak benn kuddu ; bul jëfandikoo boyet bu fuur ; nen bu dàgg walla bu matul, mukk ; bul dëgëralaat ; des yi, 3 ba 4 fan (Modil VIII, Unité D)."
   }
  },
  {
@@ -3189,6 +4319,16 @@
     "Ne signale que les gros achats"
    ],
    "exp": "Procédures pour l'argent des courses : suivre la politique de l'agence, garder tous les reçus et rendre compte de tout l'argent dépensé dès que possible après les courses (Module VIII, Unité D ; aussi Module IX)."
+  },
+  "wo": {
+   "q": "Bu ngay jënd ak xaalisu kiliyaan bi, program bi laaj na aide bi mu :",
+   "choices": [
+    "Denc wecc wi ni pourboire",
+    "Topp ndigëlu agence bi, denc reçu yépp, te wax xaalis bi yépp bu gaaw",
+    "Arrondi limu yi ci kayit bi",
+    "Wax njënd yu mag rekk"
+   ],
+   "exp": "Xaalisu njënd : topp ndigëlu agence bi, denc reçu yépp, te wax xaalis bi yépp bu gaaw ginnaaw njënd (Modil VIII, Unité D ; Modil IX)."
   }
  },
  {
@@ -3217,6 +4357,16 @@
     "Un régime conçu par l'aide"
    ],
    "exp": "Régime modifié : changement d'un nutriment prescrit par le médecin, changement de la quantité de calories, ou régime à texture modifiée. « Élevé » (high) signifie augmenter un nutriment ; « faible » (low) signifie le réduire ou le supprimer (Module VIII, Unité E)."
+  },
+  "wo": {
+   "q": "Nan la program bi tekkee « régime bu ñu soppi » ?",
+   "choices": [
+    "Régime bu nekk bu kiliyaan bi tànn",
+    "Benn nutriman bu doktor santaane ñu soppi, kalori yu soppiku, walla texture bu ñu soppi",
+    "Régime bu amul xorom te amul sukar",
+    "Régime bu aide bi defar"
+   ],
+   "exp": "Régime bu ñu soppi : benn nutriman bu doktor santaane, kalori, walla texture. « Élevé » : yokk nutriman ; « faible » : wàññi walla dindi (Modil VIII, Unité E)."
   }
  },
  {
@@ -3245,6 +4395,16 @@
     "Le pain et les pâtes"
    ],
    "exp": "Le régime sans irritants élimine les aliments supposés irriter la muqueuse de l'estomac : poivre, épices, alcool et caféine (Module VIII, Unité E)."
+  },
+  "wo": {
+   "q": "Kiliyaan bi am na régime bu amul lu metti biir (bland). Ban ñam la program bi wax ñu dindi ?",
+   "choices": [
+    "Ceeb ak pombiteer",
+    "Poobar, épis, sangara ak kafe",
+    "Meew ak yaourt",
+    "Mburu ak pâtes"
+   ],
+   "exp": "Régime bu amul lu metti biir dafay dindi ñam yi mën a metti biir : poobar, épis, sangara ak kafe (Modil VIII, Unité E)."
   }
  },
  {
@@ -3273,6 +4433,16 @@
     "Ne pas assaisonner parce que c'est dangereux"
    ],
    "exp": "Conseils : NE PAS mélanger les aliments avant de mixer ; ajouter du liquide et des assaisonnements selon les consignes ; nommer chaque aliment au client ; laisser le temps d'avaler chaque bouchée ; offrir des liquides supplémentaires contre la constipation et la déshydratation ; utiliser immédiatement ou congeler (Module VIII, Unité E)."
+  },
+  "wo": {
+   "q": "Bu ngay waajal ñam bu ñu nos ngir kiliyaan bu am jafe-jafe ci wann, lan la program bi laaj ?",
+   "choices": [
+    "Jaxase ñam yépp laata ngay nos ngir gaaw",
+    "Nos ñam bu nekk moom rekk, tudd kiliyaan bi ñam bu nekk, may ko waxtu ngir wann, te jox ko ndox lu dolli",
+    "Jox lépp ci tàngooru néeg",
+    "Bul tàngal ndax dafa lor"
+   ],
+   "exp": "Ndigël : BUL jaxase ñam yi laata ngay nos ; dolli ndox ak tàngal ni ñu ko waxe ; tudd ñam bu nekk ; may waxtu ngir wann ; jox ndox lu dolli ngir bañ jàpp biir ak ñàkk ndox ; lekk ko ci saa si walla dëgëral (Modil VIII, Unité E)."
   }
  },
  {
@@ -3301,6 +4471,16 @@
     "Seulement pour des montants inférieurs à vingt dollars"
    ],
    "exp": "L'aide peut aider pour les courses, les achats et la banque comme prévu dans le plan de soins, et doit tenir des comptes exacts des dépenses quand il manipule l'argent du client (Module IX, Unité A)."
+  },
+  "wo": {
+   "q": "Ci program bi, kañ la aide bi mën a yor xaalisu kiliyaan bi ngir njënd ?",
+   "choices": [
+    "Saa su kiliyaan bi laajee",
+    "Ni palaŋu topptoo bi ko waxe rekk, ak bind bu wóor",
+    "Mukk",
+    "Ngir lu ëppul ñaar-fukki dollar rekk"
+   ],
+   "exp": "Aide bi mën na dimbali ci njënd, jënd ak bank ni palaŋ bi ko waxe, te war na bind bu wóor lépp lu mu jënd (Modil IX, Unité A)."
   }
  },
  {
@@ -3329,6 +4509,16 @@
     "Acheter des plats préparés"
    ],
    "exp": "Pour bien utiliser les finances : chercher les bonnes affaires, comparer les prix et les produits (marques génériques), acheter en quantité, pour la nourriture, les produits ménagers, les médicaments et les vêtements (Module IX, Unité B)."
+  },
+  "wo": {
+   "q": "Ban anam bu jënd la program bi digle ngir yokk xaalisu njaboot gi ?",
+   "choices": [
+    "Jënd marque yu mag saa su nekk",
+    "Mengale njëg ak produit yi, xalaat ci marque générique, te jënd lu bari bu baaxee",
+    "Jënd te amul lisit",
+    "Jënd ñam bu ñu pare"
+   ],
+   "exp": "Ngir yokk xaalis : seet promotion, mengale njëg ak produit (générique), jënd lu bari, ci ñam, produit yu kër, garab ak yere (Modil IX, Unité B)."
   }
  },
  {
@@ -3357,6 +4547,16 @@
     "Cela permet à l'aide de partir plus tôt"
    ],
    "exp": "Une maison propre : contrôle des infections (bactéries, champignons), sécurité (moins d'accidents), et besoins de base satisfaits (confort, appartenance, fierté, estime de soi, accomplissement) (Module X, Unité A)."
+  },
+  "wo": {
+   "q": "Lu tax, ci program bi, kër bu set am solo ngir kiliyaan bu soins à domicile ?",
+   "choices": [
+    "Dafay neex superviseur bi",
+    "Dafay aar ci jàngoro, wàññi aksidaa, te faju soxla yi ni jàmm ak teggin",
+    "Mooy liggéey bi rekk am solo",
+    "Dafay tax aide bi dem bu teel"
+   ],
+   "exp": "Kër bu set : aar ci jàngoro (mikrob, campignon), kaaraange (aksidaa yu néew), soxla yi faju (jàmm, bokk, ngor, teggin) (Modil X, Unité A)."
   }
  },
  {
@@ -3385,6 +4585,16 @@
     "C'est l'aide qui décide ce qu'on jette"
    ],
    "exp": "Différences : respecter les coutumes, la religion et les affaires personnelles du client ; respecter ses habitudes, son matériel et ses produits ; chaque maison est différente ; être sensible aux limites du client ; répondre aux besoins de base ; favoriser l'indépendance (Module X, Unité B)."
+  },
+  "wo": {
+   "q": "Nan la setal ci kër kiliyaan wuutee ak setal sa kër, ci program bi ?",
+   "choices": [
+    "Wuutewul",
+    "War nga weg aada, diine, alal, lu mu miin ak jumtukaay bu kiliyaan bi, te dooleel sañ-sañam",
+    "Mën nga soppi palaasu meubles yi ni nga bëgge",
+    "Yaw ngay dogal lu ñu sànni"
+   ],
+   "exp": "Wuute yi : weg aada, diine ak alalu kiliyaan bi ; weg ni mu miine setal, jumtukaayam ak produit-am ; kër yi wuute ; xool lu kiliyaan bi mënul ; faju soxla yi ; dooleel sañ-sañ (Modil X, Unité B)."
   }
  },
  {
@@ -3413,6 +4623,16 @@
     "Porter les mêmes gants pendant une semaine"
    ],
    "exp": "Contrôle des infections : se laver les mains avant et après chaque tâche ; gants de ménage nettoyés chaque jour ; séparer propre et sale ; chiffon séparé pour la salle de bain ; lingette jetable pour les toilettes ; lire les consignes et ne jamais mélanger les produits (Module X, Unité D)."
+  },
+  "wo": {
+   "q": "Ban anam bu setal moo topp ndigëlu aar ci jàngoro bu program bi ?",
+   "choices": [
+    "Jëfandikoo benn sarbet ci waañ ak wanag",
+    "Xàjjale lu set ak lu tilim, sarbet bu wuute ci wanag, ak lingette bu ñuy sànni ci wanag",
+    "Jaxase eau de Javel ak yeneen produit ngir gën a set",
+    "Sol benn gant ayu-bés bu nekk"
+   ],
+   "exp": "Aar ci jàngoro : raxas loxo laata ak ginnaaw liggéey bu nekk ; gant yu setal, raxas leen bés bu nekk ; xàjjale lu set ak lu tilim ; sarbet bu wuute ci wanag ; lingette ci wanag ; jàng ndigël te bul jaxase produit mukk (Modil X, Unité D)."
   }
  },
  {
@@ -3441,6 +4661,16 @@
     "Utiliser la machine du client sans demander comment elle marche"
    ],
    "exp": "Lessive : porter des gants pour le linge souillé de liquides corporels ; demander au client ce qu'il faut laver ; demander comment utiliser les machines ; vérifier les poches ; trier foncé, blanc et délicat ; demander ce qui doit sécher à l'air (Module X, Unité D)."
+  },
+  "wo": {
+   "q": "Ngir fóotu kiliyaan bi, program bi wax na ñu :",
+   "choices": [
+    "Fóot lépp ci benn ak ndox mu tàng",
+    "Sol gant ngir dara yu tilim ak ndoxum yaram, seet poos yi, xàjjale lu ñuul, lu weex ak lu sew, te laaj kiliyaan bi lu war a dugg ci masin walla wow ci ngelaw",
+    "Sànni yere yu tilim yi",
+    "Jëfandikoo masin bi te laajul ni muy doxe"
+   ],
+   "exp": "Fóot : gant ngir dara yu tilim ak ndoxum yaram ; laaj kiliyaan bi lu war a fóot ; laaj ni masin yi di doxe ; seet poos yi ; xàjjale lu ñuul, lu weex ak lu sew ; laaj lu war a wow ci ngelaw (Modil X, Unité D)."
   }
  },
  {
@@ -3469,6 +4699,16 @@
     "Garage et jardin"
    ],
    "exp": "Les blessures domestiques les plus fréquentes sont les chutes, brûlures, coupures, empoisonnements, étouffements et blessures électriques ; elles arrivent surtout dans la cuisine et la salle de bain (Module XI, Unité A)."
+  },
+  "wo": {
+   "q": "Ci program bi, fan la gaañu-gaañu ci kër gën a am ?",
+   "choices": [
+    "Salon ak couloir",
+    "Waañ ak wanag",
+    "Néeg ak armoire",
+    "Garage ak tool"
+   ],
+   "exp": "Gaañu yi gën a bari ci kër : daanu, lakk, dagg, poison, lu jàpp ci put ak kuraŋ ; dañuy am ci waañ ak wanag ci lu ëpp (Modil XI, Unité A)."
   }
  },
  {
@@ -3497,6 +4737,16 @@
     "Recevoir trop de visites"
    ],
    "exp": "Facteurs chez les personnes âgées : troubles de l'équilibre, problèmes de vue, confusion, perte d'audition, effets des médicaments, baisse du goût et de l'odorat, pratiques culturelles, chaussures inadaptées. Autres dangers : mauvais éclairage, escaliers, petits tapis, encombrement, absence de barres d'appui (Module XI, Unité A)."
+  },
+  "wo": {
+   "q": "Lan la program bi wax ni lu tax mag ñi di gaañu ?",
+   "choices": [
+    "Nelaw lu ëpp",
+    "Jafe-jafe ci taxaw, gis bu néew, jaxasoo, garab, ak dàll yu baaxul",
+    "Lekk lejum lu ëpp",
+    "Gan yu bari"
+   ],
+   "exp": "Ci mag ñi : jafe-jafe ci taxaw, gis bu néew, jaxasoo, dégg bu néew, garab, ñam ak xeeñ bu néew, aada, dàll yu baaxul. Yeneen : leer bu néew, eskalie, tapi, lu dajaloo, amul barre (Modil XI, Unité A)."
   }
  },
  {
@@ -3525,6 +4775,16 @@
     "Ouvrir toutes les fenêtres, puis chercher l'extincteur"
    ],
    "exp": "En cas d'incendie : Secourir (mettre le client et soi-même en sécurité), Alerter (appeler le 911), Confiner (fermer les portes, bloquer la fumée), Éteindre/Évacuer (si les vêtements prennent feu, se coucher et rouler ; ne pas combattre un feu sauf s'il est mineur). Prévenir le superviseur dès que possible (Module XI, Unité B)."
+  },
+  "wo": {
+   "q": "Taal tàmbali na ci waañu kiliyaan bi. Ci ban toftale la program bi wax aide bi mu def ?",
+   "choices": [
+    "Fey, ba pare woo 911, ba pare musal",
+    "Musal kiliyaan bi ak yaw ; Yéene (woo 911) ; Tëj bunt yi ngir téye taal bi ; Fey bu ndawee rekk walla Génn",
+    "Woo superviseur bi bu jëkk, ba pare 911",
+    "Ubbi palanteer yépp, ba pare seet extincteur bi"
+   ],
+   "exp": "Bu am taal : Rescue (musal kiliyaan bi ak yaw), Alarm (woo 911), Confine (tëj bunt yi, téye saxaar si), Extinguish/Evacuate (bu yere taalee, tëdd te roul ; bul xeex taal lu dul lu ndaw). Wax superviseur bi bu gaaw (Modil XI, Unité B)."
   }
  },
  {
@@ -3553,6 +4813,16 @@
     "Laisser les portes de la voiture ouvertes pour sortir vite"
    ],
    "exp": "Sécurité personnelle : bonne adresse et itinéraire ; attention à l'environnement, pas de raccourcis dangereux ; connaître l'emplacement des téléphones et bornes d'alarme ; pas de sac à main, de grosses sommes ni de bijoux ; ne pas changer d'horaire sans prévenir le bureau ; portes de voiture verrouillées (Module XI, Unité B)."
+  },
+  "wo": {
+   "q": "Ban ndigëlu kaaraange la program bi jox aide yi di dem ci kër kiliyaan yi ?",
+   "choices": [
+    "Yor xaalis ngir fey urgence yi",
+    "Jaar fu ñu xamul ngir gaaw",
+    "Am adrees bu jub, xool li la wër, bul yor sak walla xaalis bu bari, te bul soppi sa waxtu te waxul biro bi",
+    "Bàyyi bunti oto bi ubbeeku ngir génn bu gaaw"
+   ],
+   "exp": "Sa kaaraange : adrees bu jub ak yoon wi ; xool li la wër, bul jaar fu ñu xamul ; xam fu telefon ak alarme nekk ; bul yor sak, xaalis bu bari walla bijoux ; bul soppi sa waxtu te waxul biro bi ; bunti oto bi tëju (Modil XI, Unité B)."
   }
  },
  {
@@ -3581,6 +4851,16 @@
     "Donner de l'eau et attendre"
    ],
    "exp": "Urgences graves : évaluer la situation, évaluer la victime, appeler les secours, se rappeler l'ABC des premiers secours (Airway = voies respiratoires, Breathing = respiration, Circulation). Connaître la politique d'incident de l'agence et qui contacter (Module XI, Unité C)."
+  },
+  "wo": {
+   "q": "Bu am urgence bu metti ci yaram, ban toftale la program bi jàngale ?",
+   "choices": [
+    "Woo njaboot gi, ba pare agence bi",
+    "Xool lu xew, xool nit ki, woo ndimbal, te fàttaliku ABC yu secours yi",
+    "Yóbbu nit ki ci lal bi bu jëkk",
+    "Jox ko ndox te xaar"
+   ],
+   "exp": "Urgence bu metti : xool lu xew, xool nit ki, woo ndimbal, fàttaliku ABC (Airway : yoonu noyyi, Breathing : noyyi, Circulation : dereet). Xam ndigëlu agence bi ak ku nga war a woo (Modil XI, Unité C)."
   }
  },
  {
@@ -3609,6 +4889,16 @@
     "Faire des injections et changer des pansements stériles"
    ],
    "exp": "Soins personnels = tâches liées au corps, à l'apparence, à l'hygiène et aux mouvements du client : toilette, aide aux toilettes, soins des dents et de la bouche, marche, habillage et soins d'apparence, repas et transferts (Module XII, Unité A)."
+  },
+  "wo": {
+   "q": "Ban kurélu liggéey la program bi tekkee « soins personnels » ?",
+   "choices": [
+    "Njënd, bank ak fey fatuur",
+    "Sangu, wanag, gémmiñ, dox, sol, taaral, lekk ak transfert",
+    "Togg ak setal rekk",
+    "Def piqûre ak soppi pansement stérile"
+   ],
+   "exp": "Soins personnels : liggéey yi aju ci yaramu kiliyaan bi, taaram, setam ak yëngoom : sangu, wanag, bëñ ak gémmiñ, dox, sol ak taaral, lekk ak transfert (Modil XII, Unité A)."
   }
  },
  {
@@ -3637,6 +4927,16 @@
     "Une bassine d'eau stagnante"
    ],
    "exp": "Procédure XII-1 : mouiller les mains sous l'eau courante tiède, bien savonner, laver toutes les surfaces y compris entre les doigts et sous les ongles jusqu'au-dessus du poignet, rincer les mains plus basses que les poignets, sécher avec une serviette propre et fermer le robinet avec la serviette en papier."
+  },
+  "wo": {
+   "q": "Bu ngay raxas loxo ak saabu ak ndox, program bi wax na ñu rince ak :",
+   "choices": [
+    "Loxo yi gën a kawe poñ yi",
+    "Loxo yi gën a suufe poñ yi ci ndox mu tàng muy wal",
+    "Ndox mu sedd rekk",
+    "Bassin bu am ndox mu taxaw"
+   ],
+   "exp": "Doxalin XII-1 : tooyal loxo yi ci ndox mu tàng muy wal, saabu bu bari, raxas lépp ba ci kaw poñ bi, rince loxo yi gën a suufe poñ yi, wowal ak serwiyet bu set, te tëj robine bi ak kayit bi."
   }
  },
  {
@@ -3665,6 +4965,16 @@
     "Jamais"
    ],
    "exp": "La solution hydro-alcoolique s'utilise quand il n'y a pas d'eau courante ou que les mains ne sont pas visiblement sales : appliquer le produit, frotter toutes les surfaces des mains et des doigts jusqu'à ce qu'elles soient sèches (Procédure XII-1)."
+  },
+  "wo": {
+   "q": "Kañ la solution hydro-alcoolique mën a wuutu saabu ak ndox, ci program bi ?",
+   "choices": [
+    "Saa su nekk ; dafay wuutu raxas loxo",
+    "Bu amul ndox muy wal te loxo yi tilimul lu ñu gis",
+    "Ginnaaw wanag rekk",
+    "Mukk"
+   ],
+   "exp": "Solution hydro-alcoolique bu amul ndox muy wal walla loxo yi tilimul lu ñu gis : def produit bi, fëss loxo ak baaraam yépp ba ñu wow (Doxalin XII-1)."
   }
  },
  {
@@ -3693,6 +5003,16 @@
     "Héréditaire et environnemental"
    ],
    "exp": "Transmission : contact (direct et indirect), voie aérienne, véhicule commun (aliments, eau, matériel contaminés) et vecteur (insectes). Facteurs de risque : âge, maladie chronique, immunodépression. Types : infection urinaire, respiratoire, de plaie ou de peau, digestive (Module XII, Unité B, contrôle des infections)."
+  },
+  "wo": {
+   "q": "Lan ci yii moo lim yoon yi jàngoro di jaare, yi program bi jàngale ?",
+   "choices": [
+    "Laal lu jub, laal lu dul jub, ngelaw, lu ñu bokk ak gunóor",
+    "Laal lu jub rekk",
+    "Ngelaw rekk",
+    "Cosaan ak ni ñuy dunde"
+   ],
+   "exp": "Yoon yi : laal (lu jub ak lu dul jub), ngelaw, lu ñu bokk (ñam, ndox, jumtukaay), gunóor. Lu tax : at, feebar bu yàgg, yaram bu néew doole. Xeet : saw, noyyi, gaañu ak dér, biir (Modil XII, Unité B)."
   }
  },
  {
@@ -3721,6 +5041,16 @@
     "La tuberculose et la pneumonie"
    ],
    "exp": "Agents transmis par le sang : hépatite B, hépatite C et VIH. La vaccination (hépatite B) est abordée. Prévenir l'exposition par la manipulation sûre des objets tranchants, des conteneurs à aiguilles, du matériel contaminé et des liquides corporels (Module XII, Unité B, Leçon 3)."
+  },
+  "wo": {
+   "q": "Ban feebar la program bi tudd ni jàngoro yu dereet di yóbbu ?",
+   "choices": [
+    "Grippe ak sëqët",
+    "Hépatite B, hépatite C ak VIH",
+    "Varicelle ak rougeole",
+    "Tuberculose ak pnemoni"
+   ],
+   "exp": "Jàngoro yu dereet : hépatite B, hépatite C ak VIH. Vaccin (hépatite B) am na. Bañ ko : yor bu baax lu ñaw, conteneur yi, jumtukaay bu tilim ak ndoxum yaram (Modil XII, Unité B, Leçon 3)."
   }
  },
  {
@@ -3749,6 +5079,16 @@
     "Refuser de soigner les clients infectés"
    ],
    "exp": "Les précautions standard (universelles) s'appliquent à tous les clients : notion de propre et de sale, lavage des mains selon le CDC, entretien du matériel, élimination des déchets et des objets tranchants, et EPI/gants (Module XII, Unité B, Leçon 2)."
+  },
+  "wo": {
+   "q": "Lu « précautions standard » di tekki, ni program bi ko jàngale ?",
+   "choices": [
+    "Lu ñuy def ak kiliyaan yi ñu xam ne am nañu jàngoro rekk",
+    "Lu ñuy def ak kiliyaan BÉPP ngir aar ci jàngoro : raxas loxo, gant ak aar, topptoo jumtukaay, sànni mbalit ak lu ñaw bu baax",
+    "Sol mask saa su nekk",
+    "Bañ topptoo kiliyaan bu am jàngoro"
+   ],
+   "exp": "Précautions standard ak kiliyaan bépp : lu set ak lu tilim, raxas loxo ni CDC ko waxe, topptoo jumtukaay, mbalit ak lu ñaw, gant ak aar yaram (Modil XII, Unité B, Leçon 2)."
   }
  },
  {
@@ -3777,6 +5117,16 @@
     "Quelque chose à mentionner en fin de mois"
    ],
    "exp": "Le programme exige de connaître les procédures pour tous les incidents d'exposition : exposition au sang, exposition aérienne et allergie au latex. Laver immédiatement, signaler et suivre la procédure de l'agence (Module XII, Unité B, Leçon 4)."
+  },
+  "wo": {
+   "q": "Bu ngay setal, dereetu kiliyaan bi tuuru na ci dér bu aide bi bu am gaañu bu ndaw. Ci program bi, lii :",
+   "choices": [
+    "Du dara bu ñu ko raxasee ak ndox",
+    "Incident d'exposition la : raxas béréb bi, topp ndigëlu agence bi te wax ko ci saa si",
+    "Jafe-jafe la bu kiliyaan bi amee VIH rekk",
+    "Lu ñuy wax ci jeexitalu weer wi"
+   ],
+   "exp": "Program bi laaj na xam lu ñuy def ci incident d'exposition yépp : dereet, ngelaw, latex. Raxas ci saa si, wax te topp ndigëlu agence bi (Modil XII, Unité B, Leçon 4)."
   }
  },
  {
@@ -3805,6 +5155,16 @@
     "Seulement l'heure de la journée"
    ],
    "exp": "Signaler la douleur par ses caractéristiques : siège (où), durée (combien de temps), intensité (quelle force) et déclencheurs (ce qui l'aggrave). Se rappeler les différences culturelles dans l'expression de la douleur, et que la douleur affecte le fonctionnement (Module XII, Unité B, Soulagement de la douleur)."
+  },
+  "wo": {
+   "q": "Bu ngay wax metitu kiliyaan bi, lan la program bi wax ñu bokk ci ?",
+   "choices": [
+    "Ndax kiliyaan bi ñaxtu na rekk",
+    "Fan, ba kañ, ni mu mette ak lu koy yokk",
+    "Xalaatu aide bi ndax metit wi dëgg la",
+    "Waxtu wi rekk"
+   ],
+   "exp": "Wax metit ci ni mu mel : fan (siège), ba kañ (durée), ni mu mette (intensité), lu koy yokk (déclencheurs). Fàttaliku wuute ci aada ak jeexital bi ci dund (Modil XII, Unité B, Metit)."
   }
  },
  {
@@ -3833,6 +5193,16 @@
     "Lui dire d'être courageux"
    ],
    "exp": "Les personnes expriment la douleur de façons différentes, y compris non verbales, et la culture influence cette expression. L'aide recueille des informations et fait un rapport efficace (Module XII, Unité B, Soulagement de la douleur)."
+  },
+  "wo": {
+   "q": "Kiliyaan bi du wax mukk ne dafa metti, waaye dafay ñaawal kanamam, jàpp wetam te doxatul ba waañ bi. Program bi jàngale na ne aide bi war na :",
+   "choices": [
+    "Xalaat ne amul metit ndax ñaxtuwul",
+    "Gis firndey metit yu dul baat, laaj lu dolli, te wax ko",
+    "Jox ko garabu metit ci armoire bi",
+    "Wax ko mu am fit"
+   ],
+   "exp": "Nit ñi dañuy wone metit ci anam yu wuute, am na ñu dul wax, te aada dafay jëfe ci. Aide bi dafay laaj te wax bu baax (Modil XII, Unité B, Metit)."
   }
  },
  {
@@ -3861,6 +5231,16 @@
     "Sauter le lavage des mains puisqu'il porte des gants"
    ],
    "exp": "Procédure XII-17 (bassin de lit) : expliquer, se laver les mains, gants si besoin, réchauffer et talquer le bassin, placer une alèse, préserver l'intimité, aider le client à soulever les hanches ou à se tourner, donner du papier et la sonnette, observer et mesurer le contenu si demandé, nettoyer, se laver les mains, noter et signaler."
+  },
+  "wo": {
+   "q": "Laata ngay teg bassin ci suufu kiliyaan bi, Doxalin XII-17 wax na aide bi mu :",
+   "choices": [
+    "Teg ko sedd ngir kiliyaan bi gaaw a pare",
+    "Tàngal te talkal bassin bi, teg alèse ci wetu jur yi, te aar sutura",
+    "Laaj njaboot gi mu def ko",
+    "Bàyyi raxas loxo ndax sol na gant"
+   ],
+   "exp": "Doxalin XII-17 : leeral, raxas loxo, gant bu soxlaa, tàngal te talkal bassin bi, alèse, sutura, dimbali kiliyaan bi mu yékkati jur yi, kayit ak sonet, seetlu te natt bu ñu ko laajee, setal, raxas loxo, bind te wax."
   }
  },
  {
@@ -3889,6 +5269,16 @@
     "Les sondes ne sont jamais utilisées à domicile"
    ],
    "exp": "Types : étui pénien (externe), sonde à demeure et sonde droite. L'aide aide à l'utilisation, aux soins de la peau et de la tubulure, à la vidange du sac collecteur et à la mesure du volume, et signale couleur et odeur de l'urine, douleur, frissons, sueurs et fuites (Module XII, Unité B, Leçon 3 Incontinence)."
+  },
+  "wo": {
+   "q": "Ban xeeti sonde la program bi wax ?",
+   "choices": [
+    "Étui pénien, sonde bu dëkk ak sonde bu jub",
+    "Sonde bu dëkk rekk",
+    "Sonde ci bakkan ak ci gémmiñ",
+    "Sonde du am ci kër mukk"
+   ],
+   "exp": "Xeet yi : étui pénien (ci biti), sonde bu dëkk ak sonde bu jub. Aide bi dafay dimbali ci jëfandikoo, setal dér ak tiyo, sotti saak bi ak natt, te wax melo ak xeeñu saw, metit, sedd-sedd, ñaq, lu tuuru (Modil XII, Unité B, Leçon 3)."
   }
  },
  {
@@ -3917,6 +5307,16 @@
     "Que le sac était à moitié plein"
    ],
    "exp": "Procédure XII-21 : ne pas toucher l'extrémité du tube de vidange ; mesurer si demandé ; observer couleur, odeur, mucus ou sang ; signaler une urine trouble, malodorante ou sanglante, et une quantité très faible ou nulle au moment prévu."
+  },
+  "wo": {
+   "q": "Bu ngay sotti saaku saw (Doxalin XII-21), ban seetlu la ñu war a wax ?",
+   "choices": [
+    "Saw bu leer, mboq bu néew, lu dëppoo",
+    "Saw bu tilim, bu xeeñ lool walla bu am dereet, walla bu néew lool walla amul bu waxtu wi jotee",
+    "Ne kiliyaan bi nelaw na",
+    "Ne saak bi fees na genn-wàll"
+   ],
+   "exp": "Doxalin XII-21 : bul laal catu tiyo bi ; natt bu ñu ko laajee ; xool melo, xeeñ, mucus walla dereet ; wax saw bu tilim, bu xeeñ lool walla bu am dereet, ak bu néew lool walla amul bu waxtu wi jotee."
   }
  },
  {
@@ -3945,6 +5345,16 @@
     "Dire à la famille que c'est son travail"
    ],
    "exp": "L'incontinence provoque gêne et perte de dignité. Les soins comprennent les consignes de changement des protections et les soins de la peau, avec observation, rapport et notation (Module XII, Unité B, Leçon 3)."
+  },
+  "wo": {
+   "q": "Program bi wax na jafe-jafe ci xol yu aju ci mënul téye saw. Tontu bu aide bi war na :",
+   "choices": [
+    "Yedd kiliyaan bi ngir mu bañ a defaat",
+    "Aar teggin ak sutura, soppi kuus bi ni ñu ko waxe, te topptoo dér bi",
+    "Bàyyi kiliyaan bi ci kuus bu tooy ba waxtu wu ñu tëral",
+    "Wax njaboot gi ne seen liggéey la"
+   ],
+   "exp": "Mënul téye saw dafay indi gàcce ak ñàkk teggin. Topptoo : soppi kuus ni ñu ko waxe, topptoo dér bi, seetlu, wax te bind (Modil XII, Unité B, Leçon 3)."
   }
  },
  {
@@ -3973,6 +5383,16 @@
     "Servir les repas exactement à la même heure chaque jour"
    ],
    "exp": "La méthode de l'horloge explique à un client malvoyant où se trouve chaque aliment sur l'assiette (ex. : la viande à 6 heures). La Procédure XII-11 précise aussi de donner à manger du côté fort en cas de faiblesse du visage (Module XII, Unité B, Leçon 2)."
+  },
+  "wo": {
+   "q": "Lan mooy « yoonu montar » bu program bi jàngale ngir dimbali ci lekk ?",
+   "choices": [
+    "Lekkal kiliyaan bi waxtu wu nekk",
+    "Wax kiliyaan bu gumba fan la ñam wi nekk ci palaat bi ni waxtu yi ci montar",
+    "Natt bépp lokk ak chronomètre",
+    "Jox ñam ci benn waxtu bés bu nekk"
+   ],
+   "exp": "Yoonu montar dafay wax kiliyaan bu gumba fan la ñam bu nekk nekk ci palaat bi (yàpp ci 6 waxtu). Doxalin XII-11 wax na itam lekkal ci wet gu wóor bu kanam gi néew doolee (Modil XII, Unité B, Leçon 2)."
   }
  },
  {
@@ -4001,6 +5421,16 @@
     "Nourrir vite pour que la nourriture reste chaude"
    ],
    "exp": "Une bonne position (assis bien droit) évite l'étouffement. Encourager le client à faire le maximum, couper les aliments si besoin, utiliser une paille ou un gobelet adapté, essuyer la bouche si nécessaire (Module XII, Unité B, Leçon 2 ; Procédure XII-11)."
+  },
+  "wo": {
+   "q": "Ngir bañ lu jàpp ci put ci lekk, program bi dafay dëggal :",
+   "choices": [
+    "Lekkal kiliyaan bi tëdd",
+    "Toogaay bu jub te bàyyi kiliyaan bi mu lekk ci yoonam",
+    "Jox ndox rekk",
+    "Lekkal bu gaaw ngir ñam wi des tàng"
+   ],
+   "exp": "Toogaay bu jub (toog bu jub) dafay bañ lu jàpp ci put. Xiirtal kiliyaan bi mu def li mu mën, dagg ñam wi bu soxlaa, paille walla kaas bu am boos, fomp gémmiñ bu soxlaa (Modil XII, Unité B, Leçon 2 ; Doxalin XII-11)."
   }
  },
  {
@@ -4029,6 +5459,16 @@
     "Le poids n'est jamais signalé"
    ],
    "exp": "Procédure XII-31 (peser un client) : vérifier que la balance est à zéro, soutenir le client, noter le poids quand l'aiguille s'arrête, l'enregistrer, et signaler un gain ou une perte de plus de cinq livres ou les inquiétudes du client."
+  },
+  "wo": {
+   "q": "Ci Doxalin XII-31, ban soppi ci peesu la ñu war a wax ?",
+   "choices": [
+    "Soppi bu nekk bu benn livre",
+    "Yokku walla wàññiku lu ëpp juróomi livres (2 kg lu jege), walla lu kiliyaan bi di ñaxtu ci peesam",
+    "Yokku rekk",
+    "Peesu du am lu ñuy wax"
+   ],
+   "exp": "Doxalin XII-31 : seet ndax balaas bi ci zéro la, sëmb kiliyaan bi, bind peesu bi bu aiguille bi taxawee, te wax yokku walla wàññiku lu ëpp juróomi livres walla lu kiliyaan bi di ñaxtu."
   }
  },
  {
@@ -4057,6 +5497,16 @@
     "Les paumes des mains"
    ],
    "exp": "Points de pression : coccyx, talons, sacrum, ischions (os sur lesquels on s'assoit), arrière du crâne et coudes. Signes précoces d'escarre : rougeur, chaleur, éruption, démangeaison (Module XII, Unité B, système tégumentaire)."
+  },
+  "wo": {
+   "q": "Lan ci yii ñooy béréb yu puus yi program bi tudd ?",
+   "choices": [
+    "Catu baaraam ak bakkan",
+    "Coccyx, tànk yi, sacrum, ischions, ginnaawu bopp ak óom yi",
+    "Óom ak sikkim rekk",
+    "Biir loxo yi"
+   ],
+   "exp": "Béréb yu puus : coccyx, tànk yi, sacrum, ischions (yax yi ñuy toog), ginnaawu bopp ak óom yi. Firnde yu jëkk : xonq, tàng, lu ñuy xonk, démangeaison (Modil XII, Unité B, Dér)."
   }
  },
  {
@@ -4085,6 +5535,16 @@
     "Appliquer de la chaleur"
    ],
    "exp": "Le massage du dos est un moment pour observer la peau. Les zones rouges ou ouvertes doivent être signalées au superviseur. Rougeur, chaleur, éruption et démangeaison sont des signes précoces d'escarre (Module XII, Unité B ; Procédure XII-7)."
+  },
+  "wo": {
+   "q": "Bu ngay massage ginnaaw (Doxalin XII-7), aide bi gis na béréb bu xonq ci sacrum bu kiliyaan bi bu dul dellu. Aide bi war na :",
+   "choices": [
+    "Fëss béréb bu xonq bi lu gën a dëgër ngir dereet ji dox",
+    "Seetlu, bind te wax superviseur bi béréb bu xonq bi ; mën na nekk ndoorteelu escarre",
+    "Muur ko ak pansement te waxul dara",
+    "Def tàngoor"
+   ],
+   "exp": "Massage ginnaaw jamono la ngir seetlu dér bi. Béréb yu xonq walla gaañu war nañu ko wax superviseur bi. Xonq, tàng, lu ñuy xonk ak démangeaison firnde yu jëkk yu escarre lañu (Modil XII, Unité B ; Doxalin XII-7)."
   }
  },
  {
@@ -4113,6 +5573,16 @@
     "Recevoir des visites"
    ],
    "exp": "Facteurs de risque : immobilité, mauvaise nutrition, maladie, problèmes liés à l'humidité, problèmes circulatoires et pression. Prévention : changements de position, soins de la peau, peau propre et sèche, bonne nutrition (Module XII, Unité B, système tégumentaire)."
+  },
+  "wo": {
+   "q": "Program bi wax na lu lor dér bu wér. Ban kurél moo jub ?",
+   "choices": [
+    "Bañ a yëngu, ñam bu baaxul, tooy ak feebar",
+    "Jàng ak seetaan télé",
+    "Naan ndox lu ëpp",
+    "Am gan"
+   ],
+   "exp": "Lu lor : bañ a yëngu, ñam bu baaxul, feebar, tooy, dereet bu doxul ak puus. Bañ ko : soppi toogaay, topptoo dér, dér bu set te wow, ñam bu baax (Modil XII, Unité B, Dér)."
   }
  },
  {
@@ -4141,6 +5611,16 @@
     "Soulever avec les bras seulement"
    ],
    "exp": "Règles de mécanique corporelle (Procédure XII-2) : base d'appui large et stable, dos droit, faire face au mouvement, un pied devant l'autre, charge près du corps, utiliser le poids du corps pour pousser ou tirer, plier genoux et hanches, tourner avec les pieds sans torsion."
+  },
+  "wo": {
+   "q": "Ban ndigëlu jëfandikoo yaram bu baax la program bi jàngale ?",
+   "choices": [
+    "Lemal ndigg ak tànk yu tàllal",
+    "Wëlbati ndigg ngir jadd",
+    "Lemal óom ak jur, yor li nga yor ci sa yaram, tànk yu xàjj te wëlbati ak tànk yi",
+    "Yékkati ak loxo rekk"
+   ],
+   "exp": "Ndigëlu yaram (Doxalin XII-2) : tànk yu xàjj te dëgër, ginnaaw bu jub, jàkkaarloo ak fu ngay dem, benn tànk ci kanam, lu nga yor ci sa yaram, sa peesu ngir puus walla xécc, lemal óom ak jur, wëlbati ak tànk yi te bul wëlbati ndigg."
   }
  },
  {
@@ -4169,6 +5649,16 @@
     "Allongé sur le côté"
    ],
    "exp": "Positions de base : Fowler (tête de lit relevée, demi-assis), décubitus dorsal (sur le dos), décubitus ventral (sur le ventre) et latéral (sur le côté). La position de Fowler aide à respirer et à manger (Module XII, Unité B, Leçon 1b)."
+  },
+  "wo": {
+   "q": "Ban toogaay la program bi wax « toogaayu Fowler » ?",
+   "choices": [
+    "Tëdd ci ginnaaw bu tàllal",
+    "Tëdd ci biir",
+    "Toog ci lal bi, boppu lal bi yékkatiku",
+    "Tëdd ci wet"
+   ],
+   "exp": "Toogaay yi : Fowler (boppu lal bi kaw, toog-toogaat), ci ginnaaw (supine), ci biir (prone), ci wet (lateral). Fowler dafay yombal noyyi ak lekk (Modil XII, Unité B, Leçon 1b)."
   }
  },
  {
@@ -4197,6 +5687,16 @@
     "Demander au client de sauter dans le fauteuil"
    ],
    "exp": "Procédure XII-26 : expliquer, se laver les mains, placer le fauteuil en angle contre le lit, bloquer les freins, ceinture de sécurité si besoin, faire pendre les jambes, lever le client, le faire pivoter dos au fauteuil, le reculer jusqu'à ce qu'il sente le fauteuil, l'asseoir, régler les repose-pieds."
+  },
+  "wo": {
+   "q": "Laata ngay transfert kiliyaan bi ci lal bi dem ci fauteuil roulant (Doxalin XII-26), aide bi war na :",
+   "choices": [
+    "Bàyyi fren yi tekku ngir mën a jubbanti fauteuil bi",
+    "Teg fauteuil bi ci angle ak lal bi te tëj fren yi",
+    "Teg fauteuil bi ci beneen catu néeg bi",
+    "Laaj kiliyaan bi mu tëb ci fauteuil bi"
+   ],
+   "exp": "Doxalin XII-26 : leeral, raxas loxo, teg fauteuil bi ci angle ak lal bi, tëj fren yi, ceinture bu soxlaa, wàccal tànk yi, taxawal kiliyaan bi, wëlbati ko ba ginnaawam jëm ci fauteuil bi, dellool ko ba mu yég fauteuil bi, toogal ko, jubbanti repose-pieds yi."
   }
  },
  {
@@ -4225,6 +5725,16 @@
     "Laisser le client s'accrocher au cou de l'aide"
    ],
    "exp": "Procédure XII-25 : lit en position basse ; un pied devant entre les pieds du client ; caler un genou faible ; le client place son pied fort sous lui ; les deux bras autour de la taille du client ; à « un-deux-trois », le client pousse sur le lit et se penche en avant pendant que l'aide bascule son poids vers l'arrière et soulève ; soutenir jusqu'à ce qu'il tienne debout."
+  },
+  "wo": {
+   "q": "Bu ngay dimbali kiliyaan bi mu taxaw ci wetu lal bi (Doxalin XII-25), aide bi war na :",
+   "choices": [
+    "Xécc kiliyaan bi ci loxo yi",
+    "Teg benn tànk ci diggante tànki kiliyaan bi, sëmb óom bu néew doole, jàpp kiliyaan bi ci ndigg, te yékkati ci « ñett » di bàkkante sa peesu ci tànk bu ginnaaw",
+    "Taxaw ci ginnaawu kiliyaan bi",
+    "Bàyyi kiliyaan bi mu jàpp baatu aide bi"
+   ],
+   "exp": "Doxalin XII-25 : lal bi ci suuf ; benn tànk ci kanam ci diggante tànki kiliyaan bi ; sëmb óom bu néew doole ; kiliyaan bi teg tànkam bu gën a wóor ci suufam ; ñaari loxo ci ndiggam ; ci « benn-ñaar-ñett » kiliyaan bi puus te jëm kanam, aide bi bàkkante te yékkati ; sëmb ko ba mu taxaw bu wóor."
   }
  },
  {
@@ -4253,6 +5763,16 @@
     "Juste derrière"
    ],
    "exp": "Procédure XII-14 (aider le client à marcher) : rassurer, conseiller de bonnes chaussures, s'entraîner à se tenir debout et à déplacer son poids, marcher lentement à petits pas, se placer du côté faible du client, courtes distances, observer et signaler."
+  },
+  "wo": {
+   "q": "Bu ngay dimbali kiliyaan bi mu dox (Doxalin XII-14), ci ban wet la aide bi war a taxaw ?",
+   "choices": [
+    "Wet gu wóor bu kiliyaan bi",
+    "Wet gu néew doole bu kiliyaan bi",
+    "Ci kanamam",
+    "Ci ginnaawam"
+   ],
+   "exp": "Doxalin XII-14 : dal kiliyaan bi, wax ko dàll yu baax, tàggatu taxaw ak soppi peesu, dox ndank ak jéego yu ndaw, taxaw ci wet gu néew doole bu kiliyaan bi, yoon wu gàtt, seetlu te wax."
   }
  },
  {
@@ -4281,6 +5801,16 @@
     "Elle remplace les repas"
    ],
    "exp": "Importance de la marche : augmente l'estime de soi et le bien-être, favorise la circulation, renforce articulations et muscles, prévient l'atrophie et les contractures (complications de l'immobilité). Aides : canne, déambulateur, béquilles (Module XII, Unité B, Leçon 2)."
+  },
+  "wo": {
+   "q": "Lu tax program bi wax ne dox am na solo ngir kiliyaan bi ?",
+   "choices": [
+    "Dafay jox aide bi noppalu",
+    "Dafay yokk teggin, dooleel dereet ji dox, dëgëral cér ak sidit, te bañ sidit yi wàññiku ak cér yi dëgër",
+    "Assurance bi moo ko laaj",
+    "Dafay wuutu lekk"
+   ],
+   "exp": "Dox : yokk teggin ak jàmm, dooleel dereet ji dox, dëgëral cér ak sidit, bañ sidit yi wàññiku ak cér yi dëgër (jafe-jafey bañ a yëngu). Jumtukaay : bant, déambulateur, béquille (Modil XII, Unité B, Leçon 2)."
   }
  },
  {
@@ -4309,6 +5839,16 @@
     "Il n'y a pas de différence"
    ],
    "exp": "Amplitude active : le client bouge ses articulations seul. Passive : le soignant mobilise les membres. Contre résistance : mouvement contre une résistance. Ces exercices préviennent le syndrome d'immobilité, l'atrophie et les contractures (Module XII, Unité B, Leçon 3)."
+  },
+  "wo": {
+   "q": "Lan mooy wuute ci diggante exercice yu yëngal cér yu actif ak yu passif, ci program bi ?",
+   "choices": [
+    "Actif ci suba ; passif ci guddi",
+    "Actif : kiliyaan bi moo yëngal cér bi moom ; passif : aide bi moo yëngal cér bu kiliyaan bi",
+    "Actif ak poids ; passif ci ndox",
+    "Amul wuute"
+   ],
+   "exp": "Actif : kiliyaan bi yëngal céram moom. Passif : soignant bi yëngal cér yi. Ak lu téye : yëngu ak lu koy téye. Exercice yi dañuy bañ sidit yi wàññiku ak cér yi dëgër (Modil XII, Unité B, Leçon 3)."
   }
  },
  {
@@ -4337,6 +5877,16 @@
     "Dans l'ordre que préfère l'aide"
    ],
    "exp": "Procédure XII-5 (toilette au lit) : intimité et chaleur, tester la température de l'eau, former un gant avec le gant de toilette, laver et sécher de la tête aux pieds et du plus propre au moins propre, une partie à la fois, découvrir le moins possible, changer l'eau si besoin, parties génitales et fesses en dernier, faire participer le client."
+  },
+  "wo": {
+   "q": "Ci sangu ci lal (Doxalin XII-5), ci ban toftale la ñu war a raxas yaram wi ?",
+   "choices": [
+    "Tànk yi bu jëkk, ba pare jëm kaw",
+    "Bopp ba tànk, lu gën a set jëkk, béréb yu sutura ak taat yi ci mujj",
+    "Béréb yu sutura bu jëkk ngir set",
+    "Ni aide bi ko bëgge"
+   ],
+   "exp": "Doxalin XII-5 : sutura ak tàngoor, seet ndox mi, def gant ak sarbet bi, raxas te wowal bopp ba tànk te lu gën a set jëkk, benn cér bu nekk, bul feeñal lu ëpp, soppi ndox bu soxlaa, béréb yu sutura ak taat yi ci mujj, bàyyi kiliyaan bi mu def li mu mën."
   }
  },
  {
@@ -4365,6 +5915,16 @@
     "La marque du shampoing"
    ],
    "exp": "Sécurité pendant la toilette : régler la température de l'eau, vérifier la sécurité de l'environnement et du matériel, et observer les changements physiques et émotionnels : peau, vertiges ou faiblesse, état mental et refus de soins, puis signaler au superviseur (Module XII, Unité B, Toilette)."
+  },
+  "wo": {
+   "q": "Bu ngay sangal, ban soppi la program bi wax ñu seetlu te wax ?",
+   "choices": [
+    "Saabu bu ñu jëfandikoo rekk",
+    "Soppi ci dér bi, bopp buy wër walla ñàkk doole, soppi ci xel, ak bañ topptoo",
+    "Ndax kiliyaan bi woy na",
+    "Marque bu shampoing bi"
+   ],
+   "exp": "Kaaraange ci sangu : seet tàngooru ndox mi, seet kaaraange bu wanag bi ak jumtukaay yi, te seetlu soppi ci yaram ak ci xol : dér, bopp buy wër, xel, bañ, te wax superviseur bi (Modil XII, Unité B, Sangu)."
   }
  },
  {
@@ -4393,6 +5953,16 @@
     "Utiliser la salle de bain du client sans la vérifier"
    ],
    "exp": "Procédure XII-3 : expliquer, se laver les mains, préparer le matériel, assurer la chaleur, enlever les tapis mobiles, vérifier les dispositifs de sécurité, placer tapis antidérapants et chaises, tester l'eau, aider à entrer et sortir, vider et nettoyer, se laver les mains, observer et signaler."
+  },
+  "wo": {
+   "q": "Laata bain walla duus (Doxalin XII-3), aide bi war na :",
+   "choices": [
+    "Fees baañuwaar bi ak ndox mu tàng lool ngir tàngal wanag bi",
+    "Seet ndax wanag bi tàng na, dindi tapi yu dul jàpp, seet kaaraange bi, teg tapi ak siis, te seet tàngooru ndox mi",
+    "Bàyyi kiliyaan bi moom rekk mu summi te dugg",
+    "Jëfandikoo wanagu kiliyaan bi te seetul ko"
+   ],
+   "exp": "Doxalin XII-3 : leeral, raxas loxo, waajal jumtukaay, tàngoor, dindi tapi yi, seet kaaraange bi, teg tapi ak siis, seet ndox mi, dimbali dugg ak génn, sotti te setal, raxas loxo, seetlu te wax."
   }
  },
  {
@@ -4421,6 +5991,16 @@
     "Ne pas faire les soins des cheveux si le client est alité"
    ],
    "exp": "Soins des cheveux : se renseigner sur les préférences et habitudes de coiffure du client, utiliser sa propre brosse ou son peigne (contrôle des infections), favoriser l'autonomie, faire le shampoing quand il convient (Procédure XII-6, shampoing au lit), et signaler plaies, croûtes, pellicules ou chute de cheveux."
+  },
+  "wo": {
+   "q": "Ngir topptoo kawar, program bi wax na ñu :",
+   "choices": [
+    "Jëfandikoo bros bu nekk ci kër gi",
+    "Jëfandikoo brosu kiliyaan bi moom, topp li mu bëgg, te wax gaañu, lu wow, pellicule walla kawar guy daanu",
+    "Dagg kawar gi gàtt ngir yomb",
+    "Bàyyi topptoo kawar bu kiliyaan bi tëddee"
+   ],
+   "exp": "Kawar : laaj li kiliyaan bi bëgg ak ni mu miine, jëfandikoo brosam moom (aar ci jàngoro), dooleel mu def ko boppam, shampoing bu dëppoo (Doxalin XII-6), te wax gaañu, lu wow, pellicule walla kawar guy daanu."
   }
  },
  {
@@ -4449,6 +6029,16 @@
     "Que le client a un dentier"
    ],
    "exp": "Signaler : lèvres fendillées, sèches ou qui saignent ; plaies ; langue ou gencives gonflées, rouges ou qui saignent ; taches blanches, brunes ou décolorées ; dents qui bougent ou usées ; salive diminuée ou excessive, bave ; difficulté à avaler ; douleur de la bouche, des dents, de la gorge ou de l'oreille (Module XII, Unité B, Soins de la bouche)."
+  },
+  "wo": {
+   "q": "Ban jafe-jafe ci gémmiñ la ñu war a wax superviseur bi, ci program bi ?",
+   "choices": [
+    "Gémmiñ bu xeeñ bu baax ginnaaw brose",
+    "Tuñ yu dàgg walla dereet, gaañu, gum yu newi walla dereet, taach yu weex, bëñ yu yëngu, saliva bu ëpp walla jafe-jafe ci wann",
+    "Ne kiliyaan bi bëgg dentifrice bu menthe",
+    "Ne kiliyaan bi am na bëñu lëmm"
+   ],
+   "exp": "Wax : tuñ yu dàgg, wow walla dereet ; gaañu ; làmmiñ walla gum yu newi, xonq walla dereet ; taach yu weex walla yu ñuul ; bëñ yu yëngu walla yàqu ; saliva bu néew walla bu ëpp ; jafe-jafe ci wann ; metit ci gémmiñ, bëñ, put walla nopp (Modil XII, Unité B, Gémmiñ)."
   }
  },
  {
@@ -4477,6 +6067,16 @@
     "Le laisser sécher sur la table toute la nuit"
    ],
    "exp": "Soins du dentier : retirer avec une main gantée (balancer doucement ; tirer vers le bas pour le haut, vers le haut pour le bas), le mettre tout de suite dans la boîte, protéger le lavabo avec un gant de toilette et de l'eau, brosser avec du dentifrice puis un nettoyant pour dentier, remettre le haut d'abord, conserver dans l'eau (Module XII, Unité B ; Procédure XII-10)."
+  },
+  "wo": {
+   "q": "Bu ngay setal bëñu lëmm, program bi wax na ñu :",
+   "choices": [
+    "Jàpp leen ci kaw lavabo bu amul dara",
+    "Teg sarbet ci lavabo bi te def ndox ngir aar leen bu ñu daanoo, ba pare denc leen ci boyet bu am ndox bu ñu leen solul",
+    "Baxal leen ngir stérile",
+    "Bàyyi leen wow ci tabal bi guddi gépp"
+   ],
+   "exp": "Bëñu lëmm : summi ak gant (yëngal ndank ; xécc jëm suuf ngir bu kaw, jëm kaw ngir bu suuf), def leen ci boyet ci saa si, aar lavabo bi ak sarbet ak ndox, brose ak dentifrice ba pare nettoyant, delloo bu kaw bi bu jëkk, denc ci ndox (Modil XII, Unité B ; Doxalin XII-10)."
   }
  },
  {
@@ -4505,6 +6105,16 @@
     "Avec du bain de bouche seulement"
    ],
    "exp": "Soins de la bouche d'un client édenté : nettoyer et masser la bouche et les gencives avec un bâtonnet citron-glycérine ou un bâtonnet-éponge humidifié (Module XII, Unité B ; Procédure XII-10). Les soins de la bouche restent nécessaires sans dents."
+  },
+  "wo": {
+   "q": "Ngir kiliyaan bu amul bëñ, nan la program bi wax ñu setal gémmiñ gi ?",
+   "choices": [
+    "Bros bu dëgër ak dentifrice bu bari",
+    "Setal te massage gémmiñ ak gum yi ak bâtonnet citron-glycérine walla bâtonnet-éponge bu tooy",
+    "Bàyyi topptoo gémmiñ ndax amul bëñ",
+    "Bain de bouche rekk"
+   ],
+   "exp": "Gémmiñ bu amul bëñ : setal te massage gémmiñ ak gum yi ak bâtonnet citron-glycérine walla bâtonnet-éponge bu tooy (Modil XII, Unité B ; Doxalin XII-10). Topptoo gémmiñ soxla na saa su nekk."
   }
  },
  {
@@ -4533,6 +6143,16 @@
     "Utiliser le même rasoir pour plusieurs clients"
    ],
    "exp": "Procédure XII-9 : expliquer, se laver les mains, gants, serviette sous le menton, laver le visage et le laisser humide, mousse à raser, tendre la peau, petits gestes doux dans le même sens, rincer souvent, rincer et sécher en tapotant, après-rasage, signaler irritation, rougeur ou desquamation. Précautions standard."
+  },
+  "wo": {
+   "q": "Bu ngay wat kiliyaan bi ak rasuwaar bu sûreté (Doxalin XII-9), aide bi war na :",
+   "choices": [
+    "Wat ci kaw yoonu kawar ak jëf yu gudd",
+    "Raxas loxo, sol gant, tàllal dér bi, wat ak jëf yu ndaw te noy ci benn yoon, raxas rasuwaar bi lu bari, te wax lu xonq walla lu metti",
+    "Wat te amul ndox ngir gaaw",
+    "Jëfandikoo benn rasuwaar ngir kiliyaan yu bari"
+   ],
+   "exp": "Doxalin XII-9 : leeral, raxas loxo, gant, serwiyet ci suufu sikkim, raxas kanam te bàyyi ko tooy, mousse, tàllal dér bi, jëf yu ndaw ci benn yoon, raxas rasuwaar bi lu bari, rince te wowal, après-rasage, wax lu xonq walla lu metti. Précautions standard."
   }
  },
  {
@@ -4561,6 +6181,16 @@
     "Appliquer des traitements médicamenteux"
    ],
    "exp": "Ne pas couper ni tailler les ongles des mains ou des pieds. On peut seulement les limer ; discuter du plan de soins avec l'infirmière. Tremper, nettoyer sous les ongles, repousser les cuticules, limer, appliquer une lotion, et signaler douleur, rougeur, plaies, peau sèche et squameuse ou ongles fendus (Module XII, Unité B, Leçons 4-5 ; Procédure XII-8)."
+  },
+  "wo": {
+   "q": "Ci program bi, lan la aide à domicile mën a def ci we yu loxo ak tànk yu kiliyaan bi ?",
+   "choices": [
+    "Dagg leen ak coupe-ongles",
+    "Limal leen rekk ; dagg nanguwuñu ko, te war nañu waxtaan ak infirmiyeer bi ci palaŋ bi",
+    "Dindi we yu dugg ci dér",
+    "Def garab"
+   ],
+   "exp": "Bul dagg we yu loxo walla tànk. Limal rekk ; waxtaan ak infirmiyeer bi ci palaŋ bi. Tooyal, setal ci suufu we yi, puus cuticule yi, limal, lotion, te wax metit, lu xonq, gaañu, dér bu wow walla we yu dàgg (Modil XII, Unité B, Leçon 4-5 ; Doxalin XII-8)."
   }
  },
  {
@@ -4589,6 +6219,16 @@
     "Éviter d'habiller le côté faible"
    ],
    "exp": "Enfiler chemise ou pantalon par le côté faible d'abord ; retirer par le côté fort d'abord. Laisser le client choisir ses vêtements, encourager l'autonomie, aider quand il le demande ou montre de la fatigue, utiliser des vêtements adaptés s'ils sont prévus au plan de soins (Module XII, Unité B ; Procédure XII-12)."
+  },
+  "wo": {
+   "q": "Ngir kiliyaan bu am wet gu néew doole walla paralysé, program bi jàngale na ñu :",
+   "choices": [
+    "Sol wet gu wóor bu jëkk te summi wet gu néew doole bu jëkk",
+    "Sol wet gu néew doole bu jëkk te summi ci wet gu wóor bu jëkk",
+    "Sol ñaari loxo yi ci benn saa su nekk",
+    "Bañ a sol wet gu néew doole"
+   ],
+   "exp": "Sol simis walla tubéy ci wet gu néew doole bu jëkk ; summi ci wet gu wóor bu jëkk. Bàyyi kiliyaan bi mu tànn yereem, xiirtal ko mu sol boppam, dimbali bu laajee walla sonnee, yere yu dëppoo bu nekkee ci palaŋ bi (Modil XII, Unité B ; Doxalin XII-12)."
   }
  },
  {
@@ -4617,6 +6257,16 @@
     "Les mettre seulement la nuit"
    ],
    "exp": "Procédure XII-13 : si le client s'est levé, l'allonger jambes surélevées 15 minutes ; jambes propres et sèches ; enfiler sans plis, talon dans le talon du bas ; soulager la pression des orteils ; retirer au moins une fois par jour selon le plan de soins ; observer et signaler changements de couleur ou de température de la peau, gonflement ou plaies."
+  },
+  "wo": {
+   "q": "Laata ngay sol kawas yu ñeg (Doxalin XII-13) ci kiliyaan bu jógoon, aide bi war na :",
+   "choices": [
+    "Sol leen ci saa si te kiliyaan bi taxaw",
+    "Tëddal kiliyaan bi ak tànk yu yékkatiku 15 simili, seet ndax tànk yi set nañu te wow, ba pare sol leen te amul ñiir, tànk bi ci palaasam",
+    "Sol leen ci kaw lotion bu tooy",
+    "Sol leen ci guddi rekk"
+   ],
+   "exp": "Doxalin XII-13 : bu kiliyaan bi jógoon, tëddal ko ak tànk yu yékkatiku 15 simili ; tànk yi set te wow ; sol bu noy te amul ñiir, tànk bi ci tànku kawas bi ; wàññi puus ci baaraam yi ; summi lu néew benn yoon bés bu nekk ; seetlu te wax soppi ci melo, tàngoor, newi walla gaañu."
   }
  },
  {
@@ -4645,6 +6295,16 @@
     "On le secoue dans la pièce"
    ],
    "exp": "Procédure XII-16 : tourner le client sur le côté, rouler le drap souillé jusque sous le client, lisser le matelas, placer le drap propre et le plier sous le souillé, border et faire les coins, tourner le client du côté propre, retirer le linge souillé de l'autre côté, finir de border, changer les taies."
+  },
+  "wo": {
+   "q": "Bu ngay defar lal bu nit nekk (Doxalin XII-16), nan la ñuy yoree drap bu suuf bu tilim bi ?",
+   "choices": [
+    "Xécc ko ci suufu kiliyaan bi ci benn yoon",
+    "Roul ko ba ci suufu ginnaawu kiliyaan bi, teg drap bu set bi te lemal ko ci wetam, ba pare wëlbati kiliyaan bi ci wet gu set gi",
+    "Bàyyi ko te muur ko ak drap bu set",
+    "Yëngal ko ci néeg bi"
+   ],
+   "exp": "Doxalin XII-16 : wëlbati kiliyaan bi ci wet, roul drap bu tilim bi ba ci suufam, lëmal matla bi, teg drap bu set bi te lemal ko ci suufu bu tilim bi, dugal te def koñ bi, wëlbati kiliyaan bi ci wet gu set gi, dindi dara yu tilim yi ci beneen wet, dugal, soppi taie yi."
   }
  },
  {
@@ -4673,6 +6333,16 @@
     "Le soulever par les pieds"
    ],
    "exp": "Procédure XII-35 (manipuler le nourrisson) : se laver les mains, une main sous les fesses, l'autre sous la tête, le cou et les épaules ; soutenir tête, cou et fesses dans la prise « ballon de football ». Conserver la chaleur du corps, positionner et transporter en sécurité (Module XII, Unité C)."
+  },
+  "wo": {
+   "q": "Bu ngay jël liir (Doxalin XII-35), aide bi war na :",
+   "choices": [
+    "Yékkati ko ci suufu loxo yi",
+    "Teg benn loxo ci suufu taat yi ak beneen bi ci suufu bopp, baat ak mbagg yi",
+    "Yékkati ko ci loxo yi",
+    "Yékkati ko ci tànk yi"
+   ],
+   "exp": "Doxalin XII-35 : raxas loxo, benn loxo ci suufu taat yi, beneen bi ci suufu bopp, baat ak mbagg yi ; sëmb bopp, baat ak taat yi ci jàpp « ballon ». Aar ko ci sedd, toogaay ak yóbbu bu wóor (Modil XII, Unité C)."
   }
  },
  {
@@ -4701,6 +6371,16 @@
     "Jamais"
    ],
    "exp": "Les soins personnels au bébé en bonne santé sont nécessaires quand aucune autre personne n'est disponible et que la mère est indisponible. L'aide respecte la diversité culturelle, religieuse et sociale dans les soins à l'enfant, suit le plan de soins et signale toute inquiétude à l'infirmière (Module XII, Unité C)."
+  },
+  "wo": {
+   "q": "Ci program bi, kañ la ñu mën a laaj aide à domicile mu topptoo liir bu wér ?",
+   "choices": [
+    "Saa su waajur yi bëggee génn",
+    "Bu kenn amul ngir topptoo ko te ndey ji nekkul",
+    "Ci lopitaal rekk",
+    "Mukk"
+   ],
+   "exp": "Topptoo liir bu wér soxla na bu kenn amul te ndey ji nekkul. Aide bi dafay weg aada, diine ak askan ci topptoo xale, topp palaŋ bi te wax infirmiyeer bi lu ko jaaxal (Modil XII, Unité C)."
   }
  },
  {
@@ -4729,6 +6409,16 @@
     "Chercher sur Internet pendant la visite"
    ],
    "exp": "Rôle de l'aide : vérifier le plan de soins, lire le mode d'emploi, NE PAS utiliser un équipement inconnu (demander instruction et démonstration), encourager l'autonomie du client, changer ou recharger les piles, entretenir et ranger l'équipement, observer son état et les problèmes du client, noter et signaler (Module XII, Unité D)."
+  },
+  "wo": {
+   "q": "Program bi wax na ne bu aide bi xamul jumtukaay bu bees ci kër kiliyaan bi, war na :",
+   "choices": [
+    "Jéem ko ndank ci kiliyaan bi",
+    "Bul ko jëfandikoo ; laaj superviseur bi, infirmiyeer bi walla thérapeute bi mu jàngal la te won la",
+    "Laaj sëtu kiliyaan bi mu won ko",
+    "Seet ci Internet ci visite bi"
+   ],
+   "exp": "Wareefu aide bi : seet palaŋ bi, jàng ndigël yi, BUL jëfandikoo jumtukaay boo xamul (laaj ñu jàngal la te won la), dooleel sañ-sañu kiliyaan bi, soppi walla charger pil yi, topptoo te denc jumtukaay bi, seetlu lu yàqu, bind te wax (Modil XII, Unité D)."
   }
  },
  {
@@ -4757,6 +6447,16 @@
     "Demander au client de tenir les chaînes"
    ],
    "exp": "Procédure XII-37 : vérifier les valves, dégager le sol, ouvrir les pieds du lève-personne au maximum, bloquer fauteuil et lit, placer la sangle entre la tête et les cuisses, attacher les chaînes (longue aux cuisses, courte à la tête), prévenir le client avant de pomper, et après quelques centimètres vérifier toutes les attaches avant de déplacer."
+  },
+  "wo": {
+   "q": "Bu ngay jëfandikoo lève-personne hydraulique (Hoyer) (Doxalin XII-37), lan la aide bi war a def ginnaaw bu yékkatee kiliyaan bi tuuti te laata ngay yëngal masin bi ?",
+   "choices": [
+    "Ubbi valve bi bu gaaw",
+    "Seet lépp lu ñu takk ndax dëgër na te dox na",
+    "Dindi sangle bi",
+    "Laaj kiliyaan bi mu jàpp chaîne yi"
+   ],
+   "exp": "Doxalin XII-37 : seet valve yi, dindi lépp ci suuf, ubbi tànki masin bi ba fu mu gën a yaatu, tëj fauteuil ak lal bi, teg sangle bi ci diggante bopp ak pooj yi, takk chaîne yi (bu gudd ci pooj, bu gàtt ci bopp), wax kiliyaan bi laata ngay pompe, te ginnaaw bu yékkatee tuuti seet lépp lu ñu takk laata ngay yëngu."
   }
  },
  {
@@ -4785,6 +6485,16 @@
     "De l'autre côté de la pièce"
    ],
    "exp": "Procédure XII-38 : fauteuil à 45 degrés, freins bloqués, accoudoir retiré si possible ; couvrir la planche d'une taie si le client est dévêtu ; le client se penche du côté opposé pendant qu'on glisse la planche sous les fesses ; transférer vers le côté fort ; le client avance par petites poussées sur les bras ; ceinture de marche si nécessaire."
+  },
+  "wo": {
+   "q": "Ci transfert ak palaŋu wàcc (Doxalin XII-38), fauteuil roulant bi war nañu ko teg :",
+   "choices": [
+    "Jàkkaarloo ak lal bi, ñaari tànk fu sore",
+    "Ci 45 degre ak lal bi, fren yi tëju te accoudoir bi dindi bu mën",
+    "Ci ginnaawu kiliyaan bi",
+    "Ci beneen catu néeg bi"
+   ],
+   "exp": "Doxalin XII-38 : fauteuil ci 45 degre, fren yi tëju, accoudoir dindi bu mën ; muur palaŋ bi ak taie bu kiliyaan bi amul yere ; kiliyaan bi lem ci beneen wet bu ñuy teg palaŋ bi ci suufu taat yi ; jëm ci wet gu wóor ; kiliyaan bi di puus ak loxoom ; ceinture bu soxlaa."
   }
  },
  {
@@ -4813,6 +6523,16 @@
     "Bon matin, bon midi, bon soir, bonne nuit, bonne semaine"
    ],
    "exp": "Les cinq bons : bonne personne, bon médicament, bonne dose, bon moment, bonne voie d'administration (Procédures XII-39 à XII-43). L'aide vérifie chacun sur l'étiquette et dans le plan de soins."
+  },
+  "wo": {
+   "q": "Lan ñooy « juróomi baax yu garab » yi program bi tudd ?",
+   "choices": [
+    "Njëg bu baax, farmasi bu baax, marque bu baax, melo bu baax, boyet bu baax",
+    "Nit ku baax, garab bu baax, dose bu baax, waxtu wu baax, yoon wu baax",
+    "Doktor bu baax, infirmiyeer bu baax, aide bu baax, njaboot bu baax, agence bu baax",
+    "Suba bu baax, bëccëg bu baax, ngoon bu baax, guddi bu baax, ayu-bés bu baax"
+   ],
+   "exp": "Juróomi baax : nit ki, garab bi, dose bi, waxtu wi, yoon wi (Doxalin XII-39 ba XII-43). Aide bi dafay seet bu nekk ci etiket bi ak ci palaŋ bi."
   }
  },
  {
@@ -4841,6 +6561,16 @@
     "Administrer est permis si la famille est d'accord"
    ],
    "exp": "L'aide à domicile aide à la prise autonome : rappelle l'heure, apporte le médicament et le matériel, lit ou montre l'étiquette, installe le client, ouvre le flacon, donne à boire, range le médicament, nettoie le matériel et se lave les mains. L'aide n'administre pas de médicament (Module XII, Unité E)."
+  },
+  "wo": {
+   "q": "Lan mooy wuute ci diggante « jox garab » (administrer) ak « dimbali ci jël garab moom ci boppam », ci program bi ?",
+   "choices": [
+    "Amul wuute",
+    "Dimbali : fàttali, indi garab bi ak jumtukaay bi, jàng etiket bi, toogal kiliyaan bi te ubbi boyet bi ngir mu jël ko moom ; jox garab (administrer) DU liggéeyu aide bi",
+    "Dimbali mooy tànn dose bi",
+    "Jox garab nangu nañu ko bu njaboot gi nanguwee"
+   ],
+   "exp": "Aide bi dafay dimbali ci jël garab moom ci boppam : fàttali waxtu wi, indi garab bi ak jumtukaay bi, jàng walla won etiket bi, toogal kiliyaan bi, ubbi boyet bi, jox ndox, denc garab bi, setal jumtukaay bi te raxas loxo. Aide bi du jox garab (Modil XII, Unité E)."
   }
  },
  {
@@ -4869,6 +6599,16 @@
     "Sauter la dose"
    ],
    "exp": "Ne pas écraser ni ajouter les médicaments à un aliment comme la compote ou la glace. Si l'infirmière ou la famille prépare les doses à l'avance, suivre le plan de soins. Signaler quand le client ne prend pas son médicament ou le prend mal (Module XII, Unité E)."
+  },
+  "wo": {
+   "q": "Kiliyaan bi jafe na ko wann comprimé te laaj na aide bi mu nos ko ci compote. Ci program bi, aide bi war na :",
+   "choices": [
+    "Nos ko ; compote du lor",
+    "Bul nos walla dolli garab ci ñam ; topp palaŋ bi te wax jafe-jafe ci wann bi",
+    "Ñaxal ko ci jus",
+    "Bàyyi dose bi"
+   ],
+   "exp": "Bul nos walla dolli garab ci ñam ni compote walla glace. Bu infirmiyeer walla njaboot gi waajalee dose yi, topp palaŋ bi. Wax bu kiliyaan bi jëlul garabam walla jël ko ni mu warul (Modil XII, Unité E)."
   }
  },
  {
@@ -4897,6 +6637,16 @@
     "Jeter le flacon"
    ],
    "exp": "Procédures XII-39 à XII-43 : se laver les mains, lire l'étiquette, vérifier la date de péremption, comparer nom/médicament/dose/heure/voie avec le plan de soins. Si tout correspond, aider comme prescrit ; sinon, contacter le superviseur, expliquer au client, noter et signaler."
+  },
+  "wo": {
+   "q": "Bu ngay seet « garab bi ñu war » (Doxalin XII-40), aide bi gis na ne tur wi ci boyet bi du bi ci palaŋ bi. Aide bi war na :",
+   "choices": [
+    "Jox ko quand même ndax doktor bi soppi na ko xanaa",
+    "Bul ko jox ; woo superviseur bi ngir ndigël, leeral kiliyaan bi, te bind te wax jafe-jafe bi",
+    "Jox genn-wàllu dose bi ngir wóor",
+    "Sànni boyet bi"
+   ],
+   "exp": "Doxalin XII-39 ba XII-43 : raxas loxo, jàng etiket bi, seet bés bu mujj bi, mengale tur/garab/dose/waxtu/yoon ak palaŋ bi. Bu ñu bennoo, dimbali ni ñu ko waxe ; bu ñu bennoowul, woo superviseur bi, leeral kiliyaan bi, bind te wax."
   }
  },
  {
@@ -4925,6 +6675,16 @@
     "Le client a bu de l'eau avec le comprimé"
    ],
    "exp": "Noter et signaler immédiatement si le client ne prend pas son médicament ou le prend mal, prend des médicaments, compléments ou plantes non prescrits, a une réaction inhabituelle, ou si des médicaments sont tombés ou mélangés (Module XII, Unité E)."
+  },
+  "wo": {
+   "q": "Ban xew-xew la program bi wax ne war nañu ko bind te wax CI SAA SI bu ngay dimbali ci garab ?",
+   "choices": [
+    "Kiliyaan bi jël na garabam ci waxtu wi",
+    "Kiliyaan bi di jël complément walla garabu cosaan bu doktor santaanewul, walla am réaction bu bees",
+    "Saaku farmasi bi dafa bulo",
+    "Kiliyaan bi naan na ndox ak comprimé bi"
+   ],
+   "exp": "Bind te wax ci saa si bu kiliyaan bi jëlul garabam walla jël ko ni mu warul, jël garab, complément walla garabu cosaan bu ñu santaanewul, am réaction bu bees, walla bu garab yi daanoo walla jaxasoo (Modil XII, Unité E)."
   }
  },
  {
@@ -4953,6 +6713,16 @@
     "La couleur du comprimé"
    ],
    "exp": "Compétences de base : précautions standard, lecture de l'étiquette et vérification de la date de péremption, vérification des cinq bons, rangement et élimination corrects (Module XII, Unité E ; Procédure XII-40)."
+  },
+  "wo": {
+   "q": "Laata ngay dimbali ci garab, Doxalin XII-40 wax na ñu seet lan ci etiket bi, ci kaw turu garab bi ?",
+   "choices": [
+    "Njëg bi",
+    "Bés bu mujj bi",
+    "Turu farmasiyeŋ bi",
+    "Melo bu comprimé bi"
+   ],
+   "exp": "Mën-mën yu bopp : précautions standard, jàng etiket bi te seet bés bu mujj bi, seet juróomi baax yi, denc te sànni bu baax (Modil XII, Unité E ; Doxalin XII-40)."
   }
  },
  {
@@ -4981,6 +6751,16 @@
     "Demander à la famille en fin de semaine"
    ],
    "exp": "Procédure XII-32 : obtenir la coopération du client ; mesurer à l'avance chaque récipient avec un verre doseur et garder la liste ; noter types et quantités servis ; mesurer les restes ; soustraire et additionner ; noter l'apport total de la période."
+  },
+  "wo": {
+   "q": "Ngir natt li kiliyaan bi di naan (Doxalin XII-32), program bi wax na ñu :",
+   "choices": [
+    "Xalaat ko ci bët ci jeexitalu bés bi",
+    "Natt bu jëkk li ndab bu nekk mën a ëmb, bind li ñu jox, natt li des, te dindi ko ngir am li mu naan yépp",
+    "Waññ kaas yi rekk",
+    "Laaj njaboot gi ci jeexitalu ayu-bés bi"
+   ],
+   "exp": "Doxalin XII-32 : laaj kiliyaan bi mu jàppale ; natt ndab bu nekk bu jëkk ak verre bu natt te denc lisit bi ; bind xeet ak lim yi ñu jox ; natt li des ; dindi te dajale ; bind li mu naan yépp ci jamono ji."
   }
  },
  {
@@ -5009,6 +6789,16 @@
     "Seulement l'heure"
    ],
    "exp": "Procédure XII-33 : verser l'urine dans un pichet gradué posé à plat, noter la quantité, jeter sauf si un échantillon est demandé, nettoyer le matériel, se laver les mains, et signaler urine malodorante ou trouble, sang, très petite quantité, douleur ou difficulté à uriner."
+  },
+  "wo": {
+   "q": "Bu ngay natt saw mi (Doxalin XII-33), ban seetlu la ñu war a wax ?",
+   "choices": [
+    "Saw bu mboq bu néew bu baax",
+    "Saw bu xeeñ lool walla bu tilim, dereet ci saw mi, lu néew lool, walla metit walla jafe-jafe ci saw",
+    "Ne kiliyaan bi jëfandikoo na siisu wanag",
+    "Waxtu wi rekk"
+   ],
+   "exp": "Doxalin XII-33 : sotti saw mi ci pichet bu natt ci kaw lu tàllal, bind li mu tollu, sànni lu dul échantillon, setal, raxas loxo, te wax saw bu xeeñ lool walla bu tilim, dereet, lu néew lool, metit walla jafe-jafe ci saw."
   }
  },
  {
@@ -5037,6 +6827,16 @@
     "Appelle la famille pour finir"
    ],
    "exp": "Procédure XII-34 (précautions standard) : sac à déchets près du client, gants, retirer et jeter l'ancien pansement et les gants, se laver les mains, nouveaux gants, nettoyer la peau selon le plan de soins, appliquer et fixer le pansement, jeter les déchets, se laver les mains, signaler tout changement d'aspect de la plaie."
+  },
+  "wo": {
+   "q": "Bu ngay dimbali ci soppi pansement bu set (Doxalin XII-34), lan la aide bi di def ginnaaw bu dindee pansement bu yàgg bi ak gant yi ?",
+   "choices": [
+    "Def pansement bu bees bi ci saa si ak gant yooyu",
+    "Raxas loxo te sol gant yu bees laata ngay setal dér bi te def pansement bu bees bi",
+    "Bàyyi gaañu gi ci ngelaw",
+    "Woo njaboot gi mu pare ko"
+   ],
+   "exp": "Doxalin XII-34 (précautions standard) : saaku mbalit ci wetu kiliyaan bi, gant, dindi te sànni pansement bu yàgg bi ak gant yi, raxas loxo, gant yu bees, setal dér bi ni palaŋ bi ko waxe, def te takk pansement bu bees bi, sànni mbalit mi, raxas loxo, wax lu soppiku ci gaañu gi."
   }
  },
  {
@@ -5065,6 +6865,16 @@
     "Le sac est au-dessus du niveau de la vessie"
    ],
    "exp": "Procédure XII-19 : découvrir seulement la zone génitale, laver et sécher le pénis, observer la peau, raccorder l'étui à la tubulure, le dérouler selon le plan de soins, vérifier que la tubulure est 2,5 à 5 cm sous l'extrémité et non tordue, noter la pose et signaler plaies ou zones à vif."
+  },
+  "wo": {
+   "q": "Ginnaaw bu ñu defee étui pénien (Doxalin XII-19), aide bi dafay seet ndax :",
+   "choices": [
+    "Tiyo bi takku na bu dëgër ci pooj bi",
+    "Tiyo bi nekk na 2,5 ba 5 cm ci suufu catu pénis bi te catu étui bi ñiiruwul",
+    "Étui bi roulu na ba ci biir",
+    "Saak bi nekk na ci kaw wet gi"
+   ],
+   "exp": "Doxalin XII-19 : feeñal béréb yu sutura rekk, raxas te wowal pénis bi, xool dér bi, takk étui bi ci tiyo bi, roul ko ni palaŋ bi ko waxe, seet ndax tiyo bi 2,5 ba 5 cm ci suufu cat bi la te ñiiruwul, bind te wax gaañu."
   }
  },
  {
@@ -5093,6 +6903,16 @@
     "Nettoyer du sac vers le client"
    ],
    "exp": "Procédure XII-20 : laver doucement la zone génitale à l'eau et au savon, ne pas tirer sur la sonde (tenir d'une main, essuyer de l'autre), décalotter l'homme non circoncis, observer plaies, croûtes, fuites ou saignement, nettoyer la tubulure en partant du client, éviter plis et traction, fixer selon le plan de soins, noter l'heure."
+  },
+  "wo": {
+   "q": "Bu ngay setal dér bi ak tiyo bu sonde bi (Doxalin XII-20), aide bi war na :",
+   "choices": [
+    "Xécc sonde bi ngir setal ci suufam",
+    "Jàpp sonde bi ak benn loxo te fomp ak beneen bi, bul xécc mukk, setal tiyo bi tàmbali ci fa gën a jege kiliyaan bi, te toogal ko ngir tiyo bi bañ a ñiiru walla xécc",
+    "Tekki tiyo bi ngir setal ko",
+    "Setal ci saak bi jëm ci kiliyaan bi"
+   ],
+   "exp": "Doxalin XII-20 : raxas béréb yu sutura ndank ak saabu ak ndox, bul xécc sonde bi (jàpp ak benn loxo, fomp ak beneen), dindi dér bi ci góor bu xaraful, xool gaañu, lu wow, lu tuuru walla dereet, setal tiyo bi tàmbali ci kiliyaan bi, bañ ñiir ak xécc, takk ni palaŋ bi ko waxe, bind waxtu wi."
   }
  },
  {
@@ -5121,6 +6941,16 @@
     "Si l'oreiller est assorti aux draps"
    ],
    "exp": "Procédure XII-23 : faire face à la tête du lit, pied extérieur en avant, relever la tête du lit ou croiser les bras avec le client, lui faire plier les genoux, l'amener assis en basculant, placer les oreillers, et vérifier vertiges ou faiblesse avant de continuer."
+  },
+  "wo": {
+   "q": "Ginnaaw bu nga dimbalee kiliyaan bi mu toog ci lal bi (Doxalin XII-23), lan la aide bi war a seet laata ngay wéy ?",
+   "choices": [
+    "Ndax télé bi taal na",
+    "Ndax kiliyaan bi boppam dafay wër walla néew na doole",
+    "Ndax palanteer bi ubbeeku na",
+    "Ndax oreiller bi dëppoo na ak drap yi"
+   ],
+   "exp": "Doxalin XII-23 : jàkkaarloo ak boppu lal bi, tànk bu biti ci kanam, yékkati boppu lal bi walla jaxase loxo yi, lemal óom yi, toogal ko ci bàkkante, teg oreiller yi, te seet bopp buy wër walla ñàkk doole laata ngay wéy."
   }
  },
  {
@@ -5149,6 +6979,16 @@
     "Entre les genoux seulement"
    ],
    "exp": "Procédure XII-22, client sur le côté : centrer le client, le tourner sur le côté, aligner le corps, placer des oreillers sous la tête et le cou, dans le dos, sous la jambe et le pied du dessus et sous le bras du dessus ; positionner hanches, jambes, épaules et bras ; couvrir et installer confortablement."
+  },
+  "wo": {
+   "q": "Bu ngay toogal kiliyaan bi ci wet (Doxalin XII-22), fan la program bi wax ñu teg oreiller walla serwiyet yu lem ?",
+   "choices": [
+    "Ci suufu bopp rekk",
+    "Ci suufu bopp ak baat, ci ginnaaw, ci suufu tànk ak tànk bu kaw bi, ak ci suufu loxo bu kaw bi",
+    "Ci suufu ñaari tànk yi rekk",
+    "Ci diggante óom yi rekk"
+   ],
+   "exp": "Doxalin XII-22, kiliyaan bi ci wet : teg ko ci digg, wëlbati ko ci wet, jubbanti yaram wi, oreiller ci suufu bopp ak baat, ci ginnaaw, ci suufu tànk ak tànk bu kaw bi, ak ci suufu loxo bu kaw bi ; jur, tànk, mbagg ak loxo bu baax ; muur ko te dal ko."
   }
  },
  {
@@ -5177,6 +7017,16 @@
     "Demander au client de se lever seul"
    ],
    "exp": "Procédure XII-28 : vérifier appuis et barres, placer le fauteuil face aux toilettes, bloquer les roues, relever les repose-pieds, aider à se lever, pivoter dos aux toilettes, arranger les vêtements, aider à s'asseoir, laisser l'intimité, aider au nettoyage, refaire les étapes à l'envers, aider au lavage des mains."
+  },
+  "wo": {
+   "q": "Laata ngay transfert kiliyaan bi ci fauteuil roulant dem ci wanag (Doxalin XII-28), aide bi war na jëkk :",
+   "choices": [
+    "Summi dàlli kiliyaan bi",
+    "Seet barre yi ak fu ñuy jàpp ci wanag bi, teg fauteuil bi jàkkaarloo ak wanag bi, tëj roo yi te yékkati repose-pieds yi",
+    "Fey lampe bi ngir sutura",
+    "Laaj kiliyaan bi mu taxaw moom rekk"
+   ],
+   "exp": "Doxalin XII-28 : seet barre yi, teg fauteuil bi jàkkaarloo ak wanag bi, tëj roo yi, yékkati repose-pieds yi, dimbali taxaw, wëlbati ba ginnaaw bi jëm ci wanag bi, jubbanti yere yi, dimbali toog, sutura, dimbali fomp, baamtu ci ginnaaw, dimbali raxas loxo."
   }
  },
  {
@@ -5205,6 +7055,16 @@
     "Pour choisir la meilleure odeur"
    ],
    "exp": "Procédure XII-6 : préparer le matériel et demander au client quels produits utiliser pour éviter allergies ou réactions ; faire une gouttière pour garder le lit sec ; vérifier la température de la pièce ; protéger yeux et oreilles en savonnant d'avant en arrière ; bien rincer ; sécher ; observer et signaler."
+  },
+  "wo": {
+   "q": "Laata ngay def shampoing ci lal (Doxalin XII-6), aide bi dafay laaj kiliyaan bi ban produit lay bëgg. Lu tax ?",
+   "choices": [
+    "Ngir yokk xaalis",
+    "Ngir bañ allergie walla réaction",
+    "Ndax agence bi laaj na reçu",
+    "Ngir tànn xeeñ bu gën"
+   ],
+   "exp": "Doxalin XII-6 : waajal jumtukaay yi te laaj kiliyaan bi ban produit ngir bañ allergie walla réaction ; defar gouttière ngir lal bi des wow ; seet tàngooru néeg bi ; aar bët ak nopp yi ; rince bu baax ; wowal ; seetlu te wax."
   }
  },
  {
@@ -5233,6 +7093,16 @@
     "Dans n'importe quel ordre"
    ],
    "exp": "Procédure XII-36 : se laver les mains, préparer le matériel, vérifier la température de la pièce et de l'eau, préparer la table à langer, déshabiller et couvrir le bébé, le mettre dans l'eau, shampoing, rinçage et séchage de la tête, laver le corps de la tête aux pieds, laver correctement les parties génitales, sécher, lotion selon le plan, couche et habits, soins des ongles si besoin, observer et signaler."
+  },
+  "wo": {
+   "q": "Bu ngay sangal liir (Doxalin XII-36), aide bi dafay raxas yaram wi :",
+   "choices": [
+    "Tànk yi jëm kaw",
+    "Bopp ba tànk, ginnaaw bu ñu defee shampoing, rince te wowal bopp bi bu jëkk",
+    "Tàmbali ci béréb bu kuus bi",
+    "Ci toftale bu nekk"
+   ],
+   "exp": "Doxalin XII-36 : raxas loxo, waajal jumtukaay, néeg ak ndox bu tàng, waajal fu ngay soppi kuus bi, summi te muur liir bi, def ko ci ndox, shampoing, rince te wowal bopp bi, raxas yaram wi bopp ba tànk, béréb yu sutura bu baax, wowal, lotion ni palaŋ bi, kuus ak yere, we bu soxlaa, seetlu te wax."
   }
  },
  {
@@ -5261,6 +7131,16 @@
     "On ne change pas les taies"
    ],
    "exp": "Procédure XII-15 : retirer et plier le linge à réutiliser, lisser l'alèse, placer et border le drap de dessous avec les coins, placer les couvertures, ajouter le couvre-lit, changer la taie avec la méthode de la main retournée, retirer le linge sale, se laver les mains."
+  },
+  "wo": {
+   "q": "Bu ngay defar lal bu kenn nekkul (Doxalin XII-15), nan la ñuy def taie bu set ci oreiller bi ?",
+   "choices": [
+    "Dugal oreiller bi ci ubbite bi",
+    "Wëlbati taie bu tilim bi ngir summi ko ; jàpp taie bu set bi ci diggu ñaw bu suuf, wëlbati ko ci sa loxo, jàpp oreiller bi ci biir taie bi te xécc taie bi ci kaw oreiller bi",
+    "Yëngal oreiller bi ci taie bi",
+    "Taie yi duñu leen soppi"
+   ],
+   "exp": "Doxalin XII-15 : dindi te lemal dara yi ñuy jëfandikooat, lëmal alèse bi, teg te dugal drap bu suuf bi ak koñ yi, teg mbaxana yi, dolli couvre-lit bi, soppi taie bi ak loxo bu ñu wëlbati, dindi dara yu tilim yi, raxas loxo."
   }
  }
 ]

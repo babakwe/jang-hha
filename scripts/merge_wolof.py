@@ -42,3 +42,18 @@ for p in procs:
     n += 1
 (D / "procedures.json").write_text(json.dumps(procs, ensure_ascii=False, indent=1))
 print(f"procedures with Wolof: {n}/{len(procs)}")
+
+# questions (overlay keyed by id: {q, choices[4], exp})
+qs = json.loads((D / "questions.json").read_text())
+wq = {}
+for i in range(1, 7): wq.update(load(f"wolof_questions_{i}.json"))
+n = 0
+for q in qs:
+    w = wq.get(q["id"])
+    if not w: continue
+    assert len(w["choices"]) == 4 and w["q"] and w["exp"], (q["id"], "shape")
+    q["wo"] = {"q": w["q"], "choices": w["choices"], "exp": w["exp"]}
+    n += 1
+missing = [q["id"] for q in qs if "wo" not in q]
+(D / "questions.json").write_text(json.dumps(qs, ensure_ascii=False, indent=1))
+print(f"questions with Wolof: {n}/{len(qs)}; missing: {missing}")

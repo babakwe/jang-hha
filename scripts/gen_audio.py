@@ -70,6 +70,12 @@ def strings(lang: str):
         for v in json.loads((DATA / "vocab.json").read_text()):
             if v.get("term_wo") and v.get("definition_wo"): yield ("vocab", "main", f"{v['term_wo']}. {v['definition_wo']}")
         yield ("questions", "main", f"{u['correct']}."); yield ("questions", "main", f"{u['wrong']}.")
+        for q in json.loads((DATA / "questions.json").read_text()):
+            W = q.get("wo")
+            if not W: continue
+            yield ("questions", "main", W["q"])
+            for k, c in enumerate(W["choices"]): yield ("questions", "main", f"{LETTERS[k]}. {c}")
+            yield ("questions", "main", W["exp"])
         return
     for p in json.loads((DATA / "procedures.json").read_text()):
         yield ("procedures", "main", f"{u['procedure']} {p['number']}. {p['title'][lang]}")
