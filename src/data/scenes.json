@@ -1,0 +1,531 @@
+{
+ "p01": {
+  "steps": [
+   "handwash:gather",
+   "handwash:sleeves",
+   "handwash:wet",
+   "handwash:soap",
+   "handwash:scrub",
+   "handwash:rinse",
+   "handwash:dry",
+   "handwash:tapoff"
+  ],
+  "alt": [
+   "handwash:gel",
+   "handwash:rub"
+  ]
+ },
+ "p02": {
+  "steps": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "p03": {
+  "steps": [
+   "common:explain",
+   "common:wash",
+   null,
+   null,
+   null,
+   null,
+   "common:gloves",
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p04": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:comfort",
+   "common:report"
+  ]
+ },
+ "p05": {
+  "steps": [
+   "common:prep",
+   "common:privacy",
+   "bedbath:towels",
+   "bedbath:water",
+   "bedbath:mitt",
+   "bedbath:headtoe",
+   "bedbath:exposure",
+   "bedbath:handsfeet",
+   "bedbath:participate",
+   "bedbath:last",
+   "bedbath:dress",
+   "common:report"
+  ]
+ },
+ "p06": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   "common:gloves",
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p07": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p08": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:wash"
+  ]
+ },
+ "p09": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ],
+  "alt": [
+   "common:explain",
+   null,
+   null,
+   "common:supervisor"
+  ]
+ },
+ "p10": {
+  "steps": [
+   "common:prep",
+   "mouth:selfbrush",
+   "mouth:position",
+   "mouth:brush",
+   "mouth:rinse",
+   "common:report"
+  ],
+  "alt": [
+   "mouth:dentures-out",
+   "mouth:dentures-out",
+   "mouth:sink",
+   "mouth:sink",
+   "mouth:rinse",
+   "mouth:dentures-in"
+  ]
+ },
+ "p11": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:safety",
+   null,
+   "common:report"
+  ]
+ },
+ "p12": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p13": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p14": {
+  "steps": [
+   "walk:reassure",
+   "walk:shoes",
+   "walk:practice",
+   "walk:walk",
+   "walk:weak",
+   "walk:short",
+   "common:report"
+  ]
+ },
+ "p15": {
+  "steps": [
+   "common:wash",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ "p16": {
+  "steps": [
+   "common:prep",
+   "occbed:base",
+   "occbed:base",
+   "occbed:turn",
+   "occbed:roll",
+   "occbed:roll",
+   "occbed:roll",
+   "occbed:over",
+   "occbed:over",
+   "occbed:pillow"
+  ]
+ },
+ "p17": {
+  "steps": [
+   "common:prep",
+   "bedpan:warm",
+   "common:privacy",
+   "bedpan:lift",
+   "bedpan:signal",
+   "bedpan:signal",
+   "bedpan:remove",
+   "bedpan:measure",
+   "common:report"
+  ]
+ },
+ "p18": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p19": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p20": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:dispose",
+   "common:report"
+  ]
+ },
+ "p21": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p22": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p23": {
+  "steps": [
+   "common:prep",
+   null,
+   "common:safety",
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p24": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p25": {
+  "steps": [
+   "common:explain",
+   "common:wash",
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p26": {
+  "steps": [
+   "common:prep",
+   "transfer:angle",
+   "transfer:belt",
+   "transfer:dangle",
+   "transfer:pivot",
+   "transfer:lower",
+   "transfer:footrests",
+   "common:report"
+  ]
+ },
+ "p27": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p28": {
+  "steps": [
+   "common:prep",
+   null,
+   "common:safety",
+   null,
+   "common:privacy",
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p29": {
+  "steps": [
+   "common:prep",
+   null,
+   "common:safety",
+   null,
+   "common:privacy",
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p30": {
+  "steps": [
+   "common:prep",
+   null,
+   "common:privacy",
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p31": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   null,
+   null,
+   "common:report",
+   "common:clean"
+  ]
+ },
+ "p32": {
+  "steps": [
+   "common:explain",
+   "common:wash",
+   "common:equipment",
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p33": {
+  "steps": [
+   "common:explain",
+   "common:wash",
+   null,
+   "common:report",
+   "common:dispose",
+   "common:clean",
+   "common:report"
+  ]
+ },
+ "p34": {
+  "steps": [
+   "common:prep",
+   "common:comfort",
+   "common:gloves",
+   null,
+   "common:gloves",
+   "common:wash",
+   null,
+   null,
+   "common:dispose",
+   "common:report"
+  ]
+ },
+ "p35": {
+  "steps": [
+   "common:wash",
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p36": {
+  "steps": [
+   "common:wash",
+   "common:gloves",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p37": {
+  "steps": [
+   "common:prep",
+   null,
+   null,
+   "common:safety",
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   "common:report"
+  ]
+ },
+ "p38": {
+  "steps": [
+   "common:prep",
+   "common:safety",
+   null,
+   null,
+   null,
+   "common:safety",
+   "common:report"
+  ]
+ },
+ "p39": {
+  "steps": [
+   "common:wash",
+   "med:read",
+   "med:person",
+   "med:person",
+   "med:match",
+   "med:mismatch",
+   "med:record"
+  ]
+ },
+ "p40": {
+  "steps": [
+   "common:wash",
+   "med:read",
+   "med:expiry",
+   "med:med",
+   "med:match",
+   "med:mismatch",
+   "med:record"
+  ]
+ },
+ "p41": {
+  "steps": [
+   "common:wash",
+   "med:read",
+   "med:dose",
+   "med:match",
+   "med:mismatch",
+   "med:record"
+  ]
+ },
+ "p42": {
+  "steps": [
+   "common:wash",
+   "med:read",
+   "med:time",
+   "med:match",
+   "med:mismatch",
+   "med:record"
+  ]
+ },
+ "p43": {
+  "steps": [
+   "common:wash",
+   "med:route",
+   "med:route",
+   "med:route",
+   "med:match",
+   "med:mismatch",
+   "med:record"
+  ]
+ }
+}

@@ -22,6 +22,7 @@ export function LangToggle() {
 export function Nav() {
   const { t } = useLang();
   const path = usePathname();
+  if (path.includes("/watch")) return null; // picture mode is full-screen
   const items = [
     ["/", "🏠", t("appName")], ["/learn", "📘", t("learn")], ["/procedures", "🧤", t("procedures")],
     ["/practice", "✅", t("practice")], ["/glossary", "🔤", t("glossary")],

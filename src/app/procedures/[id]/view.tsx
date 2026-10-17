@@ -58,6 +58,7 @@ export default function ProcedureView({ id }: { id: string }) {
           </div>
           <Speak text={items[0].text} id={`${p.id}-title`} />
         </div>
+        <Link href={`/procedures/${p.id}/watch`} className="btn btn-accent w-full text-lg">🖼️ {lang === "fr" ? "Regarder et écouter, étape par étape" : lang === "wo" ? "Xool te déglu, jéego ci jéego" : "Watch and listen, step by step"}</Link>
         <ListenAll items={items} />
         {p.warning && (
           <div className="card p-3 bg-bad-soft border-0 flex gap-3 items-start">
