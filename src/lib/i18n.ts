@@ -37,7 +37,25 @@ const UI = {
     installHint: "Sur iPhone : Partager → Sur l'écran d'accueil. Sur Android : menu → Installer l'application.",
     explanation: "Pourquoi", chooseMode: "Choisissez comment étudier", allDone: "Terminé ! Votre score :", restart: "Recommencer",
   },
+  wo: {
+    appName: "Jàng HHA", tagline: "Njàngum aide à domicile, ci angale, ci farañse ak ci wolof, ak baat.",
+    learn: "Njàng", procedures: "Doxalin", practice: "Tàggat", glossary: "Baat yi",
+    listen: "Déglu", listenAll: "Déglu xët wii", stop: "Taxawal", minutes: "simili",
+    module: "Modil", required: "Loo war a xam", steps: "jéego", step: "Jéego",
+    whenToReport: "Kañ la ñu war a wax", keyTerms: "Baat yu am solo ci modil bii", practiceThis: "Tàggat ci modil bii",
+    questions: "laaj", start: "Tàmbali", next: "Topp", check: "Seet tontu bi", correct: "Baax na", wrong: "Du loolu",
+    showAnswer: "Wone tontu bi", again: "Baamtu", score: "Poñ", flashcards: "Kart yi", quiz: "Quiz",
+    allModules: "Modil yépp", difficulty: "Jafe-jafe", easy: "Yomb", medium: "Diggdóomu", hard: "Jafe", any: "Lépp",
+    source: "Gongikukaay : Département de la Santé bu diiwaanu New York, programu soins à domicile (2007). Laaj yi, ci programu bi lañu leen bind ; du laaj yi ci examen bi. Wolof bi : brouillon, war naa ko ku xam wolof bu baax seet.",
+    offline: "Dafay dox te amul internet bu ñu ko yebee ba pare. Teg ko ci sa ekraŋ.",
+    language: "Làkk", search: "Seet baat…", nothing: "Amul dara.",
+    homeLearn: "Fukki njàng ak ñaar yu gàtt, benn ci modil bu nekk.", homeProc: "43 doxalin yi ñu lay saytu, jéego ci jéego.",
+    homePractice: "188 laaj ngir tàggat ak kart yi.", homeGloss: "70 baat yu aide bu nekk war a xam, ci angale, farañse ak wolof.",
+    alsoIn: "Itam ci", procedureOf: "Doxalin", warning: "Am solo", notes: "Karmat",
+    installHint: "Ci iPhone : Partager → Sur l'écran d'accueil. Ci Android : menu → Installer l'application.",
+    explanation: "Lu tax", chooseMode: "Tànnal ni nga bëgg a jàng", allDone: "Pare na ! Sa poñ :", restart: "Tàmbaliwaat",
+  },
 } as const;
 
 export type UiKey = keyof typeof UI.en;
-export const t = (lang: Lang, k: UiKey): string => UI[lang][k] ?? UI.en[k];
+export const t = (lang: Lang, k: UiKey): string => (UI[lang] as Record<string, string>)[k] ?? UI.en[k];

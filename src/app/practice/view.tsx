@@ -5,7 +5,7 @@ import { useLang } from "@/lib/lang";
 import { useAudio } from "@/lib/audio";
 import { Header, Page, Speak } from "@/components/ui";
 import { LESSONS, MODULE_ORDER, QUESTIONS } from "@/lib/data";
-import type { Question } from "@/lib/types";
+import { pick, type Question } from "@/lib/types";
 
 type Mode = "setup" | "quiz" | "flash" | "done";
 const LETTERS = ["A", "B", "C", "D"];
@@ -30,13 +30,14 @@ export default function PracticeView() {
 
   function start(m: Mode) { setDeck(shuffle(pool).slice(0, m === "quiz" ? Math.min(20, pool.length) : pool.length)); setI(0); setPicked(null); setFlipped(false); setScore(0); setMode(m); }
   const q = deck[i];
-  const L = q?.[lang], O = q?.[other];
+  const qLang = lang === "wo" && !q?.wo ? "fr" : lang;
+  const L = q ? (q[qLang] ?? q.fr) : undefined!, O = q ? (qLang === "en" ? q.fr : q.en) : undefined!;
 
   function readQuestion() {
     if (!q) return;
-    speakAll([{ text: L.q, lang, id: `q-${q.id}` }, ...L.choices.map((c, k) => ({ text: `${LETTERS[k]}. ${c}`, lang, id: `c-${q.id}-${k}` }))]);
+    speakAll([{ text: L.q, lang: qLang, id: `q-${q.id}` }, ...L.choices.map((c, k) => ({ text: `${LETTERS[k]}. ${c}`, lang: qLang, id: `c-${q.id}-${k}` }))]);
   }
-  function choose(k: number) { if (picked !== null) return; setPicked(k); if (k === q.answer) setScore(s => s + 1); speakAll([{ text: `${k === q.answer ? t("correct") : t("wrong")}.`, lang, id: `verdict-${q.id}` }, { text: L.exp, lang, id: `exp-${q.id}` }]); }
+  function choose(k: number) { if (picked !== null) return; setPicked(k); if (k === q.answer) setScore(s => s + 1); speakAll([{ text: `${k === q.answer ? t("correct") : t("wrong")}.`, lang, id: `verdict-${q.id}` }, { text: L.exp, lang: qLang, id: `exp-${q.id}` }]); }
   function next() { if (i + 1 >= deck.length) setMode("done"); else { setI(i + 1); setPicked(null); setFlipped(false); } }
 
   if (mode === "setup") return (
@@ -47,7 +48,7 @@ export default function PracticeView() {
           <label className="block font-bold">{t("module")}
             <select value={module} onChange={e => setModule(e.target.value)} className="mt-1 w-full card p-3 text-base">
               <option value="all">{t("allModules")} ({QUESTIONS.length})</option>
-              {MODULE_ORDER.map(m => { const n = QUESTIONS.filter(q => q.module === m).length; const l = LESSONS.find(x => x.module === m); return <option key={m} value={m}>{t("module")} {m} — {l?.title[lang]} ({n})</option>; })}
+              {MODULE_ORDER.map(m => { const n = QUESTIONS.filter(q => q.module === m).length; const l = LESSONS.find(x => x.module === m); return <option key={m} value={m}>{t("module")} {m} — {l ? pick(l.title, lang) : ""} ({n})</option>; })}
             </select>
           </label>
           <div className="font-bold">{t("difficulty")}</div>
@@ -62,11 +63,11 @@ export default function PracticeView() {
         <div className="grid gap-3 sm:grid-cols-2">
           <button onClick={() => start("quiz")} disabled={!pool.length} className="card p-4 text-left hover:border-brand">
             <div className="text-3xl">✅</div><div className="font-extrabold text-lg">{t("quiz")}</div>
-            <div className="text-sm text-muted">{lang === "fr" ? "20 questions, réponse expliquée après chaque choix." : "20 questions, with the explanation after each answer."}</div>
+            <div className="text-sm text-muted">{lang === "en" ? "20 questions, with the explanation after each answer." : lang === "fr" ? "20 questions, réponse expliquée après chaque choix." : "20 laaj, ñu leeral tontu bi ginnaaw bu nga tànnee."}</div>
           </button>
           <button onClick={() => start("flash")} disabled={!pool.length} className="card p-4 text-left hover:border-brand">
             <div className="text-3xl">🃏</div><div className="font-extrabold text-lg">{t("flashcards")}</div>
-            <div className="text-sm text-muted">{lang === "fr" ? "Question devant, bonne réponse derrière. Écoutez et répétez." : "Question on the front, right answer on the back. Listen and repeat."}</div>
+            <div className="text-sm text-muted">{lang === "en" ? "Question on the front, right answer on the back. Listen and repeat." : lang === "fr" ? "Question devant, bonne réponse derrière. Écoutez et répétez." : "Laaj bi ci kanam, tontu bi ci ginnaaw. Déglul te baamtu."}</div>
           </button>
         </div>
       </Page>
@@ -129,7 +130,7 @@ export default function PracticeView() {
         {mode === "flash" && (
           <div className="space-y-3">
             {!flipped ? (
-              <button onClick={() => { setFlipped(true); speakAll([{ text: `${LETTERS[q.answer]}. ${L.choices[q.answer]}`, lang, id: `c-${q.id}-${q.answer}` }, { text: L.exp, lang, id: `exp-${q.id}` }]); }} className="btn btn-brand w-full">{t("showAnswer")}</button>
+              <button onClick={() => { setFlipped(true); speakAll([{ text: `${LETTERS[q.answer]}. ${L.choices[q.answer]}`, lang: qLang, id: `c-${q.id}-${q.answer}` }, { text: L.exp, lang: qLang, id: `exp-${q.id}` }]); }} className="btn btn-brand w-full">{t("showAnswer")}</button>
             ) : (
               <div className="card p-4 bg-ok-soft border-0 space-y-2">
                 <div className="flex gap-3 items-start"><Speak text={L.exp} id={`exp-${q.id}`} />

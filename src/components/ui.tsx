@@ -3,16 +3,16 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useLang } from "@/lib/lang";
 import { useAudio } from "@/lib/audio";
-import type { Lang, Bi } from "@/lib/types";
+import { pick, pickLang, type Lang, type Bi } from "@/lib/types";
 
 export function LangToggle() {
   const { lang, setLang } = useLang();
   return (
     <div role="group" aria-label="Language" className="inline-flex rounded-full border border-line bg-surface p-1">
-      {(["en", "fr"] as Lang[]).map(l => (
+      {(["en", "fr", "wo"] as Lang[]).map(l => (
         <button key={l} onClick={() => setLang(l)} aria-pressed={lang === l}
-          className={`px-3 py-1.5 rounded-full text-sm font-bold ${lang === l ? "bg-brand text-brand-ink" : "text-muted"}`}>
-          {l === "en" ? "English" : "Français"}
+          className={`px-2.5 py-1.5 rounded-full text-sm font-bold ${lang === l ? "bg-brand text-brand-ink" : "text-muted"}`}>
+          {l === "en" ? "EN" : l === "fr" ? "FR" : "WO"}
         </button>
       ))}
     </div>
@@ -75,12 +75,14 @@ export function BiText({ bi, id, as = "p", big = false, showOther = true }: { bi
   const { lang, other } = useLang();
   const { activeId } = useAudio();
   const Tag = as;
+  const main = pick(bi, lang), mainLang = pickLang(bi, lang);
+  const sub = lang === "wo" ? (bi.wo ? bi.fr : bi.en) : bi[other];
   return (
     <div className={`flex gap-3 items-start ${activeId === id ? "speaking" : ""}`}>
-      <Speak text={bi[lang]} id={id} />
+      <Speak text={main} id={id} lang={mainLang} />
       <div className="flex-1 min-w-0">
-        <Tag className={big ? "text-xl font-extrabold leading-snug" : "leading-relaxed"}>{bi[lang]}</Tag>
-        {showOther && <p className="text-sm text-muted mt-1 leading-snug">{bi[other]}</p>}
+        <Tag className={big ? "text-xl font-extrabold leading-snug" : "leading-relaxed"}>{main}</Tag>
+        {showOther && <p className="text-sm text-muted mt-1 leading-snug">{sub}</p>}
       </div>
     </div>
   );

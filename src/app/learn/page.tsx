@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useLang } from "@/lib/lang";
 import { Header, Page } from "@/components/ui";
 import { LESSONS, questionsByModule, proceduresForLesson } from "@/lib/data";
+import { pick } from "@/lib/types";
 
 export default function Learn() {
   const { t, lang } = useLang();
@@ -15,8 +16,8 @@ export default function Learn() {
           return (
             <Link key={l.id} href={`/learn/${l.id}`} className="card p-4 block hover:border-brand">
               <div className="text-xs font-bold text-brand uppercase tracking-wide">{t("module")} {l.module} · {l.minutes} {t("minutes")}</div>
-              <div className="text-lg font-extrabold mt-0.5">{l.title[lang]}</div>
-              <div className="text-sm text-muted mt-1 line-clamp-2">{l.intro[lang]}</div>
+              <div className="text-lg font-extrabold mt-0.5">{pick(l.title, lang)}</div>
+              <div className="text-sm text-muted mt-1 line-clamp-2">{pick(l.intro, lang)}</div>
               <div className="flex gap-2 mt-2 flex-wrap">
                 <span className="chip bg-ok-soft text-ok">{nq} {t("questions")}</span>
                 {np > 0 && <span className="chip bg-accent-soft text-accent">{np} {t("procedures").toLowerCase()}</span>}

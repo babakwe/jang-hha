@@ -14,6 +14,8 @@ export default function Home() {
   ];
   const welcome = lang === "fr"
     ? "Bienvenue. Cette application vous prépare au certificat d'aide à domicile de l'État de New York. Vous pouvez tout lire, ou tout écouter."
+    : lang === "wo"
+    ? "Dalal ak jàmm. Jumtukaay bii dina la waajal ngir am sertifikaa bu aide à domicile ci diiwaanu New York. Mën nga jàng lépp, walla déglu lépp."
     : "Welcome. This app prepares you for the New York State Home Health Aide certificate. You can read everything, or listen to everything.";
   return (
     <Page>

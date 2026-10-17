@@ -42,3 +42,5 @@ next-env.d.ts
 
 # broken install moved aside
 .zz_broken_node_modules_*
+
+.venv/

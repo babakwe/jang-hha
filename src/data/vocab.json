@@ -7,7 +7,9 @@
   "definition_fr": "Travailleur formé qui donne des soins personnels et des services de soutien aux clients à leur domicile, sous la supervision d'une infirmière diplômée.",
   "example": "The HHA helped Mr. Ba bathe and dress, then wrote her observations in the log.",
   "module": "I",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Aide à domicile (ku di topptoo nit ci këram)",
+  "definition_wo": "Liggéeykat bu jàng, di topptoo nit ñi ci seen kër: sang leen, sol leen, lekkal leen, te di ko def ci kaw kilifteefu infirmiyeer."
  },
  {
   "id": "hv_002",
@@ -17,7 +19,9 @@
   "definition_fr": "Plan écrit élaboré par l'équipe de soins et coordonné par le gestionnaire de cas. Il liste les tâches de l'aide, les objectifs et les observations particulières. Une copie reste chez le client.",
   "example": "Always check the care plan before starting a new task.",
   "module": "I",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Palaŋu topptoo (plan de soins)",
+  "definition_wo": "Kayit bi ekib bi bind, di wone li nga war a def, li ñu bëgg a àgg ak li nga war a seetlu. Am na kopi ci kër kiliyaan bi."
  },
  {
   "id": "hv_003",
@@ -27,7 +31,9 @@
   "definition_fr": "Membre de l'équipe qui coordonne le plan de soins et les services du client.",
   "example": "The case manager added meal preparation to the care plan.",
   "module": "I",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Ki yor dosye bi (case manager)",
+  "definition_wo": "Ku ci ekib bi di saytu palaŋu topptoo bi ak sarwiis yi."
  },
  {
   "id": "hv_004",
@@ -37,7 +43,9 @@
   "definition_fr": "Infirmière diplômée qui visite le domicile, explique le plan de soins, enseigne les procédures, résout les problèmes et évalue l'aide.",
   "example": "Call the RN supervisor whenever the client's condition changes.",
   "module": "I",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Infirmiyeer bi lay saytu",
+  "definition_wo": "Infirmiyeer bu ñëw ci kër gi, leeral palaŋ bi, jàngal la doxalin yi, saafara jafe-jafe yi te di xool sa liggéey."
  },
  {
   "id": "hv_005",
@@ -47,7 +55,9 @@
   "definition_fr": "Devoir de l'aide : remarquer les changements avec la vue, l'odorat, l'ouïe et le toucher, écrire seulement des faits (ce qu'on voit, entend et fait, daté et signé), et prévenir le superviseur.",
   "example": "She observed a red area on his heel, recorded it, and reported it the same day.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Seetlu, bind, wax",
+  "definition_wo": "Sa wareef: gis ak sa bët, sa bakkan, sa nopp ak sa loxo lu soppiku ; bind rekk li nga gis ak li nga def, ak bés bi ak sa turu ; wax ko infirmiyeer bi."
  },
  {
   "id": "hv_006",
@@ -57,7 +67,9 @@
   "definition_fr": "Garder privées les informations personnelles et médicales du client, dans les conversations, les observations et les rapports. Protégée par la loi HIPAA.",
   "example": "Do not discuss a client with your friends, even without saying the name.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Sutura (kumpa)",
+  "definition_wo": "Bul wax kenn mbirum kiliyaan bi, du ci waxtaan, du ci kayit. Yoon bu ñuy wax HIPAA moo ko aar."
  },
  {
   "id": "hv_007",
@@ -67,7 +79,9 @@
   "definition_fr": "Loi fédérale américaine qui protège les informations de santé d'une personne.",
   "example": "Sharing a diagnosis with a neighbor violates HIPAA.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "HIPAA",
+  "definition_wo": "Yoonu réewum Amerig bu aar xibaar yi aju ci wérgi-yaramu nit."
  },
  {
   "id": "hv_008",
@@ -77,7 +91,9 @@
   "definition_fr": "Besoins physiques, de sécurité, d'appartenance, d'estime de soi et d'accomplissement. Les besoins physiques et de sécurité viennent en premier.",
   "example": "A client who refuses to eat may have an unmet need for belonging.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Soxla yi gën a am solo ci nit",
+  "definition_wo": "Soxlay yaram, kaaraange, bokk ci mbokk yi, teggin ak jàmm ci sa bopp. Yaram ak kaaraange ñoo jëkk."
  },
  {
   "id": "hv_009",
@@ -87,7 +103,9 @@
   "definition_fr": "Relation planifiée, intentionnelle et fondée sur la confiance, qui respecte l'autonomie du client et favorise son indépendance.",
   "example": "Letting the client choose her clothes is part of a therapeutic relationship.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Jëflante bu baax ak kiliyaan bi",
+  "definition_wo": "Jëflante bu ñu waajal, am njariñ te sukkandiku ci kóolute ; di weg sañ-sañu kiliyaan bi te di ko may mu def li mu mën."
  },
  {
   "id": "hv_010",
@@ -97,7 +115,9 @@
   "definition_fr": "Droit du client de prendre ses propres décisions sur sa vie et ses soins.",
   "example": "Respect the client's autonomy even when you disagree with a choice.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Sañ-sañ (autonomie)",
+  "definition_wo": "Sañ-sañu kiliyaan bi di dogal ci boppam lu jëm ci dundam ak toppatoom."
  },
  {
   "id": "hv_011",
@@ -107,7 +127,9 @@
   "definition_fr": "Donner toute son attention, laisser la personne finir, et montrer qu'on a compris (retour).",
   "example": "Active listening helped her notice the client was worried about money.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Déglu bu baax",
+  "definition_wo": "Déglu ak sa xol bépp, bàyyi nit ki mu wax ba pare, te wone ne nand nga."
  },
  {
   "id": "hv_012",
@@ -117,7 +139,9 @@
   "definition_fr": "Difficulté à parler ou à comprendre le langage, souvent après un AVC. Ce n'est pas un problème d'audition.",
   "example": "Use short sentences and give time to answer when a client has aphasia.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Aphasie (jafe-jafe ci wax)",
+  "definition_wo": "Jafe-jafe ci wax walla nand làkk, gën a am ginnaaw AVC. Du jafe-jafe ci dégg."
  },
  {
   "id": "hv_013",
@@ -127,7 +151,9 @@
   "definition_fr": "Problèmes de mémoire, de pensée ou de compréhension.",
   "example": "Give one instruction at a time to a client with cognitive impairment.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Jafe-jafe ci xel (cognitif)",
+  "definition_wo": "Jafe-jafe ci fàttaliku, xalaat walla nand."
  },
  {
   "id": "hv_014",
@@ -137,7 +163,9 @@
   "definition_fr": "Handicap permanent qui apparaît avant 22 ans (ex. : paralysie cérébrale, autisme, déficience intellectuelle).",
   "example": "A developmental disability is not an illness, but it may increase care needs.",
   "module": "VI",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Laago bu jóge ci ndaw (handicap du développement)",
+  "definition_wo": "Laago bu dul wéy, bu tàmbali laata 22 at (paralysie cérébrale, autisme, laago ci xel)."
  },
  {
   "id": "hv_015",
@@ -147,7 +175,9 @@
   "definition_fr": "Tâches quotidiennes de soins personnels : toilette, habillage, repas, aller aux toilettes, se déplacer et se transférer.",
   "example": "The care plan lists which ADLs the client needs help with.",
   "module": "VII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Liggéey yu bés bu nekk (AVQ)",
+  "definition_wo": "Li nit di def bés bu nekk ngir boppam : sangu, sol, lekk, dem wanag, dox ak jóge fenn dem feneen."
  },
  {
   "id": "hv_016",
@@ -157,7 +187,9 @@
   "definition_fr": "Éléments des aliments dont le corps a besoin : protéines, glucides, graisses, vitamines, minéraux et eau.",
   "example": "Protein builds and repairs tissues; carbohydrates give energy.",
   "module": "VIII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Nutriman yi (li yaram soxla ci ñam)",
+  "definition_wo": "Li yaram soxla ci ñam : proteyin, glisid (sukar ak féculents), diw, witamin, mineero ak ndox."
  },
  {
   "id": "hv_017",
@@ -167,7 +199,9 @@
   "definition_fr": "Régime prescrit par le médecin qui change un nutriment, les calories ou la texture des aliments.",
   "example": "A low-sodium diet is a modified diet: no salt added.",
   "module": "VIII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Régime bu ñu soppi",
+  "definition_wo": "Régime bu doktor santaane, di soppi benn nutriman, kalori yi walla ni ñam wi mel."
  },
  {
   "id": "hv_018",
@@ -177,7 +211,9 @@
   "definition_fr": "Régime qui limite le sel : lire les étiquettes, éviter les plats industriels, ne pas ajouter de sel en cuisinant ni en servant.",
   "example": "Clients with heart problems are often on a low-sodium diet.",
   "module": "VIII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Régime bu néew xorom",
+  "definition_wo": "Régime bu wàññi xorom : jàng etiket yi, bàyyi ñam yu ñu jaay yu pare, bul dolli xorom ci togg wi walla ci palaat bi."
  },
  {
   "id": "hv_019",
@@ -187,7 +223,9 @@
   "definition_fr": "Régime sans aliments qui irritent l'estomac : poivre, épices, alcool, caféine.",
   "example": "No coffee for a client on a bland diet.",
   "module": "VIII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Régime bu amul lu metti biir",
+  "definition_wo": "Régime bu amul poobar, épis, sangara ak kafe, ndax dañuy metti biir."
  },
  {
   "id": "hv_020",
@@ -197,7 +235,9 @@
   "definition_fr": "Aliments hachés, moulus ou mixés pour les clients qui ont du mal à mâcher ou avaler. Mixer chaque aliment séparément.",
   "example": "She pureed the chicken and the carrots separately and named each one.",
   "module": "VIII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Ñam bu ñu nos (purée)",
+  "definition_wo": "Ñam bu ñu dagg, mool walla nos ngir ñi mënul a ñàmm walla wann. Nosal ñam bu nekk moom rekk."
  },
  {
   "id": "hv_021",
@@ -207,7 +247,9 @@
   "definition_fr": "Difficulté à avaler. Nécessite des textures modifiées et des liquides épaissis pour éviter la fausse route.",
   "example": "Never give thin water to a client with dysphagia unless the care plan allows it.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Dysphagie (jafe-jafe ci wann)",
+  "definition_wo": "Jafe-jafe ci wann. Dafa soxla ñam yu ñu soppi ak ndox yu ñu baxal ngir ñam wi dul jëm ci pumoŋ yi."
  },
  {
   "id": "hv_022",
@@ -217,7 +259,9 @@
   "definition_fr": "Passage d'aliments ou de liquide dans les poumons au lieu de l'estomac. Peut causer une pneumonie.",
   "example": "Sitting upright during meals helps prevent aspiration.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Fausse route (ñam wi dem ci pumoŋ)",
+  "definition_wo": "Ñam walla ndox mu dem ci pumoŋ yi, du ci biir. Mën na indi pnemoni."
  },
  {
   "id": "hv_023",
@@ -227,7 +271,9 @@
   "definition_fr": "Utiliser correctement son corps pour éviter les blessures : base d'appui large, plier genoux et hanches, garder la charge près du corps, tourner avec les pieds, jamais de torsion.",
   "example": "Good body mechanics protect your back during transfers.",
   "module": "X",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Jëfandikoo yaram bu baax (mécanique corporelle)",
+  "definition_wo": "Jëfandikoo sa yaram bu baax ngir bañ a gaañu : tànk yi xàjj, lemal óom ak jur, yor li nga yor ci sa yaram, jadd ak sa tànk, bul wëlbati sa ndigg."
  },
  {
   "id": "hv_024",
@@ -237,7 +283,9 @@
   "definition_fr": "Toutes les pratiques qui empêchent la propagation des microbes : lavage des mains, gants, séparation propre/sale, élimination sûre des déchets.",
   "example": "Handwashing is the most important infection control measure.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Aar ci wàllu jàngoro (contrôle des infections)",
+  "definition_wo": "Lépp lu ñuy def ngir mikrob yi bañ a tas : raxas loxo, gant, xàjjale lu set ak lu tilim, sànni mbalit mi bu baax."
  },
  {
   "id": "hv_025",
@@ -247,7 +295,9 @@
   "definition_fr": "Étapes par lesquelles une infection passe d'une source à une nouvelle personne. Rompre un maillon arrête l'infection.",
   "example": "Washing your hands breaks the chain of infection.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Yoonu jàngoro (chaîne de l'infection)",
+  "definition_wo": "Jéego yi jàngoro di jaar ngir jóge ci kenn dem ci keneen. Boo dogee benn jéego, jàngoro ji taxaw."
  },
  {
   "id": "hv_026",
@@ -257,7 +307,9 @@
   "definition_fr": "Pratiques de contrôle des infections utilisées avec chaque client : lavage des mains, gants et autres EPI, manipulation sûre des objets tranchants et des liquides corporels.",
   "example": "Standard precautions apply even if the client looks healthy.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Précautions standard",
+  "definition_wo": "Li nga war a def ak kiliyaan bu nekk : raxas loxo, gant ak yeneen aar, yor bu baax lu ñaw ak dereet ak yeneen ndox yu yaram."
  },
  {
   "id": "hv_027",
@@ -267,7 +319,9 @@
   "definition_fr": "Gants, blouse, masque et protection des yeux portés pour se protéger des infections.",
   "example": "Put on gloves before touching soiled linen.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Aar yaram (EPI)",
+  "definition_wo": "Gant, blus, mask ak aar bët, ngir aar sa bopp ci jàngoro."
  },
  {
   "id": "hv_028",
@@ -277,7 +331,9 @@
   "definition_fr": "Microbes transportés par le sang : hépatite B, hépatite C et VIH.",
   "example": "Handle sharps carefully to avoid bloodborne pathogens.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Jàngoro yu dereet di yóbbu",
+  "definition_wo": "Mikrob yu nekk ci dereet : hépatite B, hépatite C ak VIH (SIDA)."
  },
  {
   "id": "hv_029",
@@ -287,7 +343,9 @@
   "definition_fr": "Contact de la peau, des yeux, de la bouche ou d'une coupure avec le sang ou les liquides corporels d'un client. Laver, signaler immédiatement, suivre la procédure de l'agence.",
   "example": "A needle stick is an exposure incident.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Laal lu am jàngoro (incident d'exposition)",
+  "definition_wo": "Sa dér, sa bët, sa gémmiñ walla sa gaañu-gaañu laal dereet walla ndoxum yaramu kiliyaan bi. Raxas ko, wax ko ci saa si, topp yoonu agence bi."
  },
  {
   "id": "hv_030",
@@ -297,7 +355,9 @@
   "definition_fr": "Lésion de la peau causée par la pression, surtout sur le coccyx, les talons, le sacrum, les hanches, les coudes et l'arrière de la tête. Signes précoces : rougeur, chaleur, éruption, démangeaison.",
   "example": "Change position often to prevent pressure ulcers.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Escarre (gaañu-gaañu ci dér ndax toog bu yàgg)",
+  "definition_wo": "Dér bi yàqu ndax toog walla tëdd bu yàgg ci benn béréb : coccyx, tànk yi, sacrum, hanche yi, óom yi, ginnaawu bopp. Firnde yu jëkk : xonq, tàng, démangeaison."
  },
  {
   "id": "hv_031",
@@ -307,7 +367,9 @@
   "definition_fr": "Zones osseuses où la peau s'abîme en premier : coccyx, talons, sacrum, ischions, arrière du crâne, coudes.",
   "example": "Check the pressure points every time you bathe the client.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Béréb yi gën a yàqu (points de pression)",
+  "definition_wo": "Béréb yu yax yi ñëw ci dér bi : coccyx, tànk yi, sacrum, ischions, ginnaawu bopp, óom yi."
  },
  {
   "id": "hv_032",
@@ -317,7 +379,9 @@
   "definition_fr": "Assis dans le lit, tête de lit relevée. Aide à respirer et à manger.",
   "example": "Put the client in Fowler's position before the meal.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Toogaay bu Fowler",
+  "definition_wo": "Toog ci lal bi, boppu lal bi yékkatiku. Dafay yombal noyyi ak lekk."
  },
  {
   "id": "hv_033",
@@ -327,7 +391,9 @@
   "definition_fr": "Allongé sur le dos / sur le ventre / sur le côté.",
   "example": "Turn the client from supine to lateral every two hours.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Tëdd ci ginnaaw / ci biir / ci wet",
+  "definition_wo": "Tëdd ci sa ginnaaw / ci sa biir / ci sa wet."
  },
  {
   "id": "hv_034",
@@ -337,7 +403,9 @@
   "definition_fr": "Déplacer un client d'un endroit à un autre, par exemple du lit au fauteuil roulant. Bloquer d'abord les freins.",
   "example": "Use a gait belt for a safe transfer.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Transfert (jële nit fenn yóbbu ko feneen)",
+  "definition_wo": "Jële kiliyaan bi ci lal bi yóbbu ko ci siis bi walla fauteuil bi. Tëj fren yi bu jëkk."
  },
  {
   "id": "hv_035",
@@ -347,7 +415,9 @@
   "definition_fr": "Le fait de marcher. Se placer du côté faible du client, lentement, sur de courtes distances.",
   "example": "Ambulation prevents contractures and improves circulation.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Dox",
+  "definition_wo": "Dox. Taxaw ci wetu kiliyaan bi gu wóorul, ndank-ndank, ci yoon wu gàtt."
  },
  {
   "id": "hv_036",
@@ -357,7 +427,9 @@
   "definition_fr": "Mobiliser chaque articulation sur toute son amplitude. Active : le client le fait ; passive : l'aide mobilise le membre.",
   "example": "ROM exercises prevent stiffness and atrophy.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Yëngal cér yi (amplitude articulaire)",
+  "definition_wo": "Yëngal cér bu nekk ba fa mu mën a àgg. Bu kiliyaan bi ko defee boppam : actif ; boo ko defalee : passif."
  },
  {
   "id": "hv_037",
@@ -367,7 +439,9 @@
   "definition_fr": "Raccourcissement permanent d'un muscle ou d'une articulation dû au manque de mouvement.",
   "example": "Daily ROM exercises help prevent contractures.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Contracture (cér bu dëgër)",
+  "definition_wo": "Sidit walla cér bu dëgër ba du yëngu, ndax yàgg na yëngu."
  },
  {
   "id": "hv_038",
@@ -377,7 +451,9 @@
   "definition_fr": "Fonte du muscle due au manque d'utilisation.",
   "example": "Bedridden clients are at risk of muscle atrophy.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Atrophie (sidit yi wàññiku)",
+  "definition_wo": "Sidit yi di wàññiku ndax yàgg nañu liggéey."
  },
  {
   "id": "hv_039",
@@ -387,7 +463,9 @@
   "definition_fr": "Matériel pour aller aux toilettes au lit. Réchauffer le bassin, préserver l'intimité, donner du papier et un moyen d'appel.",
   "example": "A fracture pan is flatter, for clients who cannot lift their hips.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Bassin / urinal",
+  "definition_wo": "Jumtukaay ngir dem wanag ci lal bi. Tàngal bassin bi, aar sutura, jox kayitu wanag ak sonet."
  },
  {
   "id": "hv_040",
@@ -397,7 +475,9 @@
   "definition_fr": "Chaise-toilette portable placée près du lit.",
   "example": "Rinse the commode bucket after each use.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Siisu wanag (chaise percée)",
+  "definition_wo": "Siis bu am wanag, ñu teg ko ci wetu lal bi."
  },
  {
   "id": "hv_041",
@@ -407,7 +487,9 @@
   "definition_fr": "Perte du contrôle de la vessie ou des intestins. Protéger la dignité, changer les protections rapidement, soigner la peau.",
   "example": "Incontinence can cause embarrassment; never scold the client.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Mënul a téye saw walla biir (incontinence)",
+  "definition_wo": "Mënul a téye saw walla jàpp biir. Aar teggin bi, soppi kuus bi bu gaaw, topptoo dér bi, bul ko yedd mukk."
  },
  {
   "id": "hv_042",
@@ -417,7 +499,9 @@
   "definition_fr": "Tube qui évacue l'urine de la vessie. La sonde à demeure reste en place ; l'étui pénien se place sur le pénis.",
   "example": "Never pull on the catheter when cleaning.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Sonde (tiyo bu génne saw)",
+  "definition_wo": "Tiyo bu jaar ci biir ngir génne saw. Am na bu dëkk ci biir, am na bu ñu teg ci kaw (étui pénien)."
  },
  {
   "id": "hv_043",
@@ -427,7 +511,9 @@
   "definition_fr": "Sac qui recueille l'urine d'une sonde. Le garder sous le niveau de la vessie ; signaler une urine trouble, sanglante ou très peu abondante.",
   "example": "Empty the drainage bag without touching the end of the tube.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Saaku saw (sac collecteur)",
+  "definition_wo": "Saak bi di dajale saw mi jóge ci sonde bi. Na nekk ci suuf, gën a suufe wet gi ; wax ko bu saw mi tilimee, am dereet walla néewee lool."
  },
  {
   "id": "hv_044",
@@ -437,7 +523,9 @@
   "definition_fr": "Mesurer tous les liquides bus par le client et toute l'urine éliminée.",
   "example": "Measure each cup before serving to record intake accurately.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Li mu naan ak li mu saw (apports et éliminations)",
+  "definition_wo": "Natt lépp lu kiliyaan bi naan ak lépp lu mu saw."
  },
  {
   "id": "hv_045",
@@ -447,7 +535,9 @@
   "definition_fr": "Sans dents. Nettoyer la bouche et les gencives avec un bâtonnet humidifié.",
   "example": "Even an edentulous client needs mouth care.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Amul bëñ",
+  "definition_wo": "Amul bëñ. Fomp gémmiñ gi ak gum yi ak coton bu tooy."
  },
  {
   "id": "hv_046",
@@ -457,7 +547,9 @@
   "definition_fr": "Fausses dents amovibles. Nettoyer au-dessus d'un lavabo protégé par un gant de toilette ; conserver dans l'eau.",
   "example": "Insert the top dentures first.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Bëñu lëmm (dentier)",
+  "definition_wo": "Bëñ yu ñu mën a summi. Raxas leen ci kaw lavabo bu ñu teg ci serwiyet ; denc leen ci ndox."
  },
  {
   "id": "hv_047",
@@ -467,7 +559,9 @@
   "definition_fr": "Bas serrés qui aident la circulation dans les jambes. Enfiler après avoir surélevé les jambes, sans plis.",
   "example": "Report swelling or color changes under the stockings.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Kawas yu ñu ñeg (bas de contention)",
+  "definition_wo": "Kawas yu dëgër yuy dimbali dereet ji dox ci tànk yi. Sol leen ginnaaw bu tànk yi yékkatikoo, bañ a am ñiir."
  },
  {
   "id": "hv_048",
@@ -477,7 +571,9 @@
   "definition_fr": "Appareil avec une sangle pour soulever un client qui ne peut pas se tenir debout. Vérifier toutes les attaches avant de déplacer.",
   "example": "Never use the lift if you have not been shown how.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Lève-personne (masin bu yékkati nit)",
+  "definition_wo": "Masin bu am saak ngir yékkati kiliyaan bu mënul taxaw. Seet lépp lu ñu takk laata ngay yëngal."
  },
  {
   "id": "hv_049",
@@ -487,7 +583,9 @@
   "definition_fr": "Planche lisse qui fait un pont entre le lit et le fauteuil pour que le client glisse. Fauteuil à 45 degrés.",
   "example": "Transfer toward the client's strong side with the slide board.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Palaŋu wàcc (planche de transfert)",
+  "definition_wo": "Palaŋ bu rëy bu ñu teg diggante lal bi ak siis bi ngir kiliyaan bi wàcc. Siis bi ci 45 degre."
  },
  {
   "id": "hv_050",
@@ -497,7 +595,9 @@
   "definition_fr": "Large ceinture autour de la taille du client qui donne à l'aide une prise sûre lors des transferts et de la marche.",
   "example": "Hold the gait belt, not the client's arm.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Ceinture bu dox (gait belt)",
+  "definition_wo": "Ceinture bu yaatu ñu takk ci ndiggu kiliyaan bi ngir nga mën koo jàpp bu wóor boo koy yëngal walla dox ak moom."
  },
  {
   "id": "hv_051",
@@ -507,7 +607,9 @@
   "definition_fr": "Partie du corps ou dispositif artificiel : membre, œil, sein artificiel, appareil auditif, lunettes, dentier.",
   "example": "Check that the prosthesis is clean and in good working order.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Prothèse (cér bu ñu defar)",
+  "definition_wo": "Cér walla jumtukaay bu ñu defar : loxo walla tànk, bët, wéer, aparey nopp, lunet, bëñu lëmm."
  },
  {
   "id": "hv_052",
@@ -517,7 +619,9 @@
   "definition_fr": "Bonne personne, bon médicament, bonne dose, bon moment, bonne voie. Vérifier chacun sur l'étiquette et dans le plan de soins.",
   "example": "If any of the Five Rights does not match, call the supervisor.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Juróomi « baax » yu garab yi",
+  "definition_wo": "Nit ki ñu war, garab bi ñu war, dose bi ñu war, waxtu wi ñu war, yoon wi ñu war. Seet bu nekk ci etiket bi ak ci palaŋu topptoo bi."
  },
  {
   "id": "hv_053",
@@ -527,7 +631,9 @@
   "definition_fr": "Rappeler, apporter le médicament, lire l'étiquette, ouvrir le flacon et donner de l'eau pour que le client prenne lui-même son médicament. L'aide n'administre jamais.",
   "example": "Do not crush pills or mix them in food.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Dimbali kiliyaan bi mu jël garabam moom ci boppam",
+  "definition_wo": "Fàttali ko, indil ko garab bi, jàngal ko etiket bi, ubbil ko boyet bi, jox ko ndox, ba mu jël garab bi moom ci boppam. Doo ko jox garab mukk."
  },
  {
   "id": "hv_054",
@@ -537,7 +643,9 @@
   "definition_fr": "Façon dont un médicament est pris : par la bouche, sur la peau, dans l'œil, etc.",
   "example": "Check the route on the label against the care plan.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Yoonu jël garab (voie)",
+  "definition_wo": "Ni ñuy jël garab bi : ci gémmiñ, ci dér, ci bët, añs."
  },
  {
   "id": "hv_055",
@@ -547,7 +655,9 @@
   "definition_fr": "Date après laquelle un médicament ou un aliment ne doit plus être utilisé.",
   "example": "Always check the expiration date on the bottle.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Bésu mujj (date de péremption)",
+  "definition_wo": "Bés bi garab walla ñam warul a jàll."
  },
  {
   "id": "hv_056",
@@ -557,7 +667,9 @@
   "definition_fr": "Préjudice intentionnel : physique, émotionnel, sexuel ou financier. Doit être signalé.",
   "example": "Taking a client's money without consent is financial abuse.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Toroxal (maltraitance)",
+  "definition_wo": "Lor nit ci teyé : ci yaram, ci xol, ci sëy walla ci xaalis. Dañu ko war a wax."
  },
  {
   "id": "hv_057",
@@ -567,7 +679,9 @@
   "definition_fr": "Manquement aux soins nécessaires : nourriture, boisson, hygiène, sécurité ou soins médicaux. Également à signaler.",
   "example": "Leaving a client in soiled briefs all day is neglect.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Bàyyi nit (négligence)",
+  "definition_wo": "Bañ a jox nit li mu soxla : ñam, ndox, set, kaaraange walla topptoo. Dañu ko war a wax itam."
  },
  {
   "id": "hv_058",
@@ -577,7 +691,9 @@
   "definition_fr": "Travailleur légalement obligé de signaler tout soupçon de maltraitance ou de négligence.",
   "example": "Home care workers are mandatory reporters.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Ku yoon wi sant mu wax (mandatory reporter)",
+  "definition_wo": "Liggéeykat bu yoon wi sant mu wax bépp toroxal walla bàyyi nit bu mu gis."
  },
  {
   "id": "hv_059",
@@ -587,7 +703,9 @@
   "definition_fr": "Document légal exprimant les volontés de santé d'une personne si elle ne peut plus s'exprimer (testament de vie, mandataire de santé).",
   "example": "Report the client's end-of-life wishes so an advance directive can be documented.",
   "module": "II",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Directives anticipées (li nit bëgg ci faju bu mënatul wax)",
+  "definition_wo": "Kayitu yoon bu wone li nit bëgg ci toppatoom bu mënatul wax boppam (testament de vie, ku ñu dénk)."
  },
  {
   "id": "hv_060",
@@ -597,7 +715,9 @@
   "definition_fr": "Prescription médicale de ne pas pratiquer la réanimation si le cœur ou la respiration s'arrête.",
   "example": "Without a DNR, call 911 and start CPR.",
   "module": "XI",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "DNR (bu ñu ko dundal)",
+  "definition_wo": "Santaaneb doktor ñu bañ a def réanimation bu xol bi walla noyyi bi taxawee."
  },
  {
   "id": "hv_061",
@@ -607,7 +727,9 @@
   "definition_fr": "Rescue (secourir), Alarm (alerter le 911), Confine (confiner), Extinguish/Evacuate (éteindre ou évacuer) : l'ordre des actions en cas d'incendie.",
   "example": "RACE: get the client out first, then call 911.",
   "module": "XI",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "RACE (bu am taal)",
+  "definition_wo": "Rescue : génne kiliyaan bi ak yaw. Alarm : woo 911. Confine : tëj bunt yi. Extinguish/Evacuate : fey walla génn. Ndigël yi bu am taal."
  },
  {
   "id": "hv_062",
@@ -617,7 +739,9 @@
   "definition_fr": "Airway (voies respiratoires), Breathing (respiration), Circulation : ce qu'il faut vérifier en premier en urgence.",
   "example": "Remember the ABCs after calling 911.",
   "module": "XI",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "ABC yu secours yi",
+  "definition_wo": "Airway (yoonu noyyi), Breathing (noyyi), Circulation (dereet) : li nga war a seet bu jëkk bu am urgence."
  },
  {
   "id": "hv_063",
@@ -627,7 +751,9 @@
   "definition_fr": "Taux de sucre bas : sueurs, tremblements, confusion, vertiges. Donner du sucre rapide si le client est conscient, puis signaler.",
   "example": "A diabetic client who is sweating and confused may have hypoglycemia.",
   "module": "XI",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Sukar bu wàcc (hypoglycémie)",
+  "definition_wo": "Sukar bu wàcc ci dereet : ñaq, lox, jaxasoo, bopp buy wër. Jox ko sukar bu gaaw bu xamee boppam, ba pare wax ko."
  },
  {
   "id": "hv_064",
@@ -637,7 +763,9 @@
   "definition_fr": "Perte de mémoire, de capacités de pensée et sociales assez grave pour gêner la vie quotidienne. La maladie d'Alzheimer en est la cause la plus fréquente.",
   "example": "With dementia, acknowledge feelings and redirect instead of arguing.",
   "module": "III",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Démence (jafe-jafe ci fàttaliku)",
+  "definition_wo": "Ñàkk fàttaliku, xalaat ak jëflante ba du mën a dund bu baax. Alzheimer mooy gën a bari."
  },
  {
   "id": "hv_065",
@@ -647,7 +775,9 @@
   "definition_fr": "Les tâches qu'un travailleur est légalement autorisé à faire. L'aide à domicile ne donne pas de médicaments, ne fait pas d'actes stériles et ne prend pas de décisions médicales.",
   "example": "Changing a sterile dressing is outside the HHA scope of practice.",
   "module": "I",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Li nga sañ a def (champ de pratique)",
+  "definition_wo": "Liggéey yi yoon wi may la. Aide à domicile du jox garab, du def pansement stérile, du dogal mbirum faju."
  },
  {
   "id": "hv_066",
@@ -657,7 +787,9 @@
   "definition_fr": "Température, pouls, respiration et tension artérielle.",
   "example": "Record vital signs with the exact time they were taken.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Firnde yu dund (signes vitaux)",
+  "definition_wo": "Tàngoor, pouls, noyyi ak tension."
  },
  {
   "id": "hv_067",
@@ -667,7 +799,9 @@
   "definition_fr": "Lavage de la zone génitale et anale. Fait en dernier lors de la toilette au lit, d'avant en arrière.",
   "example": "Wear gloves and provide privacy for perineal care.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Sang béréb yu sutura (toilette intime)",
+  "definition_wo": "Raxas béréb yi ci diggante tànk yi. Def ko mujj ci sangu ci lal bi, ci kanam jëm ginnaaw."
  },
  {
   "id": "hv_068",
@@ -677,7 +811,9 @@
   "definition_fr": "Changer les draps pendant que le client reste au lit, en roulant le drap sale sous le client.",
   "example": "Make an occupied bed for a client who cannot get up.",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Lal bu nit nekk ci kaw (lit occupé)",
+  "definition_wo": "Soppi dara yi te kiliyaan bi nekk ci lal bi, di sotti dara bu tilim bi ci suufu kiliyaan bi."
  },
  {
   "id": "hv_069",
@@ -687,7 +823,9 @@
   "definition_fr": "Décrire la place des aliments sur l'assiette comme les heures d'une horloge pour un client malvoyant.",
   "example": "\"Your rice is at 3 o'clock.\"",
   "module": "XII",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Yoonu montar (méthode de l'horloge)",
+  "definition_wo": "Wax kiliyaan bu gumba fan la ñam wi nekk ci palaat bi ni waxtu yi ci montar."
  },
  {
   "id": "hv_070",
@@ -697,6 +835,8 @@
   "definition_fr": "Règles de l'agence de soins à domicile que l'aide doit suivre : incidents, argent, absences et signalements.",
   "example": "Non-compliance with agency policy is a reason for dismissal.",
   "module": "I",
-  "category": "vocabulary"
+  "category": "vocabulary",
+  "term_wo": "Ndigëlu agence bi",
+  "definition_wo": "Yoon yi agence bi tëral te nga war a topp : incident, xaalis, bu nga ñëwul, ak li nga war a wax."
  }
 ]

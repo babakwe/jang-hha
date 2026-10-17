@@ -58,10 +58,10 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     function fallback(it: Item) {
       if (typeof speechSynthesis === "undefined") { playNext(); return; }
       const u = new SpeechSynthesisUtterance(it.text);
-      u.lang = it.lang === "fr" ? "fr-FR" : "en-US";
+      u.lang = it.lang === "en" ? "en-US" : "fr-FR"; // no Wolof voices in browsers; French voice reads Wolof text as fallback
       u.rate = 0.92;
       const voices = speechSynthesis.getVoices();
-      const v = voices.find(v => v.lang.toLowerCase().startsWith(it.lang)) ;
+      const v = voices.find(v => v.lang.toLowerCase().startsWith(it.lang === "en" ? "en" : "fr"));
       if (v) u.voice = v;
       u.onend = () => playNext();
       u.onerror = () => playNext();

@@ -11,7 +11,7 @@ export function LangProvider({ children }: { children: ReactNode }) {
   useEffect(() => {
     try {
       const saved = localStorage.getItem("jang.lang");
-      if (saved === "fr" || saved === "en") setLangState(saved);
+      if (saved === "fr" || saved === "en" || saved === "wo") setLangState(saved);
       else if (navigator.language?.toLowerCase().startsWith("fr")) setLangState("fr");
     } catch {}
   }, []);

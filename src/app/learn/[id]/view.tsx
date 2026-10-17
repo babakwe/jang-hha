@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useLang } from "@/lib/lang";
 import { BiText, Header, ListenAll, Page } from "@/components/ui";
 import { LESSONS, VOCAB, proceduresForLesson, questionsByModule } from "@/lib/data";
+import { pick } from "@/lib/types";
 
 export default function LessonView({ id }: { id: string }) {
   const { t, lang } = useLang();
@@ -12,12 +13,12 @@ export default function LessonView({ id }: { id: string }) {
   const nq = questionsByModule(l.module).length;
 
   const items: { text: string; id: string }[] = [
-    { text: l.title[lang], id: `${l.id}-title` }, { text: l.intro[lang], id: `${l.id}-intro` },
+    { text: pick(l.title, lang), id: `${l.id}-title` }, { text: pick(l.intro, lang), id: `${l.id}-intro` },
     ...l.sections.flatMap((s, si) => [
-      { text: s.heading[lang], id: `${l.id}-s${si}` },
-      ...s.points.map((p, pi) => ({ text: p[lang], id: `${l.id}-s${si}-p${pi}` })),
+      { text: pick(s.heading, lang), id: `${l.id}-s${si}` },
+      ...s.points.map((p, pi) => ({ text: pick(p, lang), id: `${l.id}-s${si}-p${pi}` })),
     ]),
-    { text: `${t("whenToReport")}. ${l.report[lang]}`, id: `${l.id}-report` },
+    { text: `${t("whenToReport")}. ${pick(l.report, lang)}`, id: `${l.id}-report` },
   ];
 
   return (
@@ -27,7 +28,7 @@ export default function LessonView({ id }: { id: string }) {
         <BiText bi={l.title} id={`${l.id}-title`} as="h2" big />
         <ListenAll items={items} />
         <div className="card p-4"><BiText bi={l.intro} id={`${l.id}-intro`} /></div>
-        {l.note && <div className="card p-4 bg-fr-soft border-0 text-sm"><strong>{t("notes")}:</strong> {l.note[lang]}</div>}
+        {l.note && <div className="card p-4 bg-fr-soft border-0 text-sm"><strong>{t("notes")}:</strong> {pick(l.note, lang)}</div>}
         {l.sections.map((s, si) => (
           <section key={si} className="card p-4 space-y-3">
             <BiText bi={s.heading} id={`${l.id}-s${si}`} as="h3" big showOther={false} />
@@ -47,7 +48,7 @@ export default function LessonView({ id }: { id: string }) {
               {procs.map(p => (
                 <Link key={p.id} href={`/procedures/${p.id}`} className="card p-3 flex items-center gap-3 hover:border-brand">
                   <span className="chip bg-fr-soft text-fr">{p.number}</span>
-                  <span className="flex-1 font-bold">{p.title[lang]}</span>
+                  <span className="flex-1 font-bold">{pick(p.title, lang)}</span>
                   {p.required && <span className="chip bg-accent-soft text-accent">★</span>}
                 </Link>
               ))}
@@ -58,7 +59,7 @@ export default function LessonView({ id }: { id: string }) {
           <section className="space-y-2">
             <h3 className="font-extrabold">{t("keyTerms")}</h3>
             <div className="flex flex-wrap gap-2">
-              {terms.map(v => <Link key={v.id} href={`/glossary#${v.id}`} className="chip bg-surface border border-line">{lang === "fr" ? v.term_fr : v.term}</Link>)}
+              {terms.map(v => <Link key={v.id} href={`/glossary#${v.id}`} className="chip bg-surface border border-line">{lang === "wo" ? (v.term_wo ?? v.term_fr) : lang === "fr" ? v.term_fr : v.term}</Link>)}
             </div>
           </section>
         )}
