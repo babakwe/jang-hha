@@ -17,40 +17,40 @@
  },
  "p02": {
   "steps": [
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null
+   "step:p02-0",
+   "step:p02-1",
+   "step:p02-2",
+   "step:p02-3",
+   "step:p02-4",
+   "step:p02-5",
+   "step:p02-6",
+   "step:p02-7"
   ]
  },
  "p03": {
   "steps": [
    "common:explain",
    "common:wash",
-   null,
-   null,
-   null,
-   null,
+   "step:p03-2",
+   "step:p03-3",
+   "step:p03-4",
+   "step:p03-5",
    "common:gloves",
-   null,
-   null,
-   null,
-   null,
+   "step:p03-7",
+   "step:p03-8",
+   "step:p03-9",
+   "step:p03-10",
    "common:report"
   ]
  },
  "p04": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p04-1",
+   "step:p04-2",
+   "step:p04-3",
+   "step:p04-4",
+   "step:p04-5",
    "common:comfort",
    "common:report"
   ]
@@ -74,51 +74,51 @@
  "p06": {
   "steps": [
    "common:prep",
-   null,
-   null,
+   "step:p06-1",
+   "step:p06-2",
    "common:gloves",
-   null,
-   null,
+   "step:p06-4",
+   "step:p06-5",
    "common:report"
   ]
  },
  "p07": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p07-1",
+   "step:p07-2",
+   "step:p07-3",
+   "step:p07-4",
+   "step:p07-5",
+   "step:p07-6",
    "common:report"
   ]
  },
  "p08": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p08-1",
+   "step:p08-2",
+   "step:p08-3",
+   "step:p08-4",
+   "step:p08-5",
    "common:wash"
   ]
  },
  "p09": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p09-1",
+   "step:p09-2",
+   "step:p09-3",
+   "step:p09-4",
+   "step:p09-5",
    "common:report"
   ],
   "alt": [
    "common:explain",
-   null,
-   null,
+   "step:p09-alt-1",
+   "step:p09-alt-2",
    "common:supervisor"
   ]
  },
@@ -143,36 +143,36 @@
  "p11": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p11-1",
+   "step:p11-2",
+   "step:p11-3",
+   "step:p11-4",
+   "step:p11-5",
    "common:safety",
-   null,
+   "step:p11-7",
    "common:report"
   ]
  },
  "p12": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p12-1",
+   "step:p12-2",
+   "step:p12-3",
+   "step:p12-4",
+   "step:p12-5",
+   "step:p12-6",
    "common:report"
   ]
  },
  "p13": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p13-1",
+   "step:p13-2",
+   "step:p13-3",
+   "step:p13-4",
+   "step:p13-5",
    "common:report"
   ]
  },
@@ -190,14 +190,14 @@
  "p15": {
   "steps": [
    "common:wash",
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null
+   "step:p15-1",
+   "step:p15-2",
+   "step:p15-3",
+   "step:p15-4",
+   "step:p15-5",
+   "step:p15-6",
+   "step:p15-7",
+   "step:p15-8"
   ]
  },
  "p16": {
@@ -230,32 +230,32 @@
  "p18": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
+   "step:p18-1",
+   "step:p18-2",
+   "step:p18-3",
+   "step:p18-4",
    "common:report"
   ]
  },
  "p19": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p19-1",
+   "step:p19-2",
+   "step:p19-3",
+   "step:p19-4",
+   "step:p19-5",
    "common:report"
   ]
  },
  "p20": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p20-1",
+   "step:p20-2",
+   "step:p20-3",
+   "step:p20-4",
+   "step:p20-5",
    "common:dispose",
    "common:report"
   ]
@@ -263,46 +263,46 @@
  "p21": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p21-1",
+   "step:p21-2",
+   "step:p21-3",
+   "step:p21-4",
+   "step:p21-5",
+   "step:p21-6",
    "common:report"
   ]
  },
  "p22": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p22-1",
+   "step:p22-2",
+   "step:p22-3",
+   "step:p22-4",
+   "step:p22-5",
    "common:report"
   ]
  },
  "p23": {
   "steps": [
    "common:prep",
-   null,
+   "step:p23-1",
    "common:safety",
-   null,
-   null,
-   null,
-   null,
+   "step:p23-3",
+   "step:p23-4",
+   "step:p23-5",
+   "step:p23-6",
    "common:report"
   ]
  },
  "p24": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p24-1",
+   "step:p24-2",
+   "step:p24-3",
+   "step:p24-4",
+   "step:p24-5",
    "common:report"
   ]
  },
@@ -310,11 +310,11 @@
   "steps": [
    "common:explain",
    "common:wash",
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p25-2",
+   "step:p25-3",
+   "step:p25-4",
+   "step:p25-5",
+   "step:p25-6",
    "common:report"
   ]
  },
@@ -333,55 +333,55 @@
  "p27": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
+   "step:p27-1",
+   "step:p27-2",
+   "step:p27-3",
+   "step:p27-4",
    "common:report"
   ]
  },
  "p28": {
   "steps": [
    "common:prep",
-   null,
+   "step:p28-1",
    "common:safety",
-   null,
+   "step:p28-3",
    "common:privacy",
-   null,
-   null,
+   "step:p28-5",
+   "step:p28-6",
    "common:report"
   ]
  },
  "p29": {
   "steps": [
    "common:prep",
-   null,
+   "step:p29-1",
    "common:safety",
-   null,
+   "step:p29-3",
    "common:privacy",
-   null,
-   null,
+   "step:p29-5",
+   "step:p29-6",
    "common:report"
   ]
  },
  "p30": {
   "steps": [
    "common:prep",
-   null,
+   "step:p30-1",
    "common:privacy",
-   null,
-   null,
-   null,
+   "step:p30-3",
+   "step:p30-4",
+   "step:p30-5",
    "common:report"
   ]
  },
  "p31": {
   "steps": [
    "common:prep",
-   null,
-   null,
-   null,
-   null,
+   "step:p31-1",
+   "step:p31-2",
+   "step:p31-3",
+   "step:p31-4",
    "common:report",
    "common:clean"
   ]
@@ -391,9 +391,9 @@
    "common:explain",
    "common:wash",
    "common:equipment",
-   null,
-   null,
-   null,
+   "step:p32-3",
+   "step:p32-4",
+   "step:p32-5",
    "common:report"
   ]
  },
@@ -401,7 +401,7 @@
   "steps": [
    "common:explain",
    "common:wash",
-   null,
+   "step:p33-2",
    "common:report",
    "common:dispose",
    "common:clean",
@@ -413,11 +413,11 @@
    "common:prep",
    "common:comfort",
    "common:gloves",
-   null,
+   "step:p34-3",
    "common:gloves",
    "common:wash",
-   null,
-   null,
+   "step:p34-6",
+   "step:p34-7",
    "common:dispose",
    "common:report"
   ]
@@ -425,10 +425,10 @@
  "p35": {
   "steps": [
    "common:wash",
-   null,
-   null,
-   null,
-   null,
+   "step:p35-1",
+   "step:p35-2",
+   "step:p35-3",
+   "step:p35-4",
    "common:report"
   ]
  },
@@ -436,31 +436,31 @@
   "steps": [
    "common:wash",
    "common:gloves",
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p36-2",
+   "step:p36-3",
+   "step:p36-4",
+   "step:p36-5",
+   "step:p36-6",
+   "step:p36-7",
    "common:report"
   ]
  },
  "p37": {
   "steps": [
    "common:prep",
-   null,
-   null,
+   "step:p37-1",
+   "step:p37-2",
    "common:safety",
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
-   null,
+   "step:p37-4",
+   "step:p37-5",
+   "step:p37-6",
+   "step:p37-7",
+   "step:p37-8",
+   "step:p37-9",
+   "step:p37-10",
+   "step:p37-11",
+   "step:p37-12",
+   "step:p37-13",
    "common:report"
   ]
  },
@@ -468,9 +468,9 @@
   "steps": [
    "common:prep",
    "common:safety",
-   null,
-   null,
-   null,
+   "step:p38-2",
+   "step:p38-3",
+   "step:p38-4",
    "common:safety",
    "common:report"
   ]
