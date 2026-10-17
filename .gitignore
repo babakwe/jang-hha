@@ -49,3 +49,5 @@ next-env.d.ts
 # macOS AppleDouble files the exFAT drive creates
 ._*
 **/._*
+art/candidates/
+art/test/

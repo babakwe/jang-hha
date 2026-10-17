@@ -3,12 +3,18 @@ import { Handwash, type HandwashPhase } from "./Handwash";
 import { Common, type CommonPhase } from "./Common";
 import { BedBath, Mouth, Walk, OccupiedBed, Bedpan, Transfer, MedCheck } from "./Required";
 import { Illustration } from "@/components/Illustration";
+import artJson from "@/data/art.json";
+const ART = artJson as Record<string, string>;
 
 /**
  * Scene registry: "<scene>:<phase>" → animated SVG. Steps without a scene fall back to the
  * procedure's pictogram with a pulsing step badge.
  */
 export function Scene({ id, fallbackIcon, step }: { id?: string; fallbackIcon: string; step: number }) {
+  if (id && ART[id]) {
+    // eslint-disable-next-line @next/next/no-img-element
+    return <img src={`/art/${ART[id]}`} alt="" className="w-full h-auto rounded-xl" loading="eager" decoding="async" />;
+  }
   if (id) {
     const [scene, phase] = id.split(":");
     switch (scene) {
