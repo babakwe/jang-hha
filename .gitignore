@@ -44,3 +44,8 @@ next-env.d.ts
 .zz_broken_node_modules_*
 
 .venv/
+.zz_broken_next_*
+
+# macOS AppleDouble files the exFAT drive creates
+._*
+**/._*

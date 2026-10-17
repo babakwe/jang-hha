@@ -88,7 +88,7 @@ def tts_kokoro(text: str, lang: str) -> bytes:
     voice = {"fr": "ff_siwis", "en": "af_heart"}[lang]
     audio = np.concatenate([a for _, _, a in _KOKORO[code](text, voice=voice)])
     buf = io.BytesIO(); sf.write(buf, audio, 24000, format="WAV"); buf.seek(0)
-    return subprocess.run(["ffmpeg", "-loglevel", "error", "-i", "pipe:0", "-codec:a", "libmp3lame", "-b:a", "64k", "-f", "mp3", "pipe:1"],
+    return subprocess.run(["ffmpeg", "-loglevel", "error", "-i", "pipe:0", "-codec:a", "libmp3lame", "-b:a", "40k", "-ac", "1", "-f", "mp3", "pipe:1"],
                           input=buf.read(), capture_output=True, check=True).stdout
 
 _MMS = {}
@@ -102,7 +102,7 @@ def tts_mms(text: str, lang: str) -> bytes:
     model, tok = _MMS[iso]
     with torch.no_grad(): wav = model(**tok(text, return_tensors="pt")).waveform[0].numpy()
     buf = io.BytesIO(); sf.write(buf, wav, model.config.sampling_rate, format="WAV"); buf.seek(0)
-    return subprocess.run(["ffmpeg", "-loglevel", "error", "-i", "pipe:0", "-codec:a", "libmp3lame", "-b:a", "64k", "-f", "mp3", "pipe:1"],
+    return subprocess.run(["ffmpeg", "-loglevel", "error", "-i", "pipe:0", "-codec:a", "libmp3lame", "-b:a", "40k", "-ac", "1", "-f", "mp3", "pipe:1"],
                           input=buf.read(), capture_output=True, check=True).stdout
 
 def tts(text: str, voice: str, key: str) -> bytes:
