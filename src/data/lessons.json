@@ -1,0 +1,1214 @@
+[
+ {
+  "id": "m01",
+  "module": "I",
+  "minutes": 90,
+  "icon": "home",
+  "title": {
+   "en": "Introduction to Home Care",
+   "fr": "Introduction aux soins à domicile"
+  },
+  "intro": {
+   "en": "Home care keeps people who need help in their own homes instead of hospitals or institutions. As a home care worker you give personal care and support, follow the care plan, and report what you see to your supervisor.",
+   "fr": "Les soins à domicile permettent aux personnes qui ont besoin d'aide de rester chez elles plutôt qu'à l'hôpital ou en institution. En tant qu'aide à domicile, vous donnez des soins personnels et du soutien, vous suivez le plan de soins et vous signalez ce que vous observez à votre superviseur."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "What home care is for",
+     "fr": "À quoi servent les soins à domicile"
+    },
+    "points": [
+     {
+      "en": "Safe care at home for people who are ill, injured, frail or disabled, so they stay out of institutions and foster care.",
+      "fr": "Des soins sûrs à la maison pour les personnes malades, blessées, fragiles ou handicapées, pour éviter l'institution et le placement."
+     },
+     {
+      "en": "Families stay together and the client keeps contact with family, neighborhood and community.",
+      "fr": "La famille reste unie et le client garde le contact avec sa famille, son quartier et sa communauté."
+     },
+     {
+      "en": "Home care encourages independence, dignity and comfort.",
+      "fr": "Les soins à domicile favorisent l'indépendance, la dignité et le confort."
+     },
+     {
+      "en": "History: homemaker training began in the 1930s; Medicaid and Medicare began paying for home care in the 1960s.",
+      "fr": "Histoire : la formation des aides ménagères a commencé dans les années 1930 ; Medicaid et Medicare paient les soins à domicile depuis les années 1960."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Who the clients are",
+     "fr": "Qui sont les clients"
+    },
+    "points": [
+     {
+      "en": "Two groups: people with a specific injury or illness, and people who need support in the home.",
+      "fr": "Deux groupes : les personnes ayant une blessure ou une maladie précise, et celles qui ont besoin d'aide à la maison."
+     },
+     {
+      "en": "The frail elderly, the acutely and chronically ill, people with physical or mental disabilities, and adults and children who need protection.",
+      "fr": "Les personnes âgées fragiles, les malades aigus et chroniques, les personnes handicapées physiques ou mentales, et les adultes et enfants ayant besoin de protection."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Qualities of a good home care worker",
+     "fr": "Qualités d'un bon aide à domicile"
+    },
+    "points": [
+     {
+      "en": "Dependable, people-oriented, honest, objective, caring, patient, respectful and knowledgeable.",
+      "fr": "Fiable, tourné vers les gens, honnête, objectif, attentionné, patient, respectueux et compétent."
+     },
+     {
+      "en": "You can be dismissed for unreliability, dishonesty, disrespecting privacy, or not following agency protocols.",
+      "fr": "On peut être renvoyé pour manque de fiabilité, malhonnêteté, non-respect de la vie privée, ou non-respect des protocoles de l'agence."
+     },
+     {
+      "en": "Success means working without constant supervision, getting along with clients, organizing your time, and noticing the client's physical, social, spiritual and cultural needs.",
+      "fr": "Réussir, c'est travailler sans supervision constante, bien s'entendre avec les clients, organiser son temps et remarquer les besoins physiques, sociaux, spirituels et culturels du client."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Your tasks",
+     "fr": "Vos tâches"
+    },
+    "points": [
+     {
+      "en": "Personal care: bathing in bed, tub or shower; dressing; grooming, teeth and mouth care; toileting; walking; transferring; preparing meals; feeding; assisting or reminding with medication.",
+      "fr": "Soins personnels : toilette au lit, au bain ou à la douche ; habillage ; soins d'apparence, des dents et de la bouche ; aide aux toilettes ; marche ; transferts ; préparation des repas ; aide au repas ; aide ou rappel pour les médicaments."
+     },
+     {
+      "en": "Home support: making beds, dusting and vacuuming, light cleaning of kitchen, bedroom and bathroom, dishes, listing supplies, shopping, laundry and ironing, paying bills and essential errands, and supporting the family.",
+      "fr": "Soutien à la maison : faire les lits, dépoussiérer et passer l'aspirateur, nettoyage léger de la cuisine, de la chambre et de la salle de bain, vaisselle, liste des courses, courses, lessive et repassage, paiement des factures et courses essentielles, et soutien à la famille."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "The team and the care plan",
+     "fr": "L'équipe et le plan de soins"
+    },
+    "points": [
+     {
+      "en": "Home care is a team effort. The care plan is developed by the team and coordinated by the case manager.",
+      "fr": "Les soins à domicile sont un travail d'équipe. Le plan de soins est élaboré par l'équipe et coordonné par le gestionnaire de cas."
+     },
+     {
+      "en": "The care plan lists your duties, the goals, special observations and special circumstances. A copy stays in the client's home.",
+      "fr": "Le plan de soins liste vos tâches, les objectifs, les observations particulières et les situations spéciales. Une copie reste chez le client."
+     },
+     {
+      "en": "The RN supervisor visits the home, makes sure you understand the plan, reviews procedures, teaches you when needed, solves problems, links you to the team and evaluates your work.",
+      "fr": "L'infirmière superviseure visite le domicile, s'assure que vous comprenez le plan, revoit les procédures, vous forme si besoin, résout les problèmes, fait le lien avec l'équipe et évalue votre travail."
+     },
+     {
+      "en": "Work with your supervisor by phone for immediate problems, during home visits and in team conferences.",
+      "fr": "Travaillez avec votre superviseur par téléphone pour les problèmes urgents, lors des visites à domicile et dans les réunions d'équipe."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Call your supervisor for any change in the client's condition or behavior, anything not in the care plan, and any problem you cannot solve.",
+   "fr": "Appelez votre superviseur pour tout changement d'état ou de comportement du client, toute demande hors du plan de soins, et tout problème que vous ne pouvez pas résoudre."
+  }
+ },
+ {
+  "id": "m02",
+  "module": "II",
+  "minutes": 225,
+  "icon": "people",
+  "title": {
+   "en": "Working Effectively with Clients",
+   "fr": "Bien travailler avec les clients"
+  },
+  "intro": {
+   "en": "This module is the heart of the Basic Core: human needs, respect for diversity, communication, observing and reporting, and confidentiality.",
+   "fr": "Ce module est le cœur du tronc commun : besoins humains, respect de la diversité, communication, observation et rapport, et confidentialité."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "Basic human needs",
+     "fr": "Besoins humains fondamentaux"
+    },
+    "points": [
+     {
+      "en": "Needs drive our behavior and feelings. Unmet needs create stress, and people react to stress in different ways.",
+      "fr": "Les besoins guident nos comportements et nos sentiments. Un besoin non satisfait crée du stress, et chacun réagit au stress à sa façon."
+     },
+     {
+      "en": "Five needs: physical, safety and security, belonging, self-worth, self-fulfillment. Physical and safety needs come first.",
+      "fr": "Cinq besoins : physiques, sécurité, appartenance, estime de soi, accomplissement. Les besoins physiques et de sécurité passent en premier."
+     },
+     {
+      "en": "Recognize the dignity and worth of every client and help them meet their needs their own way.",
+      "fr": "Reconnaissez la dignité et la valeur de chaque client et aidez-le à satisfaire ses besoins à sa manière."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Diversity",
+     "fr": "Diversité"
+    },
+    "points": [
+     {
+      "en": "Race, religion and spiritual beliefs, national origin, sexual orientation and age all shape who a person is.",
+      "fr": "L'origine, la religion et les croyances, la nationalité, l'orientation sexuelle et l'âge façonnent chaque personne."
+     },
+     {
+      "en": "Culture affects caregiving: verbal and non-verbal communication, health beliefs, food choices, family roles and support, and how pain is expressed.",
+      "fr": "La culture influence les soins : communication verbale et non verbale, croyances sur la santé, choix alimentaires, rôles et soutien familiaux, et expression de la douleur."
+     },
+     {
+      "en": "Every family is unique: values, customs, finances, age and roles differ. Respect them.",
+      "fr": "Chaque famille est unique : valeurs, coutumes, finances, âge et rôles diffèrent. Respectez-les."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Communication",
+     "fr": "Communication"
+    },
+    "points": [
+     {
+      "en": "Communication is verbal and non-verbal (face, gestures, posture, tone, touch). Feedback shows the message was received.",
+      "fr": "La communication est verbale et non verbale (visage, gestes, posture, ton, toucher). Le retour montre que le message est passé."
+     },
+     {
+      "en": "Active listening: give full attention, let the person finish, check that you understood.",
+      "fr": "Écoute active : toute votre attention, laisser finir, vérifier que vous avez compris."
+     },
+     {
+      "en": "Barriers: noise, pain, fear, language, hearing or vision loss, aphasia, confusion. Adapt: face the person, speak clearly, use simple sentences, allow time, use gestures and pictures.",
+      "fr": "Obstacles : bruit, douleur, peur, langue, perte d'audition ou de vision, aphasie, confusion. Adaptez-vous : face à la personne, parlez clairement, phrases simples, laissez du temps, gestes et images."
+     },
+     {
+      "en": "A therapeutic relationship is planned, purposeful and built on trust. It respects autonomy and fosters independence; it is not a friendship.",
+      "fr": "Une relation thérapeutique est planifiée, intentionnelle et fondée sur la confiance. Elle respecte l'autonomie et favorise l'indépendance ; ce n'est pas une amitié."
+     },
+     {
+      "en": "Becoming a recipient of care brings losses (independence, privacy, role). Allow clients to exercise their rights: autonomy, privacy, confidentiality, freedom from abuse, neglect and mistreatment.",
+      "fr": "Recevoir des soins entraîne des pertes (indépendance, intimité, rôle). Laissez le client exercer ses droits : autonomie, vie privée, confidentialité, protection contre la maltraitance, la négligence et les mauvais traitements."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Observing, recording and reporting",
+     "fr": "Observer, noter et signaler"
+    },
+    "points": [
+     {
+      "en": "Observe with sight, smell, hearing and touch, and know what is normal for your client so you notice change.",
+      "fr": "Observez avec la vue, l'odorat, l'ouïe et le toucher, et connaissez ce qui est normal pour votre client pour remarquer un changement."
+     },
+     {
+      "en": "Observe changes in the client's condition, in the home environment, and in relationships with family and friends.",
+      "fr": "Observez les changements de l'état du client, de l'environnement du domicile, et des relations avec la famille et les amis."
+     },
+     {
+      "en": "Record facts only: what you see, hear and do. Date every entry and sign it. Legible handwriting, correct spelling.",
+      "fr": "Notez seulement des faits : ce que vous voyez, entendez et faites. Datez et signez chaque note. Écriture lisible, orthographe correcte."
+     },
+     {
+      "en": "Why it matters: the team knows the client's status, referrals can be made, and nothing is forgotten.",
+      "fr": "Pourquoi c'est important : l'équipe connaît l'état du client, des orientations sont possibles, et rien n'est oublié."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Confidentiality",
+     "fr": "Confidentialité"
+    },
+    "points": [
+     {
+      "en": "Confidentiality covers conversations, observations and reports about the client, personal and medical.",
+      "fr": "La confidentialité couvre les conversations, les observations et les rapports sur le client, personnels et médicaux."
+     },
+     {
+      "en": "Do not talk about clients with friends, family, neighbors or on the bus, even without naming them. Share only with the care team.",
+      "fr": "Ne parlez pas des clients à vos amis, votre famille, les voisins ou dans le bus, même sans dire leur nom. Partagez seulement avec l'équipe de soins."
+     },
+     {
+      "en": "HIPAA is the federal law that protects health information. Keep records in the home where others cannot read them.",
+      "fr": "HIPAA est la loi fédérale qui protège les informations de santé. Gardez les documents hors de vue des autres personnes au domicile."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report unmet needs, behavior changes, anything that looks like abuse or neglect, and any request to share client information.",
+   "fr": "Signalez les besoins non satisfaits, les changements de comportement, tout ce qui ressemble à de la maltraitance ou de la négligence, et toute demande de partage d'informations sur le client."
+  }
+ },
+ {
+  "id": "m03",
+  "module": "III",
+  "minutes": 120,
+  "icon": "elder",
+  "title": {
+   "en": "Working with the Elderly",
+   "fr": "Travailler avec les personnes âgées"
+  },
+  "intro": {
+   "en": "Aging is normal and different for everyone. Know the common changes in each body system, what to report, and how to tell temporary confusion from permanent change.",
+   "fr": "Vieillir est normal et différent pour chacun. Connaissez les changements courants de chaque système du corps, ce qu'il faut signaler, et comment distinguer une confusion temporaire d'un changement permanent."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "What aging is",
+     "fr": "Ce qu'est le vieillissement"
+    },
+    "points": [
+     {
+      "en": "A normal process with individual variations, physical and mental.",
+      "fr": "Un processus normal avec des variations individuelles, physiques et mentales."
+     },
+     {
+      "en": "Social factors matter: family, finances, gender roles, culture and spirituality. Watch for unmet needs and keep confidentiality.",
+      "fr": "Les facteurs sociaux comptent : famille, finances, rôles de genre, culture et spiritualité. Surveillez les besoins non satisfaits et gardez la confidentialité."
+     },
+     {
+      "en": "Check your own attitudes toward aging; society's stereotypes are not your client.",
+      "fr": "Interrogez vos propres attitudes envers la vieillesse ; les stéréotypes de la société ne sont pas votre client."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Aging and the body",
+     "fr": "Le vieillissement et le corps"
+    },
+    "points": [
+     {
+      "en": "Immune: infections take hold more easily. Respiratory: less lung capacity, more pneumonia risk.",
+      "fr": "Immunité : les infections s'installent plus facilement. Respiration : moins de capacité pulmonaire, plus de risque de pneumonie."
+     },
+     {
+      "en": "Heart and circulation: less tolerance for effort, swelling, dizziness on standing. Skin: thin, dry, fragile, slow to heal; pressure ulcers.",
+      "fr": "Cœur et circulation : moins de tolérance à l'effort, gonflements, vertiges en se levant. Peau : fine, sèche, fragile, cicatrise lentement ; escarres."
+     },
+     {
+      "en": "Muscles and bones: weaker, stiffer joints, falls and fractures. Senses: weaker sight, hearing, taste and smell.",
+      "fr": "Muscles et os : plus faibles, articulations raides, chutes et fractures. Sens : vue, ouïe, goût et odorat affaiblis."
+     },
+     {
+      "en": "Digestion: constipation, less appetite, chewing and swallowing problems. Urinary: frequency, incontinence, infections.",
+      "fr": "Digestion : constipation, moins d'appétit, problèmes pour mâcher et avaler. Urinaire : envies fréquentes, incontinence, infections."
+     },
+     {
+      "en": "Endocrine, neurological and reproductive systems also change; report new symptoms rather than assuming they are 'just age'.",
+      "fr": "Les systèmes endocrinien, nerveux et reproducteur changent aussi ; signalez les nouveaux symptômes au lieu de penser que « c'est l'âge »."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Aging and the mind",
+     "fr": "Le vieillissement et l'esprit"
+    },
+    "points": [
+     {
+      "en": "Temporary changes in mental functioning have causes: infection, dehydration, medication, pain, a move. A sudden change must be reported.",
+      "fr": "Les changements temporaires des fonctions mentales ont des causes : infection, déshydratation, médicament, douleur, déménagement. Un changement soudain doit être signalé."
+     },
+     {
+      "en": "Permanent changes such as dementia develop slowly. Care for clients with memory loss with patience, routine and reassurance.",
+      "fr": "Les changements permanents comme la démence s'installent lentement. Accompagnez les clients avec pertes de mémoire avec patience, routine et réconfort."
+     },
+     {
+      "en": "Stress has mental and physical effects. Coping techniques: talking, relaxation, activity, keeping contact with others.",
+      "fr": "Le stress a des effets mentaux et physiques. Pour y faire face : parler, se détendre, rester actif, garder le contact avec les autres."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report sudden confusion, falls, swelling, shortness of breath, skin redness or sores, refusal to eat or drink, and any new pain.",
+   "fr": "Signalez une confusion soudaine, les chutes, les gonflements, l'essoufflement, les rougeurs ou plaies de la peau, le refus de manger ou de boire, et toute nouvelle douleur."
+  }
+ },
+ {
+  "id": "m04",
+  "module": "IV",
+  "minutes": 60,
+  "icon": "child",
+  "title": {
+   "en": "Working with Children",
+   "fr": "Travailler avec les enfants"
+  },
+  "intro": {
+   "en": "Children need a home care worker when a parent or child is ill, after a trauma, or when a parent is overwhelmed. You support the family; you do not replace the parent.",
+   "fr": "Les enfants ont besoin d'un aide à domicile quand un parent ou un enfant est malade, après un traumatisme, ou quand un parent est dépassé. Vous soutenez la famille ; vous ne remplacez pas le parent."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "When children need home care",
+     "fr": "Quand les enfants ont besoin de soins à domicile"
+    },
+    "points": [
+     {
+      "en": "Chronic illness of a child or parent, disability, prematurity, post-trauma, an inexperienced or overwhelmed parent, death or desertion of a parent, domestic violence, abuse, neglect, drug or alcohol problems.",
+      "fr": "Maladie chronique d'un enfant ou d'un parent, handicap, prématurité, traumatisme, parent inexpérimenté ou dépassé, décès ou abandon d'un parent, violence familiale, maltraitance, négligence, alcool ou drogue."
+     },
+     {
+      "en": "Children have the same five basic needs as adults; help the caregiver meet each one.",
+      "fr": "Les enfants ont les cinq mêmes besoins de base que les adultes ; aidez le parent à satisfaire chacun."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Five stages of development",
+     "fr": "Cinq stades de développement"
+    },
+    "points": [
+     {
+      "en": "Infant, birth to 12 months. Toddler, 1 to 3 years. Preschool, 3 to 6. School age, 6 to 11 or 12. Adolescent, 11 to 19.",
+      "fr": "Nourrisson : naissance à 12 mois. Tout-petit : 1 à 3 ans. Préscolaire : 3 à 6 ans. Âge scolaire : 6 à 11 ou 12 ans. Adolescent : 11 à 19 ans."
+     },
+     {
+      "en": "Each stage has typical behaviors and ways of playing. Use the keys to good communication at the child's level.",
+      "fr": "Chaque stade a ses comportements et ses jeux typiques. Communiquez au niveau de l'enfant."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Stress and families",
+     "fr": "Le stress et la famille"
+    },
+    "points": [
+     {
+      "en": "Family problems: money, illness and injury, family dynamics, alcohol and drugs, domestic violence.",
+      "fr": "Problèmes familiaux : argent, maladie et blessures, dynamique familiale, alcool et drogue, violence familiale."
+     },
+     {
+      "en": "Young children, school-age children and adolescents react to stress differently: regression, clinging, acting out, withdrawal, school problems.",
+      "fr": "Jeunes enfants, enfants d'âge scolaire et adolescents réagissent différemment au stress : régression, besoin de s'accrocher, agitation, repli, problèmes scolaires."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Working with parents",
+     "fr": "Travailler avec les parents"
+    },
+    "points": [
+     {
+      "en": "Understand family roles and dynamics. Show respect for the family's resources, lifestyle and culture.",
+      "fr": "Comprenez les rôles et la dynamique familiale. Respectez les ressources, le mode de vie et la culture de la famille."
+     },
+     {
+      "en": "Address the caregiver's needs at the beginning of each visit. Model positive parenting rather than criticizing.",
+      "fr": "Occupez-vous des besoins du parent au début de chaque visite. Montrez l'exemple d'une parentalité positive plutôt que de critiquer."
+     },
+     {
+      "en": "Observe, report and communicate with the home health team.",
+      "fr": "Observez, signalez et communiquez avec l'équipe de soins."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report signs of abuse or neglect, unsafe conditions, a child who is ill or not developing as expected, and a parent in crisis.",
+   "fr": "Signalez les signes de maltraitance ou de négligence, les conditions dangereuses, un enfant malade ou qui ne se développe pas normalement, et un parent en crise."
+  }
+ },
+ {
+  "id": "m05",
+  "module": "V",
+  "minutes": 60,
+  "icon": "mind",
+  "title": {
+   "en": "Mental Health and Mental Illness",
+   "fr": "Santé mentale et maladie mentale"
+  },
+  "intro": {
+   "en": "Mentally ill people can recover and lead normal lives. Your role is to observe without judging, support the care plan, and keep everyone safe.",
+   "fr": "Les personnes atteintes de maladie mentale peuvent guérir et mener une vie normale. Votre rôle est d'observer sans juger, de soutenir le plan de soins et d'assurer la sécurité de tous."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "Mental health",
+     "fr": "Santé mentale"
+    },
+    "points": [
+     {
+      "en": "Mentally healthy people adapt to change, give and accept affection, build relationships, control impulses, accept responsibility and disappointment, tolerate some anxiety, and respect themselves.",
+      "fr": "Les personnes en bonne santé mentale s'adaptent au changement, donnent et reçoivent de l'affection, bâtissent des relations, contrôlent leurs impulsions, acceptent responsabilités et déceptions, tolèrent un peu d'anxiété et se respectent."
+     },
+     {
+      "en": "Everyone uses coping mechanisms: making excuses, blaming others, compensating, avoiding, regressing, displacing feelings, blocking out thoughts.",
+      "fr": "Tout le monde utilise des mécanismes de défense : excuses, accuser les autres, compenser, éviter, régresser, déplacer ses sentiments, refouler."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Mental illness",
+     "fr": "Maladie mentale"
+    },
+    "points": [
+     {
+      "en": "Can be severe or mild. Causes: physical (brain injury, chemical imbalance), environment, heredity, abnormal stress.",
+      "fr": "Peut être grave ou légère. Causes : physiques (lésion du cerveau, déséquilibre chimique), environnement, hérédité, stress anormal."
+     },
+     {
+      "en": "Types: abnormal anxiety, phobias, depression, paranoia, abnormal thinking. It affects the individual and the family.",
+      "fr": "Types : anxiété anormale, phobies, dépression, paranoïa, pensée anormale. Elle touche la personne et sa famille."
+     },
+     {
+      "en": "Treatment is usually outpatient, by professional teams. Recovery is possible.",
+      "fr": "Le traitement est généralement ambulatoire, par des équipes professionnelles. La guérison est possible."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Your role",
+     "fr": "Votre rôle"
+    },
+    "points": [
+     {
+      "en": "Observe behavior: describe it, when it occurs, how often, how long. Is it a change in personality? Is it extreme or harmful? Do NOT draw conclusions about the cause.",
+      "fr": "Observez le comportement : décrivez-le, quand, à quelle fréquence, combien de temps. Est-ce un changement de personnalité ? Est-ce extrême ou dangereux ? NE tirez PAS de conclusions sur la cause."
+     },
+     {
+      "en": "Assist with medication and report changes; observe, record and report; help with home and personal care; give reassurance, encouragement and guidance; preserve the person's authority and affection in the family.",
+      "fr": "Aidez pour les médicaments et signalez les changements ; observez, notez et signalez ; aidez au ménage et aux soins personnels ; rassurez, encouragez, guidez ; préservez l'autorité et l'affection de la personne dans sa famille."
+     },
+     {
+      "en": "Safety: discuss the care plan with the nurse; never leave the client unattended if the plan requires constant supervision; report non-compliance with medication or treatment; call 911 for extreme behavior changes.",
+      "fr": "Sécurité : discutez du plan de soins avec l'infirmière ; ne laissez jamais le client seul si le plan exige une surveillance constante ; signalez le non-respect du traitement ; appelez le 911 en cas de changement extrême de comportement."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report any talk of suicide or self-harm immediately, refusal of medication, and any behavior that is harmful to the client or to you.",
+   "fr": "Signalez immédiatement toute parole de suicide ou d'automutilation, le refus des médicaments, et tout comportement dangereux pour le client ou pour vous."
+  }
+ },
+ {
+  "id": "m06",
+  "module": "VI",
+  "minutes": 60,
+  "icon": "dd",
+  "title": {
+   "en": "Developmental Disabilities",
+   "fr": "Handicaps du développement"
+  },
+  "intro": {
+   "en": "A developmental disability is permanent and begins before age 22. It is not an illness. Address the person, not the disability, and support independence.",
+   "fr": "Un handicap du développement est permanent et apparaît avant 22 ans. Ce n'est pas une maladie. Adressez-vous à la personne, pas au handicap, et soutenez son indépendance."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "Understanding developmental disabilities",
+     "fr": "Comprendre les handicaps du développement"
+    },
+    "points": [
+     {
+      "en": "They affect self-care, communication, movement, self-direction, and the potential for independent living and financial independence.",
+      "fr": "Ils touchent les soins personnels, la communication, les mouvements, l'autonomie de décision, et la possibilité de vivre et de gagner sa vie de façon indépendante."
+     },
+     {
+      "en": "Types: intellectual disability, cerebral palsy, autism, neurological impairments, multiple disabilities. Levels: mild, moderate, severe, profound.",
+      "fr": "Types : déficience intellectuelle, paralysie cérébrale, autisme, atteintes neurologiques, handicaps multiples. Niveaux : léger, modéré, sévère, profond."
+     },
+     {
+      "en": "Causes: congenital (chromosomal or genetic, e.g., Down syndrome) or acquired (infection in pregnancy, brain damage at birth, alcohol, drugs or poor nutrition in pregnancy, prematurity, lead poisoning).",
+      "fr": "Causes : congénitales (chromosomiques ou génétiques, ex. trisomie 21) ou acquises (infection pendant la grossesse, lésion cérébrale à la naissance, alcool, drogue ou mauvaise nutrition pendant la grossesse, prématurité, intoxication au plomb)."
+     },
+     {
+      "en": "Unlike mental illness, a developmental disability is permanent and starts before 22; mental illness may be temporary and can start at any age.",
+      "fr": "Contrairement à la maladie mentale, le handicap du développement est permanent et débute avant 22 ans ; la maladie mentale peut être temporaire et débuter à tout âge."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Home care and performance standards",
+     "fr": "Soins à domicile et normes de performance"
+    },
+    "points": [
+     {
+      "en": "Current philosophy: address the person, not the disability; focus on independence, productivity and integration; promote self-determination and community participation.",
+      "fr": "Philosophie actuelle : s'adresser à la personne, pas au handicap ; viser l'indépendance, la productivité et l'intégration ; promouvoir l'autodétermination et la participation à la communauté."
+     },
+     {
+      "en": "Speak politely to everyone. Include people in conversations: speak WITH them, not about them.",
+      "fr": "Parlez poliment à tous. Incluez les personnes dans les conversations : parlez AVEC elles, pas d'elles."
+     },
+     {
+      "en": "Use positive communication, explain in ways people understand and watch how it is received. Ask questions instead of giving commands.",
+      "fr": "Communication positive, explications compréhensibles, et observation de la façon dont c'est reçu. Posez des questions au lieu de donner des ordres."
+     },
+     {
+      "en": "Encourage people to do as much as possible themselves. Include them in decisions and offer choices. Respect differences, desires, needs, values and feelings.",
+      "fr": "Encouragez les personnes à faire le maximum elles-mêmes. Incluez-les dans les décisions et offrez des choix. Respectez les différences, désirs, besoins, valeurs et sentiments."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report changes in behavior, skills or health, signs of abuse or neglect, and equipment or safety problems.",
+   "fr": "Signalez les changements de comportement, de capacités ou de santé, les signes de maltraitance ou de négligence, et les problèmes de matériel ou de sécurité."
+  }
+ },
+ {
+  "id": "m07",
+  "module": "VII",
+  "minutes": 60,
+  "icon": "wheelchair",
+  "title": {
+   "en": "Physical Disabilities",
+   "fr": "Handicaps physiques"
+  },
+  "intro": {
+   "en": "A diagnosis does not tell you what a person can do. Focus on function, on activities of daily living, and on the goals: self-care, dignity and a normal lifestyle.",
+   "fr": "Un diagnostic ne dit pas ce qu'une personne peut faire. Concentrez-vous sur le fonctionnement, sur les activités de la vie quotidienne, et sur les objectifs : autonomie, dignité et vie normale."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "What a physical disability is",
+     "fr": "Ce qu'est un handicap physique"
+    },
+    "points": [
+     {
+      "en": "Developmental (at or near birth), injury-related, or disease-related; temporary or permanent.",
+      "fr": "De naissance, dû à une blessure ou à une maladie ; temporaire ou permanent."
+     },
+     {
+      "en": "The impact is on activities of daily living (ADLs: bathing, dressing, eating, toileting, moving) and instrumental ADLs (shopping, cooking, managing money, transportation).",
+      "fr": "L'impact porte sur les activités de la vie quotidienne (toilette, habillage, repas, toilettes, déplacements) et les activités instrumentales (courses, cuisine, gestion de l'argent, transports)."
+     },
+     {
+      "en": "Quality of life depends on supports (family, environment, social), on stress, and on the coping of the person and the family. Lack of socialization is itself a stress.",
+      "fr": "La qualité de vie dépend des soutiens (famille, environnement, social), du stress, et de l'adaptation de la personne et de la famille. Le manque de vie sociale est lui-même un stress."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "How you help",
+     "fr": "Comment vous aidez"
+    },
+    "points": [
+     {
+      "en": "Goals: promote self-care and independence, maintain dignity and self-worth, preserve a normal lifestyle.",
+      "fr": "Objectifs : favoriser l'autonomie et l'indépendance, préserver la dignité et l'estime de soi, maintenir un mode de vie normal."
+     },
+     {
+      "en": "Follow the plan of care, give emotional support, encourage as much independence as possible, and help make the environment supportive.",
+      "fr": "Suivez le plan de soins, apportez un soutien émotionnel, encouragez l'indépendance au maximum, et aidez à rendre l'environnement favorable."
+     },
+     {
+      "en": "Be aware of social, cultural and environmental influences on care.",
+      "fr": "Tenez compte des influences sociales, culturelles et environnementales sur les soins."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report changes in function, new pain, skin problems from braces or chairs, and equipment that is worn or broken.",
+   "fr": "Signalez les changements de capacités, une nouvelle douleur, les problèmes de peau dus aux attelles ou aux fauteuils, et le matériel usé ou cassé."
+  }
+ },
+ {
+  "id": "m08",
+  "module": "VIII",
+  "minutes": 240,
+  "icon": "food",
+  "title": {
+   "en": "Food, Nutrition and Meal Preparation",
+   "fr": "Alimentation, nutrition et préparation des repas"
+  },
+  "intro": {
+   "en": "Good meals keep clients healthy and are a daily pleasure. Learn the nutrients, plan balanced meals the client likes, handle food safely, and follow modified diets exactly.",
+   "fr": "De bons repas gardent les clients en santé et sont un plaisir quotidien. Apprenez les nutriments, planifiez des repas équilibrés que le client aime, manipulez les aliments en sécurité et suivez les régimes modifiés à la lettre."
+  },
+  "note": {
+   "en": "The 2007 curriculum uses 'MyPyramid' and the 2005 Dietary Guidelines. Current U.S. guidance is MyPlate (2011) and the Dietary Guidelines for Americans 2020–2025; the principles below are unchanged.",
+   "fr": "Le programme de 2007 utilise « MyPyramid » et les recommandations alimentaires de 2005. Les recommandations américaines actuelles sont MyPlate (2011) et les Dietary Guidelines 2020–2025 ; les principes ci-dessous n'ont pas changé."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "The nutrients",
+     "fr": "Les nutriments"
+    },
+    "points": [
+     {
+      "en": "Protein builds and repairs tissue: meat, fish, eggs, milk, soy, legumes.",
+      "fr": "Les protéines construisent et réparent les tissus : viande, poisson, œufs, lait, soja, légumineuses."
+     },
+     {
+      "en": "Carbohydrates give energy: starches (grains, potatoes, beans), sugars (fruit, vegetables), fiber for digestion.",
+      "fr": "Les glucides donnent de l'énergie : féculents (céréales, pommes de terre, haricots), sucres (fruits, légumes), fibres pour la digestion."
+     },
+     {
+      "en": "Fat protects organs, insulates, carries nutrients. Prefer unsaturated oils (corn, soy, sunflower) over saturated fats (butter, coconut oil).",
+      "fr": "Les graisses protègent les organes, isolent, transportent des nutriments. Préférez les huiles insaturées (maïs, soja, tournesol) aux graisses saturées (beurre, huile de coco)."
+     },
+     {
+      "en": "Vitamins: A for skin and bones, B for nerves and digestion, C for blood vessels and healing, D for bones and teeth, E as an antioxidant.",
+      "fr": "Vitamines : A pour la peau et les os, B pour les nerfs et la digestion, C pour les vaisseaux et la cicatrisation, D pour les os et les dents, E comme antioxydant."
+     },
+     {
+      "en": "Minerals: calcium for bones, clotting and muscles; potassium for the heart; iron for hemoglobin; iodine for the thyroid; sodium for water balance. Water is a nutrient, essential for digestion, elimination and temperature.",
+      "fr": "Minéraux : calcium pour les os, la coagulation et les muscles ; potassium pour le cœur ; fer pour l'hémoglobine ; iode pour la thyroïde ; sodium pour l'équilibre de l'eau. L'eau est un nutriment, essentielle à la digestion, à l'élimination et à la température."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Meal planning",
+     "fr": "Planifier les repas"
+    },
+    "points": [
+     {
+      "en": "A balanced diet includes something from each food group every day: milk; meat, fish, beans and nuts; fruit; vegetables; grains; and very little fat, oil and sugar.",
+      "fr": "Un régime équilibré comprend chaque jour un aliment de chaque groupe : lait ; viande, poisson, haricots et noix ; fruits ; légumes ; céréales ; et très peu de graisses, d'huile et de sucre."
+     },
+     {
+      "en": "Guidelines: variety, control calories, be active, more fruit, vegetables, whole grains and low-fat milk, choose fats and carbohydrates wisely, little salt, alcohol only in moderation, keep food safe.",
+      "fr": "Recommandations : variété, contrôler les calories, être actif, plus de fruits, légumes, céréales complètes et lait allégé, bien choisir graisses et glucides, peu de sel, alcool avec modération, aliments sûrs."
+     },
+     {
+      "en": "Respect preferences and habits: culture, religion, past experience, cost and convenience. Involve the client in planning. Mind serving sizes and special nutrient needs.",
+      "fr": "Respectez préférences et habitudes : culture, religion, expérience, coût et facilité. Impliquez le client. Attention aux portions et aux besoins particuliers."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Preparing and serving",
+     "fr": "Préparer et servir"
+    },
+    "points": [
+     {
+      "en": "Avoid frying; steam vegetables; bake, broil or microwave; avoid convenience foods; cook only until tender to keep nutrients. Ask how the client likes food seasoned.",
+      "fr": "Évitez la friture ; cuisez les légumes à la vapeur ; four, gril ou micro-ondes ; évitez les plats préparés ; cuisez juste à point pour garder les nutriments. Demandez comment le client aime assaisonner."
+     },
+     {
+      "en": "Involving the client builds independence and self-worth. Equipment may be limited: be creative and ask your supervisor.",
+      "fr": "Impliquer le client développe son indépendance et son estime de soi. Le matériel peut manquer : soyez créatif et demandez à votre superviseur."
+     },
+     {
+      "en": "Serve attractive food with contrasting colors and textures, small portions with seconds available, and sit and talk during meals.",
+      "fr": "Servez des plats appétissants aux couleurs et textures variées, petites portions avec possibilité de se resservir, et asseyez-vous pour parler pendant le repas."
+     },
+     {
+      "en": "Poor appetite may signal illness or depression, dissatisfaction with food, poor mouth care, chewing problems or medications. Report it.",
+      "fr": "Un manque d'appétit peut signaler maladie ou dépression, insatisfaction, mauvaise hygiène buccale, problèmes de mastication ou médicaments. Signalez-le."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Shopping, storage and food safety",
+     "fr": "Courses, conservation et sécurité alimentaire"
+    },
+    "points": [
+     {
+      "en": "Save money: coupons and specials, compare brands, read labels, seasonal items, a shopping list, meat substitutes, stay within the budget. Save all receipts and account for all money right after shopping.",
+      "fr": "Économisez : coupons et promotions, comparez les marques, lisez les étiquettes, produits de saison, liste de courses, substituts de viande, respectez le budget. Gardez tous les reçus et rendez compte de l'argent juste après les courses."
+     },
+     {
+      "en": "Refrigerator at 36–40°F (2–4°C), freezer at 0°F (−18°C). Cover and date food. Use frozen food within six months; never thaw on the counter. Do not store food under plumbing or with cleaning supplies.",
+      "fr": "Réfrigérateur à 2–4 °C, congélateur à −18 °C. Couvrez et datez. Surgelés consommés sous six mois ; jamais de décongélation sur le plan de travail. Pas de nourriture sous la tuyauterie ni avec les produits ménagers."
+     },
+     {
+      "en": "Wash hands before handling food; gloves if you have a cut; clean work surfaces; never taste and stir with the same spoon; refrigerate warm food promptly; no bulging cans, cracked eggs, moldy food; keep hot food above 140°F (60°C) and cold food below 40°F (4°C); use leftovers within 3–4 days; do not refreeze.",
+      "fr": "Lavez-vous les mains avant de cuisiner ; gants en cas de coupure ; surfaces propres ; jamais goûter et remuer avec la même cuillère ; réfrigérez vite ; pas de boîtes bombées, d'œufs fêlés ni de moisissures ; chaud au-dessus de 60 °C, froid en dessous de 4 °C ; restes sous 3 à 4 jours ; pas de recongélation."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Modified diets",
+     "fr": "Régimes modifiés"
+    },
+    "points": [
+     {
+      "en": "A modified diet is one nutrient change ordered by the doctor, a calorie change, or a mechanically altered texture. 'High' means more of a nutrient; 'low' means less or none.",
+      "fr": "Un régime modifié : changement d'un nutriment prescrit par le médecin, changement de calories, ou texture modifiée. « Élevé » = plus d'un nutriment ; « faible » = moins ou pas du tout."
+     },
+     {
+      "en": "Low sodium: read labels, no processed foods, no salt added. Low fat and cholesterol: lean meats, 1% milk, unsaturated oils. High protein and calorie: add to a balanced diet, small frequent feedings. Bland: no pepper, spices, alcohol, caffeine.",
+      "fr": "Pauvre en sel : lire les étiquettes, pas de plats industriels, pas de sel ajouté. Pauvre en graisses : viandes maigres, lait à 1 %, huiles insaturées. Riche en protéines et calories : ajouter à un régime équilibré, petits repas fréquents. Sans irritants : pas de poivre, d'épices, d'alcool, de caféine."
+     },
+     {
+      "en": "Soft diet: almost no chewing. Liquid: clear (gelatin) or full liquid. Position the client upright.",
+      "fr": "Régime mou : presque pas de mastication. Liquide : clair (gelée) ou complet. Installez le client bien assis."
+     },
+     {
+      "en": "Mechanically altered: chopped, ground or pureed for chewing or swallowing problems. Puree each food separately, add liquid and seasoning as instructed, name each food, allow time to swallow, offer extra liquids against constipation and dehydration, use immediately or freeze.",
+      "fr": "Texture modifiée : haché, moulu ou mixé pour les problèmes de mastication ou de déglutition. Mixez chaque aliment séparément, ajoutez liquide et assaisonnement selon les consignes, nommez chaque aliment, laissez le temps d'avaler, offrez des liquides contre la constipation et la déshydratation, utilisez tout de suite ou congelez."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report poor appetite, weight change, choking or coughing while eating, refusal of a prescribed diet, and food money problems.",
+   "fr": "Signalez le manque d'appétit, les changements de poids, l'étouffement ou la toux pendant les repas, le refus d'un régime prescrit, et les problèmes d'argent des courses."
+  }
+ },
+ {
+  "id": "m09",
+  "module": "IX",
+  "minutes": 30,
+  "icon": "money",
+  "title": {
+   "en": "Family Spending and Budgeting",
+   "fr": "Dépenses et budget de la famille"
+  },
+  "intro": {
+   "en": "You may handle a client's money only for errands in the care plan, and you must account for every cent.",
+   "fr": "Vous ne pouvez manipuler l'argent du client que pour les courses prévues au plan de soins, et vous devez rendre compte de chaque centime."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "Your role with the client's money",
+     "fr": "Votre rôle avec l'argent du client"
+    },
+    "points": [
+     {
+      "en": "Assistance with shopping, buying and banking as outlined in the plan of care.",
+      "fr": "Aide pour les courses, les achats et la banque comme prévu dans le plan de soins."
+     },
+     {
+      "en": "Keep accurate records of every expenditure: receipts, amounts, dates. Follow agency policy.",
+      "fr": "Tenez des comptes exacts de chaque dépense : reçus, montants, dates. Suivez la politique de l'agence."
+     },
+     {
+      "en": "Never accept money or gifts, never borrow, never be named in a will. These are forms of financial exploitation.",
+      "fr": "N'acceptez jamais d'argent ni de cadeaux, n'empruntez jamais, ne figurez jamais dans un testament. Ce sont des formes d'exploitation financière."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Getting the most from the family's money",
+     "fr": "Tirer le meilleur parti de l'argent de la famille"
+    },
+    "points": [
+     {
+      "en": "Food and household supplies: lists, specials, compare prices, generic brands, buy in quantity when sensible.",
+      "fr": "Nourriture et produits ménagers : listes, promotions, comparer les prix, marques génériques, acheter en quantité quand c'est raisonnable."
+     },
+     {
+      "en": "Drugs and medicine: generics when the doctor or pharmacist allows. Clothes: look for value and bargains.",
+      "fr": "Médicaments : génériques quand le médecin ou le pharmacien l'autorise. Vêtements : chercher le bon rapport qualité-prix et les bonnes affaires."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report any missing money, anyone taking the client's money or belongings, and any request that you handle money outside the care plan.",
+   "fr": "Signalez tout argent manquant, toute personne qui prend l'argent ou les affaires du client, et toute demande de manipuler de l'argent hors du plan de soins."
+  }
+ },
+ {
+  "id": "m10",
+  "module": "X",
+  "minutes": 90,
+  "icon": "house",
+  "title": {
+   "en": "Care of the Home and Personal Belongings",
+   "fr": "Entretien de la maison et des affaires personnelles"
+  },
+  "intro": {
+   "en": "A clean home controls infection, prevents accidents and gives comfort and pride. Housekeeping in a client's home is not the same as in yours: respect their customs, belongings and habits.",
+   "fr": "Une maison propre limite les infections, évite les accidents et apporte confort et fierté. Le ménage chez un client n'est pas le même que chez vous : respectez ses coutumes, ses affaires et ses habitudes."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "Why housekeeping matters",
+     "fr": "Pourquoi le ménage compte"
+    },
+    "points": [
+     {
+      "en": "Enhances quality of life, promotes independence, maintains the home during a family crisis.",
+      "fr": "Améliore la qualité de vie, favorise l'indépendance, maintient la maison pendant une crise familiale."
+     },
+     {
+      "en": "Infection control (bacteria, fungus), safety (fewer accidents), basic needs met (comfort, belonging, pride, self-esteem).",
+      "fr": "Contrôle des infections (bactéries, champignons), sécurité (moins d'accidents), besoins de base satisfaits (confort, appartenance, fierté, estime de soi)."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Safety, body mechanics and time",
+     "fr": "Sécurité, mécanique corporelle et temps"
+    },
+    "points": [
+     {
+      "en": "Lifting: feet apart, one slightly forward; bend at hips and knees; carry weight close; turn the whole body; good posture; push, pull or roll when possible.",
+      "fr": "Pour soulever : pieds écartés, un légèrement en avant ; pliez hanches et genoux ; charge près du corps ; tournez tout le corps ; bonne posture ; poussez, tirez ou roulez quand c'est possible."
+     },
+     {
+      "en": "Time: prioritize, follow the care plan, let the client help, make a task schedule, break big jobs into small ones, do two things at once when possible, be economical with supplies.",
+      "fr": "Temps : priorisez, suivez le plan de soins, laissez le client aider, faites un planning, découpez les grandes tâches, faites deux choses à la fois quand c'est possible, économisez les produits."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Getting the job done",
+     "fr": "Faire le travail"
+    },
+    "points": [
+     {
+      "en": "Infection control: wash hands before and after each task; housekeeping gloves, cleaned daily; keep clean and dirty separate; separate cloth for the bathroom; disposable wipe for the toilet.",
+      "fr": "Contrôle des infections : lavez-vous les mains avant et après chaque tâche ; gants de ménage nettoyés chaque jour ; séparez propre et sale ; chiffon séparé pour la salle de bain ; lingette jetable pour les toilettes."
+     },
+     {
+      "en": "Supplies: broom, dustpan, mop, cleanser, disinfectant, baking soda, bleach, rags, scrub brush, vacuum. Read directions; NEVER mix cleaning products.",
+      "fr": "Matériel : balai, pelle, serpillière, nettoyant, désinfectant, bicarbonate, eau de Javel, chiffons, brosse, aspirateur. Lisez les consignes ; ne mélangez JAMAIS les produits."
+     },
+     {
+      "en": "Equipment safety: ask how unfamiliar equipment works; don't overload; no electrical equipment near water; unplug before cleaning; never poke with metal; no frayed cords; keep equipment clean and dry.",
+      "fr": "Sécurité du matériel : demandez comment marche un appareil inconnu ; ne surchargez pas ; pas d'électricité près de l'eau ; débranchez avant de nettoyer ; jamais d'objet métallique dans un appareil ; pas de câble abîmé ; matériel propre et sec."
+     },
+     {
+      "en": "Kitchen: wipe spills, garbage out daily. Bathroom: sink, tub, toilet and floor as needed, wipe water. Living room: vacuum, tack down loose rugs, replace belongings exactly. Bedroom: clean weekly, linens weekly or as needed. Floors: sweep first, dry mop wood, dry wet floors. Pests: keep clean, store food, report needed repairs.",
+      "fr": "Cuisine : essuyez, poubelle chaque jour. Salle de bain : lavabo, baignoire, toilettes et sol au besoin, essuyez l'eau. Salon : aspirateur, fixez les tapis, remettez les objets exactement à leur place. Chambre : chaque semaine, draps chaque semaine ou au besoin. Sols : balayez d'abord, balai sec sur le bois, séchez. Nuisibles : propreté, nourriture rangée, signalez les réparations."
+     },
+     {
+      "en": "Laundry: gloves for linens soiled with body fluids; ask what to wash and how the machines work; check pockets; sort darks, whites and delicates; ask what is air dried.",
+      "fr": "Lessive : gants pour le linge souillé ; demandez quoi laver et comment marchent les machines ; vérifiez les poches ; triez foncé, blanc, délicat ; demandez ce qui sèche à l'air."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report pests, needed repairs, unsafe equipment, and anything in the home that puts the client at risk.",
+   "fr": "Signalez les nuisibles, les réparations nécessaires, le matériel dangereux, et tout ce qui met le client en danger dans la maison."
+  }
+ },
+ {
+  "id": "m11",
+  "module": "XI",
+  "minutes": 90,
+  "icon": "safety",
+  "title": {
+   "en": "Safety and Injury Prevention",
+   "fr": "Sécurité et prévention des blessures"
+  },
+  "intro": {
+   "en": "Most home injuries are falls, burns, cuts, poisoning, choking and electrical injury, mostly in the kitchen and bathroom. Prevent them, know what to do when they happen, and keep yourself safe too.",
+   "fr": "La plupart des blessures domestiques sont des chutes, brûlures, coupures, empoisonnements, étouffements et blessures électriques, surtout dans la cuisine et la salle de bain. Prévenez-les, sachez quoi faire quand elles arrivent, et protégez-vous aussi."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "Why injuries happen",
+     "fr": "Pourquoi les blessures arrivent"
+    },
+    "points": [
+     {
+      "en": "Older adults: balance problems, poor vision, confusion, hearing loss, medication effects, reduced taste and smell, cultural practices, bad footwear.",
+      "fr": "Personnes âgées : troubles de l'équilibre, mauvaise vue, confusion, perte d'audition, effets des médicaments, baisse du goût et de l'odorat, pratiques culturelles, mauvaises chaussures."
+     },
+     {
+      "en": "Young children: age-related behavior and development, curiosity, undeveloped balance, no fear and no experience.",
+      "fr": "Jeunes enfants : comportement et développement liés à l'âge, curiosité, équilibre immature, pas de peur ni d'expérience."
+     },
+     {
+      "en": "Hazards: poor lighting, stairs, scatter rugs without non-skid backing, busy traffic areas, clutter, not using devices or medication as prescribed, no handrails in the bathroom.",
+      "fr": "Dangers : mauvais éclairage, escaliers, petits tapis non antidérapants, zones de passage, encombrement, dispositifs ou médicaments non utilisés comme prescrit, pas de barres d'appui dans la salle de bain."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Prevention and personal safety",
+     "fr": "Prévention et sécurité personnelle"
+    },
+    "points": [
+     {
+      "en": "Your role: a clean, hazard-free home; safe food handling; good body mechanics; prevent disease transmission; fire prevention; emergency numbers posted by the phone.",
+      "fr": "Votre rôle : une maison propre et sans danger ; aliments manipulés en sécurité ; bonne mécanique corporelle ; prévention des infections ; prévention des incendies ; numéros d'urgence près du téléphone."
+     },
+     {
+      "en": "In the community: correct address and directions; be aware of surroundings; avoid unsafe shortcuts; know where phones and alarm boxes are; no purse, large sums or expensive jewelry; know the residents; never change your schedule without telling the office.",
+      "fr": "Dans le quartier : bonne adresse et itinéraire ; attention à l'environnement ; pas de raccourcis dangereux ; repérez téléphones et bornes d'alarme ; pas de sac à main, de grosses sommes ni de bijoux ; connaissez les habitants ; ne changez jamais d'horaire sans prévenir le bureau."
+     },
+     {
+      "en": "Driving: car in good condition with fuel; keys ready; doors locked; drive for the weather; seat belts for everyone; no child under 12 in front; car seats for ages 0–8; obey speed limits; no alcohol or drugs.",
+      "fr": "En voiture : véhicule en bon état avec du carburant ; clés prêtes ; portes verrouillées ; conduite adaptée à la météo ; ceinture pour tous ; pas d'enfant de moins de 12 ans devant ; siège auto de 0 à 8 ans ; limitations de vitesse ; ni alcool ni drogue."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Fire: R-A-C-E",
+     "fr": "Incendie : R-A-C-E"
+    },
+    "points": [
+     {
+      "en": "RESCUE: get your client and yourself to safety.",
+      "fr": "RESCUE (secourir) : mettez le client et vous-même en sécurité."
+     },
+     {
+      "en": "ALARM: call the fire department, 911.",
+      "fr": "ALARM (alerter) : appelez les pompiers, le 911."
+     },
+     {
+      "en": "CONFINE: close doors, block doorways to keep smoke out.",
+      "fr": "CONFINE (confiner) : fermez les portes, bloquez les ouvertures contre la fumée."
+     },
+     {
+      "en": "EXTINGUISH or EVACUATE: if clothing catches fire, lie on the floor and roll. Do not fight a fire unless it is minor. Notify your supervisor as soon as practical.",
+      "fr": "EXTINGUISH / EVACUATE (éteindre ou évacuer) : si les vêtements prennent feu, se coucher et rouler. Ne combattez pas un feu sauf s'il est mineur. Prévenez votre superviseur dès que possible."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "When injuries and emergencies happen",
+     "fr": "Quand blessures et urgences arrivent"
+    },
+    "points": [
+     {
+      "en": "Know your agency's incident policy and whom to contact.",
+      "fr": "Connaissez la politique d'incident de votre agence et qui contacter."
+     },
+     {
+      "en": "First aid basics for burns, choking, poisoning, sprains and broken bones, bruises, cuts and scrapes, dizziness and fainting.",
+      "fr": "Premiers secours de base pour brûlures, étouffement, empoisonnement, entorses et fractures, bleus, coupures et éraflures, vertiges et évanouissement."
+     },
+     {
+      "en": "Serious emergency: assess the situation, assess the victim, call for help (911), remember the ABCs: Airway, Breathing, Circulation.",
+      "fr": "Urgence grave : évaluez la situation, évaluez la victime, appelez les secours (911), rappelez-vous l'ABC : Airway (voies respiratoires), Breathing (respiration), Circulation."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report every fall or injury, even a minor one, every hazard you cannot fix, and every incident, following agency policy.",
+   "fr": "Signalez chaque chute ou blessure, même mineure, chaque danger que vous ne pouvez pas corriger, et chaque incident, selon la politique de l'agence."
+  }
+ },
+ {
+  "id": "m12",
+  "module": "XII",
+  "minutes": 1200,
+  "icon": "care",
+  "title": {
+   "en": "Personal Care Skills",
+   "fr": "Compétences en soins personnels"
+  },
+  "intro": {
+   "en": "Personal care is everything to do with the client's body, hygiene, appearance and movement. This module has the 43 procedures you will be tested on. Here are the principles behind them.",
+   "fr": "Les soins personnels concernent tout ce qui touche au corps, à l'hygiène, à l'apparence et aux mouvements du client. Ce module contient les 43 procédures sur lesquelles vous serez évalué. Voici les principes qui les sous-tendent."
+  },
+  "sections": [
+   {
+    "heading": {
+     "en": "Every procedure starts and ends the same way",
+     "fr": "Chaque procédure commence et finit de la même façon"
+    },
+    "points": [
+     {
+      "en": "Explain to the client. Wash your hands. Assemble equipment. Provide privacy. Gloves as necessary.",
+      "fr": "Expliquez au client. Lavez-vous les mains. Préparez le matériel. Assurez l'intimité. Gants si nécessaire."
+     },
+     {
+      "en": "Let the client do as much as possible. Keep the client warm, covered and safe.",
+      "fr": "Laissez le client faire le maximum. Gardez-le au chaud, couvert et en sécurité."
+     },
+     {
+      "en": "Clean and store equipment. Wash your hands. Observe, record and report any change in condition or behavior.",
+      "fr": "Nettoyez et rangez le matériel. Lavez-vous les mains. Observez, notez et signalez tout changement d'état ou de comportement."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Infection control",
+     "fr": "Contrôle des infections"
+    },
+    "points": [
+     {
+      "en": "Chain of infection: a germ, a source, a way out, a way to travel, a way in, a person at risk (age, chronic illness, weak immunity). Break any link.",
+      "fr": "Chaîne de l'infection : un microbe, une source, une porte de sortie, un mode de transmission, une porte d'entrée, une personne à risque (âge, maladie chronique, immunité faible). Rompez un maillon."
+     },
+     {
+      "en": "Transmission: direct and indirect contact, airborne, common vehicle (food, water, equipment), vector (insects). Common infections: urinary, respiratory, wound and skin, digestive.",
+      "fr": "Transmission : contact direct et indirect, voie aérienne, véhicule commun (aliments, eau, matériel), vecteur (insectes). Infections courantes : urinaires, respiratoires, plaies et peau, digestives."
+     },
+     {
+      "en": "Standard Precautions with every client: handwashing, clean vs. dirty, care of supplies, waste and sharps disposal, gloves and PPE.",
+      "fr": "Précautions standard avec chaque client : lavage des mains, propre contre sale, entretien du matériel, déchets et objets tranchants, gants et EPI."
+     },
+     {
+      "en": "Bloodborne pathogens: hepatitis B, hepatitis C, HIV. Hepatitis B vaccine. Any exposure to blood, airborne disease or latex reaction is an exposure incident: wash, report immediately, follow agency procedure.",
+      "fr": "Agents transmis par le sang : hépatite B, hépatite C, VIH. Vaccin hépatite B. Toute exposition au sang, à une maladie aérienne ou réaction au latex est un incident d'exposition : lavez, signalez immédiatement, suivez la procédure de l'agence."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Pain",
+     "fr": "Douleur"
+    },
+    "points": [
+     {
+      "en": "Pain changes how a client functions. People show pain differently, including without words, and culture shapes how it is expressed.",
+      "fr": "La douleur change le fonctionnement du client. Chacun exprime la douleur différemment, parfois sans mots, et la culture influence cette expression."
+     },
+     {
+      "en": "Report pain by site, duration, intensity and triggers, and what relieves it.",
+      "fr": "Signalez la douleur par son siège, sa durée, son intensité, ses déclencheurs, et ce qui la soulage."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Elimination",
+     "fr": "Élimination"
+    },
+    "points": [
+     {
+      "en": "Bedpan, urinal, fracture pan and commode: privacy, warmth, toilet paper and call signal, handwashing, clean equipment.",
+      "fr": "Bassin, urinal, bassin plat et chaise percée : intimité, chaleur, papier et sonnette, lavage des mains, matériel propre."
+     },
+     {
+      "en": "Incontinence brings embarrassment and loss of dignity. Change briefs promptly, protect the skin, never scold.",
+      "fr": "L'incontinence apporte gêne et perte de dignité. Changez vite les protections, protégez la peau, ne grondez jamais."
+     },
+     {
+      "en": "Catheters: condom, indwelling, straight. Never pull on tubing; keep it free of kinks; bag below the bladder. Report color and odor of urine, pain, chills, sweating, leakage.",
+      "fr": "Sondes : étui pénien, à demeure, droite. Ne tirez jamais sur la tubulure ; pas de plis ; sac sous la vessie. Signalez couleur et odeur de l'urine, douleur, frissons, sueurs, fuites."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Eating, hydration and weight",
+     "fr": "Repas, hydratation et poids"
+    },
+    "points": [
+     {
+      "en": "Sit the client upright to prevent choking. Independent eaters need set-up; partial assistance means helping only where needed. Clock method for visually impaired clients. Adaptive utensils and cups.",
+      "fr": "Client assis bien droit contre l'étouffement. Les mangeurs autonomes ont besoin d'une mise en place ; l'aide partielle n'intervient que si nécessaire. Méthode de l'horloge pour les malvoyants. Couverts et gobelets adaptés."
+     },
+     {
+      "en": "Weigh on a balanced scale, client steady, record; report a change of more than 5 pounds. Measure intake and output when the care plan asks.",
+      "fr": "Pesez sur une balance à zéro, client stable, notez ; signalez un changement de plus de 5 livres (2 kg). Mesurez apports et éliminations si le plan de soins le demande."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Skin",
+     "fr": "Peau"
+    },
+    "points": [
+     {
+      "en": "Healthy skin is intact, warm, dry and its normal color. Risks: immobility, poor nutrition, illness, moisture, pressure, poor circulation.",
+      "fr": "Une peau saine est intacte, chaude, sèche et de couleur normale. Risques : immobilité, mauvaise nutrition, maladie, humidité, pression, mauvaise circulation."
+     },
+     {
+      "en": "Pressure points: coccyx, heels, sacrum, ischial tuberosities, back of the skull, elbows. Early breakdown: redness, warmth, rash, itching. Prevent with position changes, clean dry skin, back rubs, good nutrition.",
+      "fr": "Points de pression : coccyx, talons, sacrum, ischions, arrière du crâne, coudes. Début d'escarre : rougeur, chaleur, éruption, démangeaison. Prévention : changements de position, peau propre et sèche, massages du dos, bonne nutrition."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Moving the client",
+     "fr": "Mobiliser le client"
+    },
+    "points": [
+     {
+      "en": "Body mechanics: wide base, straight back, face your work, one foot ahead, load close, bend knees and hips, turn with your feet, never twist.",
+      "fr": "Mécanique corporelle : base large, dos droit, face au travail, un pied devant, charge près du corps, plier genoux et hanches, tourner avec les pieds, jamais de torsion."
+     },
+     {
+      "en": "Positions: Fowler's (head up), supine (back), prone (stomach), lateral (side). Change position regularly; support with pillows.",
+      "fr": "Positions : Fowler (tête relevée), dorsale, ventrale, latérale. Changez de position régulièrement ; soutenez avec des oreillers."
+     },
+     {
+      "en": "Transfers: lock brakes, gait belt, stand and pivot toward the strong side. Ambulation: walk on the weak side, slowly, short distances; canes, walkers, crutches.",
+      "fr": "Transferts : freins bloqués, ceinture de marche, lever et pivoter vers le côté fort. Marche : du côté faible, lentement, courtes distances ; cannes, déambulateurs, béquilles."
+     },
+     {
+      "en": "Range of motion: active (client moves), passive (you move the limb), resistive. Prevents disuse syndrome, atrophy and contractures.",
+      "fr": "Amplitude articulaire : active (le client bouge), passive (vous mobilisez), contre résistance. Prévient le syndrome d'immobilité, l'atrophie et les contractures."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "Bathing, grooming and dressing",
+     "fr": "Toilette, soins d'apparence et habillage"
+    },
+    "points": [
+     {
+      "en": "Bathing: privacy, water temperature tested, safety in the bathroom, head to toe, genitals last. Watch for skin changes, dizziness, confusion, refusal.",
+      "fr": "Toilette : intimité, eau testée, sécurité dans la salle de bain, de la tête aux pieds, parties génitales en dernier. Surveillez peau, vertiges, confusion, refus."
+     },
+     {
+      "en": "Hair with the client's own brush; mouth care at least twice a day and every two hours when there are complications; dentures over a padded sink; shave with the grain; nails filed only, never cut.",
+      "fr": "Cheveux avec la brosse du client ; soins de la bouche au moins deux fois par jour et toutes les deux heures en cas de complications ; dentier au-dessus d'un lavabo protégé ; rasage dans le sens du poil ; ongles limés seulement, jamais coupés."
+     },
+     {
+      "en": "Dressing: the client chooses; weak side on first, strong side off first; glasses, hearing aids, prostheses and dressing aids checked and cared for.",
+      "fr": "Habillage : le client choisit ; côté faible en premier pour enfiler, côté fort en premier pour retirer ; lunettes, appareils auditifs, prothèses et aides à l'habillage vérifiés et entretenus."
+     }
+    ]
+   },
+   {
+    "heading": {
+     "en": "The client's environment, babies, equipment and medication",
+     "fr": "Environnement du client, bébés, matériel et médicaments"
+    },
+    "points": [
+     {
+      "en": "The client's room is their space: privacy, their belongings, locked storage. Unoccupied and occupied bed making with infection control.",
+      "fr": "La chambre du client est son espace : intimité, ses affaires, rangement fermé à clé. Lit inoccupé et lit occupé avec contrôle des infections."
+     },
+     {
+      "en": "Well baby: only when no other caretaker is available. Support head, neck and back; conserve warmth; safe positioning; feeding principles; infant bath head to foot.",
+      "fr": "Bébé en bonne santé : seulement si personne d'autre n'est disponible. Soutenez tête, cou et dos ; gardez au chaud ; position sûre ; principes d'alimentation ; bain de la tête aux pieds."
+     },
+     {
+      "en": "Special equipment: hospital beds, mattresses, canes, walkers, wheelchairs, trapeze, slide board, hydraulic lift, commode, prostheses, assistive utensils, glucometer. Never use what you have not been shown; check the care plan; keep batteries charged; report wear and malfunction.",
+      "fr": "Matériel spécial : lits médicalisés, matelas, cannes, déambulateurs, fauteuils roulants, potence, planche, lève-personne, chaise percée, prothèses, couverts adaptés, glucomètre. N'utilisez jamais ce qu'on ne vous a pas montré ; vérifiez le plan de soins ; piles chargées ; signalez usure et pannes."
+     },
+     {
+      "en": "Medication: you ASSIST with self-administration, you never administer. Five Rights: person, medication, dose, time, route. Read labels and expiration dates; do not crush or hide medication in food; store and dispose properly. Report refusals, errors, reactions, and any drug, supplement or herb not ordered.",
+      "fr": "Médicaments : vous AIDEZ à la prise autonome, vous n'administrez jamais. Cinq bons : personne, médicament, dose, moment, voie. Lisez étiquettes et dates ; n'écrasez pas, ne cachez pas dans la nourriture ; rangez et éliminez correctement. Signalez refus, erreurs, réactions, et tout médicament, complément ou plante non prescrit."
+     }
+    ]
+   }
+  ],
+  "report": {
+   "en": "Report skin redness or sores, falls, dizziness, choking, changes in urine, refusal of care, pain, medication problems, and equipment faults.",
+   "fr": "Signalez rougeurs ou plaies, chutes, vertiges, étouffement, changements de l'urine, refus de soins, douleur, problèmes de médicaments et pannes de matériel."
+  }
+ }
+]

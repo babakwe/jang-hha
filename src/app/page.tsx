@@ -1,69 +1,38 @@
-import Image from "next/image";
+"use client";
+import Link from "next/link";
+import { useLang } from "@/lib/lang";
+import { LangToggle, Page, Speak } from "@/components/ui";
+import { LESSONS, PROCEDURES, QUESTIONS, VOCAB } from "@/lib/data";
 
 export default function Home() {
+  const { t, lang } = useLang();
+  const tiles = [
+    { href: "/learn", icon: "📘", title: t("learn"), desc: t("homeLearn"), n: LESSONS.length },
+    { href: "/procedures", icon: "🧤", title: t("procedures"), desc: t("homeProc"), n: PROCEDURES.length },
+    { href: "/practice", icon: "✅", title: t("practice"), desc: t("homePractice"), n: QUESTIONS.length },
+    { href: "/glossary", icon: "🔤", title: t("glossary"), desc: t("homeGloss"), n: VOCAB.length },
+  ];
+  const welcome = lang === "fr"
+    ? "Bienvenue. Cette application vous prépare au certificat d'aide à domicile de l'État de New York. Vous pouvez tout lire, ou tout écouter."
+    : "Welcome. This app prepares you for the New York State Home Health Aide certificate. You can read everything, or listen to everything.";
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert h-5 w-[100px]"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the{" "}
-            <code className="rounded bg-black/[.06] px-1.5 py-0.5 font-mono text-[0.9em] dark:bg-white/[.08]">
-              page.tsx
-            </code>{" "}
-            file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert h-[14px] w-4"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+    <Page>
+      <div className="flex items-center justify-between pt-2">
+        <div><div className="text-3xl font-black tracking-tight">{t("appName")}</div><div className="text-muted text-sm">{t("tagline")}</div></div>
+        <LangToggle />
+      </div>
+      <div className="card p-4 flex gap-3 items-start bg-fr-soft border-0"><Speak text={welcome} id="welcome" /><p className="leading-relaxed">{welcome}</p></div>
+      <div className="grid gap-3 sm:grid-cols-2">
+        {tiles.map(x => (
+          <Link key={x.href} href={x.href} className="card p-4 flex gap-4 items-center hover:border-brand">
+            <div className="text-4xl" aria-hidden>{x.icon}</div>
+            <div className="flex-1"><div className="font-extrabold text-lg">{x.title} <span className="chip bg-accent-soft text-accent ml-1">{x.n}</span></div><div className="text-sm text-muted">{x.desc}</div></div>
+            <div className="text-muted">›</div>
+          </Link>
+        ))}
+      </div>
+      <p className="text-xs text-muted leading-relaxed">{t("source")}</p>
+      <p className="text-xs text-muted">{t("offline")} {t("installHint")}</p>
+    </Page>
   );
 }

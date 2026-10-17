@@ -1,0 +1,11 @@
+{
+  "name": "Jàng HHA — Home Health Aide training",
+  "short_name": "Jàng HHA",
+  "description": "Home Health Aide training in English and French, with audio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf7f1",
+  "theme_color": "#0e7c7b",
+  "lang": "en",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
