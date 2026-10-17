@@ -6,117 +6,140 @@
   "icon": "home",
   "title": {
    "en": "Introduction to Home Care",
-   "fr": "Introduction aux soins à domicile"
+   "fr": "Introduction aux soins à domicile",
+   "wo": "Ubbite ci soins à domicile"
   },
   "intro": {
    "en": "Home care keeps people who need help in their own homes instead of hospitals or institutions. As a home care worker you give personal care and support, follow the care plan, and report what you see to your supervisor.",
-   "fr": "Les soins à domicile permettent aux personnes qui ont besoin d'aide de rester chez elles plutôt qu'à l'hôpital ou en institution. En tant qu'aide à domicile, vous donnez des soins personnels et du soutien, vous suivez le plan de soins et vous signalez ce que vous observez à votre superviseur."
+   "fr": "Les soins à domicile permettent aux personnes qui ont besoin d'aide de rester chez elles plutôt qu'à l'hôpital ou en institution. En tant qu'aide à domicile, vous donnez des soins personnels et du soutien, vous suivez le plan de soins et vous signalez ce que vous observez à votre superviseur.",
+   "wo": "Soins à domicile dañuy tax ñi soxla ndimbal des ci seen kër, du ci lopitaal walla ci institution. Yaw aide à domicile, dangay topptoo nit ñi, di leen jàppale, di topp palaŋu topptoo bi, te di wax sa superviseur li nga gis."
   },
   "sections": [
    {
     "heading": {
      "en": "What home care is for",
-     "fr": "À quoi servent les soins à domicile"
+     "fr": "À quoi servent les soins à domicile",
+     "wo": "Lu soins à domicile di jariñ"
     },
     "points": [
      {
       "en": "Safe care at home for people who are ill, injured, frail or disabled, so they stay out of institutions and foster care.",
-      "fr": "Des soins sûrs à la maison pour les personnes malades, blessées, fragiles ou handicapées, pour éviter l'institution et le placement."
+      "fr": "Des soins sûrs à la maison pour les personnes malades, blessées, fragiles ou handicapées, pour éviter l'institution et le placement.",
+      "wo": "Topptoo bu wóor ci kër ngir ñi feebar, gaañu, néew doole walla am laago, ngir ñu bañ a dem ci institution walla ci placement."
      },
      {
       "en": "Families stay together and the client keeps contact with family, neighborhood and community.",
-      "fr": "La famille reste unie et le client garde le contact avec sa famille, son quartier et sa communauté."
+      "fr": "La famille reste unie et le client garde le contact avec sa famille, son quartier et sa communauté.",
+      "wo": "Njaboot gi des ci benn, te kiliyaan bi di wéy di jokkoo ak njabootam, gox bi ak askan wi."
      },
      {
       "en": "Home care encourages independence, dignity and comfort.",
-      "fr": "Les soins à domicile favorisent l'indépendance, la dignité et le confort."
+      "fr": "Les soins à domicile favorisent l'indépendance, la dignité et le confort.",
+      "wo": "Soins à domicile dañuy dooleel sañ-sañ, teggin ak jàmm ci kër."
      },
      {
       "en": "History: homemaker training began in the 1930s; Medicaid and Medicare began paying for home care in the 1960s.",
-      "fr": "Histoire : la formation des aides ménagères a commencé dans les années 1930 ; Medicaid et Medicare paient les soins à domicile depuis les années 1960."
+      "fr": "Histoire : la formation des aides ménagères a commencé dans les années 1930 ; Medicaid et Medicare paient les soins à domicile depuis les années 1960.",
+      "wo": "Taarix : njàngum aide ménagère tàmbali na ci at yi 1930 ; Medicaid ak Medicare di fey soins à domicile li dale ci at yi 1960."
      }
     ]
    },
    {
     "heading": {
      "en": "Who the clients are",
-     "fr": "Qui sont les clients"
+     "fr": "Qui sont les clients",
+     "wo": "Ñan ñooy kiliyaan yi"
     },
     "points": [
      {
       "en": "Two groups: people with a specific injury or illness, and people who need support in the home.",
-      "fr": "Deux groupes : les personnes ayant une blessure ou une maladie précise, et celles qui ont besoin d'aide à la maison."
+      "fr": "Deux groupes : les personnes ayant une blessure ou une maladie précise, et celles qui ont besoin d'aide à la maison.",
+      "wo": "Ñaari kurél : ñi am gaañu-gaañu walla feebar bu leer, ak ñi soxla ndimbal ci kër."
      },
      {
       "en": "The frail elderly, the acutely and chronically ill, people with physical or mental disabilities, and adults and children who need protection.",
-      "fr": "Les personnes âgées fragiles, les malades aigus et chroniques, les personnes handicapées physiques ou mentales, et les adultes et enfants ayant besoin de protection."
+      "fr": "Les personnes âgées fragiles, les malades aigus et chroniques, les personnes handicapées physiques ou mentales, et les adultes et enfants ayant besoin de protection.",
+      "wo": "Mag ñu néew doole, ñi feebar lu gaaw walla lu yàgg, ñi am laago ci yaram walla ci xel, ak mag ak xale yu soxla kaaraange."
      }
     ]
    },
    {
     "heading": {
      "en": "Qualities of a good home care worker",
-     "fr": "Qualités d'un bon aide à domicile"
+     "fr": "Qualités d'un bon aide à domicile",
+     "wo": "Jikkoy aide bu baax"
     },
     "points": [
      {
       "en": "Dependable, people-oriented, honest, objective, caring, patient, respectful and knowledgeable.",
-      "fr": "Fiable, tourné vers les gens, honnête, objectif, attentionné, patient, respectueux et compétent."
+      "fr": "Fiable, tourné vers les gens, honnête, objectif, attentionné, patient, respectueux et compétent.",
+      "wo": "Ku ñu mën a wóolu, bëgg nit, dëggu, àttewoo bu baax, am yërmande, muñ, am teggin te xam liggéeyam."
      },
      {
       "en": "You can be dismissed for unreliability, dishonesty, disrespecting privacy, or not following agency protocols.",
-      "fr": "On peut être renvoyé pour manque de fiabilité, malhonnêteté, non-respect de la vie privée, ou non-respect des protocoles de l'agence."
+      "fr": "On peut être renvoyé pour manque de fiabilité, malhonnêteté, non-respect de la vie privée, ou non-respect des protocoles de l'agence.",
+      "wo": "Mën nañu la dàq ndax ñàkk fiyaar, ñàkk dëggu, bañ a weg sutura, walla bañ a topp ndigëlu agence bi."
      },
      {
       "en": "Success means working without constant supervision, getting along with clients, organizing your time, and noticing the client's physical, social, spiritual and cultural needs.",
-      "fr": "Réussir, c'est travailler sans supervision constante, bien s'entendre avec les clients, organiser son temps et remarquer les besoins physiques, sociaux, spirituels et culturels du client."
+      "fr": "Réussir, c'est travailler sans supervision constante, bien s'entendre avec les clients, organiser son temps et remarquer les besoins physiques, sociaux, spirituels et culturels du client.",
+      "wo": "Ndam mooy mën a liggéey te kenn du la saytu saa su nekk, bokk bu baax ak kiliyaan yi, saytu sa waxtu, te gis soxlay yaram, askan, diine ak aadaay kiliyaan bi."
      }
     ]
    },
    {
     "heading": {
      "en": "Your tasks",
-     "fr": "Vos tâches"
+     "fr": "Vos tâches",
+     "wo": "Sa liggéey"
     },
     "points": [
      {
       "en": "Personal care: bathing in bed, tub or shower; dressing; grooming, teeth and mouth care; toileting; walking; transferring; preparing meals; feeding; assisting or reminding with medication.",
-      "fr": "Soins personnels : toilette au lit, au bain ou à la douche ; habillage ; soins d'apparence, des dents et de la bouche ; aide aux toilettes ; marche ; transferts ; préparation des repas ; aide au repas ; aide ou rappel pour les médicaments."
+      "fr": "Soins personnels : toilette au lit, au bain ou à la douche ; habillage ; soins d'apparence, des dents et de la bouche ; aide aux toilettes ; marche ; transferts ; préparation des repas ; aide au repas ; aide ou rappel pour les médicaments.",
+      "wo": "Soins personnels : sangu ci lal, ci baañuwaar walla duus ; sol ; taaral, bëñ ak gémmiñ ; wanag ; dox ; transfert ; togg ; lekkal ; dimbali walla fàttali ci garab."
      },
      {
       "en": "Home support: making beds, dusting and vacuuming, light cleaning of kitchen, bedroom and bathroom, dishes, listing supplies, shopping, laundry and ironing, paying bills and essential errands, and supporting the family.",
-      "fr": "Soutien à la maison : faire les lits, dépoussiérer et passer l'aspirateur, nettoyage léger de la cuisine, de la chambre et de la salle de bain, vaisselle, liste des courses, courses, lessive et repassage, paiement des factures et courses essentielles, et soutien à la famille."
+      "fr": "Soutien à la maison : faire les lits, dépoussiérer et passer l'aspirateur, nettoyage léger de la cuisine, de la chambre et de la salle de bain, vaisselle, liste des courses, courses, lessive et repassage, paiement des factures et courses essentielles, et soutien à la famille.",
+      "wo": "Ndimbal ci kër : defar lal, fomp, aspirateur, setal waañ, néeg ak wanag, raxas ndab, bind li ñu soxla, njënd, fóot ak pasé, fey fatuur ak yeneen soxla, te di jàppale njaboot gi."
      }
     ]
    },
    {
     "heading": {
      "en": "The team and the care plan",
-     "fr": "L'équipe et le plan de soins"
+     "fr": "L'équipe et le plan de soins",
+     "wo": "Ekib bi ak palaŋu topptoo bi"
     },
     "points": [
      {
       "en": "Home care is a team effort. The care plan is developed by the team and coordinated by the case manager.",
-      "fr": "Les soins à domicile sont un travail d'équipe. Le plan de soins est élaboré par l'équipe et coordonné par le gestionnaire de cas."
+      "fr": "Les soins à domicile sont un travail d'équipe. Le plan de soins est élaboré par l'équipe et coordonné par le gestionnaire de cas.",
+      "wo": "Soins à domicile liggéeyu ekib la. Palaŋu topptoo bi, ekib bi moo koy defar, ki yor dosye bi di ko saytu."
      },
      {
       "en": "The care plan lists your duties, the goals, special observations and special circumstances. A copy stays in the client's home.",
-      "fr": "Le plan de soins liste vos tâches, les objectifs, les observations particulières et les situations spéciales. Une copie reste chez le client."
+      "fr": "Le plan de soins liste vos tâches, les objectifs, les observations particulières et les situations spéciales. Une copie reste chez le client.",
+      "wo": "Palaŋ bi dafay wone sa liggéey, li ñu bëgg a àgg, li nga war a seetlu ak lu jëkk a am. Kopi bi des na ci kër kiliyaan bi."
      },
      {
       "en": "The RN supervisor visits the home, makes sure you understand the plan, reviews procedures, teaches you when needed, solves problems, links you to the team and evaluates your work.",
-      "fr": "L'infirmière superviseure visite le domicile, s'assure que vous comprenez le plan, revoit les procédures, vous forme si besoin, résout les problèmes, fait le lien avec l'équipe et évalue votre travail."
+      "fr": "L'infirmière superviseure visite le domicile, s'assure que vous comprenez le plan, revoit les procédures, vous forme si besoin, résout les problèmes, fait le lien avec l'équipe et évalue votre travail.",
+      "wo": "Infirmiyeer bi lay saytu dafay ñëw ci kër gi, xool ndax nand nga palaŋ bi, seet doxalin yi, jàngal la bu soxlaa, saafara jafe-jafe yi, lëkkale la ak ekib bi te saytu sa liggéey."
      },
      {
       "en": "Work with your supervisor by phone for immediate problems, during home visits and in team conferences.",
-      "fr": "Travaillez avec votre superviseur par téléphone pour les problèmes urgents, lors des visites à domicile et dans les réunions d'équipe."
+      "fr": "Travaillez avec votre superviseur par téléphone pour les problèmes urgents, lors des visites à domicile et dans les réunions d'équipe.",
+      "wo": "Jokkoo ak sa superviseur ci telefon bu am jafe-jafe bu gaaw, ci bés yi mu ñëw ci kër gi ak ci ndaje yu ekib bi."
      }
     ]
    }
   ],
   "report": {
    "en": "Call your supervisor for any change in the client's condition or behavior, anything not in the care plan, and any problem you cannot solve.",
-   "fr": "Appelez votre superviseur pour tout changement d'état ou de comportement du client, toute demande hors du plan de soins, et tout problème que vous ne pouvez pas résoudre."
+   "fr": "Appelez votre superviseur pour tout changement d'état ou de comportement du client, toute demande hors du plan de soins, et tout problème que vous ne pouvez pas résoudre.",
+   "wo": "Woo sa superviseur bu am lu soppiku ci kiliyaan bi, lu nekkul ci palaŋ bi, walla jafe-jafe boo mënul saafara."
   }
  },
  {
@@ -126,129 +149,155 @@
   "icon": "people",
   "title": {
    "en": "Working Effectively with Clients",
-   "fr": "Bien travailler avec les clients"
+   "fr": "Bien travailler avec les clients",
+   "wo": "Liggéey bu baax ak kiliyaan yi"
   },
   "intro": {
    "en": "This module is the heart of the Basic Core: human needs, respect for diversity, communication, observing and reporting, and confidentiality.",
-   "fr": "Ce module est le cœur du tronc commun : besoins humains, respect de la diversité, communication, observation et rapport, et confidentialité."
+   "fr": "Ce module est le cœur du tronc commun : besoins humains, respect de la diversité, communication, observation et rapport, et confidentialité.",
+   "wo": "Modil bii mooy xolu njàng mi : soxlay nit, weg wuute yi, waxtaan, seetlu ak wax, ak sutura."
   },
   "sections": [
    {
     "heading": {
      "en": "Basic human needs",
-     "fr": "Besoins humains fondamentaux"
+     "fr": "Besoins humains fondamentaux",
+     "wo": "Soxla yu am solo ci nit"
     },
     "points": [
      {
       "en": "Needs drive our behavior and feelings. Unmet needs create stress, and people react to stress in different ways.",
-      "fr": "Les besoins guident nos comportements et nos sentiments. Un besoin non satisfait crée du stress, et chacun réagit au stress à sa façon."
+      "fr": "Les besoins guident nos comportements et nos sentiments. Un besoin non satisfait crée du stress, et chacun réagit au stress à sa façon.",
+      "wo": "Soxla yi ñooy jiite jikko ak xol. Soxla bu amul tontu dafay indi stress, te ku nekk am na ni muy tontu stress."
      },
      {
       "en": "Five needs: physical, safety and security, belonging, self-worth, self-fulfillment. Physical and safety needs come first.",
-      "fr": "Cinq besoins : physiques, sécurité, appartenance, estime de soi, accomplissement. Les besoins physiques et de sécurité passent en premier."
+      "fr": "Cinq besoins : physiques, sécurité, appartenance, estime de soi, accomplissement. Les besoins physiques et de sécurité passent en premier.",
+      "wo": "Juróomi soxla : yaram, kaaraange, bokk, teggin ci sa bopp, àgg ci li nga bëgg. Yaram ak kaaraange ñoo jëkk."
      },
      {
       "en": "Recognize the dignity and worth of every client and help them meet their needs their own way.",
-      "fr": "Reconnaissez la dignité et la valeur de chaque client et aidez-le à satisfaire ses besoins à sa manière."
+      "fr": "Reconnaissez la dignité et la valeur de chaque client et aidez-le à satisfaire ses besoins à sa manière.",
+      "wo": "Gis teggin ak solo bu kiliyaan bu nekk te dimbali ko mu tontu soxlaam ci ni mu ko bëgge."
      }
     ]
    },
    {
     "heading": {
      "en": "Diversity",
-     "fr": "Diversité"
+     "fr": "Diversité",
+     "wo": "Wuute"
     },
     "points": [
      {
       "en": "Race, religion and spiritual beliefs, national origin, sexual orientation and age all shape who a person is.",
-      "fr": "L'origine, la religion et les croyances, la nationalité, l'orientation sexuelle et l'âge façonnent chaque personne."
+      "fr": "L'origine, la religion et les croyances, la nationalité, l'orientation sexuelle et l'âge façonnent chaque personne.",
+      "wo": "Xeet, diine ak ngëm, réew, ni nga bëgge, at : lépp dafay tax nit mel ni mu mel."
      },
      {
       "en": "Culture affects caregiving: verbal and non-verbal communication, health beliefs, food choices, family roles and support, and how pain is expressed.",
-      "fr": "La culture influence les soins : communication verbale et non verbale, croyances sur la santé, choix alimentaires, rôles et soutien familiaux, et expression de la douleur."
+      "fr": "La culture influence les soins : communication verbale et non verbale, croyances sur la santé, choix alimentaires, rôles et soutien familiaux, et expression de la douleur.",
+      "wo": "Aada dafay jëfe ci topptoo : waxtaan ci baat walla ci jëf, ngëm ci wérgi-yaram, ñam, njaboot ak ni ñuy wone metit."
      },
      {
       "en": "Every family is unique: values, customs, finances, age and roles differ. Respect them.",
-      "fr": "Chaque famille est unique : valeurs, coutumes, finances, âge et rôles diffèrent. Respectez-les."
+      "fr": "Chaque famille est unique : valeurs, coutumes, finances, âge et rôles diffèrent. Respectez-les.",
+      "wo": "Njaboot bu nekk moom la : aada, xaalis, at ak liggéey wuute nañu. Weg leen."
      }
     ]
    },
    {
     "heading": {
      "en": "Communication",
-     "fr": "Communication"
+     "fr": "Communication",
+     "wo": "Waxtaan"
     },
     "points": [
      {
       "en": "Communication is verbal and non-verbal (face, gestures, posture, tone, touch). Feedback shows the message was received.",
-      "fr": "La communication est verbale et non verbale (visage, gestes, posture, ton, toucher). Le retour montre que le message est passé."
+      "fr": "La communication est verbale et non verbale (visage, gestes, posture, ton, toucher). Le retour montre que le message est passé.",
+      "wo": "Waxtaan am na baat ak lu dul baat (kanam, loxo, taxawaay, baat, laal). Tontu dafay wone ne nand nañu la."
      },
      {
       "en": "Active listening: give full attention, let the person finish, check that you understood.",
-      "fr": "Écoute active : toute votre attention, laisser finir, vérifier que vous avez compris."
+      "fr": "Écoute active : toute votre attention, laisser finir, vérifier que vous avez compris.",
+      "wo": "Déglu bu baax : sa xol bépp, bàyyi nit ki mu wax ba pare, seet ndax nand nga."
      },
      {
       "en": "Barriers: noise, pain, fear, language, hearing or vision loss, aphasia, confusion. Adapt: face the person, speak clearly, use simple sentences, allow time, use gestures and pictures.",
-      "fr": "Obstacles : bruit, douleur, peur, langue, perte d'audition ou de vision, aphasie, confusion. Adaptez-vous : face à la personne, parlez clairement, phrases simples, laissez du temps, gestes et images."
+      "fr": "Obstacles : bruit, douleur, peur, langue, perte d'audition ou de vision, aphasie, confusion. Adaptez-vous : face à la personne, parlez clairement, phrases simples, laissez du temps, gestes et images.",
+      "wo": "Lu mën a téye waxtaan : coow, metit, tiit, làkk, ñàkk dégg walla gis, aphasie, jaxasoo. Jubbanti : jàkkaarloo ak nit ki, wax bu leer, baat yu gàtt, may ko waxtu, jëfandikoo loxo ak nataal."
      },
      {
       "en": "A therapeutic relationship is planned, purposeful and built on trust. It respects autonomy and fosters independence; it is not a friendship.",
-      "fr": "Une relation thérapeutique est planifiée, intentionnelle et fondée sur la confiance. Elle respecte l'autonomie et favorise l'indépendance ; ce n'est pas une amitié."
+      "fr": "Une relation thérapeutique est planifiée, intentionnelle et fondée sur la confiance. Elle respecte l'autonomie et favorise l'indépendance ; ce n'est pas une amitié.",
+      "wo": "Jëflante bu baax : ñu waajal ko, am njariñ, sukkandiku ci kóolute. Dafay weg sañ-sañ te dooleel li nit ki mën a def boppam ; du xaritoo."
      },
      {
       "en": "Becoming a recipient of care brings losses (independence, privacy, role). Allow clients to exercise their rights: autonomy, privacy, confidentiality, freedom from abuse, neglect and mistreatment.",
-      "fr": "Recevoir des soins entraîne des pertes (indépendance, intimité, rôle). Laissez le client exercer ses droits : autonomie, vie privée, confidentialité, protection contre la maltraitance, la négligence et les mauvais traitements."
+      "fr": "Recevoir des soins entraîne des pertes (indépendance, intimité, rôle). Laissez le client exercer ses droits : autonomie, vie privée, confidentialité, protection contre la maltraitance, la négligence et les mauvais traitements.",
+      "wo": "Nekk ku ñuy topptoo dafay indi ñàkk (sañ-sañ, sutura, sa palaas). Bàyyi kiliyaan bi mu jëfandikoo sañ-sañam : dogal boppam, sutura, kumpa, aar ci toroxal ak bàyyi."
      }
     ]
    },
    {
     "heading": {
      "en": "Observing, recording and reporting",
-     "fr": "Observer, noter et signaler"
+     "fr": "Observer, noter et signaler",
+     "wo": "Seetlu, bind, wax"
     },
     "points": [
      {
       "en": "Observe with sight, smell, hearing and touch, and know what is normal for your client so you notice change.",
-      "fr": "Observez avec la vue, l'odorat, l'ouïe et le toucher, et connaissez ce qui est normal pour votre client pour remarquer un changement."
+      "fr": "Observez avec la vue, l'odorat, l'ouïe et le toucher, et connaissez ce qui est normal pour votre client pour remarquer un changement.",
+      "wo": "Seetlu ak sa bët, sa bakkan, sa nopp ak sa loxo, te xam lu baax ci sa kiliyaan ngir gis lu soppiku."
      },
      {
       "en": "Observe changes in the client's condition, in the home environment, and in relationships with family and friends.",
-      "fr": "Observez les changements de l'état du client, de l'environnement du domicile, et des relations avec la famille et les amis."
+      "fr": "Observez les changements de l'état du client, de l'environnement du domicile, et des relations avec la famille et les amis.",
+      "wo": "Seetlu lu soppiku ci yaramu kiliyaan bi, ci kër gi, ak ci jëflante ak njaboot gi ak xarit yi."
      },
      {
       "en": "Record facts only: what you see, hear and do. Date every entry and sign it. Legible handwriting, correct spelling.",
-      "fr": "Notez seulement des faits : ce que vous voyez, entendez et faites. Datez et signez chaque note. Écriture lisible, orthographe correcte."
+      "fr": "Notez seulement des faits : ce que vous voyez, entendez et faites. Datez et signez chaque note. Écriture lisible, orthographe correcte.",
+      "wo": "Bind rekk li am : li nga gis, li nga dégg, li nga def. Bind bés bu nekk te xaatim. Bind bu leer, mbind mu jub."
      },
      {
       "en": "Why it matters: the team knows the client's status, referrals can be made, and nothing is forgotten.",
-      "fr": "Pourquoi c'est important : l'équipe connaît l'état du client, des orientations sont possibles, et rien n'est oublié."
+      "fr": "Pourquoi c'est important : l'équipe connaît l'état du client, des orientations sont possibles, et rien n'est oublié.",
+      "wo": "Lu tax mu am solo : ekib bi xam nan la kiliyaan bi mel, mën nañu ko yónnee feneen, te kenn du fàtte dara."
      }
     ]
    },
    {
     "heading": {
      "en": "Confidentiality",
-     "fr": "Confidentialité"
+     "fr": "Confidentialité",
+     "wo": "Sutura"
     },
     "points": [
      {
       "en": "Confidentiality covers conversations, observations and reports about the client, personal and medical.",
-      "fr": "La confidentialité couvre les conversations, les observations et les rapports sur le client, personnels et médicaux."
+      "fr": "La confidentialité couvre les conversations, les observations et les rapports sur le client, personnels et médicaux.",
+      "wo": "Sutura dafay ëmb waxtaan, seetlu ak bind yi aju ci kiliyaan bi, ci dundam ak ci wérgi-yaramam."
      },
      {
       "en": "Do not talk about clients with friends, family, neighbors or on the bus, even without naming them. Share only with the care team.",
-      "fr": "Ne parlez pas des clients à vos amis, votre famille, les voisins ou dans le bus, même sans dire leur nom. Partagez seulement avec l'équipe de soins."
+      "fr": "Ne parlez pas des clients à vos amis, votre famille, les voisins ou dans le bus, même sans dire leur nom. Partagez seulement avec l'équipe de soins.",
+      "wo": "Bul wax kenn mbirum kiliyaan bi : du sa xarit, du sa njaboot, du dëkkandoo, du ci bus, su nga waxul turam sax. Ekib bi rekk."
      },
      {
       "en": "HIPAA is the federal law that protects health information. Keep records in the home where others cannot read them.",
-      "fr": "HIPAA est la loi fédérale qui protège les informations de santé. Gardez les documents hors de vue des autres personnes au domicile."
+      "fr": "HIPAA est la loi fédérale qui protège les informations de santé. Gardez les documents hors de vue des autres personnes au domicile.",
+      "wo": "HIPAA mooy yoonu réew mi aar xibaari wérgi-yaram. Denc kayit yi fu kenn dul mën a jàng."
      }
     ]
    }
   ],
   "report": {
    "en": "Report unmet needs, behavior changes, anything that looks like abuse or neglect, and any request to share client information.",
-   "fr": "Signalez les besoins non satisfaits, les changements de comportement, tout ce qui ressemble à de la maltraitance ou de la négligence, et toute demande de partage d'informations sur le client."
+   "fr": "Signalez les besoins non satisfaits, les changements de comportement, tout ce qui ressemble à de la maltraitance ou de la négligence, et toute demande de partage d'informations sur le client.",
+   "wo": "Wax soxla yu tontuwul, jikko ju soppiku, lépp lu mel ni toroxal walla bàyyi nit, ak bépp laaj ci jox xibaaru kiliyaan bi."
   }
  },
  {
@@ -258,85 +307,102 @@
   "icon": "elder",
   "title": {
    "en": "Working with the Elderly",
-   "fr": "Travailler avec les personnes âgées"
+   "fr": "Travailler avec les personnes âgées",
+   "wo": "Liggéey ak mag ñi"
   },
   "intro": {
    "en": "Aging is normal and different for everyone. Know the common changes in each body system, what to report, and how to tell temporary confusion from permanent change.",
-   "fr": "Vieillir est normal et différent pour chacun. Connaissez les changements courants de chaque système du corps, ce qu'il faut signaler, et comment distinguer une confusion temporaire d'un changement permanent."
+   "fr": "Vieillir est normal et différent pour chacun. Connaissez les changements courants de chaque système du corps, ce qu'il faut signaler, et comment distinguer une confusion temporaire d'un changement permanent.",
+   "wo": "Màgget lu baax la te ku nekk am na ni muy màgget. Xam lu soppiku ci yaram, lu nga war a wax, ak ni ngay xàmmee jaxasoo bu dul yàgg ak lu soppiku bu dul wéy."
   },
   "sections": [
    {
     "heading": {
      "en": "What aging is",
-     "fr": "Ce qu'est le vieillissement"
+     "fr": "Ce qu'est le vieillissement",
+     "wo": "Lu màgget di tekki"
     },
     "points": [
      {
       "en": "A normal process with individual variations, physical and mental.",
-      "fr": "Un processus normal avec des variations individuelles, physiques et mentales."
+      "fr": "Un processus normal avec des variations individuelles, physiques et mentales.",
+      "wo": "Dund bu baax la, ku nekk am na ni muy màgget, ci yaram ak ci xel."
      },
      {
       "en": "Social factors matter: family, finances, gender roles, culture and spirituality. Watch for unmet needs and keep confidentiality.",
-      "fr": "Les facteurs sociaux comptent : famille, finances, rôles de genre, culture et spiritualité. Surveillez les besoins non satisfaits et gardez la confidentialité."
+      "fr": "Les facteurs sociaux comptent : famille, finances, rôles de genre, culture et spiritualité. Surveillez les besoins non satisfaits et gardez la confidentialité.",
+      "wo": "Lu askan di def am na solo : njaboot, xaalis, góor walla jigéen, aada ak diine. Seetlu soxla yu tontuwul te aar sutura."
      },
      {
       "en": "Check your own attitudes toward aging; society's stereotypes are not your client.",
-      "fr": "Interrogez vos propres attitudes envers la vieillesse ; les stéréotypes de la société ne sont pas votre client."
+      "fr": "Interrogez vos propres attitudes envers la vieillesse ; les stéréotypes de la société ne sont pas votre client.",
+      "wo": "Xool sa bopp ni nga gise màgget ; li askan di xalaat du sa kiliyaan."
      }
     ]
    },
    {
     "heading": {
      "en": "Aging and the body",
-     "fr": "Le vieillissement et le corps"
+     "fr": "Le vieillissement et le corps",
+     "wo": "Màgget ak yaram"
     },
     "points": [
      {
       "en": "Immune: infections take hold more easily. Respiratory: less lung capacity, more pneumonia risk.",
-      "fr": "Immunité : les infections s'installent plus facilement. Respiration : moins de capacité pulmonaire, plus de risque de pneumonie."
+      "fr": "Immunité : les infections s'installent plus facilement. Respiration : moins de capacité pulmonaire, plus de risque de pneumonie.",
+      "wo": "Yaram du mënatul a aar boppam : jàngoro yi gën a yomb a dugg. Noyyi : pumoŋ yi néew doole, pnemoni gën a bari."
      },
      {
       "en": "Heart and circulation: less tolerance for effort, swelling, dizziness on standing. Skin: thin, dry, fragile, slow to heal; pressure ulcers.",
-      "fr": "Cœur et circulation : moins de tolérance à l'effort, gonflements, vertiges en se levant. Peau : fine, sèche, fragile, cicatrise lentement ; escarres."
+      "fr": "Cœur et circulation : moins de tolérance à l'effort, gonflements, vertiges en se levant. Peau : fine, sèche, fragile, cicatrise lentement ; escarres.",
+      "wo": "Xol ak dereet : ñàkk doole bu nga liggéeyee, newi, bopp buy wër bu nga jógee. Dér : sew, wow, néew doole, yàgg a wér ; escarre."
      },
      {
       "en": "Muscles and bones: weaker, stiffer joints, falls and fractures. Senses: weaker sight, hearing, taste and smell.",
-      "fr": "Muscles et os : plus faibles, articulations raides, chutes et fractures. Sens : vue, ouïe, goût et odorat affaiblis."
+      "fr": "Muscles et os : plus faibles, articulations raides, chutes et fractures. Sens : vue, ouïe, goût et odorat affaiblis.",
+      "wo": "Sidit ak yax : néew doole, cér yi dëgër, daanu ak damm. Sens yi : gis, dégg, xalaat ñam ak xeeñ néew."
      },
      {
       "en": "Digestion: constipation, less appetite, chewing and swallowing problems. Urinary: frequency, incontinence, infections.",
-      "fr": "Digestion : constipation, moins d'appétit, problèmes pour mâcher et avaler. Urinaire : envies fréquentes, incontinence, infections."
+      "fr": "Digestion : constipation, moins d'appétit, problèmes pour mâcher et avaler. Urinaire : envies fréquentes, incontinence, infections.",
+      "wo": "Biir : jàpp biir, ñàkk bëgg a lekk, jafe-jafe ci ñàmm ak wann. Saw : saw bu bari, mënul téye, jàngoro."
      },
      {
       "en": "Endocrine, neurological and reproductive systems also change; report new symptoms rather than assuming they are 'just age'.",
-      "fr": "Les systèmes endocrinien, nerveux et reproducteur changent aussi ; signalez les nouveaux symptômes au lieu de penser que « c'est l'âge »."
+      "fr": "Les systèmes endocrinien, nerveux et reproducteur changent aussi ; signalez les nouveaux symptômes au lieu de penser que « c'est l'âge ».",
+      "wo": "Yeneen cér yi itam dañuy soppiku ; wax lu bees ci yaram, bul xalaat ne « màgget rekk la »."
      }
     ]
    },
    {
     "heading": {
      "en": "Aging and the mind",
-     "fr": "Le vieillissement et l'esprit"
+     "fr": "Le vieillissement et l'esprit",
+     "wo": "Màgget ak xel"
     },
     "points": [
      {
       "en": "Temporary changes in mental functioning have causes: infection, dehydration, medication, pain, a move. A sudden change must be reported.",
-      "fr": "Les changements temporaires des fonctions mentales ont des causes : infection, déshydratation, médicament, douleur, déménagement. Un changement soudain doit être signalé."
+      "fr": "Les changements temporaires des fonctions mentales ont des causes : infection, déshydratation, médicament, douleur, déménagement. Un changement soudain doit être signalé.",
+      "wo": "Jaxasoo bu dul yàgg am na lu ko waral : jàngoro, ñàkk ndox, garab, metit, toxu. Lu soppiku bu gaaw, war nañu ko wax."
      },
      {
       "en": "Permanent changes such as dementia develop slowly. Care for clients with memory loss with patience, routine and reassurance.",
-      "fr": "Les changements permanents comme la démence s'installent lentement. Accompagnez les clients avec pertes de mémoire avec patience, routine et réconfort."
+      "fr": "Les changements permanents comme la démence s'installent lentement. Accompagnez les clients avec pertes de mémoire avec patience, routine et réconfort.",
+      "wo": "Lu dul wéy ni démence ndank-ndank lay ñëw. Topptoo ñi ñàkk fàttaliku ak muñ, aada bu nekk bés bu nekk, ak dal."
      },
      {
       "en": "Stress has mental and physical effects. Coping techniques: talking, relaxation, activity, keeping contact with others.",
-      "fr": "Le stress a des effets mentaux et physiques. Pour y faire face : parler, se détendre, rester actif, garder le contact avec les autres."
+      "fr": "Le stress a des effets mentaux et physiques. Pour y faire face : parler, se détendre, rester actif, garder le contact avec les autres.",
+      "wo": "Stress am na jeexital ci xel ak ci yaram. Lu ñu mën a def : wax, noppalu, yëngu, des ak nit ñi."
      }
     ]
    }
   ],
   "report": {
    "en": "Report sudden confusion, falls, swelling, shortness of breath, skin redness or sores, refusal to eat or drink, and any new pain.",
-   "fr": "Signalez une confusion soudaine, les chutes, les gonflements, l'essoufflement, les rougeurs ou plaies de la peau, le refus de manger ou de boire, et toute nouvelle douleur."
+   "fr": "Signalez une confusion soudaine, les chutes, les gonflements, l'essoufflement, les rougeurs ou plaies de la peau, le refus de manger ou de boire, et toute nouvelle douleur.",
+   "wo": "Wax jaxasoo bu gaaw, daanu, newi, ñàkk noyyi, dér bu xonq walla gaañu, bañ a lekk walla naan, ak bépp metit bu bees."
   }
  },
  {
@@ -346,85 +412,101 @@
   "icon": "child",
   "title": {
    "en": "Working with Children",
-   "fr": "Travailler avec les enfants"
+   "fr": "Travailler avec les enfants",
+   "wo": "Liggéey ak xale yi"
   },
   "intro": {
    "en": "Children need a home care worker when a parent or child is ill, after a trauma, or when a parent is overwhelmed. You support the family; you do not replace the parent.",
-   "fr": "Les enfants ont besoin d'un aide à domicile quand un parent ou un enfant est malade, après un traumatisme, ou quand un parent est dépassé. Vous soutenez la famille ; vous ne remplacez pas le parent."
+   "fr": "Les enfants ont besoin d'un aide à domicile quand un parent ou un enfant est malade, après un traumatisme, ou quand un parent est dépassé. Vous soutenez la famille ; vous ne remplacez pas le parent.",
+   "wo": "Xale yi dañuy soxla aide à domicile bu waajur walla xale feebaree, ginnaaw aksidaa, walla bu waajur bi dëppoowul. Yaw dangay jàppale njaboot gi ; doo wuutu waajur bi."
   },
   "sections": [
    {
     "heading": {
      "en": "When children need home care",
-     "fr": "Quand les enfants ont besoin de soins à domicile"
+     "fr": "Quand les enfants ont besoin de soins à domicile",
+     "wo": "Kañ la xale yi soxla soins à domicile"
     },
     "points": [
      {
       "en": "Chronic illness of a child or parent, disability, prematurity, post-trauma, an inexperienced or overwhelmed parent, death or desertion of a parent, domestic violence, abuse, neglect, drug or alcohol problems.",
-      "fr": "Maladie chronique d'un enfant ou d'un parent, handicap, prématurité, traumatisme, parent inexpérimenté ou dépassé, décès ou abandon d'un parent, violence familiale, maltraitance, négligence, alcool ou drogue."
+      "fr": "Maladie chronique d'un enfant ou d'un parent, handicap, prématurité, traumatisme, parent inexpérimenté ou dépassé, décès ou abandon d'un parent, violence familiale, maltraitance, négligence, alcool ou drogue.",
+      "wo": "Feebar bu yàgg ci xale walla waajur, laago, juddu te matul, aksidaa, waajur bu xamul walla dëppoowul, waajur bu dee walla daw, dóor ci kër, toroxal, bàyyi, sangara walla drog."
      },
      {
       "en": "Children have the same five basic needs as adults; help the caregiver meet each one.",
-      "fr": "Les enfants ont les cinq mêmes besoins de base que les adultes ; aidez le parent à satisfaire chacun."
+      "fr": "Les enfants ont les cinq mêmes besoins de base que les adultes ; aidez le parent à satisfaire chacun.",
+      "wo": "Xale yi am nañu juróomi soxla yi mag ñi am ; dimbali waajur bi mu tontu ku nekk."
      }
     ]
    },
    {
     "heading": {
      "en": "Five stages of development",
-     "fr": "Cinq stades de développement"
+     "fr": "Cinq stades de développement",
+     "wo": "Juróomi jamono yu màgg"
     },
     "points": [
      {
       "en": "Infant, birth to 12 months. Toddler, 1 to 3 years. Preschool, 3 to 6. School age, 6 to 11 or 12. Adolescent, 11 to 19.",
-      "fr": "Nourrisson : naissance à 12 mois. Tout-petit : 1 à 3 ans. Préscolaire : 3 à 6 ans. Âge scolaire : 6 à 11 ou 12 ans. Adolescent : 11 à 19 ans."
+      "fr": "Nourrisson : naissance à 12 mois. Tout-petit : 1 à 3 ans. Préscolaire : 3 à 6 ans. Âge scolaire : 6 à 11 ou 12 ans. Adolescent : 11 à 19 ans.",
+      "wo": "Liir : ba 12 weer. Xale bu ndaw : 1 ba 3 at. Laata ekool : 3 ba 6 at. Ekool : 6 ba 11 walla 12 at. Ndaw : 11 ba 19 at."
      },
      {
       "en": "Each stage has typical behaviors and ways of playing. Use the keys to good communication at the child's level.",
-      "fr": "Chaque stade a ses comportements et ses jeux typiques. Communiquez au niveau de l'enfant."
+      "fr": "Chaque stade a ses comportements et ses jeux typiques. Communiquez au niveau de l'enfant.",
+      "wo": "Jamono bu nekk am na jikko ak po yu ko dëppoo. Waxtaan ak xale bi ci tolluwaayam."
      }
     ]
    },
    {
     "heading": {
      "en": "Stress and families",
-     "fr": "Le stress et la famille"
+     "fr": "Le stress et la famille",
+     "wo": "Stress ak njaboot"
     },
     "points": [
      {
       "en": "Family problems: money, illness and injury, family dynamics, alcohol and drugs, domestic violence.",
-      "fr": "Problèmes familiaux : argent, maladie et blessures, dynamique familiale, alcool et drogue, violence familiale."
+      "fr": "Problèmes familiaux : argent, maladie et blessures, dynamique familiale, alcool et drogue, violence familiale.",
+      "wo": "Jafe-jafey njaboot : xaalis, feebar ak gaañu, mbokk yi, sangara ak drog, dóor ci kër."
      },
      {
       "en": "Young children, school-age children and adolescents react to stress differently: regression, clinging, acting out, withdrawal, school problems.",
-      "fr": "Jeunes enfants, enfants d'âge scolaire et adolescents réagissent différemment au stress : régression, besoin de s'accrocher, agitation, repli, problèmes scolaires."
+      "fr": "Jeunes enfants, enfants d'âge scolaire et adolescents réagissent différemment au stress : régression, besoin de s'accrocher, agitation, repli, problèmes scolaires.",
+      "wo": "Xale yu ndaw, xale yu ekool ak ndaw ñi dañuy tontu stress ci anam yu wuute : delluwaat ginnaaw, jàpp ci yaw, coow, tëju, jafe-jafe ci ekool."
      }
     ]
    },
    {
     "heading": {
      "en": "Working with parents",
-     "fr": "Travailler avec les parents"
+     "fr": "Travailler avec les parents",
+     "wo": "Liggéey ak waajur yi"
     },
     "points": [
      {
       "en": "Understand family roles and dynamics. Show respect for the family's resources, lifestyle and culture.",
-      "fr": "Comprenez les rôles et la dynamique familiale. Respectez les ressources, le mode de vie et la culture de la famille."
+      "fr": "Comprenez les rôles et la dynamique familiale. Respectez les ressources, le mode de vie et la culture de la famille.",
+      "wo": "Nand palaasu ku nekk ci njaboot gi ak ni ñuy dunde. Weg alalu njaboot gi, dundinam ak aadaam."
      },
      {
       "en": "Address the caregiver's needs at the beginning of each visit. Model positive parenting rather than criticizing.",
-      "fr": "Occupez-vous des besoins du parent au début de chaque visite. Montrez l'exemple d'une parentalité positive plutôt que de critiquer."
+      "fr": "Occupez-vous des besoins du parent au début de chaque visite. Montrez l'exemple d'une parentalité positive plutôt que de critiquer.",
+      "wo": "Faju soxlay waajur bi ci ndoorteelu bés bu nekk. Wone ni ñuy yar bu baax, bul ñaawlu."
      },
      {
       "en": "Observe, report and communicate with the home health team.",
-      "fr": "Observez, signalez et communiquez avec l'équipe de soins."
+      "fr": "Observez, signalez et communiquez avec l'équipe de soins.",
+      "wo": "Seetlu, wax te jokkoo ak ekib bi."
      }
     ]
    }
   ],
   "report": {
    "en": "Report signs of abuse or neglect, unsafe conditions, a child who is ill or not developing as expected, and a parent in crisis.",
-   "fr": "Signalez les signes de maltraitance ou de négligence, les conditions dangereuses, un enfant malade ou qui ne se développe pas normalement, et un parent en crise."
+   "fr": "Signalez les signes de maltraitance ou de négligence, les conditions dangereuses, un enfant malade ou qui ne se développe pas normalement, et un parent en crise.",
+   "wo": "Wax firndey toroxal walla bàyyi, kaaraange bu ñàkk, xale bu feebar walla màggul ni mu ware, ak waajur bu nekk ci jafe-jafe bu metti."
   }
  },
  {
@@ -434,73 +516,87 @@
   "icon": "mind",
   "title": {
    "en": "Mental Health and Mental Illness",
-   "fr": "Santé mentale et maladie mentale"
+   "fr": "Santé mentale et maladie mentale",
+   "wo": "Wérgi-xel ak feebaru xel"
   },
   "intro": {
    "en": "Mentally ill people can recover and lead normal lives. Your role is to observe without judging, support the care plan, and keep everyone safe.",
-   "fr": "Les personnes atteintes de maladie mentale peuvent guérir et mener une vie normale. Votre rôle est d'observer sans juger, de soutenir le plan de soins et d'assurer la sécurité de tous."
+   "fr": "Les personnes atteintes de maladie mentale peuvent guérir et mener une vie normale. Votre rôle est d'observer sans juger, de soutenir le plan de soins et d'assurer la sécurité de tous.",
+   "wo": "Ñi am feebaru xel mën nañu wér te dund bu baax. Sa liggéey mooy seetlu te bañ a àtte, jàppale palaŋu topptoo bi, te aar képp."
   },
   "sections": [
    {
     "heading": {
      "en": "Mental health",
-     "fr": "Santé mentale"
+     "fr": "Santé mentale",
+     "wo": "Wérgi-xel"
     },
     "points": [
      {
       "en": "Mentally healthy people adapt to change, give and accept affection, build relationships, control impulses, accept responsibility and disappointment, tolerate some anxiety, and respect themselves.",
-      "fr": "Les personnes en bonne santé mentale s'adaptent au changement, donnent et reçoivent de l'affection, bâtissent des relations, contrôlent leurs impulsions, acceptent responsabilités et déceptions, tolèrent un peu d'anxiété et se respectent."
+      "fr": "Les personnes en bonne santé mentale s'adaptent au changement, donnent et reçoivent de l'affection, bâtissent des relations, contrôlent leurs impulsions, acceptent responsabilités et déceptions, tolèrent un peu d'anxiété et se respectent.",
+      "wo": "Ku am wérgi-xel mën na jubbanti boppam bu lu soppikoo, jox ak jël mbëggeel, am xarit, téye boppam, nangu wareefam ak ñàkk, muñ tuuti tiit, te weg boppam."
      },
      {
       "en": "Everyone uses coping mechanisms: making excuses, blaming others, compensating, avoiding, regressing, displacing feelings, blocking out thoughts.",
-      "fr": "Tout le monde utilise des mécanismes de défense : excuses, accuser les autres, compenser, éviter, régresser, déplacer ses sentiments, refouler."
+      "fr": "Tout le monde utilise des mécanismes de défense : excuses, accuser les autres, compenser, éviter, régresser, déplacer ses sentiments, refouler.",
+      "wo": "Ku nekk am na ni muy aar boppam : sàkku lay, tuumaal ñeneen, defar ci feneen, daw, delluwaat ginnaaw, yóbbu xolam ci keneen, fàtte."
      }
     ]
    },
    {
     "heading": {
      "en": "Mental illness",
-     "fr": "Maladie mentale"
+     "fr": "Maladie mentale",
+     "wo": "Feebaru xel"
     },
     "points": [
      {
       "en": "Can be severe or mild. Causes: physical (brain injury, chemical imbalance), environment, heredity, abnormal stress.",
-      "fr": "Peut être grave ou légère. Causes : physiques (lésion du cerveau, déséquilibre chimique), environnement, hérédité, stress anormal."
+      "fr": "Peut être grave ou légère. Causes : physiques (lésion du cerveau, déséquilibre chimique), environnement, hérédité, stress anormal.",
+      "wo": "Mën na metti walla woyof. Lu ko waral : yaram (gaañu ci bopp, lu jaxasoo ci dereet), ni ñuy dunde, cosaan, stress bu ëpp."
      },
      {
       "en": "Types: abnormal anxiety, phobias, depression, paranoia, abnormal thinking. It affects the individual and the family.",
-      "fr": "Types : anxiété anormale, phobies, dépression, paranoïa, pensée anormale. Elle touche la personne et sa famille."
+      "fr": "Types : anxiété anormale, phobies, dépression, paranoïa, pensée anormale. Elle touche la personne et sa famille.",
+      "wo": "Xeet yi : tiit bu ëpp, ragal lu dul lu wóor, naqar bu ëpp (dépression), xalaat ne ñu ngi la topp (paranoïa), xalaat bu dul jub. Dafay laal nit ki ak njabootam."
      },
      {
       "en": "Treatment is usually outpatient, by professional teams. Recovery is possible.",
-      "fr": "Le traitement est généralement ambulatoire, par des équipes professionnelles. La guérison est possible."
+      "fr": "Le traitement est généralement ambulatoire, par des équipes professionnelles. La guérison est possible.",
+      "wo": "Faju bi ci biti lopitaal la ci lu ëpp, ak ekib bu xam. Wér mën na am."
      }
     ]
    },
    {
     "heading": {
      "en": "Your role",
-     "fr": "Votre rôle"
+     "fr": "Votre rôle",
+     "wo": "Sa liggéey"
     },
     "points": [
      {
       "en": "Observe behavior: describe it, when it occurs, how often, how long. Is it a change in personality? Is it extreme or harmful? Do NOT draw conclusions about the cause.",
-      "fr": "Observez le comportement : décrivez-le, quand, à quelle fréquence, combien de temps. Est-ce un changement de personnalité ? Est-ce extrême ou dangereux ? NE tirez PAS de conclusions sur la cause."
+      "fr": "Observez le comportement : décrivez-le, quand, à quelle fréquence, combien de temps. Est-ce un changement de personnalité ? Est-ce extrême ou dangereux ? NE tirez PAS de conclusions sur la cause.",
+      "wo": "Seetlu jikko : wax ni mu mel, kañ, ñaata yoon, ba kañ. Ndax soppiku na ci jikkoom ? Ndax dafa ëpp walla dafay lor ? BUL wax lu ko waral."
      },
      {
       "en": "Assist with medication and report changes; observe, record and report; help with home and personal care; give reassurance, encouragement and guidance; preserve the person's authority and affection in the family.",
-      "fr": "Aidez pour les médicaments et signalez les changements ; observez, notez et signalez ; aidez au ménage et aux soins personnels ; rassurez, encouragez, guidez ; préservez l'autorité et l'affection de la personne dans sa famille."
+      "fr": "Aidez pour les médicaments et signalez les changements ; observez, notez et signalez ; aidez au ménage et aux soins personnels ; rassurez, encouragez, guidez ; préservez l'autorité et l'affection de la personne dans sa famille.",
+      "wo": "Dimbali ci garab te wax lu soppiku ; seetlu, bind, wax ; dimbali ci kër ak ci soins personnels ; dal ko, xiirtal ko, jàppale ko ; aar palaasam ak mbëggeel gi ci njabootam."
      },
      {
       "en": "Safety: discuss the care plan with the nurse; never leave the client unattended if the plan requires constant supervision; report non-compliance with medication or treatment; call 911 for extreme behavior changes.",
-      "fr": "Sécurité : discutez du plan de soins avec l'infirmière ; ne laissez jamais le client seul si le plan exige une surveillance constante ; signalez le non-respect du traitement ; appelez le 911 en cas de changement extrême de comportement."
+      "fr": "Sécurité : discutez du plan de soins avec l'infirmière ; ne laissez jamais le client seul si le plan exige une surveillance constante ; signalez le non-respect du traitement ; appelez le 911 en cas de changement extrême de comportement.",
+      "wo": "Kaaraange : waxtaan ak infirmiyeer bi ci palaŋ bi ; bul bàyyi kiliyaan bi moom rekk bu palaŋ bi laajee ñu saytu ko saa su nekk ; wax bu nanguwul garab walla faju ; woo 911 bu jikko ji soppikoo lu ëpp."
      }
     ]
    }
   ],
   "report": {
    "en": "Report any talk of suicide or self-harm immediately, refusal of medication, and any behavior that is harmful to the client or to you.",
-   "fr": "Signalez immédiatement toute parole de suicide ou d'automutilation, le refus des médicaments, et tout comportement dangereux pour le client ou pour vous."
+   "fr": "Signalez immédiatement toute parole de suicide ou d'automutilation, le refus des médicaments, et tout comportement dangereux pour le client ou pour vous.",
+   "wo": "Wax ci saa si bépp wax ci bëgg a dee walla lor boppam, bañ garab, ak jikko bu lor kiliyaan bi walla yaw."
   }
  },
  {
@@ -510,65 +606,78 @@
   "icon": "dd",
   "title": {
    "en": "Developmental Disabilities",
-   "fr": "Handicaps du développement"
+   "fr": "Handicaps du développement",
+   "wo": "Laago bu jóge ci ndaw"
   },
   "intro": {
    "en": "A developmental disability is permanent and begins before age 22. It is not an illness. Address the person, not the disability, and support independence.",
-   "fr": "Un handicap du développement est permanent et apparaît avant 22 ans. Ce n'est pas une maladie. Adressez-vous à la personne, pas au handicap, et soutenez son indépendance."
+   "fr": "Un handicap du développement est permanent et apparaît avant 22 ans. Ce n'est pas une maladie. Adressez-vous à la personne, pas au handicap, et soutenez son indépendance.",
+   "wo": "Laago bu jóge ci ndaw du wéy te dafay tàmbali laata 22 at. Du feebar. Waxal ak nit ki, du ak laago bi, te dooleel sañ-sañam."
   },
   "sections": [
    {
     "heading": {
      "en": "Understanding developmental disabilities",
-     "fr": "Comprendre les handicaps du développement"
+     "fr": "Comprendre les handicaps du développement",
+     "wo": "Nand laago bu jóge ci ndaw"
     },
     "points": [
      {
       "en": "They affect self-care, communication, movement, self-direction, and the potential for independent living and financial independence.",
-      "fr": "Ils touchent les soins personnels, la communication, les mouvements, l'autonomie de décision, et la possibilité de vivre et de gagner sa vie de façon indépendante."
+      "fr": "Ils touchent les soins personnels, la communication, les mouvements, l'autonomie de décision, et la possibilité de vivre et de gagner sa vie de façon indépendante.",
+      "wo": "Dafay laal topptoo sa bopp, waxtaan, yëngu, dogal sa bopp, ak mën a dund te gañe sa dund boppam."
      },
      {
       "en": "Types: intellectual disability, cerebral palsy, autism, neurological impairments, multiple disabilities. Levels: mild, moderate, severe, profound.",
-      "fr": "Types : déficience intellectuelle, paralysie cérébrale, autisme, atteintes neurologiques, handicaps multiples. Niveaux : léger, modéré, sévère, profond."
+      "fr": "Types : déficience intellectuelle, paralysie cérébrale, autisme, atteintes neurologiques, handicaps multiples. Niveaux : léger, modéré, sévère, profond.",
+      "wo": "Xeet yi : laago ci xel, paralysie cérébrale, autisme, laago ci sidit yi, laago yu bari. Tolluwaay : woyof, digg, metti, metti lool."
      },
      {
       "en": "Causes: congenital (chromosomal or genetic, e.g., Down syndrome) or acquired (infection in pregnancy, brain damage at birth, alcohol, drugs or poor nutrition in pregnancy, prematurity, lead poisoning).",
-      "fr": "Causes : congénitales (chromosomiques ou génétiques, ex. trisomie 21) ou acquises (infection pendant la grossesse, lésion cérébrale à la naissance, alcool, drogue ou mauvaise nutrition pendant la grossesse, prématurité, intoxication au plomb)."
+      "fr": "Causes : congénitales (chromosomiques ou génétiques, ex. trisomie 21) ou acquises (infection pendant la grossesse, lésion cérébrale à la naissance, alcool, drogue ou mauvaise nutrition pendant la grossesse, prématurité, intoxication au plomb).",
+      "wo": "Lu ko waral : juddoo ak moom (chromosome, gène, ni trisomie 21) walla am ko ginnaaw (jàngoro ci biir, gaañu ci bopp bu ñuy juddu, sangara, drog walla ñam bu baaxul ci biir, juddu te matul, poison bu plomb)."
      },
      {
       "en": "Unlike mental illness, a developmental disability is permanent and starts before 22; mental illness may be temporary and can start at any age.",
-      "fr": "Contrairement à la maladie mentale, le handicap du développement est permanent et débute avant 22 ans ; la maladie mentale peut être temporaire et débuter à tout âge."
+      "fr": "Contrairement à la maladie mentale, le handicap du développement est permanent et débute avant 22 ans ; la maladie mentale peut être temporaire et débuter à tout âge.",
+      "wo": "Wuute ak feebaru xel : laago bu jóge ci ndaw du wéy te tàmbali laata 22 at ; feebaru xel mën na dul yàgg te mën na tàmbali at bu nekk."
      }
     ]
    },
    {
     "heading": {
      "en": "Home care and performance standards",
-     "fr": "Soins à domicile et normes de performance"
+     "fr": "Soins à domicile et normes de performance",
+     "wo": "Soins à domicile ak ni ñu war a liggéey"
     },
     "points": [
      {
       "en": "Current philosophy: address the person, not the disability; focus on independence, productivity and integration; promote self-determination and community participation.",
-      "fr": "Philosophie actuelle : s'adresser à la personne, pas au handicap ; viser l'indépendance, la productivité et l'intégration ; promouvoir l'autodétermination et la participation à la communauté."
+      "fr": "Philosophie actuelle : s'adresser à la personne, pas au handicap ; viser l'indépendance, la productivité et l'intégration ; promouvoir l'autodétermination et la participation à la communauté.",
+      "wo": "Xalaat bu tey : waxal ak nit ki, du ak laago bi ; jëm ci sañ-sañ, liggéey ak bokk ci askan wi ; dooleel dogal sa bopp ak bokk ci gox bi."
      },
      {
       "en": "Speak politely to everyone. Include people in conversations: speak WITH them, not about them.",
-      "fr": "Parlez poliment à tous. Incluez les personnes dans les conversations : parlez AVEC elles, pas d'elles."
+      "fr": "Parlez poliment à tous. Incluez les personnes dans les conversations : parlez AVEC elles, pas d'elles.",
+      "wo": "Wax ak teggin ak ñépp. Dugal nit ñi ci waxtaan : wax AK ñoom, du ci kaw ñoom."
      },
      {
       "en": "Use positive communication, explain in ways people understand and watch how it is received. Ask questions instead of giving commands.",
-      "fr": "Communication positive, explications compréhensibles, et observation de la façon dont c'est reçu. Posez des questions au lieu de donner des ordres."
+      "fr": "Communication positive, explications compréhensibles, et observation de la façon dont c'est reçu. Posez des questions au lieu de donner des ordres.",
+      "wo": "Waxtaan bu baax, leeral bu ñu mën a nand, te xool ni ñu ko jële. Laaj, bul santaane."
      },
      {
       "en": "Encourage people to do as much as possible themselves. Include them in decisions and offer choices. Respect differences, desires, needs, values and feelings.",
-      "fr": "Encouragez les personnes à faire le maximum elles-mêmes. Incluez-les dans les décisions et offrez des choix. Respectez les différences, désirs, besoins, valeurs et sentiments."
+      "fr": "Encouragez les personnes à faire le maximum elles-mêmes. Incluez-les dans les décisions et offrez des choix. Respectez les différences, désirs, besoins, valeurs et sentiments.",
+      "wo": "Xiirtal nit ñi ñu def li ñu mën ñoom ci seen bopp. Dugal leen ci dogal yi te jox leen tànneef. Weg wuute, bëgg-bëgg, soxla, ngëm ak xol."
      }
     ]
    }
   ],
   "report": {
    "en": "Report changes in behavior, skills or health, signs of abuse or neglect, and equipment or safety problems.",
-   "fr": "Signalez les changements de comportement, de capacités ou de santé, les signes de maltraitance ou de négligence, et les problèmes de matériel ou de sécurité."
+   "fr": "Signalez les changements de comportement, de capacités ou de santé, les signes de maltraitance ou de négligence, et les problèmes de matériel ou de sécurité.",
+   "wo": "Wax lu soppiku ci jikko, ci mën-mën walla ci wérgi-yaram, firndey toroxal walla bàyyi, ak jafe-jafe ci jumtukaay walla ci kaaraange."
   }
  },
  {
@@ -578,57 +687,68 @@
   "icon": "wheelchair",
   "title": {
    "en": "Physical Disabilities",
-   "fr": "Handicaps physiques"
+   "fr": "Handicaps physiques",
+   "wo": "Laago yaram"
   },
   "intro": {
    "en": "A diagnosis does not tell you what a person can do. Focus on function, on activities of daily living, and on the goals: self-care, dignity and a normal lifestyle.",
-   "fr": "Un diagnostic ne dit pas ce qu'une personne peut faire. Concentrez-vous sur le fonctionnement, sur les activités de la vie quotidienne, et sur les objectifs : autonomie, dignité et vie normale."
+   "fr": "Un diagnostic ne dit pas ce qu'une personne peut faire. Concentrez-vous sur le fonctionnement, sur les activités de la vie quotidienne, et sur les objectifs : autonomie, dignité et vie normale.",
+   "wo": "Diagnostic du la wax li nit ki mën a def. Xoolal li mu mën, liggéey yu bés bu nekk, ak li ñu jëm : topptoo boppam, teggin ak dund bu baax."
   },
   "sections": [
    {
     "heading": {
      "en": "What a physical disability is",
-     "fr": "Ce qu'est un handicap physique"
+     "fr": "Ce qu'est un handicap physique",
+     "wo": "Lu laago yaram di tekki"
     },
     "points": [
      {
       "en": "Developmental (at or near birth), injury-related, or disease-related; temporary or permanent.",
-      "fr": "De naissance, dû à une blessure ou à une maladie ; temporaire ou permanent."
+      "fr": "De naissance, dû à une blessure ou à une maladie ; temporaire ou permanent.",
+      "wo": "Juddoo ak moom, gaañu-gaañu walla feebar ; du yàgg walla du wéy."
      },
      {
       "en": "The impact is on activities of daily living (ADLs: bathing, dressing, eating, toileting, moving) and instrumental ADLs (shopping, cooking, managing money, transportation).",
-      "fr": "L'impact porte sur les activités de la vie quotidienne (toilette, habillage, repas, toilettes, déplacements) et les activités instrumentales (courses, cuisine, gestion de l'argent, transports)."
+      "fr": "L'impact porte sur les activités de la vie quotidienne (toilette, habillage, repas, toilettes, déplacements) et les activités instrumentales (courses, cuisine, gestion de l'argent, transports).",
+      "wo": "Jeexital bi ci liggéey yu bés bu nekk la (sangu, sol, lekk, wanag, yëngu) ak liggéey yu ëpp (njënd, togg, saytu xaalis, transport)."
      },
      {
       "en": "Quality of life depends on supports (family, environment, social), on stress, and on the coping of the person and the family. Lack of socialization is itself a stress.",
-      "fr": "La qualité de vie dépend des soutiens (famille, environnement, social), du stress, et de l'adaptation de la personne et de la famille. Le manque de vie sociale est lui-même un stress."
+      "fr": "La qualité de vie dépend des soutiens (famille, environnement, social), du stress, et de l'adaptation de la personne et de la famille. Le manque de vie sociale est lui-même un stress.",
+      "wo": "Dund bu baax dafa aju ci ndimbal (njaboot, kër, askan), ci stress, ak ni nit ki ak njabootam di jubbanti. Ñàkk nit ñu ngay waxtaan al stress la itam."
      }
     ]
    },
    {
     "heading": {
      "en": "How you help",
-     "fr": "Comment vous aidez"
+     "fr": "Comment vous aidez",
+     "wo": "Ni ngay dimbali"
     },
     "points": [
      {
       "en": "Goals: promote self-care and independence, maintain dignity and self-worth, preserve a normal lifestyle.",
-      "fr": "Objectifs : favoriser l'autonomie et l'indépendance, préserver la dignité et l'estime de soi, maintenir un mode de vie normal."
+      "fr": "Objectifs : favoriser l'autonomie et l'indépendance, préserver la dignité et l'estime de soi, maintenir un mode de vie normal.",
+      "wo": "Li ñu jëm : dooleel topptoo sa bopp ak sañ-sañ, aar teggin ak solo, aar dund bu baax."
      },
      {
       "en": "Follow the plan of care, give emotional support, encourage as much independence as possible, and help make the environment supportive.",
-      "fr": "Suivez le plan de soins, apportez un soutien émotionnel, encouragez l'indépendance au maximum, et aidez à rendre l'environnement favorable."
+      "fr": "Suivez le plan de soins, apportez un soutien émotionnel, encouragez l'indépendance au maximum, et aidez à rendre l'environnement favorable.",
+      "wo": "Topp palaŋu topptoo bi, jàppale ko ci xolam, xiirtal sañ-sañ bu mën a am, te dimbali ko ngir kër gi dëppoo ak moom."
      },
      {
       "en": "Be aware of social, cultural and environmental influences on care.",
-      "fr": "Tenez compte des influences sociales, culturelles et environnementales sur les soins."
+      "fr": "Tenez compte des influences sociales, culturelles et environnementales sur les soins.",
+      "wo": "Xam ni askan, aada ak kër gi di jëfe ci topptoo bi."
      }
     ]
    }
   ],
   "report": {
    "en": "Report changes in function, new pain, skin problems from braces or chairs, and equipment that is worn or broken.",
-   "fr": "Signalez les changements de capacités, une nouvelle douleur, les problèmes de peau dus aux attelles ou aux fauteuils, et le matériel usé ou cassé."
+   "fr": "Signalez les changements de capacités, une nouvelle douleur, les problèmes de peau dus aux attelles ou aux fauteuils, et le matériel usé ou cassé.",
+   "wo": "Wax lu soppiku ci mën-mën, metit bu bees, jafe-jafe ci dér ndax attelle walla fauteuil, ak jumtukaay bu yàqu."
   }
  },
  {
@@ -638,137 +758,165 @@
   "icon": "food",
   "title": {
    "en": "Food, Nutrition and Meal Preparation",
-   "fr": "Alimentation, nutrition et préparation des repas"
+   "fr": "Alimentation, nutrition et préparation des repas",
+   "wo": "Ñam, nutrition ak togg"
   },
   "intro": {
    "en": "Good meals keep clients healthy and are a daily pleasure. Learn the nutrients, plan balanced meals the client likes, handle food safely, and follow modified diets exactly.",
-   "fr": "De bons repas gardent les clients en santé et sont un plaisir quotidien. Apprenez les nutriments, planifiez des repas équilibrés que le client aime, manipulez les aliments en sécurité et suivez les régimes modifiés à la lettre."
+   "fr": "De bons repas gardent les clients en santé et sont un plaisir quotidien. Apprenez les nutriments, planifiez des repas équilibrés que le client aime, manipulez les aliments en sécurité et suivez les régimes modifiés à la lettre.",
+   "wo": "Ñam bu baax dafay tax kiliyaan bi wér te bég bés bu nekk. Jàng nutriman yi, waajal ñam bu dëppoo te kiliyaan bi bëgg ko, yor ñam wi ci set, te topp régime bu ñu soppi bu baax."
   },
   "note": {
    "en": "The 2007 curriculum uses 'MyPyramid' and the 2005 Dietary Guidelines. Current U.S. guidance is MyPlate (2011) and the Dietary Guidelines for Americans 2020–2025; the principles below are unchanged.",
-   "fr": "Le programme de 2007 utilise « MyPyramid » et les recommandations alimentaires de 2005. Les recommandations américaines actuelles sont MyPlate (2011) et les Dietary Guidelines 2020–2025 ; les principes ci-dessous n'ont pas changé."
+   "fr": "Le programme de 2007 utilise « MyPyramid » et les recommandations alimentaires de 2005. Les recommandations américaines actuelles sont MyPlate (2011) et les Dietary Guidelines 2020–2025 ; les principes ci-dessous n'ont pas changé.",
+   "wo": "Program bu 2007 bi « MyPyramid » la jëfandikoo. Tey, MyPlate (2011) lañuy jëfandikoo ; waaye li ci biir soppikuwul."
   },
   "sections": [
    {
     "heading": {
      "en": "The nutrients",
-     "fr": "Les nutriments"
+     "fr": "Les nutriments",
+     "wo": "Nutriman yi"
     },
     "points": [
      {
       "en": "Protein builds and repairs tissue: meat, fish, eggs, milk, soy, legumes.",
-      "fr": "Les protéines construisent et réparent les tissus : viande, poisson, œufs, lait, soja, légumineuses."
+      "fr": "Les protéines construisent et réparent les tissus : viande, poisson, œufs, lait, soja, légumineuses.",
+      "wo": "Proteyin dafay tabax te defaraat yaram : yàpp, jën, nen, meew, soja, ñebbe."
      },
      {
       "en": "Carbohydrates give energy: starches (grains, potatoes, beans), sugars (fruit, vegetables), fiber for digestion.",
-      "fr": "Les glucides donnent de l'énergie : féculents (céréales, pommes de terre, haricots), sucres (fruits, légumes), fibres pour la digestion."
+      "fr": "Les glucides donnent de l'énergie : féculents (céréales, pommes de terre, haricots), sucres (fruits, légumes), fibres pour la digestion.",
+      "wo": "Glisid dañuy jox doole : féculent (dugub, pombiteer, ñebbe), sukar (fruit, lejum), fibre ngir biir bi dox."
      },
      {
       "en": "Fat protects organs, insulates, carries nutrients. Prefer unsaturated oils (corn, soy, sunflower) over saturated fats (butter, coconut oil).",
-      "fr": "Les graisses protègent les organes, isolent, transportent des nutriments. Préférez les huiles insaturées (maïs, soja, tournesol) aux graisses saturées (beurre, huile de coco)."
+      "fr": "Les graisses protègent les organes, isolent, transportent des nutriments. Préférez les huiles insaturées (maïs, soja, tournesol) aux graisses saturées (beurre, huile de coco).",
+      "wo": "Diw dafay aar cér yi, aar yaram ci sedd, yóbbu nutriman. Taamu diw yu dul dëgër (maïs, soja, tournesol) ci kaw beur ak diwu kokko."
      },
      {
       "en": "Vitamins: A for skin and bones, B for nerves and digestion, C for blood vessels and healing, D for bones and teeth, E as an antioxidant.",
-      "fr": "Vitamines : A pour la peau et les os, B pour les nerfs et la digestion, C pour les vaisseaux et la cicatrisation, D pour les os et les dents, E comme antioxydant."
+      "fr": "Vitamines : A pour la peau et les os, B pour les nerfs et la digestion, C pour les vaisseaux et la cicatrisation, D pour les os et les dents, E comme antioxydant.",
+      "wo": "Witamin : A ngir dér ak yax, B ngir sidit ak biir, C ngir dereet ak wér, D ngir yax ak bëñ, E antioxydant."
      },
      {
       "en": "Minerals: calcium for bones, clotting and muscles; potassium for the heart; iron for hemoglobin; iodine for the thyroid; sodium for water balance. Water is a nutrient, essential for digestion, elimination and temperature.",
-      "fr": "Minéraux : calcium pour les os, la coagulation et les muscles ; potassium pour le cœur ; fer pour l'hémoglobine ; iode pour la thyroïde ; sodium pour l'équilibre de l'eau. L'eau est un nutriment, essentielle à la digestion, à l'élimination et à la température."
+      "fr": "Minéraux : calcium pour les os, la coagulation et les muscles ; potassium pour le cœur ; fer pour l'hémoglobine ; iode pour la thyroïde ; sodium pour l'équilibre de l'eau. L'eau est un nutriment, essentielle à la digestion, à l'élimination et à la température.",
+      "wo": "Mineero : kalsiyom ngir yax, dereet bu dëgër ak sidit ; potasiyom ngir xol ; weñ ngir dereet ; iyod ngir tiroyid ; xorom ngir ndox ci yaram. Ndox nutriman la, am na solo ci biir, saw ak tàngoor."
      }
     ]
    },
    {
     "heading": {
      "en": "Meal planning",
-     "fr": "Planifier les repas"
+     "fr": "Planifier les repas",
+     "wo": "Waajal ñam"
     },
     "points": [
      {
       "en": "A balanced diet includes something from each food group every day: milk; meat, fish, beans and nuts; fruit; vegetables; grains; and very little fat, oil and sugar.",
-      "fr": "Un régime équilibré comprend chaque jour un aliment de chaque groupe : lait ; viande, poisson, haricots et noix ; fruits ; légumes ; céréales ; et très peu de graisses, d'huile et de sucre."
+      "fr": "Un régime équilibré comprend chaque jour un aliment de chaque groupe : lait ; viande, poisson, haricots et noix ; fruits ; légumes ; céréales ; et très peu de graisses, d'huile et de sucre.",
+      "wo": "Ñam bu dëppoo am na bés bu nekk lu bokk ci kurél bu nekk : meew ; yàpp, jën, ñebbe ak tiga ; fruit ; lejum ; dugub ; ak tuuti diw, diw ak sukar."
      },
      {
       "en": "Guidelines: variety, control calories, be active, more fruit, vegetables, whole grains and low-fat milk, choose fats and carbohydrates wisely, little salt, alcohol only in moderation, keep food safe.",
-      "fr": "Recommandations : variété, contrôler les calories, être actif, plus de fruits, légumes, céréales complètes et lait allégé, bien choisir graisses et glucides, peu de sel, alcool avec modération, aliments sûrs."
+      "fr": "Recommandations : variété, contrôler les calories, être actif, plus de fruits, légumes, céréales complètes et lait allégé, bien choisir graisses et glucides, peu de sel, alcool avec modération, aliments sûrs.",
+      "wo": "Ndigël : wuute, saytu kalori, yëngu, fruit, lejum, dugub bu mat ak meew bu néew diw, tànn diw ak glisid bu baax, xorom tuuti, sangara tuuti rekk, ñam bu wóor."
      },
      {
       "en": "Respect preferences and habits: culture, religion, past experience, cost and convenience. Involve the client in planning. Mind serving sizes and special nutrient needs.",
-      "fr": "Respectez préférences et habitudes : culture, religion, expérience, coût et facilité. Impliquez le client. Attention aux portions et aux besoins particuliers."
+      "fr": "Respectez préférences et habitudes : culture, religion, expérience, coût et facilité. Impliquez le client. Attention aux portions et aux besoins particuliers.",
+      "wo": "Weg li kiliyaan bi bëgg ak aadaam : aada, diine, li mu miin, njëg ak yomb. Dugal ko ci waajal gi. Seet portion ak soxla yu bees."
      }
     ]
    },
    {
     "heading": {
      "en": "Preparing and serving",
-     "fr": "Préparer et servir"
+     "fr": "Préparer et servir",
+     "wo": "Togg ak jox"
     },
     "points": [
      {
       "en": "Avoid frying; steam vegetables; bake, broil or microwave; avoid convenience foods; cook only until tender to keep nutrients. Ask how the client likes food seasoned.",
-      "fr": "Évitez la friture ; cuisez les légumes à la vapeur ; four, gril ou micro-ondes ; évitez les plats préparés ; cuisez juste à point pour garder les nutriments. Demandez comment le client aime assaisonner."
+      "fr": "Évitez la friture ; cuisez les légumes à la vapeur ; four, gril ou micro-ondes ; évitez les plats préparés ; cuisez juste à point pour garder les nutriments. Demandez comment le client aime assaisonner.",
+      "wo": "Bul sotti ci diw ; baxal lejum ci wal ; four, gril walla micro-ondes ; bul jëfandikoo ñam bu ñu pare ; bul togg lu ëpp ngir nutriman yi des. Laaj ni kiliyaan bi bëgge ñam wi tàng."
      },
      {
       "en": "Involving the client builds independence and self-worth. Equipment may be limited: be creative and ask your supervisor.",
-      "fr": "Impliquer le client développe son indépendance et son estime de soi. Le matériel peut manquer : soyez créatif et demandez à votre superviseur."
+      "fr": "Impliquer le client développe son indépendance et son estime de soi. Le matériel peut manquer : soyez créatif et demandez à votre superviseur.",
+      "wo": "Dugal kiliyaan bi ci togg dafay dooleel sañ-sañam ak teggin. Jumtukaay mën na néew : xalaatal te laaj sa superviseur."
      },
      {
       "en": "Serve attractive food with contrasting colors and textures, small portions with seconds available, and sit and talk during meals.",
-      "fr": "Servez des plats appétissants aux couleurs et textures variées, petites portions avec possibilité de se resservir, et asseyez-vous pour parler pendant le repas."
+      "fr": "Servez des plats appétissants aux couleurs et textures variées, petites portions avec possibilité de se resservir, et asseyez-vous pour parler pendant le repas.",
+      "wo": "Jox ñam bu rafet, melo ak texture yu wuute, portion yu ndaw te mën a yokk, te toog waxtaan bu ñuy lekk."
      },
      {
       "en": "Poor appetite may signal illness or depression, dissatisfaction with food, poor mouth care, chewing problems or medications. Report it.",
-      "fr": "Un manque d'appétit peut signaler maladie ou dépression, insatisfaction, mauvaise hygiène buccale, problèmes de mastication ou médicaments. Signalez-le."
+      "fr": "Un manque d'appétit peut signaler maladie ou dépression, insatisfaction, mauvaise hygiène buccale, problèmes de mastication ou médicaments. Signalez-le.",
+      "wo": "Ñàkk bëgg a lekk mën na wone feebar walla dépression, ñam bu neexul, gémmiñ bu set-ul, jafe-jafe ci ñàmm walla garab. Wax ko."
      }
     ]
    },
    {
     "heading": {
      "en": "Shopping, storage and food safety",
-     "fr": "Courses, conservation et sécurité alimentaire"
+     "fr": "Courses, conservation et sécurité alimentaire",
+     "wo": "Njënd, denc ak kaaraange ñam"
     },
     "points": [
      {
       "en": "Save money: coupons and specials, compare brands, read labels, seasonal items, a shopping list, meat substitutes, stay within the budget. Save all receipts and account for all money right after shopping.",
-      "fr": "Économisez : coupons et promotions, comparez les marques, lisez les étiquettes, produits de saison, liste de courses, substituts de viande, respectez le budget. Gardez tous les reçus et rendez compte de l'argent juste après les courses."
+      "fr": "Économisez : coupons et promotions, comparez les marques, lisez les étiquettes, produits de saison, liste de courses, substituts de viande, respectez le budget. Gardez tous les reçus et rendez compte de l'argent juste après les courses.",
+      "wo": "Yokk xaalis : coupon ak promotion, mengale marque yi, jàng etiket, ñam bu jamono, lisit, wuutu yàpp, bul weesu budget bi. Denc reçu yépp te wax xaalis bi ba pare njënd."
      },
      {
       "en": "Refrigerator at 36–40°F (2–4°C), freezer at 0°F (−18°C). Cover and date food. Use frozen food within six months; never thaw on the counter. Do not store food under plumbing or with cleaning supplies.",
-      "fr": "Réfrigérateur à 2–4 °C, congélateur à −18 °C. Couvrez et datez. Surgelés consommés sous six mois ; jamais de décongélation sur le plan de travail. Pas de nourriture sous la tuyauterie ni avec les produits ménagers."
+      "fr": "Réfrigérateur à 2–4 °C, congélateur à −18 °C. Couvrez et datez. Surgelés consommés sous six mois ; jamais de décongélation sur le plan de travail. Pas de nourriture sous la tuyauterie ni avec les produits ménagers.",
+      "wo": "Frigo ci 2–4 °C, congélateur ci −18 °C. Ub te bind bés bi. Ñam bu ñu dëgëral, lekk ko ci biir juróom-benni weer ; bul ko yeeyal ci kaw tabal. Bul denc ñam ci suufu tiyo walla ak produit yu setal."
      },
      {
       "en": "Wash hands before handling food; gloves if you have a cut; clean work surfaces; never taste and stir with the same spoon; refrigerate warm food promptly; no bulging cans, cracked eggs, moldy food; keep hot food above 140°F (60°C) and cold food below 40°F (4°C); use leftovers within 3–4 days; do not refreeze.",
-      "fr": "Lavez-vous les mains avant de cuisiner ; gants en cas de coupure ; surfaces propres ; jamais goûter et remuer avec la même cuillère ; réfrigérez vite ; pas de boîtes bombées, d'œufs fêlés ni de moisissures ; chaud au-dessus de 60 °C, froid en dessous de 4 °C ; restes sous 3 à 4 jours ; pas de recongélation."
+      "fr": "Lavez-vous les mains avant de cuisiner ; gants en cas de coupure ; surfaces propres ; jamais goûter et remuer avec la même cuillère ; réfrigérez vite ; pas de boîtes bombées, d'œufs fêlés ni de moisissures ; chaud au-dessus de 60 °C, froid en dessous de 4 °C ; restes sous 3 à 4 jours ; pas de recongélation.",
+      "wo": "Raxas loxo laata ngay togg ; gant bu nga gaañoo ; set tabal ; bul mos te jaxase ak benn kuddu ; dugal ñam bu tàng ci frigo bu gaaw ; bul jël boyet bu fuur, nen bu dàgg, ñam bu daxe ; ñam bu tàng ci kaw 60 °C, bu sedd ci suuf 4 °C ; des yi, lekk leen ci 3 ba 4 fan ; bul dëgëralaat."
      }
     ]
    },
    {
     "heading": {
      "en": "Modified diets",
-     "fr": "Régimes modifiés"
+     "fr": "Régimes modifiés",
+     "wo": "Régime bu ñu soppi"
     },
     "points": [
      {
       "en": "A modified diet is one nutrient change ordered by the doctor, a calorie change, or a mechanically altered texture. 'High' means more of a nutrient; 'low' means less or none.",
-      "fr": "Un régime modifié : changement d'un nutriment prescrit par le médecin, changement de calories, ou texture modifiée. « Élevé » = plus d'un nutriment ; « faible » = moins ou pas du tout."
+      "fr": "Un régime modifié : changement d'un nutriment prescrit par le médecin, changement de calories, ou texture modifiée. « Élevé » = plus d'un nutriment ; « faible » = moins ou pas du tout.",
+      "wo": "Régime bu ñu soppi : benn nutriman bu doktor santaane, kalori, walla ni ñam wi mel. « Élevé » : yokk nutriman ; « faible » : wàññi walla dindi."
      },
      {
       "en": "Low sodium: read labels, no processed foods, no salt added. Low fat and cholesterol: lean meats, 1% milk, unsaturated oils. High protein and calorie: add to a balanced diet, small frequent feedings. Bland: no pepper, spices, alcohol, caffeine.",
-      "fr": "Pauvre en sel : lire les étiquettes, pas de plats industriels, pas de sel ajouté. Pauvre en graisses : viandes maigres, lait à 1 %, huiles insaturées. Riche en protéines et calories : ajouter à un régime équilibré, petits repas fréquents. Sans irritants : pas de poivre, d'épices, d'alcool, de caféine."
+      "fr": "Pauvre en sel : lire les étiquettes, pas de plats industriels, pas de sel ajouté. Pauvre en graisses : viandes maigres, lait à 1 %, huiles insaturées. Riche en protéines et calories : ajouter à un régime équilibré, petits repas fréquents. Sans irritants : pas de poivre, d'épices, d'alcool, de caféine.",
+      "wo": "Néew xorom : jàng etiket, bàyyi ñam bu ñu pare, bul dolli xorom. Néew diw : yàpp bu néew diw, meew 1 %, diw yu baax. Bari proteyin ak kalori : dolli ci ñam bu dëppoo, lekk tuuti te bari yoon. Amul lu metti biir : amul poobar, épis, sangara, kafe."
      },
      {
       "en": "Soft diet: almost no chewing. Liquid: clear (gelatin) or full liquid. Position the client upright.",
-      "fr": "Régime mou : presque pas de mastication. Liquide : clair (gelée) ou complet. Installez le client bien assis."
+      "fr": "Régime mou : presque pas de mastication. Liquide : clair (gelée) ou complet. Installez le client bien assis.",
+      "wo": "Ñam bu noy : amul ñàmm. Ndox : lu leer (gelée) walla lu mat. Toogal kiliyaan bi bu jub."
      },
      {
       "en": "Mechanically altered: chopped, ground or pureed for chewing or swallowing problems. Puree each food separately, add liquid and seasoning as instructed, name each food, allow time to swallow, offer extra liquids against constipation and dehydration, use immediately or freeze.",
-      "fr": "Texture modifiée : haché, moulu ou mixé pour les problèmes de mastication ou de déglutition. Mixez chaque aliment séparément, ajoutez liquide et assaisonnement selon les consignes, nommez chaque aliment, laissez le temps d'avaler, offrez des liquides contre la constipation et la déshydratation, utilisez tout de suite ou congelez."
+      "fr": "Texture modifiée : haché, moulu ou mixé pour les problèmes de mastication ou de déglutition. Mixez chaque aliment séparément, ajoutez liquide et assaisonnement selon les consignes, nommez chaque aliment, laissez le temps d'avaler, offrez des liquides contre la constipation et la déshydratation, utilisez tout de suite ou congelez.",
+      "wo": "Texture bu ñu soppi : dagg, mool walla nos ngir ñi am jafe-jafe ci ñàmm walla wann. Nosal ñam bu nekk moom rekk, dolli ndox ak tàngal ni ñu ko waxe, tudd ñam bu nekk, may waxtu ngir wann, jox ndox lu bari ngir bañ jàpp biir ak ñàkk ndox, lekk ko ci saa si walla dëgëral ko."
      }
     ]
    }
   ],
   "report": {
    "en": "Report poor appetite, weight change, choking or coughing while eating, refusal of a prescribed diet, and food money problems.",
-   "fr": "Signalez le manque d'appétit, les changements de poids, l'étouffement ou la toux pendant les repas, le refus d'un régime prescrit, et les problèmes d'argent des courses."
+   "fr": "Signalez le manque d'appétit, les changements de poids, l'étouffement ou la toux pendant les repas, le refus d'un régime prescrit, et les problèmes d'argent des courses.",
+   "wo": "Wax ñàkk bëgg a lekk, peesu bu soppiku, lu jàpp ci put walla sëqët bu ñuy lekk, bañ régime bu ñu santaane, ak jafe-jafe ci xaalisu njënd."
   }
  },
  {
@@ -778,53 +926,63 @@
   "icon": "money",
   "title": {
    "en": "Family Spending and Budgeting",
-   "fr": "Dépenses et budget de la famille"
+   "fr": "Dépenses et budget de la famille",
+   "wo": "Xaalis ak budget bu njaboot gi"
   },
   "intro": {
    "en": "You may handle a client's money only for errands in the care plan, and you must account for every cent.",
-   "fr": "Vous ne pouvez manipuler l'argent du client que pour les courses prévues au plan de soins, et vous devez rendre compte de chaque centime."
+   "fr": "Vous ne pouvez manipuler l'argent du client que pour les courses prévues au plan de soins, et vous devez rendre compte de chaque centime.",
+   "wo": "Mën nga yor xaalisu kiliyaan bi ngir njënd yi nekk ci palaŋu topptoo bi rekk, te war nga wax xaalis bu nekk."
   },
   "sections": [
    {
     "heading": {
      "en": "Your role with the client's money",
-     "fr": "Votre rôle avec l'argent du client"
+     "fr": "Votre rôle avec l'argent du client",
+     "wo": "Sa liggéey ak xaalisu kiliyaan bi"
     },
     "points": [
      {
       "en": "Assistance with shopping, buying and banking as outlined in the plan of care.",
-      "fr": "Aide pour les courses, les achats et la banque comme prévu dans le plan de soins."
+      "fr": "Aide pour les courses, les achats et la banque comme prévu dans le plan de soins.",
+      "wo": "Dimbali ci njënd, jënd ak bank ni ko palaŋu topptoo bi waxe."
      },
      {
       "en": "Keep accurate records of every expenditure: receipts, amounts, dates. Follow agency policy.",
-      "fr": "Tenez des comptes exacts de chaque dépense : reçus, montants, dates. Suivez la politique de l'agence."
+      "fr": "Tenez des comptes exacts de chaque dépense : reçus, montants, dates. Suivez la politique de l'agence.",
+      "wo": "Bind bu wóor lépp lu nga jënd : reçu, xaalis, bés. Topp ndigëlu agence bi."
      },
      {
       "en": "Never accept money or gifts, never borrow, never be named in a will. These are forms of financial exploitation.",
-      "fr": "N'acceptez jamais d'argent ni de cadeaux, n'empruntez jamais, ne figurez jamais dans un testament. Ce sont des formes d'exploitation financière."
+      "fr": "N'acceptez jamais d'argent ni de cadeaux, n'empruntez jamais, ne figurez jamais dans un testament. Ce sont des formes d'exploitation financière.",
+      "wo": "Bul nangu xaalis walla may, bul leb, bul nekk ci testament. Loolu toroxal ci xaalis la."
      }
     ]
    },
    {
     "heading": {
      "en": "Getting the most from the family's money",
-     "fr": "Tirer le meilleur parti de l'argent de la famille"
+     "fr": "Tirer le meilleur parti de l'argent de la famille",
+     "wo": "Jëfandikoo xaalisu njaboot gi bu baax"
     },
     "points": [
      {
       "en": "Food and household supplies: lists, specials, compare prices, generic brands, buy in quantity when sensible.",
-      "fr": "Nourriture et produits ménagers : listes, promotions, comparer les prix, marques génériques, acheter en quantité quand c'est raisonnable."
+      "fr": "Nourriture et produits ménagers : listes, promotions, comparer les prix, marques génériques, acheter en quantité quand c'est raisonnable.",
+      "wo": "Ñam ak produit yu kër : lisit, promotion, mengale njëg, marque générique, jënd lu bari bu baaxee."
      },
      {
       "en": "Drugs and medicine: generics when the doctor or pharmacist allows. Clothes: look for value and bargains.",
-      "fr": "Médicaments : génériques quand le médecin ou le pharmacien l'autorise. Vêtements : chercher le bon rapport qualité-prix et les bonnes affaires."
+      "fr": "Médicaments : génériques quand le médecin ou le pharmacien l'autorise. Vêtements : chercher le bon rapport qualité-prix et les bonnes affaires.",
+      "wo": "Garab : générique bu doktor walla farmasiyeŋ nangu. Yere : seet lu baax te néew njëg."
      }
     ]
    }
   ],
   "report": {
    "en": "Report any missing money, anyone taking the client's money or belongings, and any request that you handle money outside the care plan.",
-   "fr": "Signalez tout argent manquant, toute personne qui prend l'argent ou les affaires du client, et toute demande de manipuler de l'argent hors du plan de soins."
+   "fr": "Signalez tout argent manquant, toute personne qui prend l'argent ou les affaires du client, et toute demande de manipuler de l'argent hors du plan de soins.",
+   "wo": "Wax xaalis bu réer, képp ku jël xaalis walla alalu kiliyaan bi, ak bépp laaj ngir nga yor xaalis lu nekkul ci palaŋ bi."
   }
  },
  {
@@ -834,77 +992,92 @@
   "icon": "house",
   "title": {
    "en": "Care of the Home and Personal Belongings",
-   "fr": "Entretien de la maison et des affaires personnelles"
+   "fr": "Entretien de la maison et des affaires personnelles",
+   "wo": "Setal kër gi ak alal yi"
   },
   "intro": {
    "en": "A clean home controls infection, prevents accidents and gives comfort and pride. Housekeeping in a client's home is not the same as in yours: respect their customs, belongings and habits.",
-   "fr": "Une maison propre limite les infections, évite les accidents et apporte confort et fierté. Le ménage chez un client n'est pas le même que chez vous : respectez ses coutumes, ses affaires et ses habitudes."
+   "fr": "Une maison propre limite les infections, évite les accidents et apporte confort et fierté. Le ménage chez un client n'est pas le même que chez vous : respectez ses coutumes, ses affaires et ses habitudes.",
+   "wo": "Kër bu set dafay aar ci jàngoro, bañ aksidaa, te indi jàmm ak ngor. Setal kër kiliyaan du setal sa kër : weg aadaam, alalam ak ni mu miine."
   },
   "sections": [
    {
     "heading": {
      "en": "Why housekeeping matters",
-     "fr": "Pourquoi le ménage compte"
+     "fr": "Pourquoi le ménage compte",
+     "wo": "Lu tax setal am solo"
     },
     "points": [
      {
       "en": "Enhances quality of life, promotes independence, maintains the home during a family crisis.",
-      "fr": "Améliore la qualité de vie, favorise l'indépendance, maintient la maison pendant une crise familiale."
+      "fr": "Améliore la qualité de vie, favorise l'indépendance, maintient la maison pendant une crise familiale.",
+      "wo": "Dafay yokk dund bu baax, dooleel sañ-sañ, te aar kër gi bu njaboot gi nekkee ci jafe-jafe."
      },
      {
       "en": "Infection control (bacteria, fungus), safety (fewer accidents), basic needs met (comfort, belonging, pride, self-esteem).",
-      "fr": "Contrôle des infections (bactéries, champignons), sécurité (moins d'accidents), besoins de base satisfaits (confort, appartenance, fierté, estime de soi)."
+      "fr": "Contrôle des infections (bactéries, champignons), sécurité (moins d'accidents), besoins de base satisfaits (confort, appartenance, fierté, estime de soi).",
+      "wo": "Aar ci jàngoro (mikrob, campignon), kaaraange (aksidaa néew), soxla yi tontu (jàmm, bokk, ngor, teggin)."
      }
     ]
    },
    {
     "heading": {
      "en": "Safety, body mechanics and time",
-     "fr": "Sécurité, mécanique corporelle et temps"
+     "fr": "Sécurité, mécanique corporelle et temps",
+     "wo": "Kaaraange, yaram ak waxtu"
     },
     "points": [
      {
       "en": "Lifting: feet apart, one slightly forward; bend at hips and knees; carry weight close; turn the whole body; good posture; push, pull or roll when possible.",
-      "fr": "Pour soulever : pieds écartés, un légèrement en avant ; pliez hanches et genoux ; charge près du corps ; tournez tout le corps ; bonne posture ; poussez, tirez ou roulez quand c'est possible."
+      "fr": "Pour soulever : pieds écartés, un légèrement en avant ; pliez hanches et genoux ; charge près du corps ; tournez tout le corps ; bonne posture ; poussez, tirez ou roulez quand c'est possible.",
+      "wo": "Yékkati : tànk yi xàjj, benn tuuti ci kanam ; lemal jur ak óom ; yor li nga yor ci sa yaram ; wëlbati sa yaram bépp ; taxaw bu jub ; puus, xécc walla roul bu mën a am."
      },
      {
       "en": "Time: prioritize, follow the care plan, let the client help, make a task schedule, break big jobs into small ones, do two things at once when possible, be economical with supplies.",
-      "fr": "Temps : priorisez, suivez le plan de soins, laissez le client aider, faites un planning, découpez les grandes tâches, faites deux choses à la fois quand c'est possible, économisez les produits."
+      "fr": "Temps : priorisez, suivez le plan de soins, laissez le client aider, faites un planning, découpez les grandes tâches, faites deux choses à la fois quand c'est possible, économisez les produits.",
+      "wo": "Waxtu : jëkkal lu am solo, topp palaŋ bi, bàyyi kiliyaan bi mu dimbali, def planing, séddale liggéey yu rëy, def ñaari lu mën a am, yor produit yi bu baax."
      }
     ]
    },
    {
     "heading": {
      "en": "Getting the job done",
-     "fr": "Faire le travail"
+     "fr": "Faire le travail",
+     "wo": "Def liggéey bi"
     },
     "points": [
      {
       "en": "Infection control: wash hands before and after each task; housekeeping gloves, cleaned daily; keep clean and dirty separate; separate cloth for the bathroom; disposable wipe for the toilet.",
-      "fr": "Contrôle des infections : lavez-vous les mains avant et après chaque tâche ; gants de ménage nettoyés chaque jour ; séparez propre et sale ; chiffon séparé pour la salle de bain ; lingette jetable pour les toilettes."
+      "fr": "Contrôle des infections : lavez-vous les mains avant et après chaque tâche ; gants de ménage nettoyés chaque jour ; séparez propre et sale ; chiffon séparé pour la salle de bain ; lingette jetable pour les toilettes.",
+      "wo": "Aar ci jàngoro : raxas loxo laata ak ginnaaw liggéey bu nekk ; gant yu setal, raxas leen bés bu nekk ; xàjjale lu set ak lu tilim ; sarbet bu wuute ci wanag ; lingette bu ñuy sànni ci wanag."
      },
      {
       "en": "Supplies: broom, dustpan, mop, cleanser, disinfectant, baking soda, bleach, rags, scrub brush, vacuum. Read directions; NEVER mix cleaning products.",
-      "fr": "Matériel : balai, pelle, serpillière, nettoyant, désinfectant, bicarbonate, eau de Javel, chiffons, brosse, aspirateur. Lisez les consignes ; ne mélangez JAMAIS les produits."
+      "fr": "Matériel : balai, pelle, serpillière, nettoyant, désinfectant, bicarbonate, eau de Javel, chiffons, brosse, aspirateur. Lisez les consignes ; ne mélangez JAMAIS les produits.",
+      "wo": "Jumtukaay : balaay, pel, serpillière, nettoyant, désinfectant, bicarbonate, eau de Javel, sarbet, bros, aspirateur. Jàng ndigël yi ; BUL jaxase produit yi mukk."
      },
      {
       "en": "Equipment safety: ask how unfamiliar equipment works; don't overload; no electrical equipment near water; unplug before cleaning; never poke with metal; no frayed cords; keep equipment clean and dry.",
-      "fr": "Sécurité du matériel : demandez comment marche un appareil inconnu ; ne surchargez pas ; pas d'électricité près de l'eau ; débranchez avant de nettoyer ; jamais d'objet métallique dans un appareil ; pas de câble abîmé ; matériel propre et sec."
+      "fr": "Sécurité du matériel : demandez comment marche un appareil inconnu ; ne surchargez pas ; pas d'électricité près de l'eau ; débranchez avant de nettoyer ; jamais d'objet métallique dans un appareil ; pas de câble abîmé ; matériel propre et sec.",
+      "wo": "Kaaraange ci jumtukaay : laaj ni masin bu bees di doxe ; bul dolli lu ëpp ; amul kuraŋ ci wetu ndox ; dindi fiis laata ngay setal ; bul dugal weñ ci masin ; bul jëfandikoo fiil bu yàqu ; jumtukaay bu set te wow."
      },
      {
       "en": "Kitchen: wipe spills, garbage out daily. Bathroom: sink, tub, toilet and floor as needed, wipe water. Living room: vacuum, tack down loose rugs, replace belongings exactly. Bedroom: clean weekly, linens weekly or as needed. Floors: sweep first, dry mop wood, dry wet floors. Pests: keep clean, store food, report needed repairs.",
-      "fr": "Cuisine : essuyez, poubelle chaque jour. Salle de bain : lavabo, baignoire, toilettes et sol au besoin, essuyez l'eau. Salon : aspirateur, fixez les tapis, remettez les objets exactement à leur place. Chambre : chaque semaine, draps chaque semaine ou au besoin. Sols : balayez d'abord, balai sec sur le bois, séchez. Nuisibles : propreté, nourriture rangée, signalez les réparations."
+      "fr": "Cuisine : essuyez, poubelle chaque jour. Salle de bain : lavabo, baignoire, toilettes et sol au besoin, essuyez l'eau. Salon : aspirateur, fixez les tapis, remettez les objets exactement à leur place. Chambre : chaque semaine, draps chaque semaine ou au besoin. Sols : balayez d'abord, balai sec sur le bois, séchez. Nuisibles : propreté, nourriture rangée, signalez les réparations.",
+      "wo": "Waañ : fomp lu tuuru, sànni mbalit bés bu nekk. Wanag : lavabo, baañuwaar, wanag ak suuf bu soxlaa, fomp ndox. Salon : aspirateur, takk tapi yi, delloo alal yi fi ñu nekkoon. Néeg : set ayu-bés bu nekk, dara yi ayu-bés bu nekk. Suuf : balaay bu jëkk, balaay bu wow ci bant, wowal lu tooy. Nuisibles : set, denc ñam, wax lu war a ñu defaraat."
      },
      {
       "en": "Laundry: gloves for linens soiled with body fluids; ask what to wash and how the machines work; check pockets; sort darks, whites and delicates; ask what is air dried.",
-      "fr": "Lessive : gants pour le linge souillé ; demandez quoi laver et comment marchent les machines ; vérifiez les poches ; triez foncé, blanc, délicat ; demandez ce qui sèche à l'air."
+      "fr": "Lessive : gants pour le linge souillé ; demandez quoi laver et comment marchent les machines ; vérifiez les poches ; triez foncé, blanc, délicat ; demandez ce qui sèche à l'air.",
+      "wo": "Fóot : gant bu dara yi tilimee ak ndoxum yaram ; laaj lu war a fóot ak ni masin yi di doxe ; seet poos yi ; xàjjale lu ñuul, lu weex, lu sew ; laaj lu war a wow ci ngelaw."
      }
     ]
    }
   ],
   "report": {
    "en": "Report pests, needed repairs, unsafe equipment, and anything in the home that puts the client at risk.",
-   "fr": "Signalez les nuisibles, les réparations nécessaires, le matériel dangereux, et tout ce qui met le client en danger dans la maison."
+   "fr": "Signalez les nuisibles, les réparations nécessaires, le matériel dangereux, et tout ce qui met le client en danger dans la maison.",
+   "wo": "Wax nuisibles, lu war a ñu defaraat, jumtukaay bu am ñaawtéef, ak lépp lu nekk ci kër gi te mën a lor kiliyaan bi."
   }
  },
  {
@@ -914,101 +1087,121 @@
   "icon": "safety",
   "title": {
    "en": "Safety and Injury Prevention",
-   "fr": "Sécurité et prévention des blessures"
+   "fr": "Sécurité et prévention des blessures",
+   "wo": "Kaaraange ak bañ gaañu"
   },
   "intro": {
    "en": "Most home injuries are falls, burns, cuts, poisoning, choking and electrical injury, mostly in the kitchen and bathroom. Prevent them, know what to do when they happen, and keep yourself safe too.",
-   "fr": "La plupart des blessures domestiques sont des chutes, brûlures, coupures, empoisonnements, étouffements et blessures électriques, surtout dans la cuisine et la salle de bain. Prévenez-les, sachez quoi faire quand elles arrivent, et protégez-vous aussi."
+   "fr": "La plupart des blessures domestiques sont des chutes, brûlures, coupures, empoisonnements, étouffements et blessures électriques, surtout dans la cuisine et la salle de bain. Prévenez-les, sachez quoi faire quand elles arrivent, et protégez-vous aussi.",
+   "wo": "Gaañu-gaañu yi gën a bari ci kër : daanu, lakk, dagg, poison, lu jàpp ci put ak kuraŋ, ci waañ ak wanag ci lu ëpp. Bañ leen, xam loo war a def bu ñu amee, te aar sa bopp itam."
   },
   "sections": [
    {
     "heading": {
      "en": "Why injuries happen",
-     "fr": "Pourquoi les blessures arrivent"
+     "fr": "Pourquoi les blessures arrivent",
+     "wo": "Lu tax ñuy gaañu"
     },
     "points": [
      {
       "en": "Older adults: balance problems, poor vision, confusion, hearing loss, medication effects, reduced taste and smell, cultural practices, bad footwear.",
-      "fr": "Personnes âgées : troubles de l'équilibre, mauvaise vue, confusion, perte d'audition, effets des médicaments, baisse du goût et de l'odorat, pratiques culturelles, mauvaises chaussures."
+      "fr": "Personnes âgées : troubles de l'équilibre, mauvaise vue, confusion, perte d'audition, effets des médicaments, baisse du goût et de l'odorat, pratiques culturelles, mauvaises chaussures.",
+      "wo": "Mag ñi : jafe-jafe ci taxaw, gis bu néew, jaxasoo, dégg bu néew, garab, ñam ak xeeñ bu néew, aada, dàll yu baaxul."
      },
      {
       "en": "Young children: age-related behavior and development, curiosity, undeveloped balance, no fear and no experience.",
-      "fr": "Jeunes enfants : comportement et développement liés à l'âge, curiosité, équilibre immature, pas de peur ni d'expérience."
+      "fr": "Jeunes enfants : comportement et développement liés à l'âge, curiosité, équilibre immature, pas de peur ni d'expérience.",
+      "wo": "Xale yu ndaw : jikko ak màgg bu dëppoo ak at, bëgg a xam, taxaw bu matul, ragalul te xamul."
      },
      {
       "en": "Hazards: poor lighting, stairs, scatter rugs without non-skid backing, busy traffic areas, clutter, not using devices or medication as prescribed, no handrails in the bathroom.",
-      "fr": "Dangers : mauvais éclairage, escaliers, petits tapis non antidérapants, zones de passage, encombrement, dispositifs ou médicaments non utilisés comme prescrit, pas de barres d'appui dans la salle de bain."
+      "fr": "Dangers : mauvais éclairage, escaliers, petits tapis non antidérapants, zones de passage, encombrement, dispositifs ou médicaments non utilisés comme prescrit, pas de barres d'appui dans la salle de bain.",
+      "wo": "Lu mën a lor : leer bu néew, eskalie, tapi yu dul jàpp, fu ñuy jaar lu bari, lu dajaloo, bañ a jëfandikoo jumtukaay walla garab ni ñu ko waxe, amul barre ci wanag."
      }
     ]
    },
    {
     "heading": {
      "en": "Prevention and personal safety",
-     "fr": "Prévention et sécurité personnelle"
+     "fr": "Prévention et sécurité personnelle",
+     "wo": "Bañ gaañu ak sa kaaraange"
     },
     "points": [
      {
       "en": "Your role: a clean, hazard-free home; safe food handling; good body mechanics; prevent disease transmission; fire prevention; emergency numbers posted by the phone.",
-      "fr": "Votre rôle : une maison propre et sans danger ; aliments manipulés en sécurité ; bonne mécanique corporelle ; prévention des infections ; prévention des incendies ; numéros d'urgence près du téléphone."
+      "fr": "Votre rôle : une maison propre et sans danger ; aliments manipulés en sécurité ; bonne mécanique corporelle ; prévention des infections ; prévention des incendies ; numéros d'urgence près du téléphone.",
+      "wo": "Sa liggéey : kër bu set te amul lu lor ; ñam bu wóor ; yaram bu nga jëfandikoo bu baax ; bañ jàngoro tas ; bañ taal ; nimero yu urgence ci wetu telefon."
      },
      {
       "en": "In the community: correct address and directions; be aware of surroundings; avoid unsafe shortcuts; know where phones and alarm boxes are; no purse, large sums or expensive jewelry; know the residents; never change your schedule without telling the office.",
-      "fr": "Dans le quartier : bonne adresse et itinéraire ; attention à l'environnement ; pas de raccourcis dangereux ; repérez téléphones et bornes d'alarme ; pas de sac à main, de grosses sommes ni de bijoux ; connaissez les habitants ; ne changez jamais d'horaire sans prévenir le bureau."
+      "fr": "Dans le quartier : bonne adresse et itinéraire ; attention à l'environnement ; pas de raccourcis dangereux ; repérez téléphones et bornes d'alarme ; pas de sac à main, de grosses sommes ni de bijoux ; connaissez les habitants ; ne changez jamais d'horaire sans prévenir le bureau.",
+      "wo": "Ci gox bi : adrees bu jub ak yoon wi ; xool li la wër ; bul jaar fu ñu xamul ; xam fu telefon ak bornes d'alarme nekk ; bul yor sak, xaalis bu bari walla bijoux ; xam dëkkandoo yi ; bul soppi sa waxtu te waxul biro bi."
      },
      {
       "en": "Driving: car in good condition with fuel; keys ready; doors locked; drive for the weather; seat belts for everyone; no child under 12 in front; car seats for ages 0–8; obey speed limits; no alcohol or drugs.",
-      "fr": "En voiture : véhicule en bon état avec du carburant ; clés prêtes ; portes verrouillées ; conduite adaptée à la météo ; ceinture pour tous ; pas d'enfant de moins de 12 ans devant ; siège auto de 0 à 8 ans ; limitations de vitesse ; ni alcool ni drogue."
+      "fr": "En voiture : véhicule en bon état avec du carburant ; clés prêtes ; portes verrouillées ; conduite adaptée à la météo ; ceinture pour tous ; pas d'enfant de moins de 12 ans devant ; siège auto de 0 à 8 ans ; limitations de vitesse ; ni alcool ni drogue.",
+      "wo": "Ci oto : oto bu baax te am essence ; caabi yi ci loxo ; bunt yi tëju ; dawal ni jamono ji mel ; ceinture ngir ñépp ; amul xale bu matul 12 at ci kanam ; siège auto 0 ba 8 at ; topp vitesse ; amul sangara walla drog."
      }
     ]
    },
    {
     "heading": {
      "en": "Fire: R-A-C-E",
-     "fr": "Incendie : R-A-C-E"
+     "fr": "Incendie : R-A-C-E",
+     "wo": "Taal : R-A-C-E"
     },
     "points": [
      {
       "en": "RESCUE: get your client and yourself to safety.",
-      "fr": "RESCUE (secourir) : mettez le client et vous-même en sécurité."
+      "fr": "RESCUE (secourir) : mettez le client et vous-même en sécurité.",
+      "wo": "RESCUE (musal) : génne kiliyaan bi ak yaw."
      },
      {
       "en": "ALARM: call the fire department, 911.",
-      "fr": "ALARM (alerter) : appelez les pompiers, le 911."
+      "fr": "ALARM (alerter) : appelez les pompiers, le 911.",
+      "wo": "ALARM (yéene) : woo sapoor-pompie, 911."
      },
      {
       "en": "CONFINE: close doors, block doorways to keep smoke out.",
-      "fr": "CONFINE (confiner) : fermez les portes, bloquez les ouvertures contre la fumée."
+      "fr": "CONFINE (confiner) : fermez les portes, bloquez les ouvertures contre la fumée.",
+      "wo": "CONFINE (tëj) : tëj bunt yi, tëj yoonu saxaar si."
      },
      {
       "en": "EXTINGUISH or EVACUATE: if clothing catches fire, lie on the floor and roll. Do not fight a fire unless it is minor. Notify your supervisor as soon as practical.",
-      "fr": "EXTINGUISH / EVACUATE (éteindre ou évacuer) : si les vêtements prennent feu, se coucher et rouler. Ne combattez pas un feu sauf s'il est mineur. Prévenez votre superviseur dès que possible."
+      "fr": "EXTINGUISH / EVACUATE (éteindre ou évacuer) : si les vêtements prennent feu, se coucher et rouler. Ne combattez pas un feu sauf s'il est mineur. Prévenez votre superviseur dès que possible.",
+      "wo": "EXTINGUISH walla EVACUATE (fey walla génn) : bu sa yere taalee, tëdd ci suuf te roul. Bul xeex taal lu dul lu ndaw. Wax sa superviseur bu gaaw."
      }
     ]
    },
    {
     "heading": {
      "en": "When injuries and emergencies happen",
-     "fr": "Quand blessures et urgences arrivent"
+     "fr": "Quand blessures et urgences arrivent",
+     "wo": "Bu gaañu-gaañu ak urgence amee"
     },
     "points": [
      {
       "en": "Know your agency's incident policy and whom to contact.",
-      "fr": "Connaissez la politique d'incident de votre agence et qui contacter."
+      "fr": "Connaissez la politique d'incident de votre agence et qui contacter.",
+      "wo": "Xam ndigëlu agence bi ci incident ak ku nga war a woo."
      },
      {
       "en": "First aid basics for burns, choking, poisoning, sprains and broken bones, bruises, cuts and scrapes, dizziness and fainting.",
-      "fr": "Premiers secours de base pour brûlures, étouffement, empoisonnement, entorses et fractures, bleus, coupures et éraflures, vertiges et évanouissement."
+      "fr": "Premiers secours de base pour brûlures, étouffement, empoisonnement, entorses et fractures, bleus, coupures et éraflures, vertiges et évanouissement.",
+      "wo": "Secours yu jëkk ci lakk, lu jàpp ci put, poison, entorse ak damm, bleu, dagg ak gaañu, bopp buy wër ak daanu."
      },
      {
       "en": "Serious emergency: assess the situation, assess the victim, call for help (911), remember the ABCs: Airway, Breathing, Circulation.",
-      "fr": "Urgence grave : évaluez la situation, évaluez la victime, appelez les secours (911), rappelez-vous l'ABC : Airway (voies respiratoires), Breathing (respiration), Circulation."
+      "fr": "Urgence grave : évaluez la situation, évaluez la victime, appelez les secours (911), rappelez-vous l'ABC : Airway (voies respiratoires), Breathing (respiration), Circulation.",
+      "wo": "Urgence bu metti : xool lu xew, xool nit ki, woo ndimbal (911), fàttaliku ABC : Airway (yoonu noyyi), Breathing (noyyi), Circulation (dereet)."
      }
     ]
    }
   ],
   "report": {
    "en": "Report every fall or injury, even a minor one, every hazard you cannot fix, and every incident, following agency policy.",
-   "fr": "Signalez chaque chute ou blessure, même mineure, chaque danger que vous ne pouvez pas corriger, et chaque incident, selon la politique de l'agence."
+   "fr": "Signalez chaque chute ou blessure, même mineure, chaque danger que vous ne pouvez pas corriger, et chaque incident, selon la politique de l'agence.",
+   "wo": "Wax daanu walla gaañu bu nekk, su ndaw sax, lu lor loo mënul jubbanti, ak incident bu nekk, ni ko agence bi waxe."
   }
  },
  {
@@ -1018,197 +1211,236 @@
   "icon": "care",
   "title": {
    "en": "Personal Care Skills",
-   "fr": "Compétences en soins personnels"
+   "fr": "Compétences en soins personnels",
+   "wo": "Mën-mën ci soins personnels"
   },
   "intro": {
    "en": "Personal care is everything to do with the client's body, hygiene, appearance and movement. This module has the 43 procedures you will be tested on. Here are the principles behind them.",
-   "fr": "Les soins personnels concernent tout ce qui touche au corps, à l'hygiène, à l'apparence et aux mouvements du client. Ce module contient les 43 procédures sur lesquelles vous serez évalué. Voici les principes qui les sous-tendent."
+   "fr": "Les soins personnels concernent tout ce qui touche au corps, à l'hygiène, à l'apparence et aux mouvements du client. Ce module contient les 43 procédures sur lesquelles vous serez évalué. Voici les principes qui les sous-tendent.",
+   "wo": "Soins personnels : lépp lu aju ci yaramu kiliyaan bi, setam, taaram ak yëngoom. Modil bii am na 43 doxalin yi ñu lay saytu. Lii mooy li leen taxawal."
   },
   "sections": [
    {
     "heading": {
      "en": "Every procedure starts and ends the same way",
-     "fr": "Chaque procédure commence et finit de la même façon"
+     "fr": "Chaque procédure commence et finit de la même façon",
+     "wo": "Doxalin bu nekk ni lay tàmbalee te ni lay jeexe"
     },
     "points": [
      {
       "en": "Explain to the client. Wash your hands. Assemble equipment. Provide privacy. Gloves as necessary.",
-      "fr": "Expliquez au client. Lavez-vous les mains. Préparez le matériel. Assurez l'intimité. Gants si nécessaire."
+      "fr": "Expliquez au client. Lavez-vous les mains. Préparez le matériel. Assurez l'intimité. Gants si nécessaire.",
+      "wo": "Leeral kiliyaan bi. Raxas sa loxo. Waajal jumtukaay yi. Aar sutura. Gant bu soxlaa."
      },
      {
       "en": "Let the client do as much as possible. Keep the client warm, covered and safe.",
-      "fr": "Laissez le client faire le maximum. Gardez-le au chaud, couvert et en sécurité."
+      "fr": "Laissez le client faire le maximum. Gardez-le au chaud, couvert et en sécurité.",
+      "wo": "Bàyyi kiliyaan bi mu def li mu mën. Kiliyaan bi na tàng, muuru te wóor."
      },
      {
       "en": "Clean and store equipment. Wash your hands. Observe, record and report any change in condition or behavior.",
-      "fr": "Nettoyez et rangez le matériel. Lavez-vous les mains. Observez, notez et signalez tout changement d'état ou de comportement."
+      "fr": "Nettoyez et rangez le matériel. Lavez-vous les mains. Observez, notez et signalez tout changement d'état ou de comportement.",
+      "wo": "Setal te denc jumtukaay yi. Raxas sa loxo. Seetlu, bind te wax lu soppiku ci yaramam walla jikkoom."
      }
     ]
    },
    {
     "heading": {
      "en": "Infection control",
-     "fr": "Contrôle des infections"
+     "fr": "Contrôle des infections",
+     "wo": "Aar ci jàngoro"
     },
     "points": [
      {
       "en": "Chain of infection: a germ, a source, a way out, a way to travel, a way in, a person at risk (age, chronic illness, weak immunity). Break any link.",
-      "fr": "Chaîne de l'infection : un microbe, une source, une porte de sortie, un mode de transmission, une porte d'entrée, une personne à risque (âge, maladie chronique, immunité faible). Rompez un maillon."
+      "fr": "Chaîne de l'infection : un microbe, une source, une porte de sortie, un mode de transmission, une porte d'entrée, une personne à risque (âge, maladie chronique, immunité faible). Rompez un maillon.",
+      "wo": "Yoonu jàngoro : mikrob, fu mu jóge, fu mu génne, ni muy dem, fu muy dugg, nit ku mën a ko am (at, feebar bu yàgg, yaram bu néew doole). Dog benn jéego."
      },
      {
       "en": "Transmission: direct and indirect contact, airborne, common vehicle (food, water, equipment), vector (insects). Common infections: urinary, respiratory, wound and skin, digestive.",
-      "fr": "Transmission : contact direct et indirect, voie aérienne, véhicule commun (aliments, eau, matériel), vecteur (insectes). Infections courantes : urinaires, respiratoires, plaies et peau, digestives."
+      "fr": "Transmission : contact direct et indirect, voie aérienne, véhicule commun (aliments, eau, matériel), vecteur (insectes). Infections courantes : urinaires, respiratoires, plaies et peau, digestives.",
+      "wo": "Ni muy dem : laal lu jub walla lu dul jub, ci ngelaw, ci lu ñu bokk (ñam, ndox, jumtukaay), ci gunóor. Jàngoro yu bari : saw, noyyi, gaañu ak dér, biir."
      },
      {
       "en": "Standard Precautions with every client: handwashing, clean vs. dirty, care of supplies, waste and sharps disposal, gloves and PPE.",
-      "fr": "Précautions standard avec chaque client : lavage des mains, propre contre sale, entretien du matériel, déchets et objets tranchants, gants et EPI."
+      "fr": "Précautions standard avec chaque client : lavage des mains, propre contre sale, entretien du matériel, déchets et objets tranchants, gants et EPI.",
+      "wo": "Précautions standard ak kiliyaan bu nekk : raxas loxo, lu set ak lu tilim, jumtukaay, mbalit ak lu ñaw, gant ak aar yaram."
      },
      {
       "en": "Bloodborne pathogens: hepatitis B, hepatitis C, HIV. Hepatitis B vaccine. Any exposure to blood, airborne disease or latex reaction is an exposure incident: wash, report immediately, follow agency procedure.",
-      "fr": "Agents transmis par le sang : hépatite B, hépatite C, VIH. Vaccin hépatite B. Toute exposition au sang, à une maladie aérienne ou réaction au latex est un incident d'exposition : lavez, signalez immédiatement, suivez la procédure de l'agence."
+      "fr": "Agents transmis par le sang : hépatite B, hépatite C, VIH. Vaccin hépatite B. Toute exposition au sang, à une maladie aérienne ou réaction au latex est un incident d'exposition : lavez, signalez immédiatement, suivez la procédure de l'agence.",
+      "wo": "Jàngoro yu dereet : hépatite B, hépatite C, VIH. Vaccin hépatite B. Laal dereet, feebar bu ngelaw walla latex : incident d'exposition la : raxas, wax ci saa si, topp ndigëlu agence bi."
      }
     ]
    },
    {
     "heading": {
      "en": "Pain",
-     "fr": "Douleur"
+     "fr": "Douleur",
+     "wo": "Metit"
     },
     "points": [
      {
       "en": "Pain changes how a client functions. People show pain differently, including without words, and culture shapes how it is expressed.",
-      "fr": "La douleur change le fonctionnement du client. Chacun exprime la douleur différemment, parfois sans mots, et la culture influence cette expression."
+      "fr": "La douleur change le fonctionnement du client. Chacun exprime la douleur différemment, parfois sans mots, et la culture influence cette expression.",
+      "wo": "Metit dafay soppi ni kiliyaan bi di dunde. Nit ñi dañuy wone metit ci anam yu wuute, am na ñu dul wax, te aada dafay jëfe ci."
      },
      {
       "en": "Report pain by site, duration, intensity and triggers, and what relieves it.",
-      "fr": "Signalez la douleur par son siège, sa durée, son intensité, ses déclencheurs, et ce qui la soulage."
+      "fr": "Signalez la douleur par son siège, sa durée, son intensité, ses déclencheurs, et ce qui la soulage.",
+      "wo": "Wax metit : fan, ba kañ, ni mu mette, lu koy yokk, ak lu koy wàññi."
      }
     ]
    },
    {
     "heading": {
      "en": "Elimination",
-     "fr": "Élimination"
+     "fr": "Élimination",
+     "wo": "Saw ak biir"
     },
     "points": [
      {
       "en": "Bedpan, urinal, fracture pan and commode: privacy, warmth, toilet paper and call signal, handwashing, clean equipment.",
-      "fr": "Bassin, urinal, bassin plat et chaise percée : intimité, chaleur, papier et sonnette, lavage des mains, matériel propre."
+      "fr": "Bassin, urinal, bassin plat et chaise percée : intimité, chaleur, papier et sonnette, lavage des mains, matériel propre.",
+      "wo": "Bassin, urinal, bassin bu tàllal ak siisu wanag : sutura, tàngal, kayit ak sonet, raxas loxo, jumtukaay bu set."
      },
      {
       "en": "Incontinence brings embarrassment and loss of dignity. Change briefs promptly, protect the skin, never scold.",
-      "fr": "L'incontinence apporte gêne et perte de dignité. Changez vite les protections, protégez la peau, ne grondez jamais."
+      "fr": "L'incontinence apporte gêne et perte de dignité. Changez vite les protections, protégez la peau, ne grondez jamais.",
+      "wo": "Mënul téye saw dafay indi gàcce ak ñàkk teggin. Soppi kuus bi bu gaaw, aar dér bi, bul yedd mukk."
      },
      {
       "en": "Catheters: condom, indwelling, straight. Never pull on tubing; keep it free of kinks; bag below the bladder. Report color and odor of urine, pain, chills, sweating, leakage.",
-      "fr": "Sondes : étui pénien, à demeure, droite. Ne tirez jamais sur la tubulure ; pas de plis ; sac sous la vessie. Signalez couleur et odeur de l'urine, douleur, frissons, sueurs, fuites."
+      "fr": "Sondes : étui pénien, à demeure, droite. Ne tirez jamais sur la tubulure ; pas de plis ; sac sous la vessie. Signalez couleur et odeur de l'urine, douleur, frissons, sueurs, fuites.",
+      "wo": "Sonde : étui, bu dëkk, bu jub. Bul xécc tiyo bi mukk ; bañ mu ñiiru ; saak bi ci suufu wet gi. Wax melo ak xeeñu saw, metit, sedd-sedd, ñaq, lu tuuru."
      }
     ]
    },
    {
     "heading": {
      "en": "Eating, hydration and weight",
-     "fr": "Repas, hydratation et poids"
+     "fr": "Repas, hydratation et poids",
+     "wo": "Lekk, naan ak peesu"
     },
     "points": [
      {
       "en": "Sit the client upright to prevent choking. Independent eaters need set-up; partial assistance means helping only where needed. Clock method for visually impaired clients. Adaptive utensils and cups.",
-      "fr": "Client assis bien droit contre l'étouffement. Les mangeurs autonomes ont besoin d'une mise en place ; l'aide partielle n'intervient que si nécessaire. Méthode de l'horloge pour les malvoyants. Couverts et gobelets adaptés."
+      "fr": "Client assis bien droit contre l'étouffement. Les mangeurs autonomes ont besoin d'une mise en place ; l'aide partielle n'intervient que si nécessaire. Méthode de l'horloge pour les malvoyants. Couverts et gobelets adaptés.",
+      "wo": "Toogal kiliyaan bi bu jub ngir dara bañ a jàpp ci putam. Ñi mën a lekk ñoom ci seen bopp, waajal leen rekk ; ndimbal bu néew mooy dimbali fu soxlaa rekk. Yoonu montar ngir ñi gumba. Kuddu ak kaas yu ñu dëppale."
      },
      {
       "en": "Weigh on a balanced scale, client steady, record; report a change of more than 5 pounds. Measure intake and output when the care plan asks.",
-      "fr": "Pesez sur une balance à zéro, client stable, notez ; signalez un changement de plus de 5 livres (2 kg). Mesurez apports et éliminations si le plan de soins le demande."
+      "fr": "Pesez sur une balance à zéro, client stable, notez ; signalez un changement de plus de 5 livres (2 kg). Mesurez apports et éliminations si le plan de soins le demande.",
+      "wo": "Natt peesu ci balaas bu nekk ci zéro, kiliyaan bi taxaw bu dëgër, bind ko ; wax lu soppiku lu ëpp 5 livres (2 kg). Natt li mu naan ak li mu saw bu palaŋ bi laajee."
      }
     ]
    },
    {
     "heading": {
      "en": "Skin",
-     "fr": "Peau"
+     "fr": "Peau",
+     "wo": "Dér"
     },
     "points": [
      {
       "en": "Healthy skin is intact, warm, dry and its normal color. Risks: immobility, poor nutrition, illness, moisture, pressure, poor circulation.",
-      "fr": "Une peau saine est intacte, chaude, sèche et de couleur normale. Risques : immobilité, mauvaise nutrition, maladie, humidité, pression, mauvaise circulation."
+      "fr": "Une peau saine est intacte, chaude, sèche et de couleur normale. Risques : immobilité, mauvaise nutrition, maladie, humidité, pression, mauvaise circulation.",
+      "wo": "Dér bu wér dafa mat, tàng, wow te am melo bu baax. Lu ko lor : bañ a yëngu, ñam bu baaxul, feebar, tooy, toog bu yàgg, dereet bu doxul."
      },
      {
       "en": "Pressure points: coccyx, heels, sacrum, ischial tuberosities, back of the skull, elbows. Early breakdown: redness, warmth, rash, itching. Prevent with position changes, clean dry skin, back rubs, good nutrition.",
-      "fr": "Points de pression : coccyx, talons, sacrum, ischions, arrière du crâne, coudes. Début d'escarre : rougeur, chaleur, éruption, démangeaison. Prévention : changements de position, peau propre et sèche, massages du dos, bonne nutrition."
+      "fr": "Points de pression : coccyx, talons, sacrum, ischions, arrière du crâne, coudes. Début d'escarre : rougeur, chaleur, éruption, démangeaison. Prévention : changements de position, peau propre et sèche, massages du dos, bonne nutrition.",
+      "wo": "Béréb yi : coccyx, tànk yi, sacrum, ischions, ginnaawu bopp, óom yi. Firndey escarre : xonq, tàng, lu ñuy xonk, démangeaison. Bañ ko : soppi toogaay, dér bu set te wow, massage ginnaaw, ñam bu baax."
      }
     ]
    },
    {
     "heading": {
      "en": "Moving the client",
-     "fr": "Mobiliser le client"
+     "fr": "Mobiliser le client",
+     "wo": "Yëngal kiliyaan bi"
     },
     "points": [
      {
       "en": "Body mechanics: wide base, straight back, face your work, one foot ahead, load close, bend knees and hips, turn with your feet, never twist.",
-      "fr": "Mécanique corporelle : base large, dos droit, face au travail, un pied devant, charge près du corps, plier genoux et hanches, tourner avec les pieds, jamais de torsion."
+      "fr": "Mécanique corporelle : base large, dos droit, face au travail, un pied devant, charge près du corps, plier genoux et hanches, tourner avec les pieds, jamais de torsion.",
+      "wo": "Yaram : tànk yi xàjj, ginnaaw bu jub, jàkkaarloo ak sa liggéey, benn tànk ci kanam, lu nga yor ci sa yaram, lemal óom ak jur, wëlbati ak sa tànk, bul wëlbati sa ndigg mukk."
      },
      {
       "en": "Positions: Fowler's (head up), supine (back), prone (stomach), lateral (side). Change position regularly; support with pillows.",
-      "fr": "Positions : Fowler (tête relevée), dorsale, ventrale, latérale. Changez de position régulièrement ; soutenez avec des oreillers."
+      "fr": "Positions : Fowler (tête relevée), dorsale, ventrale, latérale. Changez de position régulièrement ; soutenez avec des oreillers.",
+      "wo": "Toogaay : Fowler (bopp bi kaw), ci ginnaaw, ci biir, ci wet. Soppi toogaay bu baax ; sëmb ak oreiller."
      },
      {
       "en": "Transfers: lock brakes, gait belt, stand and pivot toward the strong side. Ambulation: walk on the weak side, slowly, short distances; canes, walkers, crutches.",
-      "fr": "Transferts : freins bloqués, ceinture de marche, lever et pivoter vers le côté fort. Marche : du côté faible, lentement, courtes distances ; cannes, déambulateurs, béquilles."
+      "fr": "Transferts : freins bloqués, ceinture de marche, lever et pivoter vers le côté fort. Marche : du côté faible, lentement, courtes distances ; cannes, déambulateurs, béquilles.",
+      "wo": "Transfert : tëj fren yi, ceinture, taxaw te wëlbati jëm ci wet gu wóor. Dox : ci wet gu wóorul, ndank, yoon wu gàtt ; bant, déambulateur, béquille."
      },
      {
       "en": "Range of motion: active (client moves), passive (you move the limb), resistive. Prevents disuse syndrome, atrophy and contractures.",
-      "fr": "Amplitude articulaire : active (le client bouge), passive (vous mobilisez), contre résistance. Prévient le syndrome d'immobilité, l'atrophie et les contractures."
+      "fr": "Amplitude articulaire : active (le client bouge), passive (vous mobilisez), contre résistance. Prévient le syndrome d'immobilité, l'atrophie et les contractures.",
+      "wo": "Yëngal cér yi : actif (kiliyaan bi moo koy def), passif (yaw ngay yëngal cér bi), ak lu am lu ko téye. Dafay bañ sidit yi wàññiku ak cér yi dëgër."
      }
     ]
    },
    {
     "heading": {
      "en": "Bathing, grooming and dressing",
-     "fr": "Toilette, soins d'apparence et habillage"
+     "fr": "Toilette, soins d'apparence et habillage",
+     "wo": "Sangu, taaral ak sol"
     },
     "points": [
      {
       "en": "Bathing: privacy, water temperature tested, safety in the bathroom, head to toe, genitals last. Watch for skin changes, dizziness, confusion, refusal.",
-      "fr": "Toilette : intimité, eau testée, sécurité dans la salle de bain, de la tête aux pieds, parties génitales en dernier. Surveillez peau, vertiges, confusion, refus."
+      "fr": "Toilette : intimité, eau testée, sécurité dans la salle de bain, de la tête aux pieds, parties génitales en dernier. Surveillez peau, vertiges, confusion, refus.",
+      "wo": "Sangu : sutura, ndox bu nga seet, kaaraange ci wanag, bopp ba tànk, béréb yu sutura ci mujj. Seetlu dér, bopp buy wër, jaxasoo, bañ."
      },
      {
       "en": "Hair with the client's own brush; mouth care at least twice a day and every two hours when there are complications; dentures over a padded sink; shave with the grain; nails filed only, never cut.",
-      "fr": "Cheveux avec la brosse du client ; soins de la bouche au moins deux fois par jour et toutes les deux heures en cas de complications ; dentier au-dessus d'un lavabo protégé ; rasage dans le sens du poil ; ongles limés seulement, jamais coupés."
+      "fr": "Cheveux avec la brosse du client ; soins de la bouche au moins deux fois par jour et toutes les deux heures en cas de complications ; dentier au-dessus d'un lavabo protégé ; rasage dans le sens du poil ; ongles limés seulement, jamais coupés.",
+      "wo": "Kawar ak brosu kiliyaan bi ; gémmiñ ñaari yoon bés bu nekk lu néew te ñaari waxtu bu nekk bu am jafe-jafe ; bëñu lëmm ci kaw lavabo bu ñu aar ; wat ci yoonu kawar ; we, limal rekk, bul dagg mukk."
      },
      {
       "en": "Dressing: the client chooses; weak side on first, strong side off first; glasses, hearing aids, prostheses and dressing aids checked and cared for.",
-      "fr": "Habillage : le client choisit ; côté faible en premier pour enfiler, côté fort en premier pour retirer ; lunettes, appareils auditifs, prothèses et aides à l'habillage vérifiés et entretenus."
+      "fr": "Habillage : le client choisit ; côté faible en premier pour enfiler, côté fort en premier pour retirer ; lunettes, appareils auditifs, prothèses et aides à l'habillage vérifiés et entretenus.",
+      "wo": "Sol : kiliyaan bi moo tànn ; wet gu wóorul bu jëkk ngir sol, wet gu wóor bu jëkk ngir summi ; lunet, aparey nopp, prothèse ak jumtukaay sol, seet leen te topptoo leen."
      }
     ]
    },
    {
     "heading": {
      "en": "The client's environment, babies, equipment and medication",
-     "fr": "Environnement du client, bébés, matériel et médicaments"
+     "fr": "Environnement du client, bébés, matériel et médicaments",
+     "wo": "Këru kiliyaan bi, liir, jumtukaay ak garab"
     },
     "points": [
      {
       "en": "The client's room is their space: privacy, their belongings, locked storage. Unoccupied and occupied bed making with infection control.",
-      "fr": "La chambre du client est son espace : intimité, ses affaires, rangement fermé à clé. Lit inoccupé et lit occupé avec contrôle des infections."
+      "fr": "La chambre du client est son espace : intimité, ses affaires, rangement fermé à clé. Lit inoccupé et lit occupé avec contrôle des infections.",
+      "wo": "Néegu kiliyaan bi moom la : sutura, alalam, armoire bu tëju. Lal bu kenn nekkul ak lal bu nit nekk ak aar ci jàngoro."
      },
      {
       "en": "Well baby: only when no other caretaker is available. Support head, neck and back; conserve warmth; safe positioning; feeding principles; infant bath head to foot.",
-      "fr": "Bébé en bonne santé : seulement si personne d'autre n'est disponible. Soutenez tête, cou et dos ; gardez au chaud ; position sûre ; principes d'alimentation ; bain de la tête aux pieds."
+      "fr": "Bébé en bonne santé : seulement si personne d'autre n'est disponible. Soutenez tête, cou et dos ; gardez au chaud ; position sûre ; principes d'alimentation ; bain de la tête aux pieds.",
+      "wo": "Liir bu wér : bu kenn amul rekk ngir topptoo ko. Jàppale bopp, baat ak ginnaaw ; aar ko ci sedd ; toogaay bu wóor ; nàmp ak biberon ; sangu bopp ba tànk."
      },
      {
       "en": "Special equipment: hospital beds, mattresses, canes, walkers, wheelchairs, trapeze, slide board, hydraulic lift, commode, prostheses, assistive utensils, glucometer. Never use what you have not been shown; check the care plan; keep batteries charged; report wear and malfunction.",
-      "fr": "Matériel spécial : lits médicalisés, matelas, cannes, déambulateurs, fauteuils roulants, potence, planche, lève-personne, chaise percée, prothèses, couverts adaptés, glucomètre. N'utilisez jamais ce qu'on ne vous a pas montré ; vérifiez le plan de soins ; piles chargées ; signalez usure et pannes."
+      "fr": "Matériel spécial : lits médicalisés, matelas, cannes, déambulateurs, fauteuils roulants, potence, planche, lève-personne, chaise percée, prothèses, couverts adaptés, glucomètre. N'utilisez jamais ce qu'on ne vous a pas montré ; vérifiez le plan de soins ; piles chargées ; signalez usure et pannes.",
+      "wo": "Jumtukaay : lal bu lopitaal, matla, bant, déambulateur, fauteuil, potence, palaŋ, lève-personne, siisu wanag, prothèse, kuddu, glucomètre. Bul jëfandikoo lu ñu la wonewul mukk ; seet palaŋ bi ; pil yu mat ; wax lu yàqu."
      },
      {
       "en": "Medication: you ASSIST with self-administration, you never administer. Five Rights: person, medication, dose, time, route. Read labels and expiration dates; do not crush or hide medication in food; store and dispose properly. Report refusals, errors, reactions, and any drug, supplement or herb not ordered.",
-      "fr": "Médicaments : vous AIDEZ à la prise autonome, vous n'administrez jamais. Cinq bons : personne, médicament, dose, moment, voie. Lisez étiquettes et dates ; n'écrasez pas, ne cachez pas dans la nourriture ; rangez et éliminez correctement. Signalez refus, erreurs, réactions, et tout médicament, complément ou plante non prescrit."
+      "fr": "Médicaments : vous AIDEZ à la prise autonome, vous n'administrez jamais. Cinq bons : personne, médicament, dose, moment, voie. Lisez étiquettes et dates ; n'écrasez pas, ne cachez pas dans la nourriture ; rangez et éliminez correctement. Signalez refus, erreurs, réactions, et tout médicament, complément ou plante non prescrit.",
+      "wo": "Garab : DIMBALI nga mu jël ko moom ci boppam, doo ko jox mukk. Juróomi baax : nit, garab, dose, waxtu, yoon. Jàng etiket ak bés bi ; bul nos, bul nëbb ci ñam ; denc te sànni bu baax. Wax bañ, njuumte, réaction, ak bépp garab, complément walla garabu cosaan bu ñu santaanewul."
      }
     ]
    }
   ],
   "report": {
    "en": "Report skin redness or sores, falls, dizziness, choking, changes in urine, refusal of care, pain, medication problems, and equipment faults.",
-   "fr": "Signalez rougeurs ou plaies, chutes, vertiges, étouffement, changements de l'urine, refus de soins, douleur, problèmes de médicaments et pannes de matériel."
+   "fr": "Signalez rougeurs ou plaies, chutes, vertiges, étouffement, changements de l'urine, refus de soins, douleur, problèmes de médicaments et pannes de matériel.",
+   "wo": "Wax dér bu xonq walla gaañu, daanu, bopp buy wër, lu jàpp ci put, lu soppiku ci saw, bañ topptoo, metit, jafe-jafe ci garab, ak jumtukaay bu yàqu."
   }
  }
 ]

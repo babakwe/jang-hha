@@ -1,0 +1,117 @@
+{
+"_note": "DRAFT Wolof overlay for lessons m01-m06. Keys mirror lessons.json: title, intro, sections[i].heading, sections[i].points[j], report. Written in standard Senegalese Wolof (CLAD) with common Dakar loanwords. Needs native-speaker review.",
+"m01":{"title":"Ubbite ci soins à domicile","intro":"Soins à domicile dañuy tax ñi soxla ndimbal des ci seen kër, du ci lopitaal walla ci institution. Yaw aide à domicile, dangay topptoo nit ñi, di leen jàppale, di topp palaŋu topptoo bi, te di wax sa superviseur li nga gis.",
+ "sections":[
+  {"heading":"Lu soins à domicile di jariñ","points":[
+   "Topptoo bu wóor ci kër ngir ñi feebar, gaañu, néew doole walla am laago, ngir ñu bañ a dem ci institution walla ci placement.",
+   "Njaboot gi des ci benn, te kiliyaan bi di wéy di jokkoo ak njabootam, gox bi ak askan wi.",
+   "Soins à domicile dañuy dooleel sañ-sañ, teggin ak jàmm ci kër.",
+   "Taarix : njàngum aide ménagère tàmbali na ci at yi 1930 ; Medicaid ak Medicare di fey soins à domicile li dale ci at yi 1960."]},
+  {"heading":"Ñan ñooy kiliyaan yi","points":[
+   "Ñaari kurél : ñi am gaañu-gaañu walla feebar bu leer, ak ñi soxla ndimbal ci kër.",
+   "Mag ñu néew doole, ñi feebar lu gaaw walla lu yàgg, ñi am laago ci yaram walla ci xel, ak mag ak xale yu soxla kaaraange."]},
+  {"heading":"Jikkoy aide bu baax","points":[
+   "Ku ñu mën a wóolu, bëgg nit, dëggu, àttewoo bu baax, am yërmande, muñ, am teggin te xam liggéeyam.",
+   "Mën nañu la dàq ndax ñàkk fiyaar, ñàkk dëggu, bañ a weg sutura, walla bañ a topp ndigëlu agence bi.",
+   "Ndam mooy mën a liggéey te kenn du la saytu saa su nekk, bokk bu baax ak kiliyaan yi, saytu sa waxtu, te gis soxlay yaram, askan, diine ak aadaay kiliyaan bi."]},
+  {"heading":"Sa liggéey","points":[
+   "Soins personnels : sangu ci lal, ci baañuwaar walla duus ; sol ; taaral, bëñ ak gémmiñ ; wanag ; dox ; transfert ; togg ; lekkal ; dimbali walla fàttali ci garab.",
+   "Ndimbal ci kër : defar lal, fomp, aspirateur, setal waañ, néeg ak wanag, raxas ndab, bind li ñu soxla, njënd, fóot ak pasé, fey fatuur ak yeneen soxla, te di jàppale njaboot gi."]},
+  {"heading":"Ekib bi ak palaŋu topptoo bi","points":[
+   "Soins à domicile liggéeyu ekib la. Palaŋu topptoo bi, ekib bi moo koy defar, ki yor dosye bi di ko saytu.",
+   "Palaŋ bi dafay wone sa liggéey, li ñu bëgg a àgg, li nga war a seetlu ak lu jëkk a am. Kopi bi des na ci kër kiliyaan bi.",
+   "Infirmiyeer bi lay saytu dafay ñëw ci kër gi, xool ndax nand nga palaŋ bi, seet doxalin yi, jàngal la bu soxlaa, saafara jafe-jafe yi, lëkkale la ak ekib bi te saytu sa liggéey.",
+   "Jokkoo ak sa superviseur ci telefon bu am jafe-jafe bu gaaw, ci bés yi mu ñëw ci kër gi ak ci ndaje yu ekib bi."]}],
+ "report":"Woo sa superviseur bu am lu soppiku ci kiliyaan bi, lu nekkul ci palaŋ bi, walla jafe-jafe boo mënul saafara."},
+
+"m02":{"title":"Liggéey bu baax ak kiliyaan yi","intro":"Modil bii mooy xolu njàng mi : soxlay nit, weg wuute yi, waxtaan, seetlu ak wax, ak sutura.",
+ "sections":[
+  {"heading":"Soxla yu am solo ci nit","points":[
+   "Soxla yi ñooy jiite jikko ak xol. Soxla bu amul tontu dafay indi stress, te ku nekk am na ni muy tontu stress.",
+   "Juróomi soxla : yaram, kaaraange, bokk, teggin ci sa bopp, àgg ci li nga bëgg. Yaram ak kaaraange ñoo jëkk.",
+   "Gis teggin ak solo bu kiliyaan bu nekk te dimbali ko mu tontu soxlaam ci ni mu ko bëgge."]},
+  {"heading":"Wuute","points":[
+   "Xeet, diine ak ngëm, réew, ni nga bëgge, at : lépp dafay tax nit mel ni mu mel.",
+   "Aada dafay jëfe ci topptoo : waxtaan ci baat walla ci jëf, ngëm ci wérgi-yaram, ñam, njaboot ak ni ñuy wone metit.",
+   "Njaboot bu nekk moom la : aada, xaalis, at ak liggéey wuute nañu. Weg leen."]},
+  {"heading":"Waxtaan","points":[
+   "Waxtaan am na baat ak lu dul baat (kanam, loxo, taxawaay, baat, laal). Tontu dafay wone ne nand nañu la.",
+   "Déglu bu baax : sa xol bépp, bàyyi nit ki mu wax ba pare, seet ndax nand nga.",
+   "Lu mën a téye waxtaan : coow, metit, tiit, làkk, ñàkk dégg walla gis, aphasie, jaxasoo. Jubbanti : jàkkaarloo ak nit ki, wax bu leer, baat yu gàtt, may ko waxtu, jëfandikoo loxo ak nataal.",
+   "Jëflante bu baax : ñu waajal ko, am njariñ, sukkandiku ci kóolute. Dafay weg sañ-sañ te dooleel li nit ki mën a def boppam ; du xaritoo.",
+   "Nekk ku ñuy topptoo dafay indi ñàkk (sañ-sañ, sutura, sa palaas). Bàyyi kiliyaan bi mu jëfandikoo sañ-sañam : dogal boppam, sutura, kumpa, aar ci toroxal ak bàyyi."]},
+  {"heading":"Seetlu, bind, wax","points":[
+   "Seetlu ak sa bët, sa bakkan, sa nopp ak sa loxo, te xam lu baax ci sa kiliyaan ngir gis lu soppiku.",
+   "Seetlu lu soppiku ci yaramu kiliyaan bi, ci kër gi, ak ci jëflante ak njaboot gi ak xarit yi.",
+   "Bind rekk li am : li nga gis, li nga dégg, li nga def. Bind bés bu nekk te xaatim. Bind bu leer, mbind mu jub.",
+   "Lu tax mu am solo : ekib bi xam nan la kiliyaan bi mel, mën nañu ko yónnee feneen, te kenn du fàtte dara."]},
+  {"heading":"Sutura","points":[
+   "Sutura dafay ëmb waxtaan, seetlu ak bind yi aju ci kiliyaan bi, ci dundam ak ci wérgi-yaramam.",
+   "Bul wax kenn mbirum kiliyaan bi : du sa xarit, du sa njaboot, du dëkkandoo, du ci bus, su nga waxul turam sax. Ekib bi rekk.",
+   "HIPAA mooy yoonu réew mi aar xibaari wérgi-yaram. Denc kayit yi fu kenn dul mën a jàng."]}],
+ "report":"Wax soxla yu tontuwul, jikko ju soppiku, lépp lu mel ni toroxal walla bàyyi nit, ak bépp laaj ci jox xibaaru kiliyaan bi."},
+
+"m03":{"title":"Liggéey ak mag ñi","intro":"Màgget lu baax la te ku nekk am na ni muy màgget. Xam lu soppiku ci yaram, lu nga war a wax, ak ni ngay xàmmee jaxasoo bu dul yàgg ak lu soppiku bu dul wéy.",
+ "sections":[
+  {"heading":"Lu màgget di tekki","points":[
+   "Dund bu baax la, ku nekk am na ni muy màgget, ci yaram ak ci xel.",
+   "Lu askan di def am na solo : njaboot, xaalis, góor walla jigéen, aada ak diine. Seetlu soxla yu tontuwul te aar sutura.",
+   "Xool sa bopp ni nga gise màgget ; li askan di xalaat du sa kiliyaan."]},
+  {"heading":"Màgget ak yaram","points":[
+   "Yaram du mënatul a aar boppam : jàngoro yi gën a yomb a dugg. Noyyi : pumoŋ yi néew doole, pnemoni gën a bari.",
+   "Xol ak dereet : ñàkk doole bu nga liggéeyee, newi, bopp buy wër bu nga jógee. Dér : sew, wow, néew doole, yàgg a wér ; escarre.",
+   "Sidit ak yax : néew doole, cér yi dëgër, daanu ak damm. Sens yi : gis, dégg, xalaat ñam ak xeeñ néew.",
+   "Biir : jàpp biir, ñàkk bëgg a lekk, jafe-jafe ci ñàmm ak wann. Saw : saw bu bari, mënul téye, jàngoro.",
+   "Yeneen cér yi itam dañuy soppiku ; wax lu bees ci yaram, bul xalaat ne « màgget rekk la »."]},
+  {"heading":"Màgget ak xel","points":[
+   "Jaxasoo bu dul yàgg am na lu ko waral : jàngoro, ñàkk ndox, garab, metit, toxu. Lu soppiku bu gaaw, war nañu ko wax.",
+   "Lu dul wéy ni démence ndank-ndank lay ñëw. Topptoo ñi ñàkk fàttaliku ak muñ, aada bu nekk bés bu nekk, ak dal.",
+   "Stress am na jeexital ci xel ak ci yaram. Lu ñu mën a def : wax, noppalu, yëngu, des ak nit ñi."]}],
+ "report":"Wax jaxasoo bu gaaw, daanu, newi, ñàkk noyyi, dér bu xonq walla gaañu, bañ a lekk walla naan, ak bépp metit bu bees."},
+
+"m04":{"title":"Liggéey ak xale yi","intro":"Xale yi dañuy soxla aide à domicile bu waajur walla xale feebaree, ginnaaw aksidaa, walla bu waajur bi dëppoowul. Yaw dangay jàppale njaboot gi ; doo wuutu waajur bi.",
+ "sections":[
+  {"heading":"Kañ la xale yi soxla soins à domicile","points":[
+   "Feebar bu yàgg ci xale walla waajur, laago, juddu te matul, aksidaa, waajur bu xamul walla dëppoowul, waajur bu dee walla daw, dóor ci kër, toroxal, bàyyi, sangara walla drog.",
+   "Xale yi am nañu juróomi soxla yi mag ñi am ; dimbali waajur bi mu tontu ku nekk."]},
+  {"heading":"Juróomi jamono yu màgg","points":[
+   "Liir : ba 12 weer. Xale bu ndaw : 1 ba 3 at. Laata ekool : 3 ba 6 at. Ekool : 6 ba 11 walla 12 at. Ndaw : 11 ba 19 at.",
+   "Jamono bu nekk am na jikko ak po yu ko dëppoo. Waxtaan ak xale bi ci tolluwaayam."]},
+  {"heading":"Stress ak njaboot","points":[
+   "Jafe-jafey njaboot : xaalis, feebar ak gaañu, mbokk yi, sangara ak drog, dóor ci kër.",
+   "Xale yu ndaw, xale yu ekool ak ndaw ñi dañuy tontu stress ci anam yu wuute : delluwaat ginnaaw, jàpp ci yaw, coow, tëju, jafe-jafe ci ekool."]},
+  {"heading":"Liggéey ak waajur yi","points":[
+   "Nand palaasu ku nekk ci njaboot gi ak ni ñuy dunde. Weg alalu njaboot gi, dundinam ak aadaam.",
+   "Faju soxlay waajur bi ci ndoorteelu bés bu nekk. Wone ni ñuy yar bu baax, bul ñaawlu.",
+   "Seetlu, wax te jokkoo ak ekib bi."]}],
+ "report":"Wax firndey toroxal walla bàyyi, kaaraange bu ñàkk, xale bu feebar walla màggul ni mu ware, ak waajur bu nekk ci jafe-jafe bu metti."},
+
+"m05":{"title":"Wérgi-xel ak feebaru xel","intro":"Ñi am feebaru xel mën nañu wér te dund bu baax. Sa liggéey mooy seetlu te bañ a àtte, jàppale palaŋu topptoo bi, te aar képp.",
+ "sections":[
+  {"heading":"Wérgi-xel","points":[
+   "Ku am wérgi-xel mën na jubbanti boppam bu lu soppikoo, jox ak jël mbëggeel, am xarit, téye boppam, nangu wareefam ak ñàkk, muñ tuuti tiit, te weg boppam.",
+   "Ku nekk am na ni muy aar boppam : sàkku lay, tuumaal ñeneen, defar ci feneen, daw, delluwaat ginnaaw, yóbbu xolam ci keneen, fàtte."]},
+  {"heading":"Feebaru xel","points":[
+   "Mën na metti walla woyof. Lu ko waral : yaram (gaañu ci bopp, lu jaxasoo ci dereet), ni ñuy dunde, cosaan, stress bu ëpp.",
+   "Xeet yi : tiit bu ëpp, ragal lu dul lu wóor, naqar bu ëpp (dépression), xalaat ne ñu ngi la topp (paranoïa), xalaat bu dul jub. Dafay laal nit ki ak njabootam.",
+   "Faju bi ci biti lopitaal la ci lu ëpp, ak ekib bu xam. Wér mën na am."]},
+  {"heading":"Sa liggéey","points":[
+   "Seetlu jikko : wax ni mu mel, kañ, ñaata yoon, ba kañ. Ndax soppiku na ci jikkoom ? Ndax dafa ëpp walla dafay lor ? BUL wax lu ko waral.",
+   "Dimbali ci garab te wax lu soppiku ; seetlu, bind, wax ; dimbali ci kër ak ci soins personnels ; dal ko, xiirtal ko, jàppale ko ; aar palaasam ak mbëggeel gi ci njabootam.",
+   "Kaaraange : waxtaan ak infirmiyeer bi ci palaŋ bi ; bul bàyyi kiliyaan bi moom rekk bu palaŋ bi laajee ñu saytu ko saa su nekk ; wax bu nanguwul garab walla faju ; woo 911 bu jikko ji soppikoo lu ëpp."]}],
+ "report":"Wax ci saa si bépp wax ci bëgg a dee walla lor boppam, bañ garab, ak jikko bu lor kiliyaan bi walla yaw."},
+
+"m06":{"title":"Laago bu jóge ci ndaw","intro":"Laago bu jóge ci ndaw du wéy te dafay tàmbali laata 22 at. Du feebar. Waxal ak nit ki, du ak laago bi, te dooleel sañ-sañam.",
+ "sections":[
+  {"heading":"Nand laago bu jóge ci ndaw","points":[
+   "Dafay laal topptoo sa bopp, waxtaan, yëngu, dogal sa bopp, ak mën a dund te gañe sa dund boppam.",
+   "Xeet yi : laago ci xel, paralysie cérébrale, autisme, laago ci sidit yi, laago yu bari. Tolluwaay : woyof, digg, metti, metti lool.",
+   "Lu ko waral : juddoo ak moom (chromosome, gène, ni trisomie 21) walla am ko ginnaaw (jàngoro ci biir, gaañu ci bopp bu ñuy juddu, sangara, drog walla ñam bu baaxul ci biir, juddu te matul, poison bu plomb).",
+   "Wuute ak feebaru xel : laago bu jóge ci ndaw du wéy te tàmbali laata 22 at ; feebaru xel mën na dul yàgg te mën na tàmbali at bu nekk."]},
+  {"heading":"Soins à domicile ak ni ñu war a liggéey","points":[
+   "Xalaat bu tey : waxal ak nit ki, du ak laago bi ; jëm ci sañ-sañ, liggéey ak bokk ci askan wi ; dooleel dogal sa bopp ak bokk ci gox bi.",
+   "Wax ak teggin ak ñépp. Dugal nit ñi ci waxtaan : wax AK ñoom, du ci kaw ñoom.",
+   "Waxtaan bu baax, leeral bu ñu mën a nand, te xool ni ñu ko jële. Laaj, bul santaane.",
+   "Xiirtal nit ñi ñu def li ñu mën ñoom ci seen bopp. Dugal leen ci dogal yi te jox leen tànneef. Weg wuute, bëgg-bëgg, soxla, ngëm ak xol."]}],
+ "report":"Wax lu soppiku ci jikko, ci mën-mën walla ci wérgi-yaram, firndey toroxal walla bàyyi, ak jafe-jafe ci jumtukaay walla ci kaaraange."}
+}

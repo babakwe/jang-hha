@@ -5,6 +5,7 @@ import { useAudio } from "@/lib/audio";
 import { Header, ListenAll, Page, Speak } from "@/components/ui";
 import { PROCEDURES } from "@/lib/data";
 import { pick, pickLang, type Bi } from "@/lib/types";
+import { Illustration } from "@/components/Illustration";
 
 function Steps({ steps, prefix }: { steps: Bi[]; prefix: string }) {
   const { lang, other, t } = useLang();
@@ -45,6 +46,7 @@ export default function ProcedureView({ id }: { id: string }) {
       <Header title={`${t("procedureOf")} ${p.number}`} back="/procedures" />
       <Page>
         <div className="flex items-start gap-3">
+          <div className="w-20 h-20 rounded-2xl bg-fr-soft text-brand flex items-center justify-center shrink-0"><Illustration name={p.icon} size={56} /></div>
           <div className="flex-1">
             <h2 className="text-2xl font-black leading-tight">{pick(p.title, lang)}</h2>
             <p className="text-muted">{lang === "en" ? p.title.fr : lang === "fr" ? p.title.en : p.title.fr}</p>

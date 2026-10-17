@@ -4,14 +4,15 @@ import { useLang } from "@/lib/lang";
 import { Header, Page } from "@/components/ui";
 import { PROCEDURES } from "@/lib/data";
 import { pick } from "@/lib/types";
+import { Illustration } from "@/components/Illustration";
 
 export default function Procedures() {
   const { t, lang } = useLang();
   const req = PROCEDURES.filter(p => p.required), rest = PROCEDURES.filter(p => !p.required);
   const Row = ({ p }: { p: (typeof PROCEDURES)[number] }) => (
     <Link href={`/procedures/${p.id}`} className="card p-3 flex items-center gap-3 hover:border-brand">
-      <span className="chip bg-fr-soft text-fr w-16 justify-center">{p.number}</span>
-      <span className="flex-1 font-bold leading-snug">{pick(p.title, lang)}</span>
+      <span className="w-12 h-12 rounded-xl bg-fr-soft text-brand flex items-center justify-center shrink-0"><Illustration name={p.icon} size={36} /></span>
+      <span className="flex-1 min-w-0"><span className="block font-bold leading-snug">{pick(p.title, lang)}</span><span className="text-xs text-fr font-bold">{p.number}</span></span>
       <span className="text-xs text-muted">{p.steps.length} {t("steps")}</span>
     </Link>
   );

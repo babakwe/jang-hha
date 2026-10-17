@@ -5,57 +5,69 @@
   "required": true,
   "title": {
    "en": "Proper Handwashing",
-   "fr": "Lavage correct des mains"
+   "fr": "Lavage correct des mains",
+   "wo": "Raxas loxo bu baax"
   },
   "module": "XII",
   "icon": "hands",
   "steps": [
    {
     "en": "Gather equipment: soap and paper towels (a clean towel if no paper towels).",
-    "fr": "Préparez le matériel : savon et serviettes en papier (une serviette propre s'il n'y en a pas)."
+    "fr": "Préparez le matériel : savon et serviettes en papier (une serviette propre s'il n'y en a pas).",
+    "wo": "Waajal jumtukaay : saabu ak kayit yu ñuy fompe (serwiyet bu set bu amul kayit)."
    },
    {
     "en": "Roll up sleeves and remove watch and jewelry.",
-    "fr": "Retroussez vos manches et retirez montre et bijoux."
+    "fr": "Retroussez vos manches et retirez montre et bijoux.",
+    "wo": "Laxas sa manc te summi sa montar ak sa bijoux."
    },
    {
     "en": "Wet hands under warm, running water.",
-    "fr": "Mouillez vos mains sous l'eau courante tiède."
+    "fr": "Mouillez vos mains sous l'eau courante tiède.",
+    "wo": "Tooyal sa loxo ci ndox mu tàng tuuti muy wal."
    },
    {
     "en": "Apply a generous amount of soap and lather hands well.",
-    "fr": "Mettez une bonne quantité de savon et faites bien mousser."
+    "fr": "Mettez une bonne quantité de savon et faites bien mousser.",
+    "wo": "Def saabu bu bari te fëss ko bu baax."
    },
    {
     "en": "Wash the entire surface of the hands: between the fingers, around and under the fingernails, up to above the wrist (current CDC guidelines).",
-    "fr": "Lavez toute la surface des mains : entre les doigts, autour et sous les ongles, jusqu'au-dessus du poignet (recommandations CDC en vigueur)."
+    "fr": "Lavez toute la surface des mains : entre les doigts, autour et sous les ongles, jusqu'au-dessus du poignet (recommandations CDC en vigueur).",
+    "wo": "Raxas loxo yépp : diggante baaraam yi, wërngal ak ci suufu we yi, ba ci kaw sa poñ (ni CDC ko waxe)."
    },
    {
     "en": "Rinse thoroughly under warm running water, keeping hands LOWER than the wrists.",
-    "fr": "Rincez bien sous l'eau courante tiède, les mains PLUS BASSES que les poignets."
+    "fr": "Rincez bien sous l'eau courante tiède, les mains PLUS BASSES que les poignets.",
+    "wo": "Raxas bu baax ci ndox muy wal, loxo yi ci SUUFU poñ yi."
    },
    {
     "en": "Dry hands with a clean cloth or paper towel.",
-    "fr": "Séchez vos mains avec une serviette propre ou en papier."
+    "fr": "Séchez vos mains avec une serviette propre ou en papier.",
+    "wo": "Wowal sa loxo ak serwiyet bu set walla kayit."
    },
    {
     "en": "Turn off the tap with the paper towel.",
-    "fr": "Fermez le robinet avec la serviette en papier."
+    "fr": "Fermez le robinet avec la serviette en papier.",
+    "wo": "Tëj robine bi ak kayit bi."
    }
   ],
   "alt": {
    "title": {
     "en": "Alcohol-based hand cleaner (no running water, hands not visibly soiled)",
-    "fr": "Solution hydro-alcoolique (pas d'eau courante, mains non visiblement sales)"
+    "fr": "Solution hydro-alcoolique (pas d'eau courante, mains non visiblement sales)",
+    "wo": "Solution hydro-alcoolique (amul ndox muy wal, loxo yi tilimul)"
    },
    "steps": [
     {
      "en": "Apply the product to one hand (amount per product instructions).",
-     "fr": "Appliquez le produit dans une main (quantité selon la notice)."
+     "fr": "Appliquez le produit dans une main (quantité selon la notice).",
+     "wo": "Def produit bi ci benn loxo (ni ñu ko waxe ci boyet bi)."
     },
     {
      "en": "Rub hands together, covering all surfaces of hands and fingers, until dry.",
-     "fr": "Frottez les mains ensemble, sur toutes les surfaces des mains et des doigts, jusqu'à ce qu'elles soient sèches."
+     "fr": "Frottez les mains ensemble, sur toutes les surfaces des mains et des doigts, jusqu'à ce qu'elles soient sèches.",
+     "wo": "Fëss sa ñaari loxo, ci loxo yépp ak baaraam yépp, ba ñu wow."
     }
    ]
   }
@@ -66,42 +78,51 @@
   "required": false,
   "title": {
    "en": "Proper Body Mechanics",
-   "fr": "Bonne mécanique corporelle"
+   "fr": "Bonne mécanique corporelle",
+   "wo": "Jëfandikoo sa yaram bu baax"
   },
   "module": "XII",
   "icon": "back",
   "steps": [
    {
     "en": "Use a firm, wide base of support.",
-    "fr": "Prenez une base d'appui ferme et large."
+    "fr": "Prenez une base d'appui ferme et large.",
+    "wo": "Taxaw ak sa tànk yu xàjj te dëgër."
    },
    {
     "en": "Keep your back straight.",
-    "fr": "Gardez le dos droit."
+    "fr": "Gardez le dos droit.",
+    "wo": "Sa ginnaaw bu jub."
    },
    {
     "en": "Face the direction of movement.",
-    "fr": "Faites face à la direction du mouvement."
+    "fr": "Faites face à la direction du mouvement.",
+    "wo": "Jàkkaarloo fu ngay dem."
    },
    {
     "en": "Place one foot ahead of the other.",
-    "fr": "Placez un pied devant l'autre."
+    "fr": "Placez un pied devant l'autre.",
+    "wo": "Benn tànk ci kanamu beneen bi."
    },
    {
     "en": "Keep the object being lifted close to your body.",
-    "fr": "Gardez la charge soulevée près de votre corps."
+    "fr": "Gardez la charge soulevée près de votre corps.",
+    "wo": "Yor li ngay yékkati ci sa yaram."
    },
    {
     "en": "Use the weight of your body when pushing or pulling.",
-    "fr": "Utilisez le poids de votre corps pour pousser ou tirer."
+    "fr": "Utilisez le poids de votre corps pour pousser ou tirer.",
+    "wo": "Jëfandikoo sa peesu bu ngay puus walla xécc."
    },
    {
     "en": "Bend at the knees and hips, not the waist.",
-    "fr": "Pliez les genoux et les hanches, pas la taille."
+    "fr": "Pliez les genoux et les hanches, pas la taille.",
+    "wo": "Lemal óom ak jur, du ndigg."
    },
    {
     "en": "Turn with your feet; do not twist at the waist.",
-    "fr": "Tournez avec les pieds ; ne faites pas de torsion de la taille."
+    "fr": "Tournez avec les pieds ; ne faites pas de torsion de la taille.",
+    "wo": "Wëlbati ak sa tànk ; bul wëlbati sa ndigg."
    }
   ]
  },
@@ -111,58 +132,71 @@
   "required": false,
   "title": {
    "en": "Tub or Shower Bath",
-   "fr": "Bain ou douche"
+   "fr": "Bain ou douche",
+   "wo": "Bain walla duus"
   },
   "module": "XII",
   "icon": "shower",
   "steps": [
    {
     "en": "Explain the procedure to the client.",
-    "fr": "Expliquez la procédure au client."
+    "fr": "Expliquez la procédure au client.",
+    "wo": "Leeral kiliyaan bi doxalin bi."
    },
    {
     "en": "Wash your hands and assemble equipment.",
-    "fr": "Lavez-vous les mains et préparez le matériel."
+    "fr": "Lavez-vous les mains et préparez le matériel.",
+    "wo": "Raxas sa loxo te waajal jumtukaay yi."
    },
    {
     "en": "Make sure the bathroom is warm.",
-    "fr": "Assurez-vous que la salle de bain est chaude."
+    "fr": "Assurez-vous que la salle de bain est chaude.",
+    "wo": "Wanag bi na tàng."
    },
    {
     "en": "Remove loose rugs from the floor if necessary.",
-    "fr": "Enlevez les tapis mobiles du sol si nécessaire."
+    "fr": "Enlevez les tapis mobiles du sol si nécessaire.",
+    "wo": "Dindi tapi yu dul jàpp bu soxlaa."
    },
    {
     "en": "Check for safety devices; place rubber mats and chairs appropriately.",
-    "fr": "Vérifiez les dispositifs de sécurité ; placez tapis antidérapants et chaises."
+    "fr": "Vérifiez les dispositifs de sécurité ; placez tapis antidérapants et chaises.",
+    "wo": "Seet jumtukaay yu kaaraange ; teg tapi yu jàpp ak siis."
    },
    {
     "en": "Test the water temperature.",
-    "fr": "Testez la température de l'eau."
+    "fr": "Testez la température de l'eau.",
+    "wo": "Seet tàngooru ndox mi."
    },
    {
     "en": "Wash hands again and put on gloves as necessary.",
-    "fr": "Relavez-vous les mains et mettez des gants si nécessaire."
+    "fr": "Relavez-vous les mains et mettez des gants si nécessaire.",
+    "wo": "Raxasaat sa loxo te sol gant bu soxlaa."
    },
    {
     "en": "Help the client into the tub or shower safely.",
-    "fr": "Aidez le client à entrer dans la baignoire ou la douche en sécurité."
+    "fr": "Aidez le client à entrer dans la baignoire ou la douche en sécurité.",
+    "wo": "Dimbali kiliyaan bi mu dugg ci baañuwaar walla duus bu wóor."
    },
    {
     "en": "Help the client wash and shampoo hair if necessary.",
-    "fr": "Aidez le client à se laver et faites le shampoing si nécessaire."
+    "fr": "Aidez le client à se laver et faites le shampoing si nécessaire.",
+    "wo": "Dimbali ko mu sangu te def shampoing bu soxlaa."
    },
    {
     "en": "Help with drying, then help the client out of the tub or shower.",
-    "fr": "Aidez à sécher, puis aidez le client à sortir."
+    "fr": "Aidez à sécher, puis aidez le client à sortir.",
+    "wo": "Dimbali ko mu wowal, ba pare dimbali ko mu génn."
    },
    {
     "en": "Drain and clean the tub or shower area.",
-    "fr": "Videz et nettoyez la baignoire ou la douche."
+    "fr": "Videz et nettoyez la baignoire ou la douche.",
+    "wo": "Génne ndox mi te setal baañuwaar walla duus bi."
    },
    {
     "en": "Wash your hands. Observe, record and report any changes in condition or behavior.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez tout changement d'état ou de comportement."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez tout changement d'état ou de comportement.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax lu soppiku ci yaramam walla jikkoom."
    }
   ]
  },
@@ -172,42 +206,51 @@
   "required": false,
   "title": {
    "en": "Turning the Client in Bed",
-   "fr": "Tourner le client dans le lit"
+   "fr": "Tourner le client dans le lit",
+   "wo": "Wëlbati kiliyaan bi ci lal bi"
   },
   "module": "XII",
   "icon": "bed",
   "steps": [
    {
     "en": "Explain the procedure to the client. Wash your hands; gloves as necessary.",
-    "fr": "Expliquez la procédure au client. Lavez-vous les mains ; gants si nécessaire."
+    "fr": "Expliquez la procédure au client. Lavez-vous les mains ; gants si nécessaire.",
+    "wo": "Leeral kiliyaan bi. Raxas sa loxo ; gant bu soxlaa."
    },
    {
     "en": "Move the client to the appropriate side of the bed.",
-    "fr": "Déplacez le client du bon côté du lit."
+    "fr": "Déplacez le client du bon côté du lit.",
+    "wo": "Yóbbu kiliyaan bi ci wetu lal bi ju jub."
    },
    {
     "en": "Place the client's arms correctly (across the chest).",
-    "fr": "Placez correctement les bras du client (croisés sur la poitrine)."
+    "fr": "Placez correctement les bras du client (croisés sur la poitrine).",
+    "wo": "Teg loxoom bu baax (xaajale ci dënnam)."
    },
    {
     "en": "Place and support the legs correctly (far leg crossed over the near one).",
-    "fr": "Placez et soutenez correctement les jambes (jambe éloignée croisée sur l'autre)."
+    "fr": "Placez et soutenez correctement les jambes (jambe éloignée croisée sur l'autre).",
+    "wo": "Teg te sëmb tànkam bu baax (tànk bu sore bi ci kaw beneen bi)."
    },
    {
     "en": "Roll the client toward you from the opposite side of the bed, keeping the client safe.",
-    "fr": "Faites rouler le client vers vous depuis le côté opposé du lit, en assurant sa sécurité."
+    "fr": "Faites rouler le client vers vous depuis le côté opposé du lit, en assurant sa sécurité.",
+    "wo": "Wëlbati kiliyaan bi jëm ci yaw, jóge ci beneen wet, te aar ko."
    },
    {
     "en": "Adjust the pillow under the head.",
-    "fr": "Ajustez l'oreiller sous la tête."
+    "fr": "Ajustez l'oreiller sous la tête.",
+    "wo": "Jubbanti oreiller bi ci suufu bopp bi."
    },
    {
     "en": "Make sure the client is comfortable.",
-    "fr": "Assurez-vous que le client est confortable."
+    "fr": "Assurez-vous que le client est confortable.",
+    "wo": "Xool ndax kiliyaan bi dal na."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -217,58 +260,71 @@
   "required": true,
   "title": {
    "en": "Bed Bath",
-   "fr": "Toilette au lit"
+   "fr": "Toilette au lit",
+   "wo": "Sangu ci lal"
   },
   "module": "XII",
   "icon": "bath",
   "steps": [
    {
     "en": "Explain the procedure to the client. Wash your hands and assemble equipment.",
-    "fr": "Expliquez la procédure au client. Lavez-vous les mains et préparez le matériel."
+    "fr": "Expliquez la procédure au client. Lavez-vous les mains et préparez le matériel.",
+    "wo": "Leeral kiliyaan bi. Raxas sa loxo te waajal jumtukaay yi."
    },
    {
     "en": "Provide privacy and warmth. Put on gloves as necessary.",
-    "fr": "Assurez l'intimité et la chaleur. Mettez des gants si nécessaire."
+    "fr": "Assurez l'intimité et la chaleur. Mettez des gants si nécessaire.",
+    "wo": "Aar sutura ak tàngoor. Gant bu soxlaa."
    },
    {
     "en": "Prepare the bedding, protecting the bed with towels.",
-    "fr": "Préparez la literie en protégeant le lit avec des serviettes."
+    "fr": "Préparez la literie en protégeant le lit avec des serviettes.",
+    "wo": "Waajal lal bi, aar ko ak serwiyet."
    },
    {
     "en": "Test the water temperature.",
-    "fr": "Testez la température de l'eau."
+    "fr": "Testez la température de l'eau.",
+    "wo": "Seet tàngooru ndox mi."
    },
    {
     "en": "Form a mitt with the washcloth.",
-    "fr": "Formez un gant avec le gant de toilette."
+    "fr": "Formez un gant avec le gant de toilette.",
+    "wo": "Def gant ak sarbet bi."
    },
    {
     "en": "Wash and dry from head to toe, cleanest to least clean, one part at a time.",
-    "fr": "Lavez et séchez de la tête aux pieds, du plus propre au moins propre, une partie à la fois."
+    "fr": "Lavez et séchez de la tête aux pieds, du plus propre au moins propre, une partie à la fois.",
+    "wo": "Raxas te wowal bopp ba tànk, lu gën a set jëkk, benn cér bu nekk."
    },
    {
     "en": "Keep exposure to a minimum.",
-    "fr": "Découvrez le moins possible le client."
+    "fr": "Découvrez le moins possible le client.",
+    "wo": "Bul feeñal lu ëpp ci yaramam."
    },
    {
     "en": "Soak and dry hands and feet.",
-    "fr": "Trempez et séchez les mains et les pieds."
+    "fr": "Trempez et séchez les mains et les pieds.",
+    "wo": "Tooyal te wowal loxo ak tànk yi."
    },
    {
     "en": "Let the client participate as much as possible. Change the water when needed.",
-    "fr": "Laissez le client participer autant que possible. Changez l'eau si besoin."
+    "fr": "Laissez le client participer autant que possible. Changez l'eau si besoin.",
+    "wo": "Bàyyi kiliyaan bi mu def li mu mën. Soppi ndox mi bu soxlaa."
    },
    {
     "en": "Wash the genitals and buttocks LAST.",
-    "fr": "Lavez les parties génitales et les fesses EN DERNIER."
+    "fr": "Lavez les parties génitales et les fesses EN DERNIER.",
+    "wo": "Raxas béréb yu sutura ak taat yi CI MUJJ."
    },
    {
     "en": "Apply lotion if ordered. Help with dressing and let the client rest.",
-    "fr": "Appliquez une lotion si prescrit. Aidez à l'habillage et laissez le client se reposer."
+    "fr": "Appliquez une lotion si prescrit. Aidez à l'habillage et laissez le client se reposer.",
+    "wo": "Def lotion bu ñu ko santaanee. Dimbali ko mu sol te bàyyi ko mu noppalu."
    },
    {
     "en": "Clean the area and equipment. Wash your hands. Observe, record and report.",
-    "fr": "Nettoyez la zone et le matériel. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Nettoyez la zone et le matériel. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Setal béréb bi ak jumtukaay yi. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -278,38 +334,46 @@
   "required": false,
   "title": {
    "en": "Shampoo in Bed",
-   "fr": "Shampoing au lit"
+   "fr": "Shampoing au lit",
+   "wo": "Shampoing ci lal"
   },
   "module": "XII",
   "icon": "hair",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment and ask the client which products to use (to prevent allergies or reactions).",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel et demandez au client quels produits utiliser (pour éviter allergies ou réactions)."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel et demandez au client quels produits utiliser (pour éviter allergies ou réactions).",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi te laaj kiliyaan bi ban produit lay bëgg (ngir bañ allergie)."
    },
    {
     "en": "Make a trough (a hollowed-out channel) so water can flow and the bed stays dry.",
-    "fr": "Faites une gouttière (un creux) pour que l'eau s'écoule et que le lit reste sec."
+    "fr": "Faites une gouttière (un creux) pour que l'eau s'écoule et que le lit reste sec.",
+    "wo": "Defar gouttière (lu ñu xot) ngir ndox mi wal te lal bi des wow."
    },
    {
     "en": "Check the room temperature. Place a towel and the trough appropriately.",
-    "fr": "Vérifiez la température de la pièce. Placez une serviette et la gouttière."
+    "fr": "Vérifiez la température de la pièce. Placez une serviette et la gouttière.",
+    "wo": "Seet tàngooru néeg bi. Teg serwiyet ak gouttière bi."
    },
    {
     "en": "Put on gloves.",
-    "fr": "Mettez des gants."
+    "fr": "Mettez des gants.",
+    "wo": "Sol gant."
    },
    {
     "en": "Wet the hair and work up a good lather from front to back. Protect the eyes and ears.",
-    "fr": "Mouillez les cheveux et faites bien mousser d'avant en arrière. Protégez les yeux et les oreilles."
+    "fr": "Mouillez les cheveux et faites bien mousser d'avant en arrière. Protégez les yeux et les oreilles.",
+    "wo": "Tooyal kawar gi te fëss ko bu baax, kanam jëm ginnaaw. Aar bët yi ak nopp yi."
    },
    {
     "en": "Rinse thoroughly and dry the hair.",
-    "fr": "Rincez bien et séchez les cheveux."
+    "fr": "Rincez bien et séchez les cheveux.",
+    "wo": "Raxas bu baax te wowal kawar gi."
    },
    {
     "en": "Clean the area and equipment. Wash your hands. Observe, record and report.",
-    "fr": "Nettoyez la zone et le matériel. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Nettoyez la zone et le matériel. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Setal béréb bi ak jumtukaay yi. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -319,42 +383,51 @@
   "required": false,
   "title": {
    "en": "Back Rub",
-   "fr": "Massage du dos"
+   "fr": "Massage du dos",
+   "wo": "Massage ginnaaw"
   },
   "module": "XII",
   "icon": "back",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi."
    },
    {
     "en": "Remove the client's clothing from the back and position the client on the stomach or side.",
-    "fr": "Dégagez le dos du client et installez-le sur le ventre ou sur le côté."
+    "fr": "Dégagez le dos du client et installez-le sur le ventre ou sur le côté.",
+    "wo": "Ubbi ginnaawu kiliyaan bi te tëddal ko ci biir walla ci wet."
    },
    {
     "en": "Position yourself with good body mechanics.",
-    "fr": "Placez-vous avec une bonne mécanique corporelle."
+    "fr": "Placez-vous avec une bonne mécanique corporelle.",
+    "wo": "Taxaw bu baax ak sa yaram."
    },
    {
     "en": "Warm the lotion before applying it; lubricate your hands.",
-    "fr": "Réchauffez la lotion avant de l'appliquer ; lubrifiez vos mains."
+    "fr": "Réchauffez la lotion avant de l'appliquer ; lubrifiez vos mains.",
+    "wo": "Tàngal lotion bi laata ngay def ; diwal sa loxo."
    },
    {
     "en": "Rub the back with appropriate pressure, rhythmically and in the correct direction (long strokes up the spine, circles down the sides).",
-    "fr": "Massez le dos avec une pression adaptée, en rythme et dans le bon sens (longs mouvements vers le haut le long de la colonne, cercles en redescendant sur les côtés)."
+    "fr": "Massez le dos avec une pression adaptée, en rythme et dans le bon sens (longs mouvements vers le haut le long de la colonne, cercles en redescendant sur les côtés).",
+    "wo": "Massage ginnaaw bi ak doole bu dëppoo, ci rythme, ci yoon wu jub (lu gudd ci wetu kiriiñ bi jëm kaw, lu wër bu ngay wàcc ci wet yi)."
    },
    {
     "en": "Observe and massage around bony or reddened areas. Report reddened or open areas.",
-    "fr": "Observez et massez autour des zones osseuses ou rouges. Signalez toute zone rouge ou ouverte."
+    "fr": "Observez et massez autour des zones osseuses ou rouges. Signalez toute zone rouge ou ouverte.",
+    "wo": "Seetlu te massage wërngalu yax yi ak béréb yu xonq. Wax béréb bu xonq walla gaañu."
    },
    {
     "en": "Time the back rub according to the client's wishes. Remove excess lotion.",
-    "fr": "Adaptez la durée aux souhaits du client. Essuyez l'excès de lotion."
+    "fr": "Adaptez la durée aux souhaits du client. Essuyez l'excès de lotion.",
+    "wo": "Diir bi na dëppoo ak li kiliyaan bi bëgg. Fomp lotion bu ëpp."
    },
    {
     "en": "Help the client dress. Return equipment. Wash your hands. Observe, record and report.",
-    "fr": "Aidez le client à se rhabiller. Rangez le matériel. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Aidez le client à se rhabiller. Rangez le matériel. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Dimbali ko mu sol. Denc jumtukaay yi. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -364,42 +437,51 @@
   "required": false,
   "title": {
    "en": "Nail Care (hands and feet)",
-   "fr": "Soins des ongles (mains et pieds)"
+   "fr": "Soins des ongles (mains et pieds)",
+   "wo": "Topptoo we yi (loxo ak tànk)"
   },
   "module": "XII",
   "icon": "hand",
   "warning": {
    "en": "Do NOT cut or trim nails. Nails may only be filed. Discuss the care plan with the RN.",
-   "fr": "NE coupez PAS et ne taillez pas les ongles. On peut seulement les limer. Discutez du plan de soins avec l'infirmière."
+   "fr": "NE coupez PAS et ne taillez pas les ongles. On peut seulement les limer. Discutez du plan de soins avec l'infirmière.",
+   "wo": "BUL dagg we yi. Limal rekk. Waxtaan ak infirmiyeer bi ci palaŋ bi."
   },
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "FINGERNAILS: soak the client's hands in tepid water, then dry carefully.",
-    "fr": "ONGLES DES MAINS : trempez les mains du client dans de l'eau tiède, puis séchez soigneusement."
+    "fr": "ONGLES DES MAINS : trempez les mains du client dans de l'eau tiède, puis séchez soigneusement.",
+    "wo": "WE YU LOXO : tooyal loxoy kiliyaan bi ci ndox mu nugg, wowal bu baax."
    },
    {
     "en": "Push the cuticles back and clean under the nails.",
-    "fr": "Repoussez les cuticules et nettoyez sous les ongles."
+    "fr": "Repoussez les cuticules et nettoyez sous les ongles.",
+    "wo": "Puus cuticule yi te setal ci suufu we yi."
    },
    {
     "en": "File the nails if necessary. Massage the hands with lotion. Observe for irritation.",
-    "fr": "Limez les ongles si nécessaire. Massez les mains avec une lotion. Observez toute irritation."
+    "fr": "Limez les ongles si nécessaire. Massez les mains avec une lotion. Observez toute irritation.",
+    "wo": "Limal we yi bu soxlaa. Massage loxo yi ak lotion. Seetlu lu xonq."
    },
    {
     "en": "TOENAILS: observe the client's feet. Soak the feet first if only foot care is being given (check the care plan).",
-    "fr": "ONGLES DES PIEDS : observez les pieds du client. Trempez d'abord les pieds si seuls les soins des pieds sont donnés (vérifiez le plan de soins)."
+    "fr": "ONGLES DES PIEDS : observez les pieds du client. Trempez d'abord les pieds si seuls les soins des pieds sont donnés (vérifiez le plan de soins).",
+    "wo": "WE YU TÀNK : xool tànki kiliyaan bi. Tooyal tànk yi bu jëkk bu nga topptoo tànk rekk (seet palaŋ bi)."
    },
    {
     "en": "Clean under the nails and smooth them with an emery board.",
-    "fr": "Nettoyez sous les ongles et lissez-les avec une lime en carton."
+    "fr": "Nettoyez sous les ongles et lissez-les avec une lime en carton.",
+    "wo": "Setal ci suufu we yi te limal leen ak lime bu kayit."
    },
    {
     "en": "Wash your hands. Report pain, redness, open areas, dry scaly skin or cracked nails.",
-    "fr": "Lavez-vous les mains. Signalez douleur, rougeur, plaies, peau sèche et squameuse ou ongles fendus."
+    "fr": "Lavez-vous les mains. Signalez douleur, rougeur, plaies, peau sèche et squameuse ou ongles fendus.",
+    "wo": "Raxas sa loxo. Wax metit, lu xonq, lu gaañu, dér bu wow walla we yu dàgg."
    }
   ]
  },
@@ -409,61 +491,74 @@
   "required": false,
   "title": {
    "en": "Shaving the Client",
-   "fr": "Raser le client"
+   "fr": "Raser le client",
+   "wo": "Wat kiliyaan bi"
   },
   "module": "XII",
   "icon": "razor",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Sol gant."
    },
    {
     "en": "Place a towel under the client's chin.",
-    "fr": "Placez une serviette sous le menton du client."
+    "fr": "Placez une serviette sous le menton du client.",
+    "wo": "Teg serwiyet ci suufu sikkimu kiliyaan bi."
    },
    {
     "en": "Wash the client's face and leave it wet. Rub shaving cream into the beard.",
-    "fr": "Lavez le visage du client et laissez-le humide. Appliquez la mousse à raser sur la barbe."
+    "fr": "Lavez le visage du client et laissez-le humide. Appliquez la mousse à raser sur la barbe.",
+    "wo": "Raxas kanamam te bàyyi ko tooy. Def mousse ci sikkim bi."
    },
    {
     "en": "Pull the skin tight in the area to be shaved.",
-    "fr": "Tendez la peau de la zone à raser."
+    "fr": "Tendez la peau de la zone à raser.",
+    "wo": "Tàllal dér bi fa ngay wat."
    },
    {
     "en": "Shave with gentle, short strokes in the same direction. Rinse the razor often.",
-    "fr": "Rasez par petits gestes doux dans le même sens. Rincez souvent le rasoir."
+    "fr": "Rasez par petits gestes doux dans le même sens. Rincez souvent le rasoir.",
+    "wo": "Wat ak jëf yu ndaw te noy ci benn yoon. Raxas rasuwaar bi lu bari."
    },
    {
     "en": "Rinse the face and pat dry. Apply after-shave lotion if the client wishes.",
-    "fr": "Rincez le visage et séchez en tapotant. Appliquez de l'après-rasage si le client le souhaite."
+    "fr": "Rincez le visage et séchez en tapotant. Appliquez de l'après-rasage si le client le souhaite.",
+    "wo": "Raxas kanam gi te wowal ko ndank. Def après-rasage bu kiliyaan bi bëggee."
    },
    {
     "en": "Wash your hands. Observe, record and report skin irritation, redness or scaling.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez irritation, rougeur ou desquamation."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez irritation, rougeur ou desquamation.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax lu xonq walla lu metti ci dér bi."
    }
   ],
   "alt": {
    "title": {
     "en": "Electric razor",
-    "fr": "Rasoir électrique"
+    "fr": "Rasoir électrique",
+    "wo": "Rasuwaar bu kuraŋ"
    },
    "steps": [
     {
      "en": "Explain, wash hands, assemble equipment, gloves as necessary.",
-     "fr": "Expliquez, lavez-vous les mains, préparez le matériel, gants si nécessaire."
+     "fr": "Expliquez, lavez-vous les mains, préparez le matériel, gants si nécessaire.",
+     "wo": "Leeral, raxas loxo, waajal jumtukaay, gant bu soxlaa."
     },
     {
      "en": "Wash the face with soap and water and dry it.",
-     "fr": "Lavez le visage à l'eau et au savon et séchez-le."
+     "fr": "Lavez le visage à l'eau et au savon et séchez-le.",
+     "wo": "Raxas kanam gi ak saabu ak ndox te wowal ko."
     },
     {
      "en": "Shave with the electric razor. Apply after-shave if desired.",
-     "fr": "Rasez avec le rasoir électrique. Après-rasage si souhaité."
+     "fr": "Rasez avec le rasoir électrique. Après-rasage si souhaité.",
+     "wo": "Wat ak rasuwaar bu kuraŋ. Après-rasage bu mu bëggee."
     },
     {
      "en": "Wash hands. Report any irritation, redness or scaling.",
-     "fr": "Lavez-vous les mains. Signalez irritation, rougeur ou desquamation."
+     "fr": "Lavez-vous les mains. Signalez irritation, rougeur ou desquamation.",
+     "wo": "Raxas sa loxo. Wax lu xonq walla lu metti."
     }
    ]
   }
@@ -474,65 +569,79 @@
   "required": true,
   "title": {
    "en": "Mouth Hygiene and Care",
-   "fr": "Hygiène et soins de la bouche"
+   "fr": "Hygiène et soins de la bouche",
+   "wo": "Set ak topptoo gémmiñ"
   },
   "module": "XII",
   "icon": "tooth",
   "steps": [
    {
     "en": "CLIENT WHO CAN BRUSH: explain, wash hands, assemble equipment, gloves as necessary.",
-    "fr": "CLIENT QUI PEUT SE BROSSER LES DENTS : expliquez, lavez-vous les mains, préparez le matériel, gants si nécessaire."
+    "fr": "CLIENT QUI PEUT SE BROSSER LES DENTS : expliquez, lavez-vous les mains, préparez le matériel, gants si nécessaire.",
+    "wo": "KILIYAAN BU MËN A BROSE : leeral, raxas loxo, waajal jumtukaay, gant bu soxlaa."
    },
    {
     "en": "Provide rinse water and a tissue or towel for wiping; watch to ensure proper tooth care.",
-    "fr": "Donnez de l'eau pour rincer et un mouchoir ou une serviette ; vérifiez que le brossage est correct."
+    "fr": "Donnez de l'eau pour rincer et un mouchoir ou une serviette ; vérifiez que le brossage est correct.",
+    "wo": "Jox ko ndox ngir rince ak mouchoir walla serwiyet ; xool ndax brose bi baax na."
    },
    {
     "en": "CLIENT WHO CANNOT BRUSH: place the client upright or on the side; towel under the head; basin at the side of the head.",
-    "fr": "CLIENT QUI NE PEUT PAS SE BROSSER LES DENTS : installez-le assis ou sur le côté ; serviette sous la tête ; cuvette à côté de la tête."
+    "fr": "CLIENT QUI NE PEUT PAS SE BROSSER LES DENTS : installez-le assis ou sur le côté ; serviette sous la tête ; cuvette à côté de la tête.",
+    "wo": "KILIYAAN BU MËNUL BROSE : toogal ko walla tëddal ko ci wet ; serwiyet ci suufu bopp ; cuvette ci wetu bopp bi."
    },
    {
     "en": "Brush the teeth gently with up-and-down circular strokes.",
-    "fr": "Brossez doucement les dents avec des mouvements circulaires de haut en bas."
+    "fr": "Brossez doucement les dents avec des mouvements circulaires de haut en bas.",
+    "wo": "Brose bëñ yi ndank ak jëf yu wër, kaw ak suuf."
    },
    {
     "en": "Help the client rinse the mouth; make sure mouth and neck are dry.",
-    "fr": "Aidez le client à se rincer la bouche ; séchez la bouche et le cou."
+    "fr": "Aidez le client à se rincer la bouche ; séchez la bouche et le cou.",
+    "wo": "Dimbali ko mu rince gémmiñam ; wowal gémmiñ ak baat."
    },
    {
     "en": "Make the client comfortable. Clean and store supplies. Wash hands. Observe, record and report (sores, bleeding gums, loose teeth, white patches).",
-    "fr": "Installez le client confortablement. Nettoyez et rangez le matériel. Lavez-vous les mains. Observez, notez et signalez (plaies, gencives qui saignent, dents qui bougent, taches blanches)."
+    "fr": "Installez le client confortablement. Nettoyez et rangez le matériel. Lavez-vous les mains. Observez, notez et signalez (plaies, gencives qui saignent, dents qui bougent, taches blanches).",
+    "wo": "Dal ko. Setal te denc jumtukaay yi. Raxas sa loxo. Seetlu, bind te wax (gaañu, gum yu dereet, bëñ yu yëngu, taach yu weex)."
    }
   ],
   "alt": {
    "title": {
     "en": "Denture care",
-    "fr": "Soins du dentier"
+    "fr": "Soins du dentier",
+    "wo": "Topptoo bëñu lëmm"
    },
    "steps": [
     {
      "en": "Receive the dentures from the client in a tissue, or break the suction and remove them with a tissue.",
-     "fr": "Recevez le dentier dans un mouchoir, ou rompez l'aspiration et retirez-le avec un mouchoir."
+     "fr": "Recevez le dentier dans un mouchoir, ou rompez l'aspiration et retirez-le avec un mouchoir.",
+     "wo": "Jël bëñu lëmm bi ci loxoy kiliyaan bi ak mouchoir, walla summi ko ndank ak mouchoir."
     },
     {
      "en": "Place the dentures in a water-filled container and carry them to the sink.",
-     "fr": "Mettez le dentier dans un récipient rempli d'eau et portez-le au lavabo."
+     "fr": "Mettez le dentier dans un récipient rempli d'eau et portez-le au lavabo.",
+     "wo": "Def ko ci ndab bu am ndox te yóbbu ko ci lavabo bi."
     },
     {
      "en": "Cushion the sink with a washcloth and add water (so dentures won't break if dropped).",
-     "fr": "Tapissez le lavabo d'un gant de toilette et ajoutez de l'eau (pour que le dentier ne casse pas s'il tombe)."
+     "fr": "Tapissez le lavabo d'un gant de toilette et ajoutez de l'eau (pour que le dentier ne casse pas s'il tombe).",
+     "wo": "Teg sarbet ci lavabo bi te def ndox (ngir bañ mu damm bu daanoo)."
     },
     {
      "en": "Clean the dentures with toothbrush and toothpaste, then denture cleaner.",
-     "fr": "Nettoyez le dentier avec brosse et dentifrice, puis nettoyant pour dentier."
+     "fr": "Nettoyez le dentier avec brosse et dentifrice, puis nettoyant pour dentier.",
+     "wo": "Setal bëñ yi ak bros ak dentifrice, ba pare ak nettoyant bu bëñu lëmm."
     },
     {
      "en": "Help the client rinse the mouth. Apply denture cream or adhesive if needed.",
-     "fr": "Aidez le client à se rincer la bouche. Appliquez de la crème ou de l'adhésif si besoin."
+     "fr": "Aidez le client à se rincer la bouche. Appliquez de la crème ou de l'adhésif si besoin.",
+     "wo": "Dimbali kiliyaan bi mu rince gémmiñam. Def krem walla kole bu soxlaa."
     },
     {
      "en": "Insert the dentures (top first) or store them in water without adhesive. Wipe the client's mouth. Wash hands. Observe, record and report.",
-     "fr": "Remettez le dentier (le haut d'abord) ou conservez-le dans l'eau sans adhésif. Essuyez la bouche du client. Lavez-vous les mains. Observez, notez et signalez."
+     "fr": "Remettez le dentier (le haut d'abord) ou conservez-le dans l'eau sans adhésif. Essuyez la bouche du client. Lavez-vous les mains. Observez, notez et signalez.",
+     "wo": "Delloo bëñ yi (bu kaw bi bu jëkk) walla denc leen ci ndox te amul kole. Fomp gémmiñ gi. Raxas sa loxo. Seetlu, bind te wax."
     }
    ]
   }
@@ -543,46 +652,56 @@
   "required": false,
   "title": {
    "en": "Assisting with Eating",
-   "fr": "Aide au repas"
+   "fr": "Aide au repas",
+   "wo": "Dimbali ci lekk"
   },
   "module": "XII",
   "icon": "meal",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Sit the client upright. Arrange food attractively on the plate.",
-    "fr": "Installez le client bien assis. Présentez joliment les aliments dans l'assiette."
+    "fr": "Installez le client bien assis. Présentez joliment les aliments dans l'assiette.",
+    "wo": "Toogal kiliyaan bi bu jub. Teg ñam wi bu rafet ci palaat bi."
    },
    {
     "en": "Let the client choose which foods to eat.",
-    "fr": "Laissez le client choisir ce qu'il mange."
+    "fr": "Laissez le client choisir ce qu'il mange.",
+    "wo": "Bàyyi kiliyaan bi mu tànn li mu bëgg a lekk."
    },
    {
     "en": "Encourage the client to do as much as they can; assist only when necessary.",
-    "fr": "Encouragez le client à faire le maximum ; aidez seulement si nécessaire."
+    "fr": "Encouragez le client à faire le maximum ; aidez seulement si nécessaire.",
+    "wo": "Xiirtal ko mu def li mu mën ; dimbali ko bu soxlaa rekk."
    },
    {
     "en": "Cut food into small pieces if the client cannot. Use forks and spoons gently.",
-    "fr": "Coupez les aliments en petits morceaux si le client ne peut pas. Utilisez fourchette et cuillère avec douceur."
+    "fr": "Coupez les aliments en petits morceaux si le client ne peut pas. Utilisez fourchette et cuillère avec douceur.",
+    "wo": "Dagg ñam wi lu ndaw bu mënul. Jëfandikoo furset ak kuddu ndank."
    },
    {
     "en": "Wipe the client's mouth as needed. Use straws or a training cup for liquids.",
-    "fr": "Essuyez la bouche du client si besoin. Utilisez une paille ou un gobelet adapté pour les liquides."
+    "fr": "Essuyez la bouche du client si besoin. Utilisez une paille ou un gobelet adapté pour les liquides.",
+    "wo": "Fomp gémmiñam bu soxlaa. Paille walla kaas bu am boos ngir ndox."
    },
    {
     "en": "For a visually impaired client, explain where food is on the plate (clock method) and what is on the utensil.",
-    "fr": "Pour un client malvoyant, expliquez où sont les aliments dans l'assiette (méthode de l'horloge) et ce qu'il y a sur le couvert."
+    "fr": "Pour un client malvoyant, expliquez où sont les aliments dans l'assiette (méthode de l'horloge) et ce qu'il y a sur le couvert.",
+    "wo": "Bu kiliyaan bi gumbaa, wax ko fu ñam wi nekk ci palaat bi (yoonu montar) ak lu nekk ci kuddu bi."
    },
    {
     "en": "Feed to the STRONG side if there is facial weakness or one-sided paralysis.",
-    "fr": "Donnez à manger du côté FORT en cas de faiblesse du visage ou de paralysie d'un côté."
+    "fr": "Donnez à manger du côté FORT en cas de faiblesse du visage ou de paralysie d'un côté.",
+    "wo": "Jox ko ñam wi ci wet gu WÓOR bu kanamam néew doolee walla benn wet paralysé."
    },
    {
     "en": "Wash your hands. Observe, record and report (intake, choking, changes in appetite).",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez (quantité mangée, étouffement, changement d'appétit)."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez (quantité mangée, étouffement, changement d'appétit).",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax (li mu lekk, lu jàpp ci put, lu soppiku ci bëgg a lekk)."
    }
   ]
  },
@@ -592,42 +711,51 @@
   "required": false,
   "title": {
    "en": "Assisting with Dressing",
-   "fr": "Aide à l'habillage"
+   "fr": "Aide à l'habillage",
+   "wo": "Dimbali ci sol"
   },
   "module": "XII",
   "icon": "shirt",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble clothes in the order they will be put on. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez les vêtements dans l'ordre où ils seront enfilés. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez les vêtements dans l'ordre où ils seront enfilés. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal yere yi ci ni ñu leen di sole. Gant bu soxlaa."
    },
    {
     "en": "Let the client choose the clothing and do as much self-dressing as possible.",
-    "fr": "Laissez le client choisir ses vêtements et s'habiller seul autant que possible."
+    "fr": "Laissez le client choisir ses vêtements et s'habiller seul autant que possible.",
+    "wo": "Bàyyi kiliyaan bi mu tànn yereem te sol li mu mën moom ci boppam."
    },
    {
     "en": "Assist when the client asks or shows fatigue, frustration or inability.",
-    "fr": "Aidez quand le client le demande ou montre de la fatigue, de la frustration ou une incapacité."
+    "fr": "Aidez quand le client le demande ou montre de la fatigue, de la frustration ou une incapacité.",
+    "wo": "Dimbali ko bu laajee walla bu wone sonn, naqar walla mënul."
    },
    {
     "en": "WEAK, PARALYZED OR FRAIL CLIENT: move the client to the center of the bed; remove night clothing; cover with a sheet.",
-    "fr": "CLIENT FAIBLE, PARALYSÉ OU FRAGILE : centrez le client dans le lit ; retirez les vêtements de nuit ; couvrez d'un drap."
+    "fr": "CLIENT FAIBLE, PARALYSÉ OU FRAGILE : centrez le client dans le lit ; retirez les vêtements de nuit ; couvrez d'un drap.",
+    "wo": "KILIYAAN BU NÉEW DOOLE WALLA PARALYSÉ : yóbbu ko ci diggu lal bi ; summi yereem u guddi ; muur ko ak drap."
    },
    {
     "en": "Uncover the upper body first and assist with the shirt: WEAK side in first.",
-    "fr": "Découvrez d'abord le haut du corps et aidez pour la chemise : côté FAIBLE en premier."
+    "fr": "Découvrez d'abord le haut du corps et aidez pour la chemise : côté FAIBLE en premier.",
+    "wo": "Ubbi kaw yaram bi bu jëkk te dimbali ko ci simis bi : wet gu NÉEW DOOLE bu jëkk."
    },
    {
     "en": "Uncover the lower body; assist with underwear and remaining clothes, then socks and shoes.",
-    "fr": "Découvrez le bas du corps ; aidez pour les sous-vêtements et le reste, puis chaussettes et chaussures."
+    "fr": "Découvrez le bas du corps ; aidez pour les sous-vêtements et le reste, puis chaussettes et chaussures.",
+    "wo": "Ubbi suuf yaram bi ; dimbali ko ci sous-vêtement ak yere yi des, ba pare kawas ak dàll."
    },
    {
     "en": "To undress, remove from the STRONG side first.",
-    "fr": "Pour déshabiller, retirez d'abord du côté FORT."
+    "fr": "Pour déshabiller, retirez d'abord du côté FORT.",
+    "wo": "Ngir summi, tàmbali ci wet gu WÓOR."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -637,38 +765,46 @@
   "required": false,
   "title": {
    "en": "Elastic Support Stockings",
-   "fr": "Bas de contention"
+   "fr": "Bas de contention",
+   "wo": "Kawas yu ñeg (bas de contention)"
   },
   "module": "XII",
   "icon": "leg",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "If the client has been up and around, have them lie down with legs elevated for 15 minutes first.",
-    "fr": "Si le client s'est levé, faites-le d'abord allonger jambes surélevées pendant 15 minutes."
+    "fr": "Si le client s'est levé, faites-le d'abord allonger jambes surélevées pendant 15 minutes.",
+    "wo": "Bu kiliyaan bi jógoon, tëddal ko bu jëkk ak tànk yu yékkatiku 15 simili."
    },
    {
     "en": "Make sure the legs are clean and dry (light powder, or lotion if the skin is dry).",
-    "fr": "Assurez-vous que les jambes sont propres et sèches (un peu de talc, ou de la lotion si la peau est sèche)."
+    "fr": "Assurez-vous que les jambes sont propres et sèches (un peu de talc, ou de la lotion si la peau est sèche).",
+    "wo": "Tànk yi na set te wow (tuuti talk, walla lotion bu dér bi wowee)."
    },
    {
     "en": "Put the stockings on as the care plan directs: smoothly, with no wrinkles.",
-    "fr": "Enfilez les bas comme l'indique le plan de soins : lisses, sans plis."
+    "fr": "Enfilez les bas comme l'indique le plan de soins : lisses, sans plis.",
+    "wo": "Sol kawas yi ni palaŋ bi ko waxe : bu noy, amul ñiir."
    },
    {
     "en": "Make sure the heel of the foot is in the heel of the stocking. If there is no toe opening, pull the tip to relieve pressure.",
-    "fr": "Le talon du pied doit être dans le talon du bas. S'il n'y a pas d'ouverture aux orteils, tirez le bout pour soulager la pression."
+    "fr": "Le talon du pied doit être dans le talon du bas. S'il n'y a pas d'ouverture aux orteils, tirez le bout pour soulager la pression.",
+    "wo": "Tànk bi na nekk ci tànku kawas bi. Bu amul ubbi ci baaraam yi, xécc catam ngir wàññi puus bi."
    },
    {
     "en": "Remove at least once a day or as the care plan directs; bathe and dry the skin, then reapply.",
-    "fr": "Retirez au moins une fois par jour ou selon le plan de soins ; lavez et séchez la peau, puis remettez."
+    "fr": "Retirez au moins une fois par jour ou selon le plan de soins ; lavez et séchez la peau, puis remettez.",
+    "wo": "Summi leen lu néew benn yoon bés bu nekk walla ni palaŋ bi ko waxe ; raxas te wowal dér bi, ba pare solaat."
    },
    {
     "en": "Wash your hands. Record use and observe and report changes in skin color or temperature, swelling, sores or complaints.",
-    "fr": "Lavez-vous les mains. Notez l'utilisation et observez et signalez changements de couleur ou de température de la peau, gonflement, plaies ou plaintes."
+    "fr": "Lavez-vous les mains. Notez l'utilisation et observez et signalez changements de couleur ou de température de la peau, gonflement, plaies ou plaintes.",
+    "wo": "Raxas sa loxo. Bind te seetlu te wax lu soppiku ci melo walla tàngooru dér bi, newi, gaañu walla lu mu ñaxtu."
    }
   ]
  },
@@ -678,38 +814,46 @@
   "required": true,
   "title": {
    "en": "Helping the Client to Walk",
-   "fr": "Aider le client à marcher"
+   "fr": "Aider le client à marcher",
+   "wo": "Dimbali kiliyaan bi mu dox"
   },
   "module": "XII",
   "icon": "walk",
   "steps": [
    {
     "en": "Explain the procedure and reassure the client.",
-    "fr": "Expliquez la procédure et rassurez le client."
+    "fr": "Expliquez la procédure et rassurez le client.",
+    "wo": "Leeral doxalin bi te dal kiliyaan bi."
    },
    {
     "en": "Advise the client on which shoes to wear (closed, non-slip).",
-    "fr": "Conseillez le client sur les chaussures à porter (fermées, antidérapantes)."
+    "fr": "Conseillez le client sur les chaussures à porter (fermées, antidérapantes).",
+    "wo": "Wax ko ban dàll lay sol (yu ub te dul jàpp)."
    },
    {
     "en": "Help the client practice standing and shifting weight.",
-    "fr": "Aidez le client à s'entraîner à se tenir debout et à déplacer son poids."
+    "fr": "Aidez le client à s'entraîner à se tenir debout et à déplacer son poids.",
+    "wo": "Dimbali ko mu tàggatu taxaw ak soppi peesam."
    },
    {
     "en": "Walk slowly, taking small steps.",
-    "fr": "Marchez lentement, à petits pas."
+    "fr": "Marchez lentement, à petits pas.",
+    "wo": "Dox ndank, jéego yu ndaw."
    },
    {
     "en": "Walk on the client's WEAK side using correct positioning (gait belt if in the care plan).",
-    "fr": "Marchez du côté FAIBLE du client avec le bon positionnement (ceinture de marche si prévue au plan de soins)."
+    "fr": "Marchez du côté FAIBLE du client avec le bon positionnement (ceinture de marche si prévue au plan de soins).",
+    "wo": "Dox ci wet gu NÉEW DOOLE bu kiliyaan bi, ci taxaway bu jub (ceinture bu nekkee ci palaŋ bi)."
    },
    {
     "en": "Walk short distances.",
-    "fr": "Marchez sur de courtes distances."
+    "fr": "Marchez sur de courtes distances.",
+    "wo": "Dox yoon wu gàtt."
    },
    {
     "en": "Observe, record and report any changes in condition or behavior (dizziness, pain, fatigue).",
-    "fr": "Observez, notez et signalez tout changement d'état ou de comportement (vertiges, douleur, fatigue)."
+    "fr": "Observez, notez et signalez tout changement d'état ou de comportement (vertiges, douleur, fatigue).",
+    "wo": "Seetlu, bind te wax lu soppiku (bopp buy wër, metit, sonn)."
    }
   ]
  },
@@ -719,46 +863,56 @@
   "required": false,
   "title": {
    "en": "Making an Unoccupied Bed",
-   "fr": "Faire un lit inoccupé"
+   "fr": "Faire un lit inoccupé",
+   "wo": "Defar lal bu kenn nekkul"
   },
   "module": "XII",
   "icon": "bed",
   "steps": [
    {
     "en": "Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Remove and fold bedding to be re-used. Smooth the mattress pad.",
-    "fr": "Retirez et pliez le linge à réutiliser. Lissez l'alèse."
+    "fr": "Retirez et pliez le linge à réutiliser. Lissez l'alèse.",
+    "wo": "Dindi te lemal dara yi ñuy jëfandikooat. Lëmal alèse bi."
    },
    {
     "en": "Place the bottom sheet in position; tuck in the top, miter the corner, tuck in the side.",
-    "fr": "Placez le drap de dessous ; bordez le haut, faites le coin en portefeuille, bordez le côté."
+    "fr": "Placez le drap de dessous ; bordez le haut, faites le coin en portefeuille, bordez le côté.",
+    "wo": "Teg drap bu suuf bi ; dugal ko ci kaw, def koñ bi, dugal ko ci wet."
    },
    {
     "en": "Position the top covers; tuck in at the bottom and miter the corner.",
-    "fr": "Placez les couvertures ; bordez le bas et faites le coin."
+    "fr": "Placez les couvertures ; bordez le bas et faites le coin.",
+    "wo": "Teg mbaxana yi ; dugal leen ci suuf te def koñ bi."
    },
    {
     "en": "Go to the opposite side and repeat, pulling and smoothing the sheets.",
-    "fr": "Passez de l'autre côté et répétez en tirant et en lissant les draps."
+    "fr": "Passez de l'autre côté et répétez en tirant et en lissant les draps.",
+    "wo": "Dem ci beneen wet te baamtu, xécc te lëmal drap yi."
    },
    {
     "en": "Add the spread and tuck it in at the bottom.",
-    "fr": "Ajoutez le couvre-lit et bordez-le en bas."
+    "fr": "Ajoutez le couvre-lit et bordez-le en bas.",
+    "wo": "Dolli couvre-lit bi te dugal ko ci suuf."
    },
    {
     "en": "Turn the soiled pillowcase inside out to remove it.",
-    "fr": "Retournez la taie sale pour l'enlever."
+    "fr": "Retournez la taie sale pour l'enlever.",
+    "wo": "Wëlbati taie bu tilim bi ngir summi ko."
    },
    {
     "en": "Open the clean pillowcase; grasp it at the center of the bottom seam and fold it over your hand; grasp the pillow end through the case and pull the case over the pillow.",
-    "fr": "Ouvrez la taie propre ; saisissez-la au centre de la couture du fond et retournez-la sur votre main ; saisissez le bout de l'oreiller à travers la taie et tirez la taie par-dessus l'oreiller."
+    "fr": "Ouvrez la taie propre ; saisissez-la au centre de la couture du fond et retournez-la sur votre main ; saisissez le bout de l'oreiller à travers la taie et tirez la taie par-dessus l'oreiller.",
+    "wo": "Ubbi taie bu set bi ; jàpp ko ci diggu ñaw bu suuf te wëlbati ko ci sa loxo ; jàpp catu oreiller bi ci biir taie bi te xécc taie bi ci kaw oreiller bi."
    },
    {
     "en": "Remove soiled linen. Wash your hands.",
-    "fr": "Retirez le linge sale. Lavez-vous les mains."
+    "fr": "Retirez le linge sale. Lavez-vous les mains.",
+    "wo": "Dindi dara yu tilim yi. Raxas sa loxo."
    }
   ]
  },
@@ -768,50 +922,61 @@
   "required": true,
   "title": {
    "en": "Making an Occupied Bed",
-   "fr": "Faire un lit occupé"
+   "fr": "Faire un lit occupé",
+   "wo": "Defar lal bu nit nekk"
   },
   "module": "XII",
   "icon": "bed",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Remove and fold the bedspread. Loosen bedding on one side and the top sheet at the foot.",
-    "fr": "Retirez et pliez le couvre-lit. Détachez le linge d'un côté et le drap de dessus au pied."
+    "fr": "Retirez et pliez le couvre-lit. Détachez le linge d'un côté et le drap de dessus au pied.",
+    "wo": "Dindi te lemal couvre-lit bi. Tekki dara yi ci benn wet ak drap bu kaw bi ci tànk yi."
    },
    {
     "en": "Slide the top sheet out from under the blanket, leaving the blanket on the client.",
-    "fr": "Retirez le drap de dessus de sous la couverture, en laissant la couverture sur le client."
+    "fr": "Retirez le drap de dessus de sous la couverture, en laissant la couverture sur le client.",
+    "wo": "Génne drap bu kaw bi ci suufu mbaxana bi, bàyyi mbaxana bi ci kiliyaan bi."
    },
    {
     "en": "Remove all pillows except one under the client's head. Turn the client onto the side.",
-    "fr": "Retirez tous les oreillers sauf un sous la tête. Tournez le client sur le côté."
+    "fr": "Retirez tous les oreillers sauf un sous la tête. Tournez le client sur le côté.",
+    "wo": "Dindi oreiller yépp lu dul bi ci suufu boppam. Wëlbati kiliyaan bi ci wet."
    },
    {
     "en": "Fold or roll the soiled bottom sheet up to and under the client's head, back and legs. Smooth the mattress.",
-    "fr": "Pliez ou roulez le drap de dessous sale jusque sous la tête, le dos et les jambes du client. Lissez le matelas."
+    "fr": "Pliez ou roulez le drap de dessous sale jusque sous la tête, le dos et les jambes du client. Lissez le matelas.",
+    "wo": "Lemal walla roul drap bu suuf bu tilim bi ba ci suufu bopp, ginnaaw ak tànki kiliyaan bi. Lëmal matla bi."
    },
    {
     "en": "Position the clean bottom sheet; fold it next to and under the soiled sheet. Tuck in at the head, miter the corner, tuck along the side.",
-    "fr": "Placez le drap propre ; pliez-le contre et sous le drap sale. Bordez à la tête, faites le coin, bordez le côté."
+    "fr": "Placez le drap propre ; pliez-le contre et sous le drap sale. Bordez à la tête, faites le coin, bordez le côté.",
+    "wo": "Teg drap bu set bi ; lemal ko ci wetu drap bu tilim bi te ci suufam. Dugal ko ci bopp, def koñ bi, dugal ko ci wet."
    },
    {
     "en": "Position the draw sheet, fold it under the soiled sheet and tuck in along the side.",
-    "fr": "Placez l'alèse de glissement, pliez-la sous le drap sale et bordez le côté."
+    "fr": "Placez l'alèse de glissement, pliez-la sous le drap sale et bordez le côté.",
+    "wo": "Teg alèse bu gliss bi, lemal ko ci suufu drap bu tilim bi te dugal ko ci wet."
    },
    {
     "en": "Turn the client to the clean side. Go to the opposite side; loosen and remove the soiled bedding and place it appropriately.",
-    "fr": "Tournez le client du côté propre. Passez de l'autre côté ; détachez et retirez le linge sale et placez-le au bon endroit."
+    "fr": "Tournez le client du côté propre. Passez de l'autre côté ; détachez et retirez le linge sale et placez-le au bon endroit.",
+    "wo": "Wëlbati kiliyaan bi jëm ci wet gu set gi. Dem ci beneen wet ; tekki te dindi dara yu tilim yi te teg leen fu ñu war."
    },
    {
     "en": "Smooth the mattress pad; pull the clean linen through and straighten; tuck in at head, corner and sides.",
-    "fr": "Lissez l'alèse ; tirez le linge propre et tendez-le ; bordez à la tête, au coin et sur les côtés."
+    "fr": "Lissez l'alèse ; tirez le linge propre et tendez-le ; bordez à la tête, au coin et sur les côtés.",
+    "wo": "Lëmal alèse bi ; xécc dara yu set yi te tàllal leen ; dugal ci bopp, koñ ak wet yi."
    },
    {
     "en": "Change the pillowcases. Remove soiled linen. Wash your hands. Observe, record and report.",
-    "fr": "Changez les taies. Retirez le linge sale. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Changez les taies. Retirez le linge sale. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Soppi taie yi. Dindi dara yu tilim yi. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -821,46 +986,56 @@
   "required": true,
   "title": {
    "en": "Use of a Bedpan",
-   "fr": "Utilisation du bassin de lit"
+   "fr": "Utilisation du bassin de lit",
+   "wo": "Jëfandikoo bassin"
   },
   "module": "XII",
   "icon": "toilet",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Warm and powder the bedpan. Place a protector pad near the client's hips.",
-    "fr": "Réchauffez et talquez le bassin. Placez une alèse près des hanches du client."
+    "fr": "Réchauffez et talquez le bassin. Placez une alèse près des hanches du client.",
+    "wo": "Tàngal te talkal bassin bi. Teg alèse ci wetu jur yi."
    },
    {
     "en": "Place the bedpan on the bed near the hips. Maintain privacy.",
-    "fr": "Posez le bassin sur le lit près des hanches. Préservez l'intimité."
+    "fr": "Posez le bassin sur le lit près des hanches. Préservez l'intimité.",
+    "wo": "Teg bassin bi ci lal bi ci wetu jur yi. Aar sutura."
    },
    {
     "en": "Help the client lift the hips, or roll the client if they cannot lift. Place the bedpan under the hips.",
-    "fr": "Aidez le client à soulever les hanches, ou tournez-le s'il ne peut pas. Placez le bassin sous les hanches."
+    "fr": "Aidez le client à soulever les hanches, ou tournez-le s'il ne peut pas. Placez le bassin sous les hanches.",
+    "wo": "Dimbali kiliyaan bi mu yékkati jur yi, walla wëlbati ko bu mënul. Teg bassin bi ci suufu jur yi."
    },
    {
     "en": "Help the client sit up if possible. Provide toilet paper and the call signal.",
-    "fr": "Aidez le client à s'asseoir si possible. Donnez du papier toilette et la sonnette."
+    "fr": "Aidez le client à s'asseoir si possible. Donnez du papier toilette et la sonnette.",
+    "wo": "Dimbali ko mu toog bu mën. Jox ko kayitu wanag ak sonet bi."
    },
    {
     "en": "Help with wiping (verbally or manually) if necessary.",
-    "fr": "Aidez à s'essuyer (en expliquant ou en le faisant) si nécessaire."
+    "fr": "Aidez à s'essuyer (en expliquant ou en le faisant) si nécessaire.",
+    "wo": "Dimbali ko mu fomp (ci wax walla ci loxo) bu soxlaa."
    },
    {
     "en": "Help the client raise the hips; remove the bedpan carefully. Help the client wash hands. Adjust the covers.",
-    "fr": "Aidez le client à soulever les hanches ; retirez le bassin avec précaution. Aidez le client à se laver les mains. Remettez les couvertures."
+    "fr": "Aidez le client à soulever les hanches ; retirez le bassin avec précaution. Aidez le client à se laver les mains. Remettez les couvertures.",
+    "wo": "Dimbali ko mu yékkati jur yi ; dindi bassin bi ndank. Dimbali ko mu raxas loxoom. Delloo mbaxana yi."
    },
    {
     "en": "Take the bedpan to the bathroom. Observe, measure (if indicated) and dispose of the contents. Clean the bedpan.",
-    "fr": "Portez le bassin aux toilettes. Observez, mesurez (si demandé) et jetez le contenu. Nettoyez le bassin."
+    "fr": "Portez le bassin aux toilettes. Observez, mesurez (si demandé) et jetez le contenu. Nettoyez le bassin.",
+    "wo": "Yóbbu bassin bi ci wanag. Seetlu, natt (bu ñu ko laajee) te sànni li ci nekk. Setal bassin bi."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -870,34 +1045,41 @@
   "required": false,
   "title": {
    "en": "Use of a Urinal",
-   "fr": "Utilisation de l'urinal"
+   "fr": "Utilisation de l'urinal",
+   "wo": "Jëfandikoo urinal"
   },
   "module": "XII",
   "icon": "toilet",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary. Maintain privacy.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire. Préservez l'intimité."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire. Préservez l'intimité.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa. Aar sutura."
    },
    {
     "en": "Place a bed protector under the client's hips.",
-    "fr": "Placez une alèse sous les hanches du client."
+    "fr": "Placez une alèse sous les hanches du client.",
+    "wo": "Teg alèse ci suufu juri kiliyaan bi."
    },
    {
     "en": "Give the client the urinal, or place it to collect the urine.",
-    "fr": "Donnez l'urinal au client, ou placez-le pour recueillir l'urine."
+    "fr": "Donnez l'urinal au client, ou placez-le pour recueillir l'urine.",
+    "wo": "Jox kiliyaan bi urinal bi, walla teg ko ngir dajale saw mi."
    },
    {
     "en": "Provide toilet paper and the signal bell. Help with handwashing as necessary.",
-    "fr": "Donnez du papier toilette et la sonnette. Aidez au lavage des mains si nécessaire."
+    "fr": "Donnez du papier toilette et la sonnette. Aidez au lavage des mains si nécessaire.",
+    "wo": "Jox ko kayitu wanag ak sonet bi. Dimbali ko mu raxas loxo bu soxlaa."
    },
    {
     "en": "Empty and clean the urinal.",
-    "fr": "Videz et nettoyez l'urinal."
+    "fr": "Videz et nettoyez l'urinal.",
+    "wo": "Sotti te setal urinal bi."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -907,38 +1089,46 @@
   "required": false,
   "title": {
    "en": "Assisting with the Condom Catheter",
-   "fr": "Aide à la pose de l'étui pénien"
+   "fr": "Aide à la pose de l'étui pénien",
+   "wo": "Dimbali ci étui pénien"
   },
   "module": "XII",
   "icon": "catheter",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves. Maintain privacy.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants. Préservez l'intimité."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants. Préservez l'intimité.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Sol gant. Aar sutura."
    },
    {
     "en": "Expose only the genital area.",
-    "fr": "Découvrez seulement la zone génitale."
+    "fr": "Découvrez seulement la zone génitale.",
+    "wo": "Feeñal béréb yu sutura yi rekk."
    },
    {
     "en": "Wash and dry the penis carefully. Observe the skin for sores.",
-    "fr": "Lavez et séchez soigneusement le pénis. Observez la peau (plaies)."
+    "fr": "Lavez et séchez soigneusement le pénis. Observez la peau (plaies).",
+    "wo": "Raxas te wowal pénis bi bu baax. Xool dér bi (gaañu)."
    },
    {
     "en": "Attach the condom to the tubing if necessary.",
-    "fr": "Raccordez l'étui à la tubulure si nécessaire."
+    "fr": "Raccordez l'étui à la tubulure si nécessaire.",
+    "wo": "Takk étui bi ci tiyo bi bu soxlaa."
    },
    {
     "en": "Roll the condom catheter onto the penis as directed by the care plan or the supervising nurse.",
-    "fr": "Déroulez l'étui pénien sur le pénis comme indiqué par le plan de soins ou l'infirmière superviseure."
+    "fr": "Déroulez l'étui pénien sur le pénis comme indiqué par le plan de soins ou l'infirmière superviseure.",
+    "wo": "Rool étui bi ci pénis bi ni palaŋ bi walla infirmiyeer bi ko waxe."
    },
    {
     "en": "Check that the tubing is 1 to 2 inches (2.5 to 5 cm) below the tip of the penis and that the tip of the condom is not twisted.",
-    "fr": "Vérifiez que la tubulure est à 2,5 à 5 cm sous l'extrémité du pénis et que le bout de l'étui n'est pas tordu."
+    "fr": "Vérifiez que la tubulure est à 2,5 à 5 cm sous l'extrémité du pénis et que le bout de l'étui n'est pas tordu.",
+    "wo": "Seet ndax tiyo bi nekk na 2,5 ba 5 cm ci suufu catu pénis bi te catu étui bi ñiiruwul."
    },
    {
     "en": "Wash your hands. Record the application; report any sores or raw areas.",
-    "fr": "Lavez-vous les mains. Notez la pose ; signalez toute plaie ou zone à vif."
+    "fr": "Lavez-vous les mains. Notez la pose ; signalez toute plaie ou zone à vif.",
+    "wo": "Raxas sa loxo. Bind li nga def ; wax bépp gaañu walla béréb bu wér-ul."
    }
   ]
  },
@@ -948,42 +1138,51 @@
   "required": false,
   "title": {
    "en": "Cleaning the Skin and Catheter Tubing",
-   "fr": "Nettoyage de la peau et de la tubulure de sonde"
+   "fr": "Nettoyage de la peau et de la tubulure de sonde",
+   "wo": "Setal dér bi ak tiyo bu sonde bi"
   },
   "module": "XII",
   "icon": "catheter",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves. Maintain privacy.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants. Préservez l'intimité."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants. Préservez l'intimité.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Sol gant. Aar sutura."
    },
    {
     "en": "Place the client on the back so the catheter and urinary opening are exposed. Put a towel or bed protector under the client.",
-    "fr": "Installez le client sur le dos pour exposer la sonde et le méat urinaire. Placez une serviette ou une alèse sous le client."
+    "fr": "Installez le client sur le dos pour exposer la sonde et le méat urinaire. Placez une serviette ou une alèse sous le client.",
+    "wo": "Tëddal kiliyaan bi ci ginnaaw ngir feeñal sonde bi ak fu saw di génne. Teg serwiyet walla alèse ci suufam."
    },
    {
     "en": "Wash the genital area gently with soap and water. Do NOT pull on the catheter: hold it with one hand while wiping with the other. Push back the foreskin of an uncircumcised male before cleaning.",
-    "fr": "Lavez doucement la zone génitale à l'eau et au savon. NE tirez PAS sur la sonde : tenez-la d'une main en essuyant de l'autre. Décalottez un homme non circoncis avant de nettoyer."
+    "fr": "Lavez doucement la zone génitale à l'eau et au savon. NE tirez PAS sur la sonde : tenez-la d'une main en essuyant de l'autre. Décalottez un homme non circoncis avant de nettoyer.",
+    "wo": "Raxas béréb yu sutura yi ndank ak saabu ak ndox. BUL xécc sonde bi : jàpp ko ak benn loxo te fomp ak beneen bi. Bu góor gi xaraful, dindi dér bi laata ngay setal."
    },
    {
     "en": "Observe around the catheter for sores, crusting, leakage or bleeding. Dry the area.",
-    "fr": "Observez autour de la sonde : plaies, croûtes, fuites ou saignement. Séchez la zone."
+    "fr": "Observez autour de la sonde : plaies, croûtes, fuites ou saignement. Séchez la zone.",
+    "wo": "Xool wërngalu sonde bi : gaañu, lu wow, lu tuuru walla dereet. Wowal béréb bi."
    },
    {
     "en": "Clean the catheter tubing as the care plan directs, starting with the part nearest the client.",
-    "fr": "Nettoyez la tubulure selon le plan de soins, en partant du côté le plus proche du client."
+    "fr": "Nettoyez la tubulure selon le plan de soins, en partant du côté le plus proche du client.",
+    "wo": "Setal tiyo bi ni palaŋ bi ko waxe, tàmbali ci fa gën a jege kiliyaan bi."
    },
    {
     "en": "Position the client so the catheter and tubing do not pull and have no kinks. Tape the tubing as directed in the care plan.",
-    "fr": "Installez le client de façon que la sonde et la tubulure ne tirent pas et ne soient pas pliées. Fixez la tubulure comme indiqué dans le plan de soins."
+    "fr": "Installez le client de façon que la sonde et la tubulure ne tirent pas et ne soient pas pliées. Fixez la tubulure comme indiqué dans le plan de soins.",
+    "wo": "Toogal kiliyaan bi ngir sonde bi ak tiyo bi bañ a xécc te bañ a ñiiru. Takk tiyo bi ni palaŋ bi ko waxe."
    },
    {
     "en": "Dispose of dirty water in the toilet; discard disposables; remove the protector; clean and store re-usable equipment.",
-    "fr": "Jetez l'eau sale dans les toilettes ; jetez le jetable ; retirez l'alèse ; nettoyez et rangez le matériel réutilisable."
+    "fr": "Jetez l'eau sale dans les toilettes ; jetez le jetable ; retirez l'alèse ; nettoyez et rangez le matériel réutilisable.",
+    "wo": "Sànni ndox mu tilim mi ci wanag ; sànni lu ñuy sànni ; dindi alèse bi ; setal te denc jumtukaay yu ñuy jëfandikooat."
    },
    {
     "en": "Wash your hands. Record the time catheter care was done. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Notez l'heure des soins de sonde. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Notez l'heure des soins de sonde. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Bind waxtu wi nga ko def. Seetlu, bind te wax."
    }
   ]
  },
@@ -993,42 +1192,51 @@
   "required": false,
   "title": {
    "en": "Emptying the Urinary Drainage Bag",
-   "fr": "Vidange du sac collecteur d'urine"
+   "fr": "Vidange du sac collecteur d'urine",
+   "wo": "Sotti saaku saw bi"
   },
   "module": "XII",
   "icon": "catheter",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Put on gloves.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Mettez des gants.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Sol gant."
    },
    {
     "en": "Put the measuring pitcher below the drainage bag. Check whether the tubing is clear or has particles.",
-    "fr": "Placez le pichet gradué sous le sac. Vérifiez si la tubulure est claire ou contient des particules."
+    "fr": "Placez le pichet gradué sous le sac. Vérifiez si la tubulure est claire ou contient des particules.",
+    "wo": "Teg pichet bu natt bi ci suufu saak bi. Xool ndax tiyo bi leer na walla am na lu ci nekk."
    },
    {
     "en": "Take the drainage tube out of its holder; unclamp and open it WITHOUT touching the end of the tube.",
-    "fr": "Sortez le tube de vidange de son support ; déclampez et ouvrez-le SANS toucher son extrémité."
+    "fr": "Sortez le tube de vidange de son support ; déclampez et ouvrez-le SANS toucher son extrémité.",
+    "wo": "Génne tiyo bu sotti bi ci palaasam ; ubbi ko te BUL laal catam."
    },
    {
     "en": "Drain the urine into the container. Clean the end of the tube as the care plan directs.",
-    "fr": "Videz l'urine dans le récipient. Nettoyez l'extrémité du tube selon le plan de soins."
+    "fr": "Videz l'urine dans le récipient. Nettoyez l'extrémité du tube selon le plan de soins.",
+    "wo": "Sotti saw mi ci ndab bi. Setal catu tiyo bi ni palaŋ bi ko waxe."
    },
    {
     "en": "Clamp the tube and put it back in its holder without touching the end.",
-    "fr": "Clampez le tube et remettez-le dans son support sans toucher l'extrémité."
+    "fr": "Clampez le tube et remettez-le dans son support sans toucher l'extrémité.",
+    "wo": "Tëj tiyo bi te delloo ko ci palaasam te laalul catam."
    },
    {
     "en": "Measure the amount if the care plan directs. Observe color, odor, mucus or blood, and the condition of the bag.",
-    "fr": "Mesurez la quantité si le plan de soins le demande. Observez couleur, odeur, mucus ou sang, et l'état du sac."
+    "fr": "Mesurez la quantité si le plan de soins le demande. Observez couleur, odeur, mucus ou sang, et l'état du sac.",
+    "wo": "Natt saw mi bu palaŋ bi ko laajee. Xool melo wi, xeeñ bi, mucus walla dereet, ak ni saak bi mel."
    },
    {
     "en": "Empty the urine into the toilet. Rinse the pitcher with cool water, clean with soap and brush, store it.",
-    "fr": "Jetez l'urine dans les toilettes. Rincez le pichet à l'eau froide, nettoyez au savon et à la brosse, rangez-le."
+    "fr": "Jetez l'urine dans les toilettes. Rincez le pichet à l'eau froide, nettoyez au savon et à la brosse, rangez-le.",
+    "wo": "Sotti saw mi ci wanag. Raxas pichet bi ak ndox mu sedd, setal ko ak saabu ak bros, denc ko."
    },
    {
     "en": "Wash your hands. Record the amount and observations. REPORT cloudy, strong-smelling or bloody urine, or little/no urine when the bag was due to be drained.",
-    "fr": "Lavez-vous les mains. Notez la quantité et les observations. SIGNALEZ une urine trouble, malodorante ou sanglante, ou très peu/pas d'urine au moment prévu."
+    "fr": "Lavez-vous les mains. Notez la quantité et les observations. SIGNALEZ une urine trouble, malodorante ou sanglante, ou très peu/pas d'urine au moment prévu.",
+    "wo": "Raxas sa loxo. Bind li mu tollu ak li nga gis. WAX saw bu tilim, bu xeeñ lool walla bu am dereet, walla bu néew lool walla amul bu waxtu wi jotee."
    }
   ]
  },
@@ -1038,38 +1246,46 @@
   "required": false,
   "title": {
    "en": "Positioning the Client in Bed",
-   "fr": "Installer le client dans le lit"
+   "fr": "Installer le client dans le lit",
+   "wo": "Toogal kiliyaan bi ci lal bi"
   },
   "module": "XII",
   "icon": "bed",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble pillows and folded towels. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez oreillers et serviettes pliées. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez oreillers et serviettes pliées. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal oreiller ak serwiyet yu lem. Gant bu soxlaa."
    },
    {
     "en": "ON THE BACK (supine): center the client safely; turn onto the back; align the body.",
-    "fr": "SUR LE DOS : centrez le client en sécurité ; tournez-le sur le dos ; alignez le corps."
+    "fr": "SUR LE DOS : centrez le client en sécurité ; tournez-le sur le dos ; alignez le corps.",
+    "wo": "CI GINNAAW : teg kiliyaan bi ci digg bu wóor ; wëlbati ko ci ginnaaw ; jubbanti yaram wi."
    },
    {
     "en": "Place pillows or folded towels under the head, under the small of the back and alongside the hips. Position the arms; support and cover the feet.",
-    "fr": "Placez oreillers ou serviettes pliées sous la tête, sous le creux du dos et le long des hanches. Positionnez les bras ; soutenez et couvrez les pieds."
+    "fr": "Placez oreillers ou serviettes pliées sous la tête, sous le creux du dos et le long des hanches. Positionnez les bras ; soutenez et couvrez les pieds.",
+    "wo": "Teg oreiller walla serwiyet yu lem ci suufu bopp, ci suufu ndigg ak ci wetu jur yi. Teg loxo yi ; sëmb te muur tànk yi."
    },
    {
     "en": "ON THE SIDE (lateral): center the client; turn onto the side; align the body.",
-    "fr": "SUR LE CÔTÉ : centrez le client ; tournez-le sur le côté ; alignez le corps."
+    "fr": "SUR LE CÔTÉ : centrez le client ; tournez-le sur le côté ; alignez le corps.",
+    "wo": "CI WET : teg kiliyaan bi ci digg ; wëlbati ko ci wet ; jubbanti yaram wi."
    },
    {
     "en": "Place pillows under the head and neck, at the back, under the top leg and foot, and under the top arm. Position hips, legs, shoulders and arms.",
-    "fr": "Placez des oreillers sous la tête et le cou, dans le dos, sous la jambe et le pied du dessus, et sous le bras du dessus. Positionnez hanches, jambes, épaules et bras."
+    "fr": "Placez des oreillers sous la tête et le cou, dans le dos, sous la jambe et le pied du dessus, et sous le bras du dessus. Positionnez hanches, jambes, épaules et bras.",
+    "wo": "Teg oreiller ci suufu bopp ak baat, ci ginnaaw, ci suufu tànk ak tànk bu kaw bi, ak ci suufu loxo bu kaw bi. Teg jur, tànk, mbagg ak loxo yi bu baax."
    },
    {
     "en": "ON THE ABDOMEN (prone): move the client to the side of the bed; turn onto the abdomen; turn the head to the side on a pillow; place the arms; support the lower legs and feet.",
-    "fr": "SUR LE VENTRE : amenez le client au bord du lit ; tournez-le sur le ventre ; tournez la tête sur le côté sur un oreiller ; placez les bras ; soutenez les jambes et les pieds."
+    "fr": "SUR LE VENTRE : amenez le client au bord du lit ; tournez-le sur le ventre ; tournez la tête sur le côté sur un oreiller ; placez les bras ; soutenez les jambes et les pieds.",
+    "wo": "CI BIIR : yóbbu kiliyaan bi ci wetu lal bi ; wëlbati ko ci biir ; wëlbati bopp bi ci wet ci kaw oreiller ; teg loxo yi ; sëmb tànk yi."
    },
    {
     "en": "Cover the client, make them comfortable and safe. Wash your hands. Observe, record and report.",
-    "fr": "Couvrez le client, installez-le confortablement et en sécurité. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Couvrez le client, installez-le confortablement et en sécurité. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Muur kiliyaan bi, dal ko te aar ko. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1079,42 +1295,51 @@
   "required": false,
   "title": {
    "en": "Transfer to the Sitting Position in Bed",
-   "fr": "Passage à la position assise dans le lit"
+   "fr": "Passage à la position assise dans le lit",
+   "wo": "Toog ci lal bi"
   },
   "module": "XII",
   "icon": "sit",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Gant bu soxlaa."
    },
    {
     "en": "Face the head of the bed with your outer foot forward.",
-    "fr": "Faites face à la tête du lit, pied extérieur en avant."
+    "fr": "Faites face à la tête du lit, pied extérieur en avant.",
+    "wo": "Jàkkaarloo ak boppu lal bi, sa tànk bu biti ci kanam."
    },
    {
     "en": "Raise the head of the bed, or lock arms with the client.",
-    "fr": "Relevez la tête du lit, ou croisez les bras avec le client."
+    "fr": "Relevez la tête du lit, ou croisez les bras avec le client.",
+    "wo": "Yékkati boppu lal bi, walla jaxase sa loxo ak loxoy kiliyaan bi."
    },
    {
     "en": "Have the client bend the knees.",
-    "fr": "Faites plier les genoux au client."
+    "fr": "Faites plier les genoux au client.",
+    "wo": "Kiliyaan bi na lem óomam."
    },
    {
     "en": "Pull the client to a sitting position by rocking your weight back.",
-    "fr": "Amenez le client en position assise en basculant votre poids vers l'arrière."
+    "fr": "Amenez le client en position assise en basculant votre poids vers l'arrière.",
+    "wo": "Toogal kiliyaan bi ci bàkkante sa peesu jëm ginnaaw."
    },
    {
     "en": "Place pillows behind the head.",
-    "fr": "Placez des oreillers derrière la tête."
+    "fr": "Placez des oreillers derrière la tête.",
+    "wo": "Teg oreiller ci ginnaawu bopp bi."
    },
    {
     "en": "Check the client for dizziness or weakness before continuing.",
-    "fr": "Vérifiez si le client a des vertiges ou se sent faible avant de continuer."
+    "fr": "Vérifiez si le client a des vertiges ou se sent faible avant de continuer.",
+    "wo": "Seet ndax kiliyaan bi boppam dafay wër walla néew na doole laata ngay wéy."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1124,38 +1349,46 @@
   "required": false,
   "title": {
    "en": "Helping the Client Sit at the Side of the Bed",
-   "fr": "Aider le client à s'asseoir au bord du lit"
+   "fr": "Aider le client à s'asseoir au bord du lit",
+   "wo": "Dimbali kiliyaan bi mu toog ci wetu lal bi"
   },
   "module": "XII",
   "icon": "sit",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Gant bu soxlaa."
    },
    {
     "en": "Roll the client onto the side facing you. Bend the client's knees.",
-    "fr": "Tournez le client sur le côté, face à vous. Pliez ses genoux."
+    "fr": "Tournez le client sur le côté, face à vous. Pliez ses genoux.",
+    "wo": "Wëlbati kiliyaan bi ci wet, jàkkaarloo ak yaw. Lemal óomam."
    },
    {
     "en": "Reach one arm over to hold behind the knees; place the other arm under the neck and shoulders.",
-    "fr": "Passez un bras pour tenir derrière les genoux ; placez l'autre bras sous le cou et les épaules."
+    "fr": "Passez un bras pour tenir derrière les genoux ; placez l'autre bras sous le cou et les épaules.",
+    "wo": "Yóbbu benn loxo ngir jàpp ci ginnaawu óom yi ; teg beneen loxo ci suufu baat ak mbagg yi."
    },
    {
     "en": "Position your feet with a wide base of support.",
-    "fr": "Placez vos pieds avec une base d'appui large."
+    "fr": "Placez vos pieds avec une base d'appui large.",
+    "wo": "Taxaw ak sa tànk yu xàjj."
    },
    {
     "en": "On the count of three, shift your weight to your back leg while swinging the client's legs over the edge of the bed and pulling the shoulders up to sitting.",
-    "fr": "À « trois », basculez votre poids sur la jambe arrière en faisant pivoter les jambes du client hors du lit et en relevant ses épaules en position assise."
+    "fr": "À « trois », basculez votre poids sur la jambe arrière en faisant pivoter les jambes du client hors du lit et en relevant ses épaules en position assise.",
+    "wo": "Ci « ñett », bàkkante sa peesu ci sa tànk bu ginnaaw te wëlbati tànki kiliyaan bi ci biti lal bi te yékkati mbaggam ba mu toog."
    },
    {
     "en": "Stay in front of the client with both hands on them until you are sure they can sit safely alone.",
-    "fr": "Restez devant le client, les deux mains sur lui, jusqu'à être sûr qu'il peut rester assis seul en sécurité."
+    "fr": "Restez devant le client, les deux mains sur lui, jusqu'à être sûr qu'il peut rester assis seul en sécurité.",
+    "wo": "Des ci kanam kiliyaan bi, sa ñaari loxo ci moom, ba nga wóor ne mën na toog moom rekk bu wóor."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1165,42 +1398,51 @@
   "required": false,
   "title": {
    "en": "Helping a Client to Stand",
-   "fr": "Aider le client à se lever"
+   "fr": "Aider le client à se lever",
+   "wo": "Dimbali kiliyaan bi mu taxaw"
   },
   "module": "XII",
   "icon": "stand",
   "steps": [
    {
     "en": "Explain the procedure (the client is sitting at the edge of the bed). Put the bed in the lowest position if necessary.",
-    "fr": "Expliquez la procédure (le client est assis au bord du lit). Mettez le lit en position basse si nécessaire."
+    "fr": "Expliquez la procédure (le client est assis au bord du lit). Mettez le lit en position basse si nécessaire.",
+    "wo": "Leeral doxalin bi (kiliyaan bi toog na ci wetu lal bi). Wàccal lal bi bu soxlaa."
    },
    {
     "en": "Wash your hands. Gloves as necessary.",
-    "fr": "Lavez-vous les mains. Gants si nécessaire."
+    "fr": "Lavez-vous les mains. Gants si nécessaire.",
+    "wo": "Raxas sa loxo. Gant bu soxlaa."
    },
    {
     "en": "Place one foot forward between the client's feet. If the client has a weak knee, brace it against yours.",
-    "fr": "Placez un pied en avant entre les pieds du client. S'il a un genou faible, calez-le contre le vôtre."
+    "fr": "Placez un pied en avant entre les pieds du client. S'il a un genou faible, calez-le contre le vôtre.",
+    "wo": "Teg benn tànk ci kanam, ci diggante tànki kiliyaan bi. Bu óomam néew doolee, sëmb ko ak sa óom."
    },
    {
     "en": "Tell the client to put the strongest foot under themselves.",
-    "fr": "Dites au client de placer son pied le plus fort sous lui."
+    "fr": "Dites au client de placer son pied le plus fort sous lui.",
+    "wo": "Wax kiliyaan bi mu teg tànkam bu gën a wóor ci suufam."
    },
    {
     "en": "Bend your knee and lean onto your forward foot. Place both arms around the client's waist and hold closely.",
-    "fr": "Pliez le genou et appuyez-vous sur votre pied avant. Passez les deux bras autour de la taille du client et tenez-le près de vous."
+    "fr": "Pliez le genou et appuyez-vous sur votre pied avant. Passez les deux bras autour de la taille du client et tenez-le près de vous.",
+    "wo": "Lemal sa óom te sukkandiku ci sa tànk bu kanam. Teg sa ñaari loxo ci ndiggu kiliyaan bi te jàpp ko bu dëgër."
    },
    {
     "en": "Tell the client to push down on the bed with the arms and lean forward. On 'one, two, three', help the client stand by rocking your weight to your back foot and lifting on three.",
-    "fr": "Dites au client de pousser sur le lit avec les bras et de se pencher en avant. À « un, deux, trois », aidez-le à se lever en basculant votre poids sur le pied arrière et en soulevant à trois."
+    "fr": "Dites au client de pousser sur le lit avec les bras et de se pencher en avant. À « un, deux, trois », aidez-le à se lever en basculant votre poids sur le pied arrière et en soulevant à trois.",
+    "wo": "Wax ko mu puus lal bi ak loxoom te jëm kanam. Ci « benn, ñaar, ñett », dimbali ko mu taxaw : bàkkante sa peesu ci sa tànk bu ginnaaw te yékkati ci ñett."
    },
    {
     "en": "Support the client until you are sure they can stand safely alone.",
-    "fr": "Soutenez le client jusqu'à être sûr qu'il tient debout seul en sécurité."
+    "fr": "Soutenez le client jusqu'à être sûr qu'il tient debout seul en sécurité.",
+    "wo": "Jàppale kiliyaan bi ba nga wóor ne mën na taxaw moom rekk."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1210,42 +1452,51 @@
   "required": true,
   "title": {
    "en": "Transfer to Wheelchair, Chair or Commode",
-   "fr": "Transfert au fauteuil roulant, à la chaise ou à la chaise percée"
+   "fr": "Transfert au fauteuil roulant, à la chaise ou à la chaise percée",
+   "wo": "Transfert ci fauteuil roulant, siis walla siisu wanag"
   },
   "module": "XII",
   "icon": "wheelchair",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Gant bu soxlaa."
    },
    {
     "en": "Angle the wheelchair next to the bed and LOCK the brakes.",
-    "fr": "Placez le fauteuil en angle contre le lit et BLOQUEZ les freins."
+    "fr": "Placez le fauteuil en angle contre le lit et BLOQUEZ les freins.",
+    "wo": "Teg fauteuil bi ci wetu lal bi ci angle te TËJ fren yi."
    },
    {
     "en": "Put a safety (gait) belt on the client if needed.",
-    "fr": "Mettez une ceinture de sécurité (de marche) au client si besoin."
+    "fr": "Mettez une ceinture de sécurité (de marche) au client si besoin.",
+    "wo": "Takk ceinture bu kaaraange ci kiliyaan bi bu soxlaa."
    },
    {
     "en": "Dangle the client's legs over the side of the bed, then stand the client up.",
-    "fr": "Faites pendre les jambes du client au bord du lit, puis levez-le."
+    "fr": "Faites pendre les jambes du client au bord du lit, puis levez-le.",
+    "wo": "Wàccal tànki kiliyaan bi ci wetu lal bi, ba pare taxawal ko."
    },
    {
     "en": "Rotate the client until their back faces the wheelchair; back them up until they feel the chair with the back of their legs.",
-    "fr": "Faites pivoter le client dos au fauteuil ; reculez-le jusqu'à ce qu'il sente le fauteuil derrière ses jambes."
+    "fr": "Faites pivoter le client dos au fauteuil ; reculez-le jusqu'à ce qu'il sente le fauteuil derrière ses jambes.",
+    "wo": "Wëlbati ko ba ginnaawam jàkkaarloo ak fauteuil bi ; dellool ko ginnaaw ba mu yég fauteuil bi ci ginnaawu tànkam."
    },
    {
     "en": "Keep good body mechanics and lower the client into the wheelchair.",
-    "fr": "Gardez une bonne mécanique corporelle et asseyez le client dans le fauteuil."
+    "fr": "Gardez une bonne mécanique corporelle et asseyez le client dans le fauteuil.",
+    "wo": "Jëfandikoo sa yaram bu baax te toogal ko ci fauteuil bi."
    },
    {
     "en": "Adjust the footrests. Release the brakes. Cover the client as needed.",
-    "fr": "Réglez les repose-pieds. Desserrez les freins. Couvrez le client si besoin."
+    "fr": "Réglez les repose-pieds. Desserrez les freins. Couvrez le client si besoin.",
+    "wo": "Jubbanti repose-pieds yi. Tekki fren yi. Muur kiliyaan bi bu soxlaa."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1255,34 +1506,41 @@
   "required": false,
   "title": {
    "en": "Positioning the Client in a Chair or Wheelchair",
-   "fr": "Installer le client dans une chaise ou un fauteuil roulant"
+   "fr": "Installer le client dans une chaise ou un fauteuil roulant",
+   "wo": "Toogal kiliyaan bi ci siis walla fauteuil roulant"
   },
   "module": "XII",
   "icon": "wheelchair",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Place the client's hips well back in the chair.",
-    "fr": "Placez les hanches du client bien au fond du siège."
+    "fr": "Placez les hanches du client bien au fond du siège.",
+    "wo": "Teg juri kiliyaan bi ba ci ginnaawu siis bi."
    },
    {
     "en": "Place the feet appropriately (flat on the floor or footrests).",
-    "fr": "Placez les pieds correctement (à plat au sol ou sur les repose-pieds)."
+    "fr": "Placez les pieds correctement (à plat au sol ou sur les repose-pieds).",
+    "wo": "Teg tànk yi bu baax (ci suuf walla ci repose-pieds yi)."
    },
    {
     "en": "Check the position of male genitals.",
-    "fr": "Vérifiez la position des parties génitales chez l'homme."
+    "fr": "Vérifiez la position des parties génitales chez l'homme.",
+    "wo": "Seet toogaayu béréb yu sutura ci góor gi."
    },
    {
     "en": "Place pillows appropriately and support the arms.",
-    "fr": "Placez les oreillers et soutenez les bras."
+    "fr": "Placez les oreillers et soutenez les bras.",
+    "wo": "Teg oreiller yi te sëmb loxo yi."
    },
    {
     "en": "Make the client comfortable and safe. Wash your hands. Observe, record and report.",
-    "fr": "Installez le client confortablement et en sécurité. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Installez le client confortablement et en sécurité. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Dal kiliyaan bi te aar ko. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1292,42 +1550,51 @@
   "required": false,
   "title": {
    "en": "Transfer from Wheelchair to Toilet",
-   "fr": "Transfert du fauteuil roulant aux toilettes"
+   "fr": "Transfert du fauteuil roulant aux toilettes",
+   "wo": "Fauteuil roulant ba wanag"
   },
   "module": "XII",
   "icon": "toilet",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Gant bu soxlaa."
    },
    {
     "en": "Check the bathroom for supports and grab bars.",
-    "fr": "Vérifiez les appuis et barres de maintien de la salle de bain."
+    "fr": "Vérifiez les appuis et barres de maintien de la salle de bain.",
+    "wo": "Seet barre yi ak fu ñuy jàpp ci wanag bi."
    },
    {
     "en": "Place the wheelchair facing the toilet. Lock the wheels. Raise the footrests.",
-    "fr": "Placez le fauteuil face aux toilettes. Bloquez les roues. Relevez les repose-pieds."
+    "fr": "Placez le fauteuil face aux toilettes. Bloquez les roues. Relevez les repose-pieds.",
+    "wo": "Teg fauteuil bi jàkkaarloo ak wanag bi. Tëj roo yi. Yékkati repose-pieds yi."
    },
    {
     "en": "Help the client stand and rotate until their back is toward the toilet.",
-    "fr": "Aidez le client à se lever et à pivoter dos aux toilettes."
+    "fr": "Aidez le client à se lever et à pivoter dos aux toilettes.",
+    "wo": "Dimbali kiliyaan bi mu taxaw te wëlbati ba ginnaawam jëm ci wanag bi."
    },
    {
     "en": "Arrange the clothing and help the client sit on the toilet. Allow privacy.",
-    "fr": "Arrangez les vêtements et aidez le client à s'asseoir. Laissez-lui de l'intimité."
+    "fr": "Arrangez les vêtements et aidez le client à s'asseoir. Laissez-lui de l'intimité.",
+    "wo": "Jubbanti yere yi te dimbali ko mu toog ci wanag bi. May ko sutura."
    },
    {
     "en": "Help clean the client after toileting. Wash your hands.",
-    "fr": "Aidez à nettoyer le client après. Lavez-vous les mains."
+    "fr": "Aidez à nettoyer le client après. Lavez-vous les mains.",
+    "wo": "Dimbali ko mu fomp boppam ginnaaw. Raxas sa loxo."
    },
    {
     "en": "Reverse the steps to return to the wheelchair. Help the client wash hands.",
-    "fr": "Refaites les étapes à l'envers pour revenir au fauteuil. Aidez le client à se laver les mains."
+    "fr": "Refaites les étapes à l'envers pour revenir au fauteuil. Aidez le client à se laver les mains.",
+    "wo": "Baamtu jéego yi ci ginnaaw ngir dellu ci fauteuil bi. Dimbali ko mu raxas loxoom."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1337,42 +1604,51 @@
   "required": false,
   "title": {
    "en": "Transfer from Wheelchair to Shower and Assisting with Shower",
-   "fr": "Transfert du fauteuil roulant à la douche et aide à la douche"
+   "fr": "Transfert du fauteuil roulant à la douche et aide à la douche",
+   "wo": "Fauteuil roulant ba duus te dimbali ci duus"
   },
   "module": "XII",
   "icon": "shower",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Position the wheelchair at an angle to the shower. Place a towel on the shower chair or stool.",
-    "fr": "Placez le fauteuil en angle par rapport à la douche. Mettez une serviette sur la chaise ou le tabouret de douche."
+    "fr": "Placez le fauteuil en angle par rapport à la douche. Mettez une serviette sur la chaise ou le tabouret de douche.",
+    "wo": "Teg fauteuil bi ci angle ak duus bi. Teg serwiyet ci siisu duus bi."
    },
    {
     "en": "Lock the wheels and raise the footrests.",
-    "fr": "Bloquez les roues et relevez les repose-pieds."
+    "fr": "Bloquez les roues et relevez les repose-pieds.",
+    "wo": "Tëj roo yi te yékkati repose-pieds yi."
    },
    {
     "en": "Stand the client up, pivot so their back is toward the shower chair, and help them sit.",
-    "fr": "Levez le client, faites-le pivoter dos à la chaise de douche et aidez-le à s'asseoir."
+    "fr": "Levez le client, faites-le pivoter dos à la chaise de douche et aidez-le à s'asseoir.",
+    "wo": "Taxawal kiliyaan bi, wëlbati ko ba ginnaawam jëm ci siisu duus bi, te dimbali ko mu toog."
    },
    {
     "en": "Place toilet articles within reach. Allow privacy.",
-    "fr": "Mettez les articles de toilette à portée de main. Laissez de l'intimité."
+    "fr": "Mettez les articles de toilette à portée de main. Laissez de l'intimité.",
+    "wo": "Teg saabu ak yeneen ci fu mu mën a jot. May ko sutura."
    },
    {
     "en": "Make sure all soap is rinsed off. Help dry the client. Get clean clothing ready.",
-    "fr": "Vérifiez que tout le savon est rincé. Aidez à sécher le client. Préparez des vêtements propres."
+    "fr": "Vérifiez que tout le savon est rincé. Aidez à sécher le client. Préparez des vêtements propres.",
+    "wo": "Seet ndax saabu bépp raxasu na. Dimbali ko mu wow. Waajal yere yu set."
    },
    {
     "en": "Reverse the transfer steps. Cover the client to avoid chilling.",
-    "fr": "Refaites le transfert à l'envers. Couvrez le client pour éviter qu'il ait froid."
+    "fr": "Refaites le transfert à l'envers. Couvrez le client pour éviter qu'il ait froid.",
+    "wo": "Baamtu transfert bi ci ginnaaw. Muur kiliyaan bi ngir mu bañ a sedd."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1382,38 +1658,46 @@
   "required": false,
   "title": {
    "en": "Transfer from Wheelchair to Stool or Chair in Tub",
-   "fr": "Transfert du fauteuil roulant au tabouret ou à la chaise dans la baignoire"
+   "fr": "Transfert du fauteuil roulant au tabouret ou à la chaise dans la baignoire",
+   "wo": "Fauteuil roulant ba siis ci baañuwaar"
   },
   "module": "XII",
   "icon": "bath",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Place a non-slip mat in the tub and a covered chair or stool in the tub. Fill the tub with water (test the temperature).",
-    "fr": "Placez un tapis antidérapant et une chaise ou un tabouret couvert dans la baignoire. Remplissez d'eau (testez la température)."
+    "fr": "Placez un tapis antidérapant et une chaise ou un tabouret couvert dans la baignoire. Remplissez d'eau (testez la température).",
+    "wo": "Teg tapi bu dul gliss ak siis bu ñu muur ci baañuwaar bi. Fees ko ak ndox (seet tàngoor bi)."
    },
    {
     "en": "Position the wheelchair parallel to the tub. Provide privacy. Help remove clothing.",
-    "fr": "Placez le fauteuil parallèle à la baignoire. Assurez l'intimité. Aidez à se déshabiller."
+    "fr": "Placez le fauteuil parallèle à la baignoire. Assurez l'intimité. Aidez à se déshabiller.",
+    "wo": "Teg fauteuil bi parallèle ak baañuwaar bi. Aar sutura. Dimbali ko mu summi."
    },
    {
     "en": "Help the client slide to the edge of the tub; push the wheelchair out of the way; help the client onto the chair in the tub.",
-    "fr": "Aidez le client à glisser jusqu'au bord de la baignoire ; écartez le fauteuil ; aidez le client à s'asseoir sur la chaise dans la baignoire."
+    "fr": "Aidez le client à glisser jusqu'au bord de la baignoire ; écartez le fauteuil ; aidez le client à s'asseoir sur la chaise dans la baignoire.",
+    "wo": "Dimbali kiliyaan bi mu gliss ba ci wetu baañuwaar bi ; puus fauteuil bi fu sore ; dimbali ko mu toog ci siis bi ci baañuwaar bi."
    },
    {
     "en": "Help with bathing and drying the upper body.",
-    "fr": "Aidez à laver et sécher le haut du corps."
+    "fr": "Aidez à laver et sécher le haut du corps.",
+    "wo": "Dimbali ci sangu ak wowal kaw yaram bi."
    },
    {
     "en": "Reverse the transfer steps; dry the lower body; help with dressing and grooming.",
-    "fr": "Refaites le transfert à l'envers ; séchez le bas du corps ; aidez à l'habillage et aux soins d'apparence."
+    "fr": "Refaites le transfert à l'envers ; séchez le bas du corps ; aidez à l'habillage et aux soins d'apparence.",
+    "wo": "Baamtu transfert bi ci ginnaaw ; wowal suuf yaram bi ; dimbali ci sol ak taaral."
    },
    {
     "en": "Make the client comfortable and safe. Clean the area. Wash your hands. Observe, record and report.",
-    "fr": "Installez le client confortablement et en sécurité. Nettoyez. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Installez le client confortablement et en sécurité. Nettoyez. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Dal kiliyaan bi te aar ko. Setal béréb bi. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1423,38 +1707,46 @@
   "required": false,
   "title": {
    "en": "Weighing a Client",
-   "fr": "Peser un client"
+   "fr": "Peser un client",
+   "wo": "Natt peesu kiliyaan bi"
   },
   "module": "XII",
   "icon": "scale",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Check that the needle of the scale is at zero; adjust if not.",
-    "fr": "Vérifiez que l'aiguille de la balance est à zéro ; réglez si besoin."
+    "fr": "Vérifiez que l'aiguille de la balance est à zéro ; réglez si besoin.",
+    "wo": "Seet ndax balaas bi nekk na ci zéro ; jubbanti ko bu soxlaa."
    },
    {
     "en": "Help the client onto the scale and provide support while they steady themselves.",
-    "fr": "Aidez le client à monter sur la balance et soutenez-le pendant qu'il se stabilise."
+    "fr": "Aidez le client à monter sur la balance et soutenez-le pendant qu'il se stabilise.",
+    "wo": "Dimbali kiliyaan bi mu yéeg ci balaas bi te sëmb ko ba mu dëgër."
    },
    {
     "en": "Note the weight after the dial stops moving.",
-    "fr": "Notez le poids quand l'aiguille s'arrête."
+    "fr": "Notez le poids quand l'aiguille s'arrête.",
+    "wo": "Bind peesu bi bu balaas bi taxawee."
    },
    {
     "en": "Observe for any problems, such as inability to stand on the scale. Help the client off.",
-    "fr": "Observez tout problème, par exemple l'incapacité à tenir debout sur la balance. Aidez le client à descendre."
+    "fr": "Observez tout problème, par exemple l'incapacité à tenir debout sur la balance. Aidez le client à descendre.",
+    "wo": "Seetlu jafe-jafe, ni mënul taxaw ci balaas bi. Dimbali ko mu wàcc."
    },
    {
     "en": "Record the weight. Report a gain or loss of more than 5 pounds (about 2 kg) or client concerns about weight.",
-    "fr": "Notez le poids. Signalez un gain ou une perte de plus de 5 livres (environ 2 kg) ou les inquiétudes du client."
+    "fr": "Notez le poids. Signalez un gain ou une perte de plus de 5 livres (environ 2 kg) ou les inquiétudes du client.",
+    "wo": "Bind peesu bi. Wax lu yokku walla wàññiku lu ëpp 5 livres (2 kg) walla lu kiliyaan bi di ñaxtu ci peesam."
    },
    {
     "en": "Store the equipment in a safe place.",
-    "fr": "Rangez le matériel en lieu sûr."
+    "fr": "Rangez le matériel en lieu sûr.",
+    "wo": "Denc jumtukaay bi fu wóor."
    }
   ]
  },
@@ -1464,38 +1756,46 @@
   "required": false,
   "title": {
    "en": "Measuring Intake",
-   "fr": "Mesurer les apports en liquide"
+   "fr": "Mesurer les apports en liquide",
+   "wo": "Natt li mu naan"
   },
   "module": "XII",
   "icon": "cup",
   "steps": [
    {
     "en": "Explain why intake must be tracked. Ask the client to tell you when they drink and how much.",
-    "fr": "Expliquez pourquoi il faut suivre les apports. Demandez au client de vous dire quand il boit et combien."
+    "fr": "Expliquez pourquoi il faut suivre les apports. Demandez au client de vous dire quand il boit et combien.",
+    "wo": "Leeral lu tax ñuy natt li muy naan. Laaj kiliyaan bi mu wax la kañ la naan ak ñaata."
    },
    {
     "en": "Wash your hands. Assemble a measuring cup, the bowls, cups and glasses the client uses, paper and pencil.",
-    "fr": "Lavez-vous les mains. Préparez un verre doseur, les bols, tasses et verres du client, papier et crayon."
+    "fr": "Lavez-vous les mains. Préparez un verre doseur, les bols, tasses et verres du client, papier et crayon.",
+    "wo": "Raxas sa loxo. Waajal verre bu natt, bol, kaas ak verre yi kiliyaan bi di jëfandikoo, kayit ak kiriyoŋ."
    },
    {
     "en": "Measure each serving container ahead of time: fill it with water, pour into the measuring cup, write down the amount, discard the water. Keep this list.",
-    "fr": "Mesurez chaque récipient à l'avance : remplissez-le d'eau, versez dans le verre doseur, notez la quantité, jetez l'eau. Gardez cette liste."
+    "fr": "Mesurez chaque récipient à l'avance : remplissez-le d'eau, versez dans le verre doseur, notez la quantité, jetez l'eau. Gardez cette liste.",
+    "wo": "Natt ndab bu nekk bu jëkk : fees ko ak ndox, sotti ko ci verre bu natt bi, bind li mu tollu, sànni ndox mi. Denc lisit bi."
    },
    {
     "en": "Serve liquids in the measured containers. Write down the types and amounts served.",
-    "fr": "Servez les liquides dans les récipients mesurés. Notez types et quantités servis."
+    "fr": "Servez les liquides dans les récipients mesurés. Notez types et quantités servis.",
+    "wo": "Jox ndox yi ci ndab yi nga natt. Bind xeet yi ak li mu tollu."
    },
    {
     "en": "When the client is finished, measure each type of liquid left over.",
-    "fr": "Quand le client a fini, mesurez ce qui reste de chaque liquide."
+    "fr": "Quand le client a fini, mesurez ce qui reste de chaque liquide.",
+    "wo": "Bu kiliyaan bi paree, natt li des ci ndox bu nekk."
    },
    {
     "en": "Subtract the leftover amount from the amount served; add all the totals together and write it down.",
-    "fr": "Soustrayez le reste de la quantité servie ; additionnez tous les totaux et notez-les."
+    "fr": "Soustrayez le reste de la quantité servie ; additionnez tous les totaux et notez-les.",
+    "wo": "Dindi li des ci li nga jox ; dajale lépp te bind ko."
    },
    {
     "en": "Clean and store the equipment. Wash your hands. Record the total intake for the period. Observe, record and report.",
-    "fr": "Nettoyez et rangez le matériel. Lavez-vous les mains. Notez l'apport total de la période. Observez, notez et signalez."
+    "fr": "Nettoyez et rangez le matériel. Lavez-vous les mains. Notez l'apport total de la période. Observez, notez et signalez.",
+    "wo": "Setal te denc jumtukaay yi. Raxas sa loxo. Bind li mu naan lépp ci jamono ji. Seetlu, bind te wax."
    }
   ]
  },
@@ -1505,38 +1805,46 @@
   "required": false,
   "title": {
    "en": "Measuring Urinary Output",
-   "fr": "Mesurer la diurèse (urine éliminée)"
+   "fr": "Mesurer la diurèse (urine éliminée)",
+   "wo": "Natt saw mi"
   },
   "module": "XII",
   "icon": "cup",
   "steps": [
    {
     "en": "Explain why output must be measured. Ask the client to use the bedpan, urinal or commode and to tell you when they need to pass urine (not needed with a drainage bag).",
-    "fr": "Expliquez pourquoi il faut mesurer l'urine. Demandez au client d'utiliser le bassin, l'urinal ou la chaise percée et de vous prévenir quand il doit uriner (inutile avec un sac collecteur)."
+    "fr": "Expliquez pourquoi il faut mesurer l'urine. Demandez au client d'utiliser le bassin, l'urinal ou la chaise percée et de vous prévenir quand il doit uriner (inutile avec un sac collecteur).",
+    "wo": "Leeral lu tax ñuy natt saw mi. Laaj kiliyaan bi mu jëfandikoo bassin, urinal walla siisu wanag te wax la bu bëggee saw (soxlawul bu am saaku saw)."
    },
    {
     "en": "Wash your hands. Assemble equipment. Gloves as needed.",
-    "fr": "Lavez-vous les mains. Préparez le matériel. Gants si besoin."
+    "fr": "Lavez-vous les mains. Préparez le matériel. Gants si besoin.",
+    "wo": "Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Pour or drain the urine into a measuring pitcher placed on a flat surface.",
-    "fr": "Versez ou videz l'urine dans un pichet gradué posé sur une surface plane."
+    "fr": "Versez ou videz l'urine dans un pichet gradué posé sur une surface plane.",
+    "wo": "Sotti saw mi ci pichet bu natt bu nekk ci kaw lu tàllal."
    },
    {
     "en": "Record the amount.",
-    "fr": "Notez la quantité."
+    "fr": "Notez la quantité.",
+    "wo": "Bind li mu tollu."
    },
    {
     "en": "Discard the urine unless a specimen is needed.",
-    "fr": "Jetez l'urine sauf si un échantillon est demandé."
+    "fr": "Jetez l'urine sauf si un échantillon est demandé.",
+    "wo": "Sànni saw mi lu dul bu ñu laajee échantillon."
    },
    {
     "en": "Clean and store re-usable equipment. Wash your hands.",
-    "fr": "Nettoyez et rangez le matériel réutilisable. Lavez-vous les mains."
+    "fr": "Nettoyez et rangez le matériel réutilisable. Lavez-vous les mains.",
+    "wo": "Setal te denc jumtukaay yu ñuy jëfandikooat. Raxas sa loxo."
    },
    {
     "en": "Observe, record and report: strong-smelling or cloudy urine, blood, a very small amount, or pain or difficulty passing urine.",
-    "fr": "Observez, notez et signalez : urine malodorante ou trouble, sang, très petite quantité, douleur ou difficulté à uriner."
+    "fr": "Observez, notez et signalez : urine malodorante ou trouble, sang, très petite quantité, douleur ou difficulté à uriner.",
+    "wo": "Seetlu, bind te wax : saw bu xeeñ lool walla bu tilim, dereet, lu néew lool, walla metit walla jafe-jafe ci saw."
    }
   ]
  },
@@ -1546,54 +1854,66 @@
   "required": false,
   "title": {
    "en": "Assisting with Changing a Clean Dressing",
-   "fr": "Aide au changement d'un pansement propre"
+   "fr": "Aide au changement d'un pansement propre",
+   "wo": "Dimbali ci soppi pansement bu set"
   },
   "module": "XII",
   "icon": "bandage",
   "warning": {
    "en": "Clean dressing only, using Standard Precautions, as directed in the care plan. Sterile wound care is the nurse's job.",
-   "fr": "Pansement propre seulement, avec les précautions standard, selon le plan de soins. Les soins de plaie stériles relèvent de l'infirmière."
+   "fr": "Pansement propre seulement, avec les précautions standard, selon le plan de soins. Les soins de plaie stériles relèvent de l'infirmière.",
+   "wo": "Pansement bu set rekk, ak précautions standard, ni palaŋ bi ko waxe. Pansement stérile liggéeyu infirmiyeer la."
   },
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Provide privacy.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Assurez l'intimité."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Assurez l'intimité.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Aar sutura."
    },
    {
     "en": "Help the client into a comfortable position. Provide good lighting. Remove clothing over the dressing if necessary.",
-    "fr": "Installez le client confortablement. Assurez un bon éclairage. Dégagez le pansement si nécessaire."
+    "fr": "Installez le client confortablement. Assurez un bon éclairage. Dégagez le pansement si nécessaire.",
+    "wo": "Toogal kiliyaan bi bu dal. Leeral bu baax. Dindi yere bi ci kaw pansement bi bu soxlaa."
    },
    {
     "en": "Place a waste bag near the client. Put on gloves.",
-    "fr": "Placez un sac à déchets près du client. Mettez des gants."
+    "fr": "Placez un sac à déchets près du client. Mettez des gants.",
+    "wo": "Teg saaku mbalit ci wetu kiliyaan bi. Sol gant."
    },
    {
     "en": "Remove the wrapping from the new dressing and cut the tape.",
-    "fr": "Déballez le nouveau pansement et coupez le sparadrap."
+    "fr": "Déballez le nouveau pansement et coupez le sparadrap.",
+    "wo": "Ubbi pansement bu bees bi te dagg sparadrap bi."
    },
    {
     "en": "Remove and discard the old dressing AND your gloves.",
-    "fr": "Retirez et jetez l'ancien pansement ET vos gants."
+    "fr": "Retirez et jetez l'ancien pansement ET vos gants.",
+    "wo": "Dindi te sànni pansement bu yàgg bi AK sa gant yi."
    },
    {
     "en": "Wash your hands. Put on NEW gloves.",
-    "fr": "Lavez-vous les mains. Mettez de NOUVEAUX gants."
+    "fr": "Lavez-vous les mains. Mettez de NOUVEAUX gants.",
+    "wo": "Raxas sa loxo. Sol gant yu BEES."
    },
    {
     "en": "Clean the skin around the wound as directed in the care plan. Hand requested items to the client.",
-    "fr": "Nettoyez la peau autour de la plaie selon le plan de soins. Passez au client ce qu'il demande."
+    "fr": "Nettoyez la peau autour de la plaie selon le plan de soins. Passez au client ce qu'il demande.",
+    "wo": "Setal dér bi wërngalu gaañu gi ni palaŋ bi ko waxe. Jox kiliyaan bi li mu laaj."
    },
    {
     "en": "Apply the new dressing and tape it in place.",
-    "fr": "Appliquez le nouveau pansement et fixez-le."
+    "fr": "Appliquez le nouveau pansement et fixez-le.",
+    "wo": "Teg pansement bu bees bi te takk ko."
    },
    {
     "en": "Remove and discard the waste bag. Wash your hands. Store unused supplies.",
-    "fr": "Retirez et jetez le sac à déchets. Lavez-vous les mains. Rangez le matériel non utilisé."
+    "fr": "Retirez et jetez le sac à déchets. Lavez-vous les mains. Rangez le matériel non utilisé.",
+    "wo": "Dindi te sànni saaku mbalit bi. Raxas sa loxo. Denc li des."
    },
    {
     "en": "Observe, record and report any change in the appearance of the wound.",
-    "fr": "Observez, notez et signalez tout changement d'aspect de la plaie."
+    "fr": "Observez, notez et signalez tout changement d'aspect de la plaie.",
+    "wo": "Seetlu, bind te wax lu soppiku ci ni gaañu gi mel."
    }
   ]
  },
@@ -1603,34 +1923,41 @@
   "required": false,
   "title": {
    "en": "Handling the Infant",
-   "fr": "Manipuler le nourrisson"
+   "fr": "Manipuler le nourrisson",
+   "wo": "Yor liir bi"
   },
   "module": "XII",
   "icon": "baby",
   "steps": [
    {
     "en": "Wash your hands. Gloves as needed.",
-    "fr": "Lavez-vous les mains. Gants si besoin."
+    "fr": "Lavez-vous les mains. Gants si besoin.",
+    "wo": "Raxas sa loxo. Gant bu soxlaa."
    },
    {
     "en": "PICKING UP: put one hand under the buttocks.",
-    "fr": "POUR PRENDRE LE BÉBÉ : mettez une main sous les fesses."
+    "fr": "POUR PRENDRE LE BÉBÉ : mettez une main sous les fesses.",
+    "wo": "NGIR JËL KO : teg benn loxo ci suufu taat yi."
    },
    {
     "en": "Put the other hand under the head, neck and shoulders.",
-    "fr": "Mettez l'autre main sous la tête, le cou et les épaules."
+    "fr": "Mettez l'autre main sous la tête, le cou et les épaules.",
+    "wo": "Teg beneen loxo ci suufu bopp, baat ak mbagg yi."
    },
    {
     "en": "Raise the baby smoothly, supporting the head at all times.",
-    "fr": "Soulevez le bébé doucement en soutenant toujours la tête."
+    "fr": "Soulevez le bébé doucement en soutenant toujours la tête.",
+    "wo": "Yékkati liir bi ndank, di sëmb bopp bi saa su nekk."
    },
    {
     "en": "FOOTBALL HOLD: support the baby's head, neck and buttocks; swing the baby to your side so they rest on your hip while your hand and arm cradle and support them.",
-    "fr": "PRISE « BALLON DE FOOTBALL » : soutenez la tête, le cou et les fesses ; amenez le bébé sur votre côté, posé sur votre hanche, votre main et votre bras le berçant et le soutenant."
+    "fr": "PRISE « BALLON DE FOOTBALL » : soutenez la tête, le cou et les fesses ; amenez le bébé sur votre côté, posé sur votre hanche, votre main et votre bras le berçant et le soutenant.",
+    "wo": "JÀPP « BALLON » : sëmb bopp, baat ak taat yi ; yóbbu liir bi ci sa wet, mu tëdd ci sa jur, sa loxo ak sa baaraam di ko sëmb."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1640,46 +1967,56 @@
   "required": false,
   "title": {
    "en": "Infant Bath",
-   "fr": "Bain du nourrisson"
+   "fr": "Bain du nourrisson",
+   "wo": "Sangu liir bi"
   },
   "module": "XII",
   "icon": "baby",
   "steps": [
    {
     "en": "Wash your hands. Assemble equipment. Make sure the room is warm. Prepare the changing area.",
-    "fr": "Lavez-vous les mains. Préparez le matériel. Vérifiez que la pièce est chaude. Préparez la table à langer."
+    "fr": "Lavez-vous les mains. Préparez le matériel. Vérifiez que la pièce est chaude. Préparez la table à langer.",
+    "wo": "Raxas sa loxo. Waajal jumtukaay yi. Néeg bi na tàng. Waajal fu ngay soppi kuus bi."
    },
    {
     "en": "Prepare the bath water at the correct temperature (test it). Gloves as needed.",
-    "fr": "Préparez l'eau du bain à la bonne température (testez-la). Gants si besoin."
+    "fr": "Préparez l'eau du bain à la bonne température (testez-la). Gants si besoin.",
+    "wo": "Waajal ndoxu sangu bi ci tàngoor bu dëppoo (seet ko). Gant bu soxlaa."
    },
    {
     "en": "Bring the baby to the bath area. Undress and cover the baby.",
-    "fr": "Amenez le bébé près du bain. Déshabillez-le et couvrez-le."
+    "fr": "Amenez le bébé près du bain. Déshabillez-le et couvrez-le.",
+    "wo": "Indi liir bi ci wetu sangu bi. Summi ko te muur ko."
    },
    {
     "en": "Lower the baby into the water, supporting the head.",
-    "fr": "Mettez le bébé dans l'eau en soutenant la tête."
+    "fr": "Mettez le bébé dans l'eau en soutenant la tête.",
+    "wo": "Def ko ci ndox mi, di sëmb boppam."
    },
    {
     "en": "Shampoo, rinse and dry the head first.",
-    "fr": "Lavez, rincez et séchez d'abord la tête."
+    "fr": "Lavez, rincez et séchez d'abord la tête.",
+    "wo": "Shampoing, rince te wowal bopp bi bu jëkk."
    },
    {
     "en": "Wash the body from head to foot. Wash the genitals correctly (front to back for a girl).",
-    "fr": "Lavez le corps de la tête aux pieds. Lavez correctement les parties génitales (d'avant en arrière pour une fille)."
+    "fr": "Lavez le corps de la tête aux pieds. Lavez correctement les parties génitales (d'avant en arrière pour une fille).",
+    "wo": "Raxas yaram wi bopp ba tànk. Raxas béréb yu sutura yi bu baax (kanam jëm ginnaaw ci jigéen)."
    },
    {
     "en": "Dry the baby. Apply lotion as directed in the care plan.",
-    "fr": "Séchez le bébé. Appliquez une lotion selon le plan de soins."
+    "fr": "Séchez le bébé. Appliquez une lotion selon le plan de soins.",
+    "wo": "Wowal liir bi. Def lotion ni palaŋ bi ko waxe."
    },
    {
     "en": "Diaper and dress the baby. Give nail care if needed.",
-    "fr": "Mettez la couche et habillez le bébé. Soins des ongles si besoin."
+    "fr": "Mettez la couche et habillez le bébé. Soins des ongles si besoin.",
+    "wo": "Takk kuus bi te sol ko. Topptoo we yi bu soxlaa."
    },
    {
     "en": "Wash your hands. Observe, record and report.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1689,74 +2026,91 @@
   "required": false,
   "title": {
    "en": "Assisting with the Hydraulic (Hoyer) Lift",
-   "fr": "Aide à l'utilisation du lève-personne hydraulique"
+   "fr": "Aide à l'utilisation du lève-personne hydraulique",
+   "wo": "Dimbali ci lève-personne (Hoyer)"
   },
   "module": "XII",
   "icon": "lift",
   "warning": {
    "en": "Never use a lift you have not been shown how to use. Ask the supervisor, nurse or therapist for a demonstration.",
-   "fr": "N'utilisez jamais un lève-personne sans avoir reçu une démonstration. Demandez au superviseur, à l'infirmière ou au thérapeute."
+   "fr": "N'utilisez jamais un lève-personne sans avoir reçu une démonstration. Demandez au superviseur, à l'infirmière ou au thérapeute.",
+   "wo": "Bul jëfandikoo mukk lève-personne bu ñu la wonewul. Laaj superviseur bi, infirmiyeer bi walla thérapeute bi mu won la."
   },
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as needed.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si besoin."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si besoin.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Check that the valves on the lift work. Clear the floor around the work area.",
-    "fr": "Vérifiez que les valves du lève-personne fonctionnent. Dégagez le sol autour de la zone de travail."
+    "fr": "Vérifiez que les valves du lève-personne fonctionnent. Dégagez le sol autour de la zone de travail.",
+    "wo": "Seet ndax valve yi dox nañu. Dindi lépp ci suuf wërngalu fa ngay liggéey."
    },
    {
     "en": "Open the legs of the lift stand to the widest position.",
-    "fr": "Ouvrez les pieds du lève-personne au maximum."
+    "fr": "Ouvrez les pieds du lève-personne au maximum.",
+    "wo": "Ubbi tànki lève-personne bi ba fu mu gën a yaatu."
    },
    {
     "en": "Bring the wheelchair or chair close to the bed. Lock the wheels of the wheelchair and of the bed (if hospital bed). Adjust bed height if possible; raise the far side rail if available.",
-    "fr": "Approchez le fauteuil roulant ou la chaise du lit. Bloquez les roues du fauteuil et du lit (si lit médicalisé). Réglez la hauteur du lit si possible ; relevez la barrière du côté opposé si elle existe."
+    "fr": "Approchez le fauteuil roulant ou la chaise du lit. Bloquez les roues du fauteuil et du lit (si lit médicalisé). Réglez la hauteur du lit si possible ; relevez la barrière du côté opposé si elle existe.",
+    "wo": "Jegeel fauteuil walla siis bi ci lal bi. Tëj roo yu fauteuil bi ak yu lal bi (bu lal bu lopitaal la). Jubbanti kawaayu lal bi bu mën ; yékkati barrière bu beneen wet bi bu amee."
    },
    {
     "en": "Roll one edge of the sling up to half its width. Place the sling on the bed on the far side of the client, midway between head and thigh.",
-    "fr": "Roulez un bord de la sangle jusqu'à la moitié de sa largeur. Placez la sangle sur le lit du côté opposé au client, entre la tête et les cuisses."
+    "fr": "Roulez un bord de la sangle jusqu'à la moitié de sa largeur. Placez la sangle sur le lit du côté opposé au client, entre la tête et les cuisses.",
+    "wo": "Roul benn catu sangle bi ba ci digg. Teg sangle bi ci lal bi ci beneen wetu kiliyaan bi, ci diggante bopp ak pooj yi."
    },
    {
     "en": "Roll the client toward you and move the sling so it covers half of the client's back. Roll the client back onto the sling and over to the other side (over the roll). Unroll the sling flat and unwrinkled.",
-    "fr": "Tournez le client vers vous et placez la sangle pour qu'elle couvre la moitié de son dos. Retournez le client sur la sangle puis de l'autre côté (par-dessus le rouleau). Déroulez la sangle à plat, sans plis."
+    "fr": "Tournez le client vers vous et placez la sangle pour qu'elle couvre la moitié de son dos. Retournez le client sur la sangle puis de l'autre côté (par-dessus le rouleau). Déroulez la sangle à plat, sans plis.",
+    "wo": "Wëlbati kiliyaan bi jëm ci yaw te teg sangle bi ba mu muur genn-wàllu ginnaawam. Delloo ko ci kaw sangle bi te wëlbati ko ci beneen wet (ci kaw roul bi). Tàllal sangle bi, amul ñiir."
    },
    {
     "en": "Roll the client onto the back and adjust the sling midway between head and thigh.",
-    "fr": "Remettez le client sur le dos et ajustez la sangle entre la tête et les cuisses."
+    "fr": "Remettez le client sur le dos et ajustez la sangle entre la tête et les cuisses.",
+    "wo": "Delloo kiliyaan bi ci ginnaaw te jubbanti sangle bi ci diggante bopp ak pooj yi."
    },
    {
     "en": "Raise the lift (close the valve and pump the arm). Steady the swinging bar over the client.",
-    "fr": "Montez le lève-personne (fermez la valve et pompez le bras). Stabilisez la barre au-dessus du client."
+    "fr": "Montez le lève-personne (fermez la valve et pompez le bras). Stabilisez la barre au-dessus du client.",
+    "wo": "Yékkati lève-personne bi (tëj valve bi te pompe). Jàppal barre bi ci kaw kiliyaan bi."
    },
    {
     "en": "Lower the arm and attach the chains or hangers: LONGER chain to the thigh part, SHORTER chain to the head part, hooks facing away from the client's body.",
-    "fr": "Descendez le bras et accrochez les chaînes : chaîne LONGUE aux cuisses, chaîne COURTE à la tête, crochets tournés vers l'extérieur du corps."
+    "fr": "Descendez le bras et accrochez les chaînes : chaîne LONGUE aux cuisses, chaîne COURTE à la tête, crochets tournés vers l'extérieur du corps.",
+    "wo": "Wàccal barre bi te takk chaîne yi : chaîne bu GUDD ci pooj yi, chaîne bu GÀTT ci bopp bi, crochet yi jëm ci biti yaramu kiliyaan bi."
    },
    {
     "en": "Tell the client when you start pumping. Lift a few inches, then CHECK ALL CONNECTIONS before moving.",
-    "fr": "Prévenez le client avant de pomper. Soulevez de quelques centimètres, puis VÉRIFIEZ TOUTES LES ATTACHES avant de déplacer."
+    "fr": "Prévenez le client avant de pomper. Soulevez de quelques centimètres, puis VÉRIFIEZ TOUTES LES ATTACHES avant de déplacer.",
+    "wo": "Wax kiliyaan bi laata ngay pompe. Yékkati ko tuuti, ba pare SEET LÉPP LU ÑU TAKK laata ngay yëngu."
    },
    {
     "en": "Pump until the client is half-sitting. Lift the client's feet off the bed. Move to the steering handles.",
-    "fr": "Pompez jusqu'à ce que le client soit demi-assis. Soulevez ses pieds hors du lit. Prenez les poignées de direction."
+    "fr": "Pompez jusqu'à ce que le client soit demi-assis. Soulevez ses pieds hors du lit. Prenez les poignées de direction.",
+    "wo": "Pompe ba kiliyaan bi di toog-toogaat. Yékkati tànkam ci lal bi. Jàpp poignée yi."
    },
    {
     "en": "Slowly move the base out from under the bed and turn toward the chair. Position the client over the chair.",
-    "fr": "Sortez lentement la base de sous le lit et tournez vers la chaise. Positionnez le client au-dessus de la chaise."
+    "fr": "Sortez lentement la base de sous le lit et tournez vers la chaise. Positionnez le client au-dessus de la chaise.",
+    "wo": "Génne base bi ndank ci suufu lal bi te wëlbati jëm ci siis bi. Teg kiliyaan bi ci kaw siis bi."
    },
    {
     "en": "Lower the client by slowly opening the valve until just above the seat. Hold the sling near the head, put your knees against the client's knees, support the upper body, and release the valve so the client sits.",
-    "fr": "Descendez le client en ouvrant lentement la valve jusqu'au-dessus du siège. Tenez la sangle près de la tête, placez vos genoux contre ceux du client, soutenez le haut du corps et ouvrez la valve pour l'asseoir."
+    "fr": "Descendez le client en ouvrant lentement la valve jusqu'au-dessus du siège. Tenez la sangle près de la tête, placez vos genoux contre ceux du client, soutenez le haut du corps et ouvrez la valve pour l'asseoir.",
+    "wo": "Wàccal kiliyaan bi di ubbi valve bi ndank ba ci kaw siis bi. Jàpp sangle bi ci wetu bopp, teg sa óom ci óomam, sëmb kaw yaramam, te ubbi valve bi ba mu toog."
    },
    {
     "en": "Remove the S-hooks while holding the bar. Close the valve, pump the lift up out of the way, and move it away.",
-    "fr": "Décrochez les crochets en S en tenant la barre. Fermez la valve, remontez le lève-personne et écartez-le."
+    "fr": "Décrochez les crochets en S en tenant la barre. Fermez la valve, remontez le lève-personne et écartez-le.",
+    "wo": "Tekki crochet yi te jàpp barre bi. Tëj valve bi, yékkati lève-personne bi te yóbbu ko fu sore."
    },
    {
     "en": "Wash your hands. Observe, record and report any changes or equipment problems.",
-    "fr": "Lavez-vous les mains. Observez, notez et signalez tout changement ou problème de matériel."
+    "fr": "Lavez-vous les mains. Observez, notez et signalez tout changement ou problème de matériel.",
+    "wo": "Raxas sa loxo. Seetlu, bind te wax lu soppiku walla jafe-jafe ci jumtukaay bi."
    }
   ]
  },
@@ -1766,38 +2120,46 @@
   "required": false,
   "title": {
    "en": "Slide Board Transfer",
-   "fr": "Transfert avec planche de glissement"
+   "fr": "Transfert avec planche de glissement",
+   "wo": "Transfert ak palaŋu wàcc"
   },
   "module": "XII",
   "icon": "wheelchair",
   "steps": [
    {
     "en": "Explain the procedure. Wash your hands. Assemble equipment. Gloves as necessary.",
-    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire."
+    "fr": "Expliquez la procédure. Lavez-vous les mains. Préparez le matériel. Gants si nécessaire.",
+    "wo": "Leeral doxalin bi. Raxas sa loxo. Waajal jumtukaay yi. Gant bu soxlaa."
    },
    {
     "en": "Place the wheelchair or chair at a 45-degree angle to the bed (or other chair). Lock the brakes and remove the armrest if possible.",
-    "fr": "Placez le fauteuil ou la chaise à 45 degrés du lit (ou de l'autre chaise). Bloquez les freins et retirez l'accoudoir si possible."
+    "fr": "Placez le fauteuil ou la chaise à 45 degrés du lit (ou de l'autre chaise). Bloquez les freins et retirez l'accoudoir si possible.",
+    "wo": "Teg fauteuil walla siis bi ci 45 degre ak lal bi (walla beneen siis). Tëj fren yi te dindi accoudoir bi bu mën."
    },
    {
     "en": "If the client is unclothed, cover the board with a pillowcase.",
-    "fr": "Si le client est dévêtu, couvrez la planche d'une taie d'oreiller."
+    "fr": "Si le client est dévêtu, couvrez la planche d'une taie d'oreiller.",
+    "wo": "Bu kiliyaan bi amul yere, muur palaŋ bi ak taie."
    },
    {
     "en": "Place the board like a bridge between bed and chair. Have the client lean away; slide the board under the buttocks, transferring toward the STRONG side if possible.",
-    "fr": "Placez la planche comme un pont entre le lit et la chaise. Faites pencher le client du côté opposé ; glissez la planche sous les fesses, en transférant vers le côté FORT si possible."
+    "fr": "Placez la planche comme un pont entre le lit et la chaise. Faites pencher le client du côté opposé ; glissez la planche sous les fesses, en transférant vers le côté FORT si possible.",
+    "wo": "Teg palaŋ bi ni pont ci diggante lal bi ak siis bi. Kiliyaan bi na lem ci beneen wet ; gliss palaŋ bi ci suufu taat yi, jëm ci wet gu WÓOR bu mën."
    },
    {
     "en": "Make sure the board is securely placed before the client begins.",
-    "fr": "Vérifiez que la planche est bien en place avant que le client commence."
+    "fr": "Vérifiez que la planche est bien en place avant que le client commence.",
+    "wo": "Seet ndax palaŋ bi dëgër na laata kiliyaan bi di tàmbali."
    },
    {
     "en": "Have the client place both hands on the board beside the thighs and move across in a series of small push-ups. Assist as necessary; use a gait belt if needed.",
-    "fr": "Faites poser les deux mains du client sur la planche à côté des cuisses et avancer par petites poussées sur les bras. Aidez si nécessaire ; ceinture de marche si besoin."
+    "fr": "Faites poser les deux mains du client sur la planche à côté des cuisses et avancer par petites poussées sur les bras. Aidez si nécessaire ; ceinture de marche si besoin.",
+    "wo": "Kiliyaan bi na teg ñaari loxoom ci palaŋ bi ci wetu poojam te jàll ak puus yu ndaw. Dimbali ko bu soxlaa ; ceinture bu soxlaa."
    },
    {
     "en": "Clean and store the board. Wash your hands. Observe, record and report.",
-    "fr": "Nettoyez et rangez la planche. Lavez-vous les mains. Observez, notez et signalez."
+    "fr": "Nettoyez et rangez la planche. Lavez-vous les mains. Observez, notez et signalez.",
+    "wo": "Setal te denc palaŋ bi. Raxas sa loxo. Seetlu, bind te wax."
    }
   ]
  },
@@ -1807,38 +2169,46 @@
   "required": true,
   "title": {
    "en": "Checking the Right Person",
-   "fr": "Vérifier la bonne personne"
+   "fr": "Vérifier la bonne personne",
+   "wo": "Seet nit ki ñu war"
   },
   "module": "XII",
   "icon": "pill",
   "steps": [
    {
     "en": "Wash your hands.",
-    "fr": "Lavez-vous les mains."
+    "fr": "Lavez-vous les mains.",
+    "wo": "Raxas sa loxo."
    },
    {
     "en": "Read the container label.",
-    "fr": "Lisez l'étiquette du flacon."
+    "fr": "Lisez l'étiquette du flacon.",
+    "wo": "Jàng etiket bu boyet bi."
    },
    {
     "en": "Check that the name on the label is the same as the client's name.",
-    "fr": "Vérifiez que le nom sur l'étiquette est bien celui du client."
+    "fr": "Vérifiez que le nom sur l'étiquette est bien celui du client.",
+    "wo": "Seet ndax tur wi ci etiket bi mooy turu kiliyaan bi."
    },
    {
     "en": "Check the name on the label against the name on the care plan.",
-    "fr": "Comparez le nom de l'étiquette avec celui du plan de soins."
+    "fr": "Comparez le nom de l'étiquette avec celui du plan de soins.",
+    "wo": "Mengale tur wi ci etiket bi ak bi ci palaŋu topptoo bi."
    },
    {
     "en": "If they match, give the container to the client and/or assist with self-administration as the care plan orders.",
-    "fr": "S'ils correspondent, donnez le flacon au client et/ou aidez-le à prendre son médicament comme le prévoit le plan de soins."
+    "fr": "S'ils correspondent, donnez le flacon au client et/ou aidez-le à prendre son médicament comme le prévoit le plan de soins.",
+    "wo": "Bu ñu bennoo, jox kiliyaan bi boyet bi te/walla dimbali ko mu jël garab bi ni palaŋ bi ko waxe."
    },
    {
     "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
-    "fr": "S'ils ne correspondent PAS, contactez le superviseur pour des instructions et expliquez au client pourquoi."
+    "fr": "S'ils ne correspondent PAS, contactez le superviseur pour des instructions et expliquez au client pourquoi.",
+    "wo": "Bu ñu bennoowul, woo superviseur bi ngir ndigël te leeral kiliyaan bi lu tax."
    },
    {
     "en": "Record and report any problem with the medication.",
-    "fr": "Notez et signalez tout problème concernant le médicament."
+    "fr": "Notez et signalez tout problème concernant le médicament.",
+    "wo": "Bind te wax bépp jafe-jafe ci garab bi."
    }
   ]
  },
@@ -1848,38 +2218,46 @@
   "required": true,
   "title": {
    "en": "Checking the Right Medication",
-   "fr": "Vérifier le bon médicament"
+   "fr": "Vérifier le bon médicament",
+   "wo": "Seet garab bi ñu war"
   },
   "module": "XII",
   "icon": "pill",
   "steps": [
    {
     "en": "Wash your hands.",
-    "fr": "Lavez-vous les mains."
+    "fr": "Lavez-vous les mains.",
+    "wo": "Raxas sa loxo."
    },
    {
     "en": "Read the container label.",
-    "fr": "Lisez l'étiquette du flacon."
+    "fr": "Lisez l'étiquette du flacon.",
+    "wo": "Jàng etiket bu boyet bi."
    },
    {
     "en": "Check the EXPIRATION DATE.",
-    "fr": "Vérifiez la DATE DE PÉREMPTION."
+    "fr": "Vérifiez la DATE DE PÉREMPTION.",
+    "wo": "Seet BÉS BU MUJJ bi."
    },
    {
     "en": "Check that the medication name on the label is the same as the medication name on the care plan.",
-    "fr": "Vérifiez que le nom du médicament sur l'étiquette est le même que dans le plan de soins."
+    "fr": "Vérifiez que le nom du médicament sur l'étiquette est le même que dans le plan de soins.",
+    "wo": "Seet ndax turu garab bi ci etiket bi mooy bi ci palaŋu topptoo bi."
    },
    {
     "en": "If they match, give the container to the client and/or assist as the care plan orders.",
-    "fr": "S'ils correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins."
+    "fr": "S'ils correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins.",
+    "wo": "Bu ñu bennoo, jox kiliyaan bi boyet bi te/walla dimbali ko ni palaŋ bi ko waxe."
    },
    {
     "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
-    "fr": "S'ils ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi."
+    "fr": "S'ils ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi.",
+    "wo": "Bu ñu bennoowul, woo superviseur bi te leeral kiliyaan bi lu tax."
    },
    {
     "en": "Record and report any problem with the medication.",
-    "fr": "Notez et signalez tout problème concernant le médicament."
+    "fr": "Notez et signalez tout problème concernant le médicament.",
+    "wo": "Bind te wax bépp jafe-jafe ci garab bi."
    }
   ]
  },
@@ -1889,34 +2267,41 @@
   "required": true,
   "title": {
    "en": "Checking the Right Dose",
-   "fr": "Vérifier la bonne dose"
+   "fr": "Vérifier la bonne dose",
+   "wo": "Seet dose bi ñu war"
   },
   "module": "XII",
   "icon": "pill",
   "steps": [
    {
     "en": "Wash your hands.",
-    "fr": "Lavez-vous les mains."
+    "fr": "Lavez-vous les mains.",
+    "wo": "Raxas sa loxo."
    },
    {
     "en": "Read the container label.",
-    "fr": "Lisez l'étiquette du flacon."
+    "fr": "Lisez l'étiquette du flacon.",
+    "wo": "Jàng etiket bu boyet bi."
    },
    {
     "en": "Check the dose on the label against the dose for that medication on the care plan.",
-    "fr": "Comparez la dose de l'étiquette avec la dose prévue pour ce médicament dans le plan de soins."
+    "fr": "Comparez la dose de l'étiquette avec la dose prévue pour ce médicament dans le plan de soins.",
+    "wo": "Mengale dose bi ci etiket bi ak dose bi ci palaŋu topptoo bi."
    },
    {
     "en": "If they match, give the container to the client and/or assist as the care plan orders.",
-    "fr": "Si elles correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins."
+    "fr": "Si elles correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins.",
+    "wo": "Bu ñu bennoo, jox kiliyaan bi boyet bi te/walla dimbali ko ni palaŋ bi ko waxe."
    },
    {
     "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
-    "fr": "Si elles ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi."
+    "fr": "Si elles ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi.",
+    "wo": "Bu ñu bennoowul, woo superviseur bi te leeral kiliyaan bi lu tax."
    },
    {
     "en": "Record and report any problem with the medication.",
-    "fr": "Notez et signalez tout problème concernant le médicament."
+    "fr": "Notez et signalez tout problème concernant le médicament.",
+    "wo": "Bind te wax bépp jafe-jafe ci garab bi."
    }
   ]
  },
@@ -1926,34 +2311,41 @@
   "required": true,
   "title": {
    "en": "Checking the Right Time",
-   "fr": "Vérifier le bon moment"
+   "fr": "Vérifier le bon moment",
+   "wo": "Seet waxtu wi ñu war"
   },
   "module": "XII",
   "icon": "pill",
   "steps": [
    {
     "en": "Wash your hands.",
-    "fr": "Lavez-vous les mains."
+    "fr": "Lavez-vous les mains.",
+    "wo": "Raxas sa loxo."
    },
    {
     "en": "Read the container label.",
-    "fr": "Lisez l'étiquette du flacon."
+    "fr": "Lisez l'étiquette du flacon.",
+    "wo": "Jàng etiket bu boyet bi."
    },
    {
     "en": "Check the time for taking the medication against the time specified in the care plan.",
-    "fr": "Comparez l'heure de prise du médicament avec l'heure indiquée dans le plan de soins."
+    "fr": "Comparez l'heure de prise du médicament avec l'heure indiquée dans le plan de soins.",
+    "wo": "Mengale waxtu wi ñuy jël garab bi ak waxtu wi ci palaŋu topptoo bi."
    },
    {
     "en": "If they match, give the container to the client and/or assist as the care plan orders.",
-    "fr": "Si elles correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins."
+    "fr": "Si elles correspondent, donnez le flacon au client et/ou aidez-le comme le prévoit le plan de soins.",
+    "wo": "Bu ñu bennoo, jox kiliyaan bi boyet bi te/walla dimbali ko ni palaŋ bi ko waxe."
    },
    {
     "en": "If they do NOT match, contact the supervisor for instructions and explain to the client why.",
-    "fr": "Si elles ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi."
+    "fr": "Si elles ne correspondent PAS, contactez le superviseur et expliquez au client pourquoi.",
+    "wo": "Bu ñu bennoowul, woo superviseur bi te leeral kiliyaan bi lu tax."
    },
    {
     "en": "Record and report any problem with the medication.",
-    "fr": "Notez et signalez tout problème concernant le médicament."
+    "fr": "Notez et signalez tout problème concernant le médicament.",
+    "wo": "Bind te wax bépp jafe-jafe ci garab bi."
    }
   ],
   "note": {
@@ -1967,38 +2359,46 @@
   "required": true,
   "title": {
    "en": "Checking the Right Route",
-   "fr": "Vérifier la bonne voie d'administration"
+   "fr": "Vérifier la bonne voie d'administration",
+   "wo": "Seet yoon wi ñu war"
   },
   "module": "XII",
   "icon": "pill",
   "steps": [
    {
     "en": "Wash your hands.",
-    "fr": "Lavez-vous les mains."
+    "fr": "Lavez-vous les mains.",
+    "wo": "Raxas sa loxo."
    },
    {
     "en": "Read the container label to see whether it lists the route (by mouth, on the skin, in the eye, etc.).",
-    "fr": "Lisez l'étiquette pour voir si elle indique la voie (par la bouche, sur la peau, dans l'œil, etc.)."
+    "fr": "Lisez l'étiquette pour voir si elle indique la voie (par la bouche, sur la peau, dans l'œil, etc.).",
+    "wo": "Jàng etiket bi ngir xam ndax wax na yoon wi (ci gémmiñ, ci dér, ci bët, añs)."
    },
    {
     "en": "Check the care plan for the route specified for the medication.",
-    "fr": "Vérifiez la voie indiquée pour ce médicament dans le plan de soins."
+    "fr": "Vérifiez la voie indiquée pour ce médicament dans le plan de soins.",
+    "wo": "Seet ci palaŋu topptoo bi yoon wi ñu wax ngir garab bi."
    },
    {
     "en": "If available, make sure the route on the label matches the route on the care plan.",
-    "fr": "Si possible, vérifiez que la voie de l'étiquette correspond à celle du plan de soins."
+    "fr": "Si possible, vérifiez que la voie de l'étiquette correspond à celle du plan de soins.",
+    "wo": "Bu mën, seet ndax yoon wi ci etiket bi mooy bi ci palaŋ bi."
    },
    {
     "en": "Give the container to the client and/or assist as ordered if the route is specified in the care plan, or the label and care plan match.",
-    "fr": "Donnez le flacon au client et/ou aidez-le comme prescrit si la voie est indiquée dans le plan de soins, ou si l'étiquette et le plan de soins correspondent."
+    "fr": "Donnez le flacon au client et/ou aidez-le comme prescrit si la voie est indiquée dans le plan de soins, ou si l'étiquette et le plan de soins correspondent.",
+    "wo": "Jox kiliyaan bi boyet bi te/walla dimbali ko bu yoon wi nekkee ci palaŋ bi, walla bu etiket bi ak palaŋ bi bennoo."
    },
    {
     "en": "If they do NOT match or there is no information, contact the supervisor for instructions and explain to the client why.",
-    "fr": "S'ils ne correspondent PAS ou s'il n'y a pas d'information, contactez le superviseur et expliquez au client pourquoi."
+    "fr": "S'ils ne correspondent PAS ou s'il n'y a pas d'information, contactez le superviseur et expliquez au client pourquoi.",
+    "wo": "Bu ñu bennoowul walla amul xibaar, woo superviseur bi te leeral kiliyaan bi lu tax."
    },
    {
     "en": "Record and report any problem with the medication.",
-    "fr": "Notez et signalez tout problème concernant le médicament."
+    "fr": "Notez et signalez tout problème concernant le médicament.",
+    "wo": "Bind te wax bépp jafe-jafe ci garab bi."
    }
   ]
  }

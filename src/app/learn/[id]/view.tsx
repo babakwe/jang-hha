@@ -4,6 +4,7 @@ import { useLang } from "@/lib/lang";
 import { BiText, Header, ListenAll, Page } from "@/components/ui";
 import { LESSONS, VOCAB, proceduresForLesson, questionsByModule } from "@/lib/data";
 import { pick } from "@/lib/types";
+import { Illustration } from "@/components/Illustration";
 
 export default function LessonView({ id }: { id: string }) {
   const { t, lang } = useLang();
@@ -25,7 +26,10 @@ export default function LessonView({ id }: { id: string }) {
     <>
       <Header title={`${t("module")} ${l.module}`} back="/learn" />
       <Page>
-        <BiText bi={l.title} id={`${l.id}-title`} as="h2" big />
+        <div className="flex gap-4 items-start">
+          <div className="w-20 h-20 rounded-2xl bg-fr-soft text-brand flex items-center justify-center shrink-0"><Illustration name={l.icon} size={56} /></div>
+          <div className="flex-1 min-w-0"><BiText bi={l.title} id={`${l.id}-title`} as="h2" big /></div>
+        </div>
         <ListenAll items={items} />
         <div className="card p-4"><BiText bi={l.intro} id={`${l.id}-intro`} /></div>
         {l.note && <div className="card p-4 bg-fr-soft border-0 text-sm"><strong>{t("notes")}:</strong> {pick(l.note, lang)}</div>}
@@ -47,8 +51,8 @@ export default function LessonView({ id }: { id: string }) {
             <div className="grid gap-2">
               {procs.map(p => (
                 <Link key={p.id} href={`/procedures/${p.id}`} className="card p-3 flex items-center gap-3 hover:border-brand">
-                  <span className="chip bg-fr-soft text-fr">{p.number}</span>
-                  <span className="flex-1 font-bold">{pick(p.title, lang)}</span>
+                  <span className="w-10 h-10 rounded-xl bg-fr-soft text-brand flex items-center justify-center shrink-0"><Illustration name={p.icon} size={28} /></span>
+                  <span className="flex-1 font-bold">{pick(p.title, lang)} <span className="text-xs text-fr">{p.number}</span></span>
                   {p.required && <span className="chip bg-accent-soft text-accent">★</span>}
                 </Link>
               ))}

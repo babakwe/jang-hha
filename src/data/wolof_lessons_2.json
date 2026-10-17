@@ -1,0 +1,131 @@
+{
+"_note": "DRAFT Wolof overlay for lessons m07-m12. Needs native-speaker review.",
+"m07":{"title":"Laago yaram","intro":"Diagnostic du la wax li nit ki mën a def. Xoolal li mu mën, liggéey yu bés bu nekk, ak li ñu jëm : topptoo boppam, teggin ak dund bu baax.",
+ "sections":[
+  {"heading":"Lu laago yaram di tekki","points":[
+   "Juddoo ak moom, gaañu-gaañu walla feebar ; du yàgg walla du wéy.",
+   "Jeexital bi ci liggéey yu bés bu nekk la (sangu, sol, lekk, wanag, yëngu) ak liggéey yu ëpp (njënd, togg, saytu xaalis, transport).",
+   "Dund bu baax dafa aju ci ndimbal (njaboot, kër, askan), ci stress, ak ni nit ki ak njabootam di jubbanti. Ñàkk nit ñu ngay waxtaan al stress la itam."]},
+  {"heading":"Ni ngay dimbali","points":[
+   "Li ñu jëm : dooleel topptoo sa bopp ak sañ-sañ, aar teggin ak solo, aar dund bu baax.",
+   "Topp palaŋu topptoo bi, jàppale ko ci xolam, xiirtal sañ-sañ bu mën a am, te dimbali ko ngir kër gi dëppoo ak moom.",
+   "Xam ni askan, aada ak kër gi di jëfe ci topptoo bi."]}],
+ "report":"Wax lu soppiku ci mën-mën, metit bu bees, jafe-jafe ci dér ndax attelle walla fauteuil, ak jumtukaay bu yàqu."},
+
+"m08":{"title":"Ñam, nutrition ak togg","intro":"Ñam bu baax dafay tax kiliyaan bi wér te bég bés bu nekk. Jàng nutriman yi, waajal ñam bu dëppoo te kiliyaan bi bëgg ko, yor ñam wi ci set, te topp régime bu ñu soppi bu baax.",
+ "note":"Program bu 2007 bi « MyPyramid » la jëfandikoo. Tey, MyPlate (2011) lañuy jëfandikoo ; waaye li ci biir soppikuwul.",
+ "sections":[
+  {"heading":"Nutriman yi","points":[
+   "Proteyin dafay tabax te defaraat yaram : yàpp, jën, nen, meew, soja, ñebbe.",
+   "Glisid dañuy jox doole : féculent (dugub, pombiteer, ñebbe), sukar (fruit, lejum), fibre ngir biir bi dox.",
+   "Diw dafay aar cér yi, aar yaram ci sedd, yóbbu nutriman. Taamu diw yu dul dëgër (maïs, soja, tournesol) ci kaw beur ak diwu kokko.",
+   "Witamin : A ngir dér ak yax, B ngir sidit ak biir, C ngir dereet ak wér, D ngir yax ak bëñ, E antioxydant.",
+   "Mineero : kalsiyom ngir yax, dereet bu dëgër ak sidit ; potasiyom ngir xol ; weñ ngir dereet ; iyod ngir tiroyid ; xorom ngir ndox ci yaram. Ndox nutriman la, am na solo ci biir, saw ak tàngoor."]},
+  {"heading":"Waajal ñam","points":[
+   "Ñam bu dëppoo am na bés bu nekk lu bokk ci kurél bu nekk : meew ; yàpp, jën, ñebbe ak tiga ; fruit ; lejum ; dugub ; ak tuuti diw, diw ak sukar.",
+   "Ndigël : wuute, saytu kalori, yëngu, fruit, lejum, dugub bu mat ak meew bu néew diw, tànn diw ak glisid bu baax, xorom tuuti, sangara tuuti rekk, ñam bu wóor.",
+   "Weg li kiliyaan bi bëgg ak aadaam : aada, diine, li mu miin, njëg ak yomb. Dugal ko ci waajal gi. Seet portion ak soxla yu bees."]},
+  {"heading":"Togg ak jox","points":[
+   "Bul sotti ci diw ; baxal lejum ci wal ; four, gril walla micro-ondes ; bul jëfandikoo ñam bu ñu pare ; bul togg lu ëpp ngir nutriman yi des. Laaj ni kiliyaan bi bëgge ñam wi tàng.",
+   "Dugal kiliyaan bi ci togg dafay dooleel sañ-sañam ak teggin. Jumtukaay mën na néew : xalaatal te laaj sa superviseur.",
+   "Jox ñam bu rafet, melo ak texture yu wuute, portion yu ndaw te mën a yokk, te toog waxtaan bu ñuy lekk.",
+   "Ñàkk bëgg a lekk mën na wone feebar walla dépression, ñam bu neexul, gémmiñ bu set-ul, jafe-jafe ci ñàmm walla garab. Wax ko."]},
+  {"heading":"Njënd, denc ak kaaraange ñam","points":[
+   "Yokk xaalis : coupon ak promotion, mengale marque yi, jàng etiket, ñam bu jamono, lisit, wuutu yàpp, bul weesu budget bi. Denc reçu yépp te wax xaalis bi ba pare njënd.",
+   "Frigo ci 2–4 °C, congélateur ci −18 °C. Ub te bind bés bi. Ñam bu ñu dëgëral, lekk ko ci biir juróom-benni weer ; bul ko yeeyal ci kaw tabal. Bul denc ñam ci suufu tiyo walla ak produit yu setal.",
+   "Raxas loxo laata ngay togg ; gant bu nga gaañoo ; set tabal ; bul mos te jaxase ak benn kuddu ; dugal ñam bu tàng ci frigo bu gaaw ; bul jël boyet bu fuur, nen bu dàgg, ñam bu daxe ; ñam bu tàng ci kaw 60 °C, bu sedd ci suuf 4 °C ; des yi, lekk leen ci 3 ba 4 fan ; bul dëgëralaat."]},
+  {"heading":"Régime bu ñu soppi","points":[
+   "Régime bu ñu soppi : benn nutriman bu doktor santaane, kalori, walla ni ñam wi mel. « Élevé » : yokk nutriman ; « faible » : wàññi walla dindi.",
+   "Néew xorom : jàng etiket, bàyyi ñam bu ñu pare, bul dolli xorom. Néew diw : yàpp bu néew diw, meew 1 %, diw yu baax. Bari proteyin ak kalori : dolli ci ñam bu dëppoo, lekk tuuti te bari yoon. Amul lu metti biir : amul poobar, épis, sangara, kafe.",
+   "Ñam bu noy : amul ñàmm. Ndox : lu leer (gelée) walla lu mat. Toogal kiliyaan bi bu jub.",
+   "Texture bu ñu soppi : dagg, mool walla nos ngir ñi am jafe-jafe ci ñàmm walla wann. Nosal ñam bu nekk moom rekk, dolli ndox ak tàngal ni ñu ko waxe, tudd ñam bu nekk, may waxtu ngir wann, jox ndox lu bari ngir bañ jàpp biir ak ñàkk ndox, lekk ko ci saa si walla dëgëral ko."]}],
+ "report":"Wax ñàkk bëgg a lekk, peesu bu soppiku, lu jàpp ci put walla sëqët bu ñuy lekk, bañ régime bu ñu santaane, ak jafe-jafe ci xaalisu njënd."},
+
+"m09":{"title":"Xaalis ak budget bu njaboot gi","intro":"Mën nga yor xaalisu kiliyaan bi ngir njënd yi nekk ci palaŋu topptoo bi rekk, te war nga wax xaalis bu nekk.",
+ "sections":[
+  {"heading":"Sa liggéey ak xaalisu kiliyaan bi","points":[
+   "Dimbali ci njënd, jënd ak bank ni ko palaŋu topptoo bi waxe.",
+   "Bind bu wóor lépp lu nga jënd : reçu, xaalis, bés. Topp ndigëlu agence bi.",
+   "Bul nangu xaalis walla may, bul leb, bul nekk ci testament. Loolu toroxal ci xaalis la."]},
+  {"heading":"Jëfandikoo xaalisu njaboot gi bu baax","points":[
+   "Ñam ak produit yu kër : lisit, promotion, mengale njëg, marque générique, jënd lu bari bu baaxee.",
+   "Garab : générique bu doktor walla farmasiyeŋ nangu. Yere : seet lu baax te néew njëg."]}],
+ "report":"Wax xaalis bu réer, képp ku jël xaalis walla alalu kiliyaan bi, ak bépp laaj ngir nga yor xaalis lu nekkul ci palaŋ bi."},
+
+"m10":{"title":"Setal kër gi ak alal yi","intro":"Kër bu set dafay aar ci jàngoro, bañ aksidaa, te indi jàmm ak ngor. Setal kër kiliyaan du setal sa kër : weg aadaam, alalam ak ni mu miine.",
+ "sections":[
+  {"heading":"Lu tax setal am solo","points":[
+   "Dafay yokk dund bu baax, dooleel sañ-sañ, te aar kër gi bu njaboot gi nekkee ci jafe-jafe.",
+   "Aar ci jàngoro (mikrob, campignon), kaaraange (aksidaa néew), soxla yi tontu (jàmm, bokk, ngor, teggin)."]},
+  {"heading":"Kaaraange, yaram ak waxtu","points":[
+   "Yékkati : tànk yi xàjj, benn tuuti ci kanam ; lemal jur ak óom ; yor li nga yor ci sa yaram ; wëlbati sa yaram bépp ; taxaw bu jub ; puus, xécc walla roul bu mën a am.",
+   "Waxtu : jëkkal lu am solo, topp palaŋ bi, bàyyi kiliyaan bi mu dimbali, def planing, séddale liggéey yu rëy, def ñaari lu mën a am, yor produit yi bu baax."]},
+  {"heading":"Def liggéey bi","points":[
+   "Aar ci jàngoro : raxas loxo laata ak ginnaaw liggéey bu nekk ; gant yu setal, raxas leen bés bu nekk ; xàjjale lu set ak lu tilim ; sarbet bu wuute ci wanag ; lingette bu ñuy sànni ci wanag.",
+   "Jumtukaay : balaay, pel, serpillière, nettoyant, désinfectant, bicarbonate, eau de Javel, sarbet, bros, aspirateur. Jàng ndigël yi ; BUL jaxase produit yi mukk.",
+   "Kaaraange ci jumtukaay : laaj ni masin bu bees di doxe ; bul dolli lu ëpp ; amul kuraŋ ci wetu ndox ; dindi fiis laata ngay setal ; bul dugal weñ ci masin ; bul jëfandikoo fiil bu yàqu ; jumtukaay bu set te wow.",
+   "Waañ : fomp lu tuuru, sànni mbalit bés bu nekk. Wanag : lavabo, baañuwaar, wanag ak suuf bu soxlaa, fomp ndox. Salon : aspirateur, takk tapi yi, delloo alal yi fi ñu nekkoon. Néeg : set ayu-bés bu nekk, dara yi ayu-bés bu nekk. Suuf : balaay bu jëkk, balaay bu wow ci bant, wowal lu tooy. Nuisibles : set, denc ñam, wax lu war a ñu defaraat.",
+   "Fóot : gant bu dara yi tilimee ak ndoxum yaram ; laaj lu war a fóot ak ni masin yi di doxe ; seet poos yi ; xàjjale lu ñuul, lu weex, lu sew ; laaj lu war a wow ci ngelaw."]}],
+ "report":"Wax nuisibles, lu war a ñu defaraat, jumtukaay bu am ñaawtéef, ak lépp lu nekk ci kër gi te mën a lor kiliyaan bi."},
+
+"m11":{"title":"Kaaraange ak bañ gaañu","intro":"Gaañu-gaañu yi gën a bari ci kër : daanu, lakk, dagg, poison, lu jàpp ci put ak kuraŋ, ci waañ ak wanag ci lu ëpp. Bañ leen, xam loo war a def bu ñu amee, te aar sa bopp itam.",
+ "sections":[
+  {"heading":"Lu tax ñuy gaañu","points":[
+   "Mag ñi : jafe-jafe ci taxaw, gis bu néew, jaxasoo, dégg bu néew, garab, ñam ak xeeñ bu néew, aada, dàll yu baaxul.",
+   "Xale yu ndaw : jikko ak màgg bu dëppoo ak at, bëgg a xam, taxaw bu matul, ragalul te xamul.",
+   "Lu mën a lor : leer bu néew, eskalie, tapi yu dul jàpp, fu ñuy jaar lu bari, lu dajaloo, bañ a jëfandikoo jumtukaay walla garab ni ñu ko waxe, amul barre ci wanag."]},
+  {"heading":"Bañ gaañu ak sa kaaraange","points":[
+   "Sa liggéey : kër bu set te amul lu lor ; ñam bu wóor ; yaram bu nga jëfandikoo bu baax ; bañ jàngoro tas ; bañ taal ; nimero yu urgence ci wetu telefon.",
+   "Ci gox bi : adrees bu jub ak yoon wi ; xool li la wër ; bul jaar fu ñu xamul ; xam fu telefon ak bornes d'alarme nekk ; bul yor sak, xaalis bu bari walla bijoux ; xam dëkkandoo yi ; bul soppi sa waxtu te waxul biro bi.",
+   "Ci oto : oto bu baax te am essence ; caabi yi ci loxo ; bunt yi tëju ; dawal ni jamono ji mel ; ceinture ngir ñépp ; amul xale bu matul 12 at ci kanam ; siège auto 0 ba 8 at ; topp vitesse ; amul sangara walla drog."]},
+  {"heading":"Taal : R-A-C-E","points":[
+   "RESCUE (musal) : génne kiliyaan bi ak yaw.",
+   "ALARM (yéene) : woo sapoor-pompie, 911.",
+   "CONFINE (tëj) : tëj bunt yi, tëj yoonu saxaar si.",
+   "EXTINGUISH walla EVACUATE (fey walla génn) : bu sa yere taalee, tëdd ci suuf te roul. Bul xeex taal lu dul lu ndaw. Wax sa superviseur bu gaaw."]},
+  {"heading":"Bu gaañu-gaañu ak urgence amee","points":[
+   "Xam ndigëlu agence bi ci incident ak ku nga war a woo.",
+   "Secours yu jëkk ci lakk, lu jàpp ci put, poison, entorse ak damm, bleu, dagg ak gaañu, bopp buy wër ak daanu.",
+   "Urgence bu metti : xool lu xew, xool nit ki, woo ndimbal (911), fàttaliku ABC : Airway (yoonu noyyi), Breathing (noyyi), Circulation (dereet)."]}],
+ "report":"Wax daanu walla gaañu bu nekk, su ndaw sax, lu lor loo mënul jubbanti, ak incident bu nekk, ni ko agence bi waxe."},
+
+"m12":{"title":"Mën-mën ci soins personnels","intro":"Soins personnels : lépp lu aju ci yaramu kiliyaan bi, setam, taaram ak yëngoom. Modil bii am na 43 doxalin yi ñu lay saytu. Lii mooy li leen taxawal.",
+ "sections":[
+  {"heading":"Doxalin bu nekk ni lay tàmbalee te ni lay jeexe","points":[
+   "Leeral kiliyaan bi. Raxas sa loxo. Waajal jumtukaay yi. Aar sutura. Gant bu soxlaa.",
+   "Bàyyi kiliyaan bi mu def li mu mën. Kiliyaan bi na tàng, muuru te wóor.",
+   "Setal te denc jumtukaay yi. Raxas sa loxo. Seetlu, bind te wax lu soppiku ci yaramam walla jikkoom."]},
+  {"heading":"Aar ci jàngoro","points":[
+   "Yoonu jàngoro : mikrob, fu mu jóge, fu mu génne, ni muy dem, fu muy dugg, nit ku mën a ko am (at, feebar bu yàgg, yaram bu néew doole). Dog benn jéego.",
+   "Ni muy dem : laal lu jub walla lu dul jub, ci ngelaw, ci lu ñu bokk (ñam, ndox, jumtukaay), ci gunóor. Jàngoro yu bari : saw, noyyi, gaañu ak dér, biir.",
+   "Précautions standard ak kiliyaan bu nekk : raxas loxo, lu set ak lu tilim, jumtukaay, mbalit ak lu ñaw, gant ak aar yaram.",
+   "Jàngoro yu dereet : hépatite B, hépatite C, VIH. Vaccin hépatite B. Laal dereet, feebar bu ngelaw walla latex : incident d'exposition la : raxas, wax ci saa si, topp ndigëlu agence bi."]},
+  {"heading":"Metit","points":[
+   "Metit dafay soppi ni kiliyaan bi di dunde. Nit ñi dañuy wone metit ci anam yu wuute, am na ñu dul wax, te aada dafay jëfe ci.",
+   "Wax metit : fan, ba kañ, ni mu mette, lu koy yokk, ak lu koy wàññi."]},
+  {"heading":"Saw ak biir","points":[
+   "Bassin, urinal, bassin bu tàllal ak siisu wanag : sutura, tàngal, kayit ak sonet, raxas loxo, jumtukaay bu set.",
+   "Mënul téye saw dafay indi gàcce ak ñàkk teggin. Soppi kuus bi bu gaaw, aar dér bi, bul yedd mukk.",
+   "Sonde : étui, bu dëkk, bu jub. Bul xécc tiyo bi mukk ; bañ mu ñiiru ; saak bi ci suufu wet gi. Wax melo ak xeeñu saw, metit, sedd-sedd, ñaq, lu tuuru."]},
+  {"heading":"Lekk, naan ak peesu","points":[
+   "Toogal kiliyaan bi bu jub ngir dara bañ a jàpp ci putam. Ñi mën a lekk ñoom ci seen bopp, waajal leen rekk ; ndimbal bu néew mooy dimbali fu soxlaa rekk. Yoonu montar ngir ñi gumba. Kuddu ak kaas yu ñu dëppale.",
+   "Natt peesu ci balaas bu nekk ci zéro, kiliyaan bi taxaw bu dëgër, bind ko ; wax lu soppiku lu ëpp 5 livres (2 kg). Natt li mu naan ak li mu saw bu palaŋ bi laajee."]},
+  {"heading":"Dér","points":[
+   "Dér bu wér dafa mat, tàng, wow te am melo bu baax. Lu ko lor : bañ a yëngu, ñam bu baaxul, feebar, tooy, toog bu yàgg, dereet bu doxul.",
+   "Béréb yi : coccyx, tànk yi, sacrum, ischions, ginnaawu bopp, óom yi. Firndey escarre : xonq, tàng, lu ñuy xonk, démangeaison. Bañ ko : soppi toogaay, dér bu set te wow, massage ginnaaw, ñam bu baax."]},
+  {"heading":"Yëngal kiliyaan bi","points":[
+   "Yaram : tànk yi xàjj, ginnaaw bu jub, jàkkaarloo ak sa liggéey, benn tànk ci kanam, lu nga yor ci sa yaram, lemal óom ak jur, wëlbati ak sa tànk, bul wëlbati sa ndigg mukk.",
+   "Toogaay : Fowler (bopp bi kaw), ci ginnaaw, ci biir, ci wet. Soppi toogaay bu baax ; sëmb ak oreiller.",
+   "Transfert : tëj fren yi, ceinture, taxaw te wëlbati jëm ci wet gu wóor. Dox : ci wet gu wóorul, ndank, yoon wu gàtt ; bant, déambulateur, béquille.",
+   "Yëngal cér yi : actif (kiliyaan bi moo koy def), passif (yaw ngay yëngal cér bi), ak lu am lu ko téye. Dafay bañ sidit yi wàññiku ak cér yi dëgër."]},
+  {"heading":"Sangu, taaral ak sol","points":[
+   "Sangu : sutura, ndox bu nga seet, kaaraange ci wanag, bopp ba tànk, béréb yu sutura ci mujj. Seetlu dér, bopp buy wër, jaxasoo, bañ.",
+   "Kawar ak brosu kiliyaan bi ; gémmiñ ñaari yoon bés bu nekk lu néew te ñaari waxtu bu nekk bu am jafe-jafe ; bëñu lëmm ci kaw lavabo bu ñu aar ; wat ci yoonu kawar ; we, limal rekk, bul dagg mukk.",
+   "Sol : kiliyaan bi moo tànn ; wet gu wóorul bu jëkk ngir sol, wet gu wóor bu jëkk ngir summi ; lunet, aparey nopp, prothèse ak jumtukaay sol, seet leen te topptoo leen."]},
+  {"heading":"Këru kiliyaan bi, liir, jumtukaay ak garab","points":[
+   "Néegu kiliyaan bi moom la : sutura, alalam, armoire bu tëju. Lal bu kenn nekkul ak lal bu nit nekk ak aar ci jàngoro.",
+   "Liir bu wér : bu kenn amul rekk ngir topptoo ko. Jàppale bopp, baat ak ginnaaw ; aar ko ci sedd ; toogaay bu wóor ; nàmp ak biberon ; sangu bopp ba tànk.",
+   "Jumtukaay : lal bu lopitaal, matla, bant, déambulateur, fauteuil, potence, palaŋ, lève-personne, siisu wanag, prothèse, kuddu, glucomètre. Bul jëfandikoo lu ñu la wonewul mukk ; seet palaŋ bi ; pil yu mat ; wax lu yàqu.",
+   "Garab : DIMBALI nga mu jël ko moom ci boppam, doo ko jox mukk. Juróomi baax : nit, garab, dose, waxtu, yoon. Jàng etiket ak bés bi ; bul nos, bul nëbb ci ñam ; denc te sànni bu baax. Wax bañ, njuumte, réaction, ak bépp garab, complément walla garabu cosaan bu ñu santaanewul."]}],
+ "report":"Wax dér bu xonq walla gaañu, daanu, bopp buy wër, lu jàpp ci put, lu soppiku ci saw, bañ topptoo, metit, jafe-jafe ci garab, ak jumtukaay bu yàqu."}
+}

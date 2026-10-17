@@ -49,6 +49,24 @@ def strings(lang: str):
     u = UI[lang]
     yield ("procedures", "main", WELCOME[lang])
     if lang == "wo":
+        # partial language: emit only text that exists in Wolof (same spoken forms as the client)
+        for p in json.loads((DATA / "procedures.json").read_text()):
+            if p["title"].get("wo"): yield ("procedures", "main", f"{u['procedure']} {p['number']}. {p['title']['wo']}")
+            if p.get("warning", {}).get("wo"): yield ("procedures", "main", p["warning"]["wo"])
+            for i, s in enumerate(p["steps"]):
+                if s.get("wo"): yield ("procedures", "main", f"{u['step']} {i+1}. {s['wo']}")
+            if p.get("alt"):
+                if p["alt"]["title"].get("wo"): yield ("procedures", "main", p["alt"]["title"]["wo"])
+                for i, s in enumerate(p["alt"]["steps"]):
+                    if s.get("wo"): yield ("procedures", "main", f"{u['step']} {i+1}. {s['wo']}")
+        for l in json.loads((DATA / "lessons.json").read_text()):
+            if l["title"].get("wo"): yield ("lessons", "main", l["title"]["wo"])
+            if l["intro"].get("wo"): yield ("lessons", "main", l["intro"]["wo"])
+            for s in l["sections"]:
+                if s["heading"].get("wo"): yield ("lessons", "main", s["heading"]["wo"])
+                for pt in s["points"]:
+                    if pt.get("wo"): yield ("lessons", "main", pt["wo"])
+            if l["report"].get("wo"): yield ("lessons", "main", f"{u['whenToReport']}. {l['report']['wo']}")
         for v in json.loads((DATA / "vocab.json").read_text()):
             if v.get("term_wo") and v.get("definition_wo"): yield ("vocab", "main", f"{v['term_wo']}. {v['definition_wo']}")
         yield ("questions", "main", f"{u['correct']}."); yield ("questions", "main", f"{u['wrong']}.")

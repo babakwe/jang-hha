@@ -4,7 +4,7 @@ import { useSearchParams } from "next/navigation";
 import { useLang } from "@/lib/lang";
 import { useAudio } from "@/lib/audio";
 import { Header, Page, Speak } from "@/components/ui";
-import { LESSONS, MODULE_ORDER, QUESTIONS } from "@/lib/data";
+import { LESSONS, MODULE_ORDER, QUESTIONS, topicLabel } from "@/lib/data";
 import { pick, type Question } from "@/lib/types";
 
 type Mode = "setup" | "quiz" | "flash" | "done";
@@ -95,7 +95,7 @@ export default function PracticeView() {
         <div className="flex gap-2 text-xs">
           <span className="chip bg-fr-soft text-fr">{t("module")} {q.module}</span>
           <span className="chip bg-surface border border-line">{t(q.difficulty)}</span>
-          <span className="chip bg-surface border border-line">{q.topic}</span>
+          <span className="chip bg-surface border border-line">{topicLabel(q.topic, lang)}</span>
         </div>
         <div className={`card p-4 flex gap-3 items-start ${activeId === `q-${q.id}` ? "speaking" : ""}`}>
           <button onClick={readQuestion} aria-label={t("listen")} className="w-10 h-10 rounded-full bg-brand text-brand-ink shrink-0">▶</button>
