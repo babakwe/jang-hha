@@ -97,8 +97,10 @@ def tts_mms(text: str, lang: str) -> bytes:
     import io, subprocess, torch, soundfile as sf
     from transformers import VitsModel, AutoTokenizer
     iso = {"wo": "wol", "ff": "ful", "ha": "hau", "yo": "yor", "ig": "ibo", "sw": "swh", "tw": "twi"}[lang]
+    # facebook/mms-tts-* repos are gated on the Hub; MMS_MODEL lets us point at an open mirror/fine-tune.
+    repo = os.environ.get("MMS_MODEL") or f"facebook/mms-tts-{iso}"
     if iso not in _MMS:
-        _MMS[iso] = (VitsModel.from_pretrained(f"facebook/mms-tts-{iso}"), AutoTokenizer.from_pretrained(f"facebook/mms-tts-{iso}"))
+        _MMS[iso] = (VitsModel.from_pretrained(repo), AutoTokenizer.from_pretrained(repo))
     model, tok = _MMS[iso]
     with torch.no_grad(): wav = model(**tok(text, return_tensors="pt")).waveform[0].numpy()
     buf = io.BytesIO(); sf.write(buf, wav, model.config.sampling_rate, format="WAV"); buf.seek(0)
