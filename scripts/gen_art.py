@@ -76,7 +76,7 @@ def main():
                 gemini(P[k], dst, a.model, SEEDS.index(s) + 1)
             except urllib.error.HTTPError as e:
                 msg = e.read().decode(errors="replace")[:300]; print(f"STOP {k} s{s}: HTTP {e.code} {msg}", flush=True)
-                if e.code in (429, 403): break
+                if e.code in (402, 429, 403): break
                 continue
             except Exception as e:
                 print(f"FAIL {k} s{s}: {e}", flush=True); continue
