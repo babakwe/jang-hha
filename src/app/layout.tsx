@@ -10,9 +10,9 @@ const geist = Geist({ variable: "--font-geist-sans", subsets: ["latin", "latin-e
 export const metadata: Metadata = {
   title: "Jàng HHA — Home Health Aide training, EN + FR",
   description: "Study for the New York Home Health Aide certificate in English and French, with audio. Lessons, 43 procedures, 188 practice questions, glossary.",
-  manifest: "/manifest.webmanifest",
+  manifest: "/hha/manifest.webmanifest",
   appleWebApp: { capable: true, title: "Jàng HHA", statusBarStyle: "default" },
-  icons: { icon: "/icon.svg", apple: "/icon.svg" },
+  icons: { icon: "/hha/icon.svg", apple: "/hha/icon.svg" },
 };
 export const viewport: Viewport = { themeColor: "#0e7c7b", width: "device-width", initialScale: 1, viewportFit: "cover" };
 

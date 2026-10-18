@@ -1,4 +1,5 @@
 "use client";
+import { BASE } from "@/lib/base";
 import { createContext, useCallback, useContext, useEffect, useRef, useState, type ReactNode } from "react";
 import type { Lang } from "./types";
 import { audioKey } from "./hash";
@@ -30,7 +31,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
   const [playing, setPlaying] = useState(false);
 
   useEffect(() => {
-    fetch("/audio/manifest.json").then(r => r.ok ? r.json() : {}).catch(() => ({}))
+    fetch(`${BASE}/audio/manifest.json`).then(r => r.ok ? r.json() : {}).catch(() => ({}))
       .then(m => { manifest.current = m; setReady(true); });
   }, []);
 
@@ -49,7 +50,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     const has = manifest.current?.[`${item.lang}/${key}`];
     if (has) {
       const a = player.current ?? (player.current = new Audio());
-      a.src = `/audio/${item.lang}/${key}.mp3`;
+      a.src = `${BASE}/audio/${item.lang}/${key}.mp3`;
       a.onended = () => playNext();
       a.onerror = () => fallback(item);
       a.play().catch(() => fallback(item));

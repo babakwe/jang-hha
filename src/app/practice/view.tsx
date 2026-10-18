@@ -1,4 +1,5 @@
 "use client";
+import { BASE } from "@/lib/base";
 import { useEffect, useMemo, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { useLang } from "@/lib/lang";
@@ -101,7 +102,7 @@ export default function PracticeView() {
         </div>
         {ART[`q:${q.id}`] && (
           // eslint-disable-next-line @next/next/no-img-element
-          <button onClick={readQuestion} className="card p-2 w-full" aria-label={t("listen")}><img src={`/art/${ART[`q:${q.id}`]}`} alt="" className="w-full h-auto rounded-xl" /></button>
+          <button onClick={readQuestion} className="card p-2 w-full" aria-label={t("listen")}><img src={`${BASE}/art/${ART[`q:${q.id}`]}`} alt="" className="w-full h-auto rounded-xl" /></button>
         )}
         <div className={`card p-4 flex gap-3 items-start ${activeId === `q-${q.id}` ? "speaking" : ""}`}>
           <button onClick={readQuestion} aria-label={t("listen")} className="w-10 h-10 rounded-full bg-brand text-brand-ink shrink-0">▶</button>

@@ -3,6 +3,7 @@
  * Lesson picture mode: one teaching point per screen, picture first, audio plays by itself,
  * text hidden behind Aa. Same controls as procedure picture mode.
  */
+import { BASE } from "@/lib/base";
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useLang } from "@/lib/lang";
@@ -50,7 +51,7 @@ export default function LessonWatch({ id }: { id: string }) {
         <button onClick={() => (playing ? stop() : go(i))} className={`card w-full p-3 ${activeId === f.id ? "speaking" : ""}`} aria-label={t("listen")}>
           {f.art
             // eslint-disable-next-line @next/next/no-img-element
-            ? <img src={`/art/${f.art}`} alt="" className="w-full h-auto rounded-xl" />
+            ? <img src={`${BASE}/art/${f.art}`} alt="" className="w-full h-auto rounded-xl" />
             : <div className="w-full aspect-[4/3] flex items-center justify-center text-brand"><Illustration name={l.icon} size={200} /></div>}
         </button>
         {showText && <div className="card mt-3 w-full p-4"><p className="text-xl font-bold leading-snug">{pick(f.bi, lang)}</p><p className="text-sm text-muted mt-2">{lang === "en" ? f.bi.fr : f.bi.en}</p></div>}

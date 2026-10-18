@@ -1,0 +1,4 @@
+{
+  "redirects": [{ "source": "/", "destination": "/hha/", "permanent": false }],
+  "rewrites": [{ "source": "/hha/:path*", "destination": "/:path*" }]
+}
