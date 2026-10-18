@@ -30,6 +30,7 @@ export default function LessonView({ id }: { id: string }) {
           <div className="w-20 h-20 rounded-2xl bg-fr-soft text-brand flex items-center justify-center shrink-0"><Illustration name={l.icon} size={56} /></div>
           <div className="flex-1 min-w-0"><BiText bi={l.title} id={`${l.id}-title`} as="h2" big /></div>
         </div>
+        <Link href={`/learn/${l.id}/watch`} className="btn btn-accent w-full text-lg">🖼️ {lang === "fr" ? "Regarder et écouter" : lang === "wo" ? "Xool te déglu" : "Watch and listen"}</Link>
         <ListenAll items={items} />
         <div className="card p-4"><BiText bi={l.intro} id={`${l.id}-intro`} /></div>
         {l.note && <div className="card p-4 bg-fr-soft border-0 text-sm"><strong>{t("notes")}:</strong> {pick(l.note, lang)}</div>}

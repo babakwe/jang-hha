@@ -6,6 +6,8 @@ import { useAudio } from "@/lib/audio";
 import { Header, Page, Speak } from "@/components/ui";
 import { LESSONS, MODULE_ORDER, QUESTIONS, topicLabel } from "@/lib/data";
 import { pick, type Question } from "@/lib/types";
+import artJson from "@/data/art.json";
+const ART = artJson as Record<string, string>;
 
 type Mode = "setup" | "quiz" | "flash" | "done";
 const LETTERS = ["A", "B", "C", "D"];
@@ -97,6 +99,10 @@ export default function PracticeView() {
           <span className="chip bg-surface border border-line">{t(q.difficulty)}</span>
           <span className="chip bg-surface border border-line">{topicLabel(q.topic, lang)}</span>
         </div>
+        {ART[`q:${q.id}`] && (
+          // eslint-disable-next-line @next/next/no-img-element
+          <button onClick={readQuestion} className="card p-2 w-full" aria-label={t("listen")}><img src={`/art/${ART[`q:${q.id}`]}`} alt="" className="w-full h-auto rounded-xl" /></button>
+        )}
         <div className={`card p-4 flex gap-3 items-start ${activeId === `q-${q.id}` ? "speaking" : ""}`}>
           <button onClick={readQuestion} aria-label={t("listen")} className="w-10 h-10 rounded-full bg-brand text-brand-ink shrink-0">▶</button>
           <div className="flex-1">
